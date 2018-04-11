@@ -1,0 +1,377 @@
+<main id="main">
+<section class="page-information disease-information">
+<div class="container">
+<h1 class="page-information__name disease-information__name">
+            Другие уточненные болезни аппендикса (K38.8)        </h1>
+<div class="disease-information__alternate-name">
+<label>Также: </label>
+                инвагинация аппендикса            </div>
+<div class="disease-information__version-name">
+<p class="lead text-muted">
+                
+                Версия: Справочник заболеваний MedElement                </p>
+</div>
+<div class="disease-information__categories-mkb">
+<label>Категории МКБ: </label>
+                Другие уточненные болезни аппендикса (K38.8)            </div>
+<div class="disease-information__sections-medicine">
+<label>Разделы медицины: </label>
+                Гастроэнтерология            </div>
+</div>
+</section>
+<section class="page-section" data-index="0">
+<h2 class="page-section__title" id="general_information">
+        Общая информация    </h2>
+<div class="container">
+<div class="page-links-actions">
+<ul>
+<li class="page-links-actions__item page-links-actions__item--print" data-ga-event-action="Клик по ссылке: Версия для печати" data-ga-event-category="Links actions" data-ga-event-label="" data-send-ga-event="">
+<a href="javascript:window.print()">Версия для печати
+                    <svg class="svg-icon svg-icon-printer" height="18" version="1.1" viewbox="0 0 24 24" width="18" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<path d="M18,3H6V7H18M19,12A1,1 0 0,1 18,11A1,1 0 0,1 19,10A1,1 0 0,1 20,11A1,1 0 0,1 19,12M16,19H8V14H16M19,8H5A3,3 0 0,0 2,11V17H6V21H18V17H22V11A3,3 0 0,0 19,8Z"></path>
+</svg>
+</a>
+</li>
+</ul>
+</div>
+<section class="row page-field" data-field-name="SHORTDESCRIPTION">
+<h3 class="page-field__title text-left" id="shortdescription">
+                    Краткое описание                </h3>
+<div class="page-field__data">
+<div style="text-align: justify;">
+<br/>
+	Инвагинация представляет собой впячивание пласта клеток при каком-либо формообразовательном процессе.<br/>
+<br/>
+	Применительно к аппендиксу, как к части кишечника, <strong>инвагинация</strong> - это форма непроходимости кишечника, при которой участок кишки обычно внедряется в нижележащий участок, приводя к закупорке просвета кишки. </div>
+<div style="text-align: justify;">
+	Возможны полная или частичная инвагинация червеобразного отростка в слепую кишку. Также инвагинация аппендикса может быть изолированной либо сочетаться с инвагинацией слепой кишки в восходящую ободочную кишку ("<a href="https://diseases.medelement.com/disease/view/NDcwNw%253D%253D/fDF8Mnw%253D" target="_blank">Инвагинация</a>" - K56.1).<br/>
+	Инвагинация может сочетаться с острым воспалением червеобразного отростка.<br/>
+	В литературе описаны <aterm term="1">казуистические<span class="term-description" style="display: none;"><span>Казуистика - собрание конкретных случаев, выясняющих известную форму болезни</span><br/></span></aterm> случаи инвагинации червеоб­разного отростка в маточную трубу.</div>
+</div>
+</section>
+</div>
+</section>
+<section class="page-section" data-section-name="CLASSIFICATION">
+<h2 class="page-section__title" id="classification">
+        Классификация    </h2>
+<div class="container">
+<div class="row page-section__row">
+<div style="text-align: justify;">
+<br/>
+<strong>Классификация инвагинации</strong> (В. McSwain, 1941):</div>
+<div style="text-align: justify;">
+	 </div>
+<div style="text-align: justify;">
+	1. Верхушка отростка инвагинирует в <aterm term="1">проксимальный<span class="term-description" style="display: none;"><span>Проксимальный (Proximalis) - расположенный ближе к центру или срединной линии тела.</span><br/></span></aterm> отдел.</div>
+<div style="text-align: justify;">
+	 </div>
+<div style="text-align: justify;">
+	2. Основание отростка инвагинирует в слепую кишку.</div>
+<div style="text-align: justify;">
+	 </div>
+<div style="text-align: justify;">
+	3. Проксимальная часть отростка инвагинирует в <aterm term="1">дистальную<span class="term-description" style="display: none;"><span>дистальный - (лат. distalis) - расположенный дальше от центра или срединной линии </span><br/></span></aterm> часть.</div>
+<div style="text-align: justify;">
+	 </div>
+<div style="text-align: justify;">
+	4. Весь отросток инвагинирует в слепую кишку.<br/>
+<img alt="Виды инвагинаций червеобразного отростка" height-fact="768" id="preview_image" src="https://diseases.medelement.com/upload/3e21f2f35646724b5dfdbafcabf030b4.jpg" style="width: 350px; height: 263px; border-width: 0px; border-style: solid; margin-left: 0px; margin-top: 0px; float: none;" title="Виды инвагинаций червеобразного отростка" width-fact="1024"/></div>
+</div>
+</div>
+</section>
+<section class="page-section" data-section-name="ETIOLOGY">
+<h2 class="page-section__title" id="etiology">
+        Этиология и патогенез    </h2>
+<div class="container">
+<div class="row page-section__row">
+<div style="text-align: justify;">
+<br/>
+<strong>К  развитию инвагинации приводят:</strong><br/>
+	- гиперперистальтика кишечника;<br/>
+	- опухоли и кисты червеобразного отростка;<br/>
+	- большой диаметр основания аппендикса.</div>
+<div style="text-align: justify;">
+	 </div>
+<div style="text-align: justify;">
+<strong>Варианты изолированной инвагинации червеобразного отростка:</strong></div>
+<div style="text-align: justify;">
+<br/>
+	1. Головкой инвагината становится верхушка аппендикса:<br/>
+	1.1 Головка инвагината внедряется в просвет аппендикса на разную глубину, не доходя до его основания.</div>
+<div style="text-align: justify;">
+	1.2 Головка инвагината внедряется до полости слепой кишки. В данном случае, как и в предыдущем, верхушка аппендикса находится в инвагинате; размеры видимой части червеобразного отростка уменьшаются.</div>
+<div style="text-align: justify;">
+	1.3 Головка инвагината, продвигаясь, внедряется в полость слепой кишки, а аппендикс при этом выворачивается наподобие пальца перчатки. В инвагинат, как правило, не вовлекается дно слепой кишки. Возможно формирование небольшого воронкообразного втяжения дна слепой кишки в окружности основания отростка.</div>
+<div style="text-align: justify;">
+<br/>
+	2. Головкой инвагината становится проксимальная часть аппендикса:<br/>
+	2.1 Головка инвагината расположена ближе к основанию червеобразного отростка, при этом верхушка аппендикса остается вне инвагината.</div>
+<div style="text-align: justify;">
+	2.2 При глубоком внедрении проксимальной части аппендикса, червеобразный отросток может полностью скрыться в инвагинате.</div>
+<div style="text-align: justify;">
+	2.3 При внедрении червеобразного отростка с основания, головка инвагината сразу же оказывается в полости слепой кишки,  а верхушка отростка может остаться вне инвагината.</div>
+<div style="text-align: justify;">
+	2.4 При дальнейшем продвижении головки инвагината, червеобразный отросток может полностью оказаться в просвете инвагината. При этом дно слепой кишки в окружности основания аппендикса часто оказывается втянутым в полость слепой кишки, образуя воронкообразное втяжение. </div>
+<div style="text-align: justify;">
+	 </div>
+<div style="text-align: justify;">
+	При всех вариантах внедрения червеобразного отростка через свой просвет в полость слепой кишки, он выворачивается слизистой наружу, подобно пальцу перчатки, и располагается в слепой кишке как язык колокола.<br/>
+	При других видах инвагинации (слепоободочная инвагинация и другие -  "Инвагинация" - K56.1) отросток пассивно вовлекается в инвагинат и остается не вывернутым.<br/>
+	 </div>
+<div style="text-align: justify;">
+	 </div>
+</div>
+</div>
+</section>
+<section class="page-section" data-section-name="EPIDEMIOLOGY">
+<h2 class="page-section__title" id="epidemiology">
+        Эпидемиология    </h2>
+<div class="container">
+<div class="row page-section__row">
+<p>Признак распространенности: Редко</p>
+<p>Соотношение полов(м/ж): 4.5</p>
+<br/>
+<div style="text-align: justify;">
+	Инвагинация аппендикса встречается в любом возрасте. Наблюдается в 2-4% случаев всех аппендэктомий. В 4-5 раз чаще отмечается у мужчин. </div>
+</div>
+</div>
+</section>
+<section class="page-section" data-section-name="FACTORSANDRISKGROUPS">
+<h2 class="page-section__title" id="factorsandriskgroups">
+        Факторы и группы риска    </h2>
+<div class="container">
+<div class="row page-section__row">
+<div style="text-align: justify;">
+<br/>
+	-  мужской пол;<br/>
+	-  усиленная перистальтика кишечника;<br/>
+	-  широкое основание аппендикса.</div>
+</div>
+</div>
+</section>
+<section class="page-section" data-index="5">
+<h2 class="page-section__title" id="clinical">
+        Клиническая картина    </h2>
+<div class="container">
+<section class="row page-field" data-field-name="THESIS">
+<h3 class="page-field__title text-left" id="thesis">
+                    Клинические критерии диагностики                </h3>
+<div class="page-field__data">
+                    
+                    боль в животе, боль в правой подвздошной области, задержка газов и стула.                </div>
+</section>
+<section class="row page-field" data-field-name="ANTIPRAXIA">
+<h3 class="page-field__title text-left" id="antipraxia">
+                    Cимптомы, течение                </h3>
+<div class="page-field__data">
+<div align="justify">
+<div>
+<br/>
+<strong>Основные проявления:</strong><br/>
+		- боли в правой подвздошной области;</div>
+<div>
+		- задержка стула и газов;</div>
+<div>
+		- локальное напряжение мышц живота и другие охранительные симптомы выражены слабо;</div>
+<div>
+		- тошнота и рвота не являются постоянными признаками.</div>
+<div>
+		 </div>
+<div>
+		Клиника может варьировать от классического острого аппендицита (в случае развития <aterm term="1">некроза<span class="term-description" style="display: none;"><span>Некроз (омертвение) — это необратимое прекращение жизнедеятельности клеток, тканей или органов в живом организме.</span><br/></span></aterm>) до невыраженных, сомнительных симптомов в первые часы заболевания, сходных с хроническим аппендицитом или новообразованиями червеобразного отростка.</div>
+<div>
+		Диагноз, как правило, ставится интраоперационно во время <aterm term="1">аппендэктомии<span class="term-description" style="display: none;"><span>Аппендэктомия - хирургическая операция удаления червеобразного отростка</span><br/></span></aterm> или диагностической <aterm term="1">лапаротомии<span class="term-description" style="display: none;"><span>Лапаротомия - хирургическая операция: вскрытие брюшинной полости.</span><br/></span></aterm>.</div>
+</div>
+<br/>
+</div>
+</section>
+</div>
+</section>
+<section class="page-section" data-section-name="DIAGNOSTICS">
+<h2 class="page-section__title" id="diagnostics">
+        Диагностика    </h2>
+<div class="container">
+<div class="row page-section__row">
+<div style="text-align: justify;">
+<br/>
+	Инвагинация аппендикса часто является интраоперационной находкой, выявляемой во время аппендэктомии.</div>
+<div style="text-align: justify;">
+<br/>
+	В дооперационный период инвагинация может быть диагностирована с помощью <strong>УЗИ</strong> и, что более вероятно, с помощью <strong>рентгеноконтрастного метода</strong> исследования, когда в слепой кишке по <aterm term="1">медиальному<span class="term-description" style="display: none;"><span>Медиальный (лат. medialis) - расположенный ближе к срединной линии тела.</span><br/></span></aterm> контуру визуализируется дефект наполнения за счет инвагинации червеобразного отростка. В центре дефекта наполнения может отмечаться депо контрастного вещества - предполагаемое устье аппендикса.</div>
+<div style="text-align: justify;">
+<br/>
+	Наибольшую диагностическую ценность представляет<strong> компьютерная томография</strong>.</div>
+</div>
+</div>
+</section>
+<section class="page-section" data-section-name="LABORATORYDIAGNOSTICS">
+<h2 class="page-section__title" id="laboratorydiagnostics">
+        Лабораторная диагностика    </h2>
+<div class="container">
+<div class="row page-section__row">
+<div style="text-align: justify;">
+<br/>
+<aterm term="1">Патогномоничные<span class="term-description" style="display: none;"><span>Патогномоничный - характерный для данной болезни (о признаке).</span><br/></span></aterm> симптомы отсутствуют. При развитии некроза выявляются лейкоцитоз со сдвигом влево, повышение СОЭ.</div>
+</div>
+</div>
+</section>
+<section class="page-section" data-section-name="DIFFERENTIALDIAGNOSIS">
+<h2 class="page-section__title" id="differentialdiagnosis">
+        Дифференциальный диагноз    </h2>
+<div class="container">
+<div class="row page-section__row">
+<br/>
+<br/>
+</div>
+</div>
+</section>
+<section class="page-section" data-section-name="SEQUELAE">
+<h2 class="page-section__title" id="sequelae">
+        Осложнения    </h2>
+<div class="container">
+<div class="row page-section__row">
+<div style="text-align: justify;">
+<br/>
+	Как последствие инвагинации, но совершенно не обязательное, возможно нарушение артериального и венозного кровообращения и лимфооттока, вплоть до развития тяжелых деструктивных изменений с <aterm term="1">перфорацией<span class="term-description" style="display: none;"><span>Перфорация - возникновение сквозного дефекта в стенке полого органа.</span><br/></span></aterm> и <aterm term="1">перитонитом<span class="term-description" style="display: none;"><span>Перитонит - воспаление брюшины.</span><br/></span></aterm>. </div>
+<div style="text-align: justify;">
+	Также встречается развитие непроходимости <aterm term="1">илеоцекальной<span class="term-description" style="display: none;"><span>Илеоцекальный - относящийся к области соединения подвздошной и слепой кишки.</span><br/></span></aterm> области <aterm term="1">обтурационного<span class="term-description" style="display: none;"><span>Обтурация - закрытие просвета полого органа, в том числе кровеносного или лимфатического сосуда, обусловливающее нарушение его проходимости.</span><br/></span></aterm> характера, иногда имеющей рентгенологическую картину опухоли слепой кишки. <br/>
+	 </div>
+</div>
+</div>
+</section>
+<section class="page-section" data-section-name="THERAPY">
+<h2 class="page-section__title" id="therapy">
+        Лечение    </h2>
+<div class="container">
+<div class="row page-section__row">
+<div>
+	 </div><div>
+<div>
+		Показано <strong>хирургическое лечение</strong> - аппендэктомия, возможно с резекцией купола слепой кишки.<br/>
+		В некоторых случаях возможно проведение дезинвагинации без резекции кишечника, поскольку изменения в аппендиксе и соседних участках кишки отсутствуют либо незначительны.<br/>
+		Дезинвагинация самого червеобразного отростка технически затруднена, в связи с чем его удаляют через разрез в слепой кишке или же туго перевязывают через такой разрез кишки у самого основания вывернутого отростка. </div>
+<div>
+		 </div>
+<div>
+		Согласно некоторым исследованиям (Mc. Dermott, Myles) существует возможность самостоятельной дезинвагинации червеобразного отростка. В частности описан случай спонтанной ритмичной инвагинации аппендикса в слепую кишку во время операции у пациента с грыжей, в состав которой входила и слепая кишка. Авторы полагают, что дезинвагинация могла быть вызвана проведением лапаротомии, действием анестезии, а также применением спазмолитических средств, и что в действительности число случаев инвагинации отростка значительно больше. Часть случаев так называемого "хронического рецидивирующего аппендицита", по мнению авторов, относится именно к повторной инвагинации аппендикса.</div>
+</div><br/>
+</div>
+</div>
+</section>
+<section class="page-section" data-section-name="PROGNOSIS">
+<h2 class="page-section__title" id="prognosis">
+        Прогноз    </h2>
+<div class="container">
+<div class="row page-section__row">
+<br/>
+Благоприятный.
+                    </div>
+</div>
+</section>
+<section class="page-section" data-section-name="HOSPITALIZATION">
+<h2 class="page-section__title" id="hospitalization">
+        Госпитализация    </h2>
+<div class="container">
+<div class="row page-section__row">
+<div>
+<br/>
+	В экстренном порядке в отделение хирургии.</div>
+</div>
+</div>
+</section>
+<section class="page-section" data-section-name="PROPHYLAXIS">
+<h2 class="page-section__title" id="prophylaxis">
+        Профилактика    </h2>
+<div class="container">
+<div class="row page-section__row">
+<div style="text-align: justify;">
+<br/>
+	Не разработана.</div>
+</div>
+</div>
+</section>
+<section class="page-section" data-index="14">
+<h2 class="page-section__title" id="information">
+        Информация    </h2>
+<div class="container">
+<section class="row page-field" data-field-name="LISTOFREFERENCES">
+<h3 class="page-field__title text-left" id="listofreferences">
+                    Источники и литература                </h3>
+<div class="page-field__data">
+<ol id="AdditionalListSources" type="I">
+<li level="1">
+<span>Калитеевский П.Ф. Болезни червеобразного отростка, М.: Издательство "Медицина", 1970 </span>
+<ol type="1">
+</ol>
+</li>
+<li level="1">
+<span>"Редкая форма инвагинации аппендикса в слепую кишку в сочетании с илеоцекальной инвагинацией кишечника" Машков А.Е.,
+Наливкин А.Е., Друзюк Е.З., Филюшкин Ю.Н., "Детская хирургия", № 6, 2009
+ </span>
+<ol type="1">
+</ol>
+</li>
+<li level="1">
+<span>"Случай аппендико-цекальной инвагинации", Давидович Т. В., Карпенко Э. Б., Михайлов И. В., Кравцов С. А., Новости лучевой диагностики, № 2, 2000</span>
+<ol type="1">
+</ol>
+</li>
+<li level="1">
+<span>http://hyrurg.com/index.php?option=com_content&amp;view=article&amp;id=838:2011-01-15-06-56-35&amp;catid=2:2010-10-19-16-41-24&amp;Itemid=2</span>
+<ol type="1">
+</ol>
+</li>
+<li level="1">
+<span>http://medicalplanet.su/xirurgia/1002.html</span>
+<ol type="1">
+</ol>
+</li>
+<li level="1">
+<span>http://surgeryzone.net/info/info-hirurgia/invaginaciya-appendiksa.html</span>
+<ol type="1">
+</ol>
+</li>
+</ol> </div>
+</section>
+</div>
+</section>
+<section class="page-section" data-section-name="ATTENTION">
+<h2 class="page-section__title" id="attention">
+        Внимание!    </h2>
+<div class="container">
+<div class="row page-section__row">
+<!--noindex-->
+<label class="attention-self-treatment-list__caption">Если вы не являетесь медицинским специалистом:</label>
+<ul class="attention-self-treatment-list">
+<li>
+        Занимаясь самолечением, вы можете нанести непоправимый вред своему здоровью.
+         
+    </li>
+<li>
+        Информация, размещенная на сайте MedElement, не может и не должна заменять очную консультацию врача.
+        Обязательно
+        обращайтесь в медицинские учреждения при наличии каких-либо заболеваний или беспокоящих вас симптомов.
+         
+    </li>
+<li>
+        Выбор лекарственных средств и их дозировки, должен быть оговорен со специалистом. Только врач может
+        назначить
+        нужное лекарство и его дозировку с учетом заболевания и состояния организма больного.
+         
+    </li>
+<li>
+        Сайт MedElement является исключительно информационно-справочным ресурсом. Информация, размещенная на данном
+        сайте, не должна использоваться для самовольного изменения предписаний врача.
+         
+    </li>
+<li>
+        Редакция MedElement не несет ответственности за какой-либо ущерб здоровью или материальный ущерб, возникший
+        в
+        результате использования данного сайта.
+    </li>
+</ul>
+<!--/noindex-->
+</div>
+</div>
+</section>
+</main>

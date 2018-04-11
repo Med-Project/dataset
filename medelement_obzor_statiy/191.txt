@@ -1,0 +1,315 @@
+<main id="main">
+<section class="page-information disease-information">
+<div class="container">
+<h1 class="page-information__name disease-information__name">
+            Острый бронхит, вызванный риновирусом (J20.6)        </h1>
+<div class="disease-information__version-name">
+<p class="lead text-muted">
+                
+                Версия: Справочник заболеваний MedElement                </p>
+</div>
+<div class="disease-information__categories-mkb">
+<label>Категории МКБ: </label>
+                Острый бронхит, вызванный риновирусом (J20.6)            </div>
+<div class="disease-information__sections-medicine">
+<label>Разделы медицины: </label>
+                Пульмонология            </div>
+</div>
+</section>
+<section class="page-section" data-index="0">
+<h2 class="page-section__title" id="general_information">
+        Общая информация    </h2>
+<div class="container">
+<div class="page-links-actions">
+<ul>
+<li class="page-links-actions__item page-links-actions__item--print" data-ga-event-action="Клик по ссылке: Версия для печати" data-ga-event-category="Links actions" data-ga-event-label="" data-send-ga-event="">
+<a href="javascript:window.print()">Версия для печати
+                    <svg class="svg-icon svg-icon-printer" height="18" version="1.1" viewbox="0 0 24 24" width="18" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<path d="M18,3H6V7H18M19,12A1,1 0 0,1 18,11A1,1 0 0,1 19,10A1,1 0 0,1 20,11A1,1 0 0,1 19,12M16,19H8V14H16M19,8H5A3,3 0 0,0 2,11V17H6V21H18V17H22V11A3,3 0 0,0 19,8Z"></path>
+</svg>
+</a>
+</li>
+</ul>
+</div>
+<section class="row page-field" data-field-name="SHORTDESCRIPTION">
+<h3 class="page-field__title text-left" id="shortdescription">
+                    Краткое описание                </h3>
+<div class="page-field__data">
+<div style="text-align: justify;">
+<br/>
+<strong>Бронхит острый</strong> - диффузное острое воспаление трахеобронхиального дерева (слизистой оболочки бронхов). <br/>
+<br/>
+	Возбудителями <strong>острого бронхита, вызванного риновирусом</strong>, являются РНК-содержащие безоболочечные вирусы, относящиеся к семейству пикорнавирусов. Известно боле 100 серотипов этого вируса. </div>
+<div style="text-align: justify;">
+<br/>
+	Острый бронхит, вызванный риновирусом, встречается, как правило, у маленьких или недоношенных детей, у лиц с врожденными заболеваниями дыхательных путей, у пожилых людей. </div>
+</div>
+</section>
+</div>
+</section>
+<section class="page-section" data-section-name="EPIDEMIOLOGY">
+<h2 class="page-section__title" id="epidemiology">
+        Эпидемиология    </h2>
+<div class="container">
+<div class="row page-section__row">
+<div style="text-align: justify;">
+<br/>
+	Заболевание распространено повсеместно. Путь передачи воздушно-капельный и механический (через загрязненные руки и предметы). Со смывов кожи риновирус культивировали в сроки до 2 часов;  в смывах с различных предметов (находящихся в т.н. "идеальных условиях") - до 4 дней. Риновирус растет эффективно только в ограниченном диапазоне температур (33-35<sup>о</sup>C) и не терпит кислой среды. Он редко встречается за пределами носоглотки, из-за кислой среды желудка и повышенной температуры в  нижних дыхательных путях и желудочно-кишечном тракте.</div>
+<div style="text-align: justify;">
+	Заболеваемость инфекцией наиболее высока у новорожденных и детей младшего возраста, поскольку антитела к различным вирусным серотипам появляются только с течением времени. Маленькие дети чаще имеют близкие, личные контакты, необходимые для передачи риновируса; обычно они передают инфекцию другим членам семьи после приобретения вируса в яслях, детском саду и школе. Дети могут также быть более заразным в силу более высокой концентрации вируса в выделениях и более длительного срока его выделения.<br/>
+	Передача вируса требует длительного контакта с инфицированными лицами. Кратковременные контакты с зараженными в других местах (кинотеатры, торговые центры, больницы) связаны с низким риском передачи. </div>
+</div>
+</div>
+</section>
+<section class="page-section" data-section-name="FACTORSANDRISKGROUPS">
+<h2 class="page-section__title" id="factorsandriskgroups">
+        Факторы и группы риска    </h2>
+<div class="container">
+<div class="row page-section__row">
+<br/>
+1. Курение увеличивает риск респираторных инфекций примерно на 50%.<br/>
+2. Очень молодые или старые люди подвергаются большему риску, возможно, из-за сниженного иммунитета.<br/>
+3. Контакт с зараженными людьми увеличивает риск заражения.<br/>
+4. Прикосновение  к носу  загрязненными пальцами или предметами увеличивает риск заражения.<br/>
+5. Скученность приводит к увеличению риска заражения.<br/>
+6. Мужчины могут иметь несколько более высокий риск заболеваемости, но разница незначительна.<br/>
+7. Грудное вскармливание имеет малое влияние на заболеваемость.<br/>
+8. Хронические заболевания, в том числе анатомические, метаболические, генетические и иммунологические расстройства (например, трахеопищеводный свищ, врожденный порок сердца, кистозный фиброз или иммунодефицит) ведут к увеличению риска и тяжести инфекции.
+                    </div>
+</div>
+</section>
+<section class="page-section" data-index="3">
+<h2 class="page-section__title" id="clinical">
+        Клиническая картина    </h2>
+<div class="container">
+<section class="row page-field" data-field-name="ANTIPRAXIA">
+<h3 class="page-field__title text-left" id="antipraxia">
+                    Cимптомы, течение                </h3>
+<div class="page-field__data">
+<div style="text-align: justify;">
+<br/>
+	Инкубационный период составляет 12-72 часа, в среднем 8-16 часов после <aterm term="1">инокуляции<span class="term-description" style="display: none;"><span>Инокуляция - 1. Введение возбудителей инфекционных болезней или вакцин в ткани человека или животного. 2. В паразитологии - введение насекомыми и клещами возбудителей болезней в кровь человека или животных при кровососании</span><br/></span></aterm> риновируса. Симптомы обычно длятся 7-11 дней, хотя  могут сохраняться до 2 недель примерно у 25% пациентов. Регрессия симптоматики начинается с уменьшения симптомов <aterm term="1">ринита<span class="term-description" style="display: none;"><span>Ринит - воспаление слизистой оболочки полости носа</span><br/></span></aterm>. В редких случаях пациенты жалуются на сохраняющиеся симптомы, которые длятся более 30 дней.<br/>
+<br/>
+<strong>Основные особенности:</strong><br/>
+	- начальным симптомокомплексом является ринит; <br/>
+	- лихорадка обычно присутствует у детей дошкольного возраста, для взрослых нехарактерна;<br/>
+	- интоксикация (головные боли, раздражительность, беспокойство);<br/>
+	- кашель развивается у 30%;<br/>
+	- охриплость голоса развивается у 20%;<br/>
+	- <aterm term="1">синусит<span class="term-description" style="display: none;"><span>Синусит - воспаление слизистой оболочки одной или нескольких околоносовых пазух</span><br/></span></aterm>, <aterm term="1">бронхиолит<span class="term-description" style="display: none;"><span>Бронхиолит - воспаление стенок бронхиол, чаще вирусной или бактериальной этиологии; как самостоятельная болезнь встречается у детей первого года жизни</span><br/><a class="tooltip-term__more" href="https://diseases.medelement.com/index.php/disease/view/NDI2MA%253D%253D/fDB8" target="_blank" title="Подробнее о бронхиолит">Подробно</a></span></aterm> и отит часто сопутствуют бронхиту.<br/>
+	В остальном клиника риновирусного бронхита типична (подробнее см. "Острый бронхит" - J20).<br/>
+<br/>
+	Поражения, вызванные различными серотипами риновируса, практически невозможно различить клинически. </div>
+</div>
+</section>
+</div>
+</section>
+<section class="page-section" data-section-name="DIAGNOSTICS">
+<h2 class="page-section__title" id="diagnostics">
+        Диагностика    </h2>
+<div class="container">
+<div class="row page-section__row">
+<div style="text-align: justify;">
+<br/>
+	1. Диагноз "острый бронхит" выставляется клинически:<br/>
+	- при наличии тщательно собранного анамнеза, в том числе выявления курения, неблагоприятных факторов внешней среды и/или других предрасполагающих факторов;<br/>
+	- при наличии остро возникшего кашля, продолжающегося не более 3 недель, независимо от наличия мокроты;<br/>
+	- при отсутствии признаков пневмонии и хронических заболеваний легких (<aterm term="1">ХОБЛ<span class="term-description" style="display: none;"><span>Хроническая обструктивная болезнь лёгких (ХОБЛ) - самостоятельное заболевание, для которого характерно частично необратимое ограничение воздушного потока в дыхательных путях</span><br/></span></aterm>, бронхиальной астмы), которые также могут быть причиной кашля;<br/>
+	- при отсутствии <aterm term="1">рефлюкс-эзофагита<span class="term-description" style="display: none;"><span>Рефлюкс-эзофагит - воспаление слизистой оболочки пищевода, обусловленное гастроэзофагеальным рефлюксом; проявляется загрудинными болями, изжогой.</span><br/></span></aterm>. <br/>
+<br/>
+	2. Проводятся физикальное обследование и аускультация.<br/>
+<br/>
+	3. При рентгенографии органов грудной клетки, как правило, выявляется усиление легочного рисунка и нечеткость корней легких. В случае присоединения бронхоспастического компонента появляются признаки "острого вздутия легких": повышение прозрачности легочных полей, опущение купола диафрагмы. <br/>
+<br/>
+	Рентгенологическое исследование не показано если:<br/>
+	-  острый кашель и выделение мокроты указывают на острый бронхит;<br/>
+	-  <aterm term="1">ЧСС<span class="term-description" style="display: none;"><span>ЧСС - частота сердечных сокращений</span><br/></span></aterm> &lt;100 уд./мин.;<br/>
+	- частота дыхания &lt;24 вдохов/мин.;<br/>
+	- температура (оральная) &lt;38<sup>о</sup> С (100,4 F).<br/>
+<br/>
+	4. <aterm term="1">Спирометрия<span class="term-description" style="display: none;"><span>Спирометрия - измерение жизненной емкости легких и других легочных объемов при помощи спирометра </span><br/></span></aterm> не имеет решающего значения в диагностике острого бронхита, но может помочь в дифференциальной диагностике.</div>
+</div>
+</div>
+</section>
+<section class="page-section" data-section-name="LABORATORYDIAGNOSTICS">
+<h2 class="page-section__title" id="laboratorydiagnostics">
+        Лабораторная диагностика    </h2>
+<div class="container">
+<div class="row page-section__row">
+<div style="text-align: justify;">
+<br/>
+	1. <strong>Общий анализ крови</strong>: специфические признаки риновирусной инфекции отсутствуют. Может наблюдаться умеренный лейкоцитоз в первые два дня.<br/>
+<br/>
+	2. <strong><aterm term="1">ПЦР<span class="term-description" style="display: none;"><span>ПЦР - полимеразная цепная реакция</span><br/></span></aterm></strong> достаточно достоверна и может играть какую-то роль в эпидемиологических очагах, но имеет малое значение (за исключением отказа от антибиотиков) в менеджменте конкретного клинического случая.<br/>
+	С учетом большого количества серотипов риновируса, затраты на серологическую диагностику почти всегда нерентабельны.</div>
+</div>
+</div>
+</section>
+<section class="page-section" data-section-name="DIFFERENTIALDIAGNOSIS">
+<h2 class="page-section__title" id="differentialdiagnosis">
+        Дифференциальный диагноз    </h2>
+<div class="container">
+<div class="row page-section__row">
+<br/>
+- аденовирусная инфекция;<br/>
+- афебрильной пневмонии синдром;<br/>
+- бронхиолит;<br/>
+- Коксаки-вирусная инфекция;<br/>
+- инфекционный мононуклеоз;<br/>
+- грипп;<br/>
+- вирус парагриппа;<br/>
+- коклюш;<br/>
+- пневмония;<br/>
+- респираторно-синцитиальная инфекция;<br/>
+- ринит аллергический;<br/>
+- синусит острый;<br/>
+- стрептококковая инфекция дыхательных путей;<br/>
+- инфекции верхних дыхательных путей.
+                    </div>
+</div>
+</section>
+<section class="page-section" data-section-name="SEQUELAE">
+<h2 class="page-section__title" id="sequelae">
+        Осложнения    </h2>
+<div class="container">
+<div class="row page-section__row">
+<br/>
+- синусит;<br/>
+- отит;<br/>
+- пневмококковая пневмония (суперинфекция).
+                    </div>
+</div>
+</section>
+<section class="page-section" data-section-name="THERAPY">
+<h2 class="page-section__title" id="therapy">
+        Лечение    </h2>
+<div class="container">
+<div class="row page-section__row">
+<div>
+<br/>
+	Лечение детей до 2 лет (по некоторым данным - до 4 лет) не должно включать противокашлевые средства. У детей старше этого возраста терапия бронхита может включать противокашлевые, <aterm term="1">НПВС</aterm>, в отдельных случаях - антигистаминные препараты.<br/>
+	Лечение сопутствующих заболеванию ринита и синусита описано в соответствующих рубриках. <br/>
+	Эффективность кортикостероидов не доказана.<br/>
+	Этиотрпная терапия не разработана.</div>
+</div>
+</div>
+</section>
+<section class="page-section" data-section-name="PROGNOSIS">
+<h2 class="page-section__title" id="prognosis">
+        Прогноз    </h2>
+<div class="container">
+<div class="row page-section__row">
+<br/>
+Как правило, благоприятный.
+                    </div>
+</div>
+</section>
+<section class="page-section" data-section-name="HOSPITALIZATION">
+<h2 class="page-section__title" id="hospitalization">
+        Госпитализация    </h2>
+<div class="container">
+<div class="row page-section__row">
+<br/>
+Как правило, не требуется.
+                    </div>
+</div>
+</section>
+<section class="page-section" data-section-name="PROPHYLAXIS">
+<h2 class="page-section__title" id="prophylaxis">
+        Профилактика    </h2>
+<div class="container">
+<div class="row page-section__row">
+<div>
+<br/>
+	Специфическая профилактика не разработана. Решающее значение имеют соблюдение правил гигиены и санитарии.<br/><br/>
+	Нижеперечисленные препараты (с оговорками) изучаются для профилактики риновирусной инфекции:<br/>
+	1. Альфа-2а  интерферон (назальный спрей) по некоторым данным обладает 80% эффективностью, однако вследствие дороговизны и побочных эффектов выгода его применения сомнительна.<br/>
+	2. Плеконарил эффективен в 92% случаев, выгода применения сомнительна по причине дороговизны.<br/>
+	3. Тремакамра <span>(рекомбинантный растворимый ICAM-1 для интраназального применения) показал умеренную эффективность, выгода применения ограничена дороговизной.<br/>
+	4. Витамин С, витамин В<sub>2</sub>, цинк имеют весьма противоречивые доказательства эффективности в профилактике.<br/>
+	5. Эхинацея пурпурная показала слабую эффективность как в профилактике, так и в лечении; выгода ее применения ограничивается недостатками, присущими всей фитотерапии, как таковой.</span></div>
+</div>
+</div>
+</section>
+<section class="page-section" data-index="12">
+<h2 class="page-section__title" id="information">
+        Информация    </h2>
+<div class="container">
+<section class="row page-field" data-field-name="LISTOFREFERENCES">
+<h3 class="page-field__title text-left" id="listofreferences">
+                    Источники и литература                </h3>
+<div class="page-field__data">
+<ol id="AdditionalListSources" type="I">
+<li level="1">
+<span>"Acute Bronchitis" William J. Hueston, Arch G. Mainous III, American Family Physician journal, 1998 Mar 15; 57(6):1270-1276</span>
+<ol type="1">
+</ol>
+</li>
+<li level="1">
+<span>"Acute bronchitis" Graham Worrall, Canadian Family Physician journal, 2008 February; 54(2): 238–239
+</span>
+<ol type="1">
+</ol>
+</li>
+<li level="1">
+<span>"Противокашлевая терапия: рациональный выбор"Самсыгина Г.А., журнал "В мире лекарств", №2, 1999</span>
+<ol type="1">
+</ol>
+</li>
+<li level="1">
+<span>http://rsmu.ru/8633.html</span>
+<ol type="1">
+<li level="2"> "Бронхиты и бронхиолиты. Острые обструктивные состояния дыхательных путей у детей" Научно-информационный материал, Российский национальный
+исследовательский медицинский университет имени Н. И. Пирогова, 2011 -   </li>
+</ol>
+</li>
+<li level="1">
+<span>http://guideline.gov</span>
+<ol type="1">
+<li level="2">"Management of uncomplicated acute bronchitis in adults", Southfield (MI): Michigan Quality Improvement Consortium, 2010 May -  </li>
+</ol>
+</li>
+</ol> </div>
+</section>
+</div>
+</section>
+<section class="page-section" data-section-name="ATTENTION">
+<h2 class="page-section__title" id="attention">
+        Внимание!    </h2>
+<div class="container">
+<div class="row page-section__row">
+<!--noindex-->
+<label class="attention-self-treatment-list__caption">Если вы не являетесь медицинским специалистом:</label>
+<ul class="attention-self-treatment-list">
+<li>
+        Занимаясь самолечением, вы можете нанести непоправимый вред своему здоровью.
+         
+    </li>
+<li>
+        Информация, размещенная на сайте MedElement, не может и не должна заменять очную консультацию врача.
+        Обязательно
+        обращайтесь в медицинские учреждения при наличии каких-либо заболеваний или беспокоящих вас симптомов.
+         
+    </li>
+<li>
+        Выбор лекарственных средств и их дозировки, должен быть оговорен со специалистом. Только врач может
+        назначить
+        нужное лекарство и его дозировку с учетом заболевания и состояния организма больного.
+         
+    </li>
+<li>
+        Сайт MedElement является исключительно информационно-справочным ресурсом. Информация, размещенная на данном
+        сайте, не должна использоваться для самовольного изменения предписаний врача.
+         
+    </li>
+<li>
+        Редакция MedElement не несет ответственности за какой-либо ущерб здоровью или материальный ущерб, возникший
+        в
+        результате использования данного сайта.
+    </li>
+</ul>
+<!--/noindex-->
+</div>
+</div>
+</section>
+</main>

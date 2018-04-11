@@ -1,0 +1,311 @@
+<main id="main">
+<section class="page-information disease-information">
+<div class="container">
+<h1 class="page-information__name disease-information__name">
+            Непроходимость пищевода (K22.2)        </h1>
+<div class="disease-information__version-name">
+<p class="lead text-muted">
+                
+                Версия: Справочник заболеваний MedElement                </p>
+</div>
+<div class="disease-information__categories-mkb">
+<label>Категории МКБ: </label>
+                Непроходимость пищевода (K22.2)            </div>
+<div class="disease-information__sections-medicine">
+<label>Разделы медицины: </label>
+                Гастроэнтерология            </div>
+</div>
+</section>
+<section class="page-section" data-index="0">
+<h2 class="page-section__title" id="general_information">
+        Общая информация    </h2>
+<div class="container">
+<div class="page-links-actions">
+<ul>
+<li class="page-links-actions__item page-links-actions__item--print" data-ga-event-action="Клик по ссылке: Версия для печати" data-ga-event-category="Links actions" data-ga-event-label="" data-send-ga-event="">
+<a href="javascript:window.print()">Версия для печати
+                    <svg class="svg-icon svg-icon-printer" height="18" version="1.1" viewbox="0 0 24 24" width="18" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<path d="M18,3H6V7H18M19,12A1,1 0 0,1 18,11A1,1 0 0,1 19,10A1,1 0 0,1 20,11A1,1 0 0,1 19,12M16,19H8V14H16M19,8H5A3,3 0 0,0 2,11V17H6V21H18V17H22V11A3,3 0 0,0 19,8Z"></path>
+</svg>
+</a>
+</li>
+</ul>
+</div>
+<section class="row page-field" data-field-name="SHORTDESCRIPTION">
+<h3 class="page-field__title text-left" id="shortdescription">
+                    Краткое описание                </h3>
+<div class="page-field__data">
+<br/>
+<strong>Нарушение проходимости пищевода</strong> - это симптом, возникающий при различных приобретенных заболеваниях пищевода.<br/>
+<br/>
+Из данной подрубрики исключены:<br/>
+- Q39.0 Атрезия пищевода без свища;<br/>
+- Q39.1 Атрезия пищевода с трахеально-пищеводным свищем;<br/>
+- Q39.3 Врожденные стеноз и стриктура пищевода;<br/>
+- Q39.4 Пищеводная перепонка;<br/>
+- Q39.9 Врожденная аномалия пищевода неуточненная.                </div>
+</section>
+</div>
+</section>
+<section class="page-section" data-section-name="CLASSIFICATION">
+<h2 class="page-section__title" id="classification">
+        Классификация    </h2>
+<div class="container">
+<div class="row page-section__row">
+<br/>
+<span style="color: rgb(0, 0, 0); font-family: Arial, Helvetica, sans-serif; line-height: 18px; text-align: justify; ">Как разновидности непроходимости пищевода, различают <strong>доброкачественные</strong> и <strong>злокачественные</strong> стенозы.</span>
+</div>
+</div>
+</section>
+<section class="page-section" data-section-name="ETIOLOGY">
+<h2 class="page-section__title" id="etiology">
+        Этиология и патогенез    </h2>
+<div class="container">
+<div class="row page-section__row">
+<div style="text-align: justify; ">
+<br/>
+	Непроходимость пищевода развивается при сужении (стенозе) его просвета.<br/>
+<br/>
+	1. <strong>Доброкачественные стенозы </strong>пищевода могут возникать вследствие перенесенных химических ожогов,  появившихся в результате случайного или специального (с целью самоубийства) приема прижигающих жидкостей, а также вследствие длительно существующих язв пищевода или его воспаления.<br/>
+<div>
+<br/>
+		Воздействие веществ, вызывающих ожоги:<br/>
+		- кислоты вызывают коагуляционный некроз тканей с формированием плотного струпа, препятствующего проникновению вещества вглубь и уменьшающего  его попадание в кровь;</div>
+<div>
+		- щелочи вызывают <aterm term="1">колликвационный некроз<span class="term-description" style="display: none;"><span>Колликвационный (влажный) некроз - некроз, сопровождающийся размягчением (лизисом) пораженных тканей; наблюдается в тканях, богатых жидкостью.</span><br/></span></aterm>, способствующий переносу и распространению щелочи на здоровые участки; при ожогах щелочами наблюдается более глубокое и распространенное поражение стенки пищевода;</div>
+<div>
+		- вещество, принятое внутрь, оказывает как местное, так и общетоксическое действие с развитием полиорганной недостаточности (прежде всего печеночно-почечной).</div>
+<br/>
+	2. <strong>Злокачественные стенозы - </strong>развиваются вследствие рака пищевода.<br/>
+<br/>
+<br/>
+	3. <strong>Кольца пищевода</strong>*<strong> </strong>-  концентрические, гладкие, тонкие (3-5 мм) расширения нормальной ткани пищевода, состоящие из 3 анатомических слоев: слизистой оболочки, подслизистой и мышечной массы. Кольцо пищевода может быть найдено в любом месте пищевода, но обычно локализуется в дистальной части пищевода. Существуют три типа колец пищевода, которые классифицируются в алфавитном порядке А, В и С в зависимости от локализации, строения и формы, выявляемой при контрастировании. Чаще всего специально выделяют кольца Шацки (кольца типа В).<br/>
+	Этиология и патогенез колец пищевода точно неизвестны. Гипотезы по этому поводу значительно разнятся.<br/>
+<br/>
+	* До выяснения этиопатогенеза кольца пищевода могут кодироваться как в данной подрубрике "Непроходимость пищевода" - K22.2, так и в подрубрике Q39.3 (для  детей, имеющих соответствующие изменения с рождения).<br/>
+<br/>
+	4. В редких случаях нарушение проходимости пищевода может быть вызвано <aterm term="1">дивертикулами пищевода<span class="term-description" style="display: none;"><span>Дивертикул пищевода - выпячивание стенки пищевода, сообщающееся с его просветом.</span><br/><a class="tooltip-term__more" href="https://diseases.medelement.com/disease/view/NDU5NA%3D%3D/fDB8" target="_blank" title="Подробнее о дивертикулами пищевода">Подробно</a></span></aterm>, инородными телами, туберкулёзом (K23.0* Туберкулезный эзофагит (A18.8+), сифилисом, поражением пищевода при склеродермии и других заболеваниях (K23.8* Поражения пищевода при других болезнях, классифицированных в других рубриках).</div>
+<br/>
+</div>
+</div>
+</section>
+<section class="page-section" data-section-name="FACTORSANDRISKGROUPS">
+<h2 class="page-section__title" id="factorsandriskgroups">
+        Факторы и группы риска    </h2>
+<div class="container">
+<div class="row page-section__row">
+<br/>
+Заболевания пищевода различной этиологии.
+                    </div>
+</div>
+</section>
+<section class="page-section" data-index="4">
+<h2 class="page-section__title" id="clinical">
+        Клиническая картина    </h2>
+<div class="container">
+<section class="row page-field" data-field-name="THESIS">
+<h3 class="page-field__title text-left" id="thesis">
+                    Клинические критерии диагностики                </h3>
+<div class="page-field__data">
+                    
+                    дисфагия, саливация, изжога, отрыжка, боли за грудиной, снижение массы тела                </div>
+</section>
+<section class="row page-field" data-field-name="ANTIPRAXIA">
+<h3 class="page-field__title text-left" id="antipraxia">
+                    Cимптомы, течение                </h3>
+<div class="page-field__data">
+<div style="text-align: justify;">
+<br/>
+<strong>Дисфагия </strong>(расстройство глотания) является основным признаком непроходимости пищевода. В зависимости от степени сужения просвета пищевода она может быть выражена в различной степени: от неопределенных неприятных ощущений за грудиной при глотании, до полной невозможности принимать пищу и воду. Обычно проходимость для воды и полужидкой пищи сохраняется в течение более длительного времени; сухая и плохо пережеванная пища проходит туго, часто задерживается в пищеводе, вызывая загрудинные боли и рвоту.</div>
+<div style="text-align: justify;">
+	Дисфагия в большинстве случаев развивается незаметно и сначала бывает эпизодической или не резко выраженной. При значительном сужении пищевода больные обычно вынуждены принимать только жидкую и полужидкую пищу.<br/>
+<br/>
+	Среди других признаков непроходимости пищевода часто наблюдаются отрыжка, боли за грудиной при проглатывании, слюнотечение, изжога.</div>
+<div style="text-align: justify;">
+	В результате нарушения питания уменьшается масса тела больного.<br/>
+<br/>
+<strong>Для колец пищевода</strong> клиническими признаками являются:<br/>
+	- эпизоды дисфагии со значительными перерывами (месяцы, недели, годы); ежедневные эпизоды дисфагии говорят не в пользу наличия колец;<br/>
+	- дисфагия при приеме только твердой пищи;<br/>
+	- дисфагия провоцируется быстрой едой без достаточного пережевывания и приема необходимого количества жидкости;<br/>
+	- эпизод дисфагии недлительный;<br/>
+	- прием жидкости или регургитация (рвота) ликвидируют дисфагию и позволяют далее продолжить прием пищи без затруднений;<br/>
+	- вероятно сочетание с так называемым "обмороком при глотании".<br/>
+	Прием в пищу свежеиспеченного хлеба и прожаренного мяса особенно часто сочетается с дисфагией такого типа, поэтому многие специалисты называют это состояние "стейк-синдром".<br/>
+<br/>
+	При появлении первых признаков нарушения проходимости пищевода следует обратиться к врачу.</div>
+</div>
+</section>
+</div>
+</section>
+<section class="page-section" data-section-name="DIAGNOSTICS">
+<h2 class="page-section__title" id="diagnostics">
+        Диагностика    </h2>
+<div class="container">
+<div class="row page-section__row">
+<div style="text-align: justify; ">
+<br/>
+	Диагноз "непроходимость пищевода" устанавливается на основании осмотра больного.<br/>
+	Для выяснения причины непроходимости проводятся <strong>рентгенологическое исследование</strong> или <strong>эндоскопический</strong> <strong>осмотр</strong> пищевода с помощью волоконной оптики. Если непроходимость пищевода, связана с <aterm term="1">рефлюксами<span class="term-description" style="display: none;"><span>Рефлюкс -  пассивное перемещение (затекание) содержимого из одного полого органа в другой в направлении, противоположном нормальному.</span><br/></span></aterm>, выявляются так называемые "кольца Шацкого"  ("Schatzki ring") или кольца типа В. Их следует отличать от пищеводных колец типов А и С, которые обычно бессимптомны и патологией не считаются.<br/>
+	Дальнейшая вероятная диагностика включает в себя использование рентгенографии и КТ с контрастированием.<br/>
+	Возможно проведение биопсии и эндоскопического УЗИ (как, правило для диагностики опухолей). При выявлении признаков подозрительных на опухоль или специфический процесс обследование проводится в соответствии с предполагаемым диагнозом.</div>
+</div>
+</div>
+</section>
+<section class="page-section" data-section-name="LABORATORYDIAGNOSTICS">
+<h2 class="page-section__title" id="laboratorydiagnostics">
+        Лабораторная диагностика    </h2>
+<div class="container">
+<div class="row page-section__row">
+<br/>
+Изменения неспецифичны.<br/>
+<div style="text-align: justify;">
+<br/>
+<strong>Общий анализ крови. </strong>Изменения неспецифичны. Может наблюдаться анемия, в некоторых случаях - лейкопения  (при терминальных стадиях злокачественных опухолей). </div>
+<br/>
+<strong>Биохимия:</strong><br/>
+- гипопротеинемия;<br/>
+- диспротеинемия;<br/>
+- гипогликемия (редко);<br/>
+- признаки повышенного катаболизма;<br/>
+- гиповитаминоз;<br/>
+- гипокалиемия (редко - у детей). <br/>
+<br/>
+<strong><aterm term="1">КЩС<span class="term-description" style="display: none;"><span>КЩС - кислотно-щелочное состояние - баланс кислот и оснований, т. е. соотношение водородных и гидроксильных ионов в биологических средах организма (крови, межклеточной и спинномозговой жидкостях и др.)</span><br/></span></aterm></strong>: компенсированный метаболический ацидоз.<br/>
+<br/>
+</div>
+</div>
+</section>
+<section class="page-section" data-section-name="DIFFERENTIALDIAGNOSIS">
+<h2 class="page-section__title" id="differentialdiagnosis">
+        Дифференциальный диагноз    </h2>
+<div class="container">
+<div class="row page-section__row">
+<div>
+<br/>
+	Истинную (механическую) непроходимость пищевода нужно дифференцировать от нейрогенной дисфункции (т.н. тоническая ахалазия - диффузный спазм пищевода), психических заболеваний, панических атак, истерии. </div><br/>
+</div>
+</div>
+</section>
+<section class="page-section" data-section-name="SEQUELAE">
+<h2 class="page-section__title" id="sequelae">
+        Осложнения    </h2>
+<div class="container">
+<div class="row page-section__row">
+<br/>
+Развитие осложнений связано в основном с нарушением питания и водно-солевого обмена.<br/>
+<br/>
+</div>
+</div>
+</section>
+<section class="page-section" data-section-name="THERAPY">
+<h2 class="page-section__title" id="therapy">
+        Лечение    </h2>
+<div class="container">
+<div class="row page-section__row">
+<div>
+<br/>
+	Лечение непроходимости пищевода зависит от причин его возникновения:<br/>
+	- при доброкачественных стенозах пищевода предпочтение отдается бужированию (расширение просвета пищевода с помощью специальных инструментов) в том числе - так называемой "баллонной дилатации";<br/>
+	- возможен разрез электрокоагуляционной иглой зоны стеноза;<br/>
+	- при раке пищевода производятся лучевая терапия или хирургическое лечение;<br/>
+	- коррегируются возможная сопутствующая анемия и недостаточность питания; </div><div>
+	- кардиоспазм в большинстве случаев лечится без хирургического вмешательства (см. <a href="https://diseases.medelement.com/index.php/disease/view/NDU5Mw%253D%253D/fDB8" target="_blank">Дискинезия пищевода - K22.4</a>).<br/>
+	 </div>
+</div>
+</div>
+</section>
+<section class="page-section" data-section-name="PROGNOSIS">
+<h2 class="page-section__title" id="prognosis">
+        Прогноз    </h2>
+<div class="container">
+<div class="row page-section__row">
+<br/>
+Определяется основным заболеванием и возможностью осуществлять питание альтернативными способами.
+                    </div>
+</div>
+</section>
+<section class="page-section" data-section-name="HOSPITALIZATION">
+<h2 class="page-section__title" id="hospitalization">
+        Госпитализация    </h2>
+<div class="container">
+<div class="row page-section__row">
+<br/>
+Обязательна.
+                    </div>
+</div>
+</section>
+<section class="page-section" data-section-name="PROPHYLAXIS">
+<h2 class="page-section__title" id="prophylaxis">
+        Профилактика    </h2>
+<div class="container">
+<div class="row page-section__row">
+<br/>
+Заключается в профилактике этиологичеких и патогенетических причин возникновения непроходимости. 
+                    </div>
+</div>
+</section>
+<section class="page-section" data-index="13">
+<h2 class="page-section__title" id="information">
+        Информация    </h2>
+<div class="container">
+<section class="row page-field" data-field-name="LISTOFREFERENCES">
+<h3 class="page-field__title text-left" id="listofreferences">
+                    Источники и литература                </h3>
+<div class="page-field__data">
+<ol id="AdditionalListSources" type="I">
+<li level="1">
+<span>МакНелли Питер Р. Секреты гастроэнтерологии/ перевод с англ. под редакцией проф. Апросиной З.Г., Бином, 2005</span>
+<ol type="1">
+</ol>
+</li>
+<li level="1">
+<span>http://www.eurolab.ua</span>
+<ol type="1">
+<li level="2">http://www.eurolab.ua/diseases/852/</li>
+</ol>
+</li>
+</ol> </div>
+</section>
+</div>
+</section>
+<section class="page-section" data-section-name="ATTENTION">
+<h2 class="page-section__title" id="attention">
+        Внимание!    </h2>
+<div class="container">
+<div class="row page-section__row">
+<!--noindex-->
+<label class="attention-self-treatment-list__caption">Если вы не являетесь медицинским специалистом:</label>
+<ul class="attention-self-treatment-list">
+<li>
+        Занимаясь самолечением, вы можете нанести непоправимый вред своему здоровью.
+         
+    </li>
+<li>
+        Информация, размещенная на сайте MedElement, не может и не должна заменять очную консультацию врача.
+        Обязательно
+        обращайтесь в медицинские учреждения при наличии каких-либо заболеваний или беспокоящих вас симптомов.
+         
+    </li>
+<li>
+        Выбор лекарственных средств и их дозировки, должен быть оговорен со специалистом. Только врач может
+        назначить
+        нужное лекарство и его дозировку с учетом заболевания и состояния организма больного.
+         
+    </li>
+<li>
+        Сайт MedElement является исключительно информационно-справочным ресурсом. Информация, размещенная на данном
+        сайте, не должна использоваться для самовольного изменения предписаний врача.
+         
+    </li>
+<li>
+        Редакция MedElement не несет ответственности за какой-либо ущерб здоровью или материальный ущерб, возникший
+        в
+        результате использования данного сайта.
+    </li>
+</ul>
+<!--/noindex-->
+</div>
+</div>
+</section>
+</main>

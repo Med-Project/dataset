@@ -1,0 +1,741 @@
+<main id="main">
+<section class="page-information disease-information">
+<div class="container">
+<h1 class="page-information__name disease-information__name">
+            Язва желудка. Хроническая или неуточненная с кровотечением (K25.4)        </h1>
+<div class="disease-information__version-name">
+<p class="lead text-muted">
+                
+                Версия: Справочник заболеваний MedElement                </p>
+</div>
+<div class="disease-information__categories-mkb">
+<label>Категории МКБ: </label>
+                Хроническая или неуточненная с кровотечением (K25.4)            </div>
+<div class="disease-information__sections-medicine">
+<label>Разделы медицины: </label>
+                Гастроэнтерология            </div>
+<div class="disease__list-major-diseases">
+<label>Основные статьи: </label>
+<a href="/disease/12230"> Язва желудка (K25)</a>
+</div>
+</div>
+</section>
+<section class="page-section" data-index="0">
+<h2 class="page-section__title" id="general_information">
+        Общая информация    </h2>
+<div class="container">
+<div class="page-links-actions">
+<ul>
+<li class="page-links-actions__item page-links-actions__item--print" data-ga-event-action="Клик по ссылке: Версия для печати" data-ga-event-category="Links actions" data-ga-event-label="" data-send-ga-event="">
+<a href="javascript:window.print()">Версия для печати
+                    <svg class="svg-icon svg-icon-printer" height="18" version="1.1" viewbox="0 0 24 24" width="18" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<path d="M18,3H6V7H18M19,12A1,1 0 0,1 18,11A1,1 0 0,1 19,10A1,1 0 0,1 20,11A1,1 0 0,1 19,12M16,19H8V14H16M19,8H5A3,3 0 0,0 2,11V17H6V21H18V17H22V11A3,3 0 0,0 19,8Z"></path>
+</svg>
+</a>
+</li>
+</ul>
+</div>
+<section class="row page-field" data-field-name="SHORTDESCRIPTION">
+<h3 class="page-field__title text-left" id="shortdescription">
+                    Краткое описание                </h3>
+<div class="page-field__data">
+<div style="text-align: justify;">
+<br/>
+<strong>Язвенная болезнь желудка </strong>(ЯБЖ) - это мультифакториальное хроническое заболевание, сопровождающееся образованием <aterm term="1">язв</aterm> в желудке с возможным прогрессированием и развитием осложнений.<br/>
+<br/>
+	Для<strong> хронической язвы</strong> характерно выраженное воспаление и разрастание рубцовой (соединительной) ткани в области дна, стенок и краев язвы. Язва имеет округлую или овальную (реже линейную, щелевидную или неправильную) форму. Ее размер и глубина могут быть различными. Края язвы плотные (каллезная язва), ровные; подрытые в проксимальном ее отделе и пологие в дистальном. <br/>
+<br/>
+<strong>Хроническая язва </strong>является основным морфологическим субстратом язвенной болезни желудка и двенадцатиперстной кишки (ДПК). <br/>
+<br/>
+<strong>Кровотечение </strong>является наиболее часто встречающимся осложнением язвенной болезни желудка и ДПК.</div>
+</div>
+</section>
+</div>
+</section>
+<section class="page-section" data-section-name="CLASSIFICATION">
+<h2 class="page-section__title" id="classification">
+        Классификация    </h2>
+<div class="container">
+<div class="row page-section__row">
+<br/>
+<div>
+	В 1974 г. Forrest и соавторы описали эндоскопические признаки кровотечения из пептической язвы и систематизировали их.<br/>
+	В настоящее время эта классификация получила признание во всем мире. <br/>
+<br/>
+<strong>Классификация Forrest:</strong><br/>
+<br/>
+<strong>Тип F I</strong> – активное кровотечение:<br/>
+<strong>- I a</strong> – пульсирующей струей;<br/>
+<strong>- I b</strong> – потоком.<br/>
+<br/>
+<strong>Тип F II </strong>– признаки недавнего кровотечения:<br/>
+	- <strong>II а</strong> – видимый (некровоточащий) сосуд;<br/>
+	-<strong> II b</strong> – фиксированный тромб-сгусток;<br/>
+<strong>- II с </strong>– плоское черное пятно (черное дно язвы).<br/>
+<br/>
+<strong>Тип F III </strong>– язва с чистым (белым) дном.</div>
+</div>
+</div>
+</section>
+<section class="page-section" data-section-name="ETIOLOGY">
+<h2 class="page-section__title" id="etiology">
+        Этиология и патогенез    </h2>
+<div class="container">
+<div class="row page-section__row">
+<div style="text-align: justify;">
+<br/>
+	В 75% случаев доказанной причиной возникновения пептических язв желудка считается хеликобактерная инфекция. <br/>
+	Предполагается, что при язвенной болезни дно язвы достигает стенки кровеносного сосуда, наступает истончение и некроз сосудистой стенки, и в результате возникает кровотечение.<br/>
+	 </div>
+</div>
+</div>
+</section>
+<section class="page-section" data-section-name="EPIDEMIOLOGY">
+<h2 class="page-section__title" id="epidemiology">
+        Эпидемиология    </h2>
+<div class="container">
+<div class="row page-section__row">
+<p>Пол: Все</p>
+<p>
+        Возраст: преимущественно зрелый и пожилой</p>
+<p>Признак распространенности: Редко</p>
+<p>Соотношение полов(м/ж): 3</p>
+<br/>
+            
+            
+            
+            15-20% пептических язв желудка осложняются кровотечением.
+                    </div>
+</div>
+</section>
+<section class="page-section" data-section-name="FACTORSANDRISKGROUPS">
+<h2 class="page-section__title" id="factorsandriskgroups">
+        Факторы и группы риска    </h2>
+<div class="container">
+<div class="row page-section__row">
+<br/>
+Прием алкоголя, нестероидных противовоспалительных средств, пожилой возраст, труднорубцующиеся язвы.
+                    </div>
+</div>
+</section>
+<section class="page-section" data-index="5">
+<h2 class="page-section__title" id="clinical">
+        Клиническая картина    </h2>
+<div class="container">
+<section class="row page-field" data-field-name="THESIS">
+<h3 class="page-field__title text-left" id="thesis">
+                    Клинические критерии диагностики                </h3>
+<div class="page-field__data">
+                    
+                    гематемезис, мелена, рвота кофейной гущей, тахикардия, головокружение, слабость, диспепсия                </div>
+</section>
+<section class="row page-field" data-field-name="ANTIPRAXIA">
+<h3 class="page-field__title text-left" id="antipraxia">
+                    Cимптомы, течение                </h3>
+<div class="page-field__data">
+<div style="text-align: justify;">
+<br/>
+<strong>Основные клинические признаки </strong>кровотечений (прямые симптомы):<br/>
+	- рвота с кровью (гематемезис);<br/>
+	- черный дегтеобразный стул (мелена).</div>
+<div style="text-align: justify;">
+<br/>
+	Рвота с кровью обычно возникает при значительной по объему кровопотере и, как правило, всегда ассоциируется с меленой. При желудочном кровотечениии в результате взаимодействия гемоглобина с соляной кислотой и образования хлорида гематина рвотные массы имеют вид кофейной гущи. </div>
+<div style="text-align: justify;">
+<br/>
+	Мелена в большинстве случаев проявляется не ранее, чем через 8 часов после начала кровотечения, при кровопотере более 50 мл. При ускоренном (менее 8 часов ) транзите содержимого по кишечнику и кровопотере свыше 100 мл с калом может выделиться алая кровь (гематохезия).</div>
+<div style="text-align: justify;">
+<br/>
+<strong>Общими (непрямыми) симптомами </strong> кровотечений из верхних отделов ЖКТ являются:<br/>
+	- общая слабость;<br/>
+	- головокружение;<br/>
+	- ощущение потемнения в глазах;</div>
+<div style="text-align: justify;">
+	- одышка;<br/>
+	- сердцебиение.<br/>
+<br/>
+	В ряде случаев непрямые симптомы желудочно-кишечных кровотечений могут предшествовать возникновению мелены и рвоты с кровью или выступать на передний план в клинической картине заболевания. О тяжести желудочно-кишечного кровотечения в первые часы его развития судят по изменениям АД, выраженности тахикардии, дефициту объема циркулирующей крови (ОЦК). Необходимо помнить, что снижение содержания гемоглобина, обусловленное <aterm term="1">гемодилюцией<span class="term-description" style="display: none;"><span>Гемодилюция (син. гидремия) - повышенное содержание воды в крови.</span><br/></span></aterm>, можно выявить лишь через несколько часов после начала кровотечения. Для оценки дефицита ОЦК используют расчет шокового индекса (ШИ) по методу Альговера.</div>
+</div>
+</section>
+</div>
+</section>
+<section class="page-section" data-section-name="DIAGNOSTICS">
+<h2 class="page-section__title" id="diagnostics">
+        Диагностика    </h2>
+<div class="container">
+<div class="row page-section__row">
+<div style="text-align: justify;">
+	 </div>
+<div>
+<div style="text-align: justify;">
+<strong>Эндоскопия </strong>является основным методом диагностики. По возможности она должна быть выполнена в самые ранние сроки (в первые сутки с момента поступления). Эндоскопическое исследование выполняется под бензодиазепиновой седатацией, но если пациента рвет большим количеством крови, то возможно применение общей анестезии с эндотрахеальной интубацией трубкой с манжетой. </div>
+<div style="text-align: justify;">
+<br/>
+		Эндоскопическое исследование следует начинать в положении пациента строго на левом боку, так как это обеспечивает скопление крови в области дна желудка, где язвы бывают редко. Если необходимо осмотреть дно желудка, тогда пациента переворачивают на правый бок и поднимают головной конец каталки так, чтобы кровь переместилась в антральную область. После того, как эндоскоп прошел через пищеводно-желудочное соустье, обычно не обнаруживают кажущееся непроходимым скопление крови и сгустков. До тех пор, пока желудок способен растягиваться, умеренное количество крови редко мешает адекватной визуализации источника кровотечения. Скорее всего, будет виден сгусток, прикрывающий язву. Важно попытаться смыть его, чтобы определить насколько плотно он удерживается на своем месте - это влияет на прогноз и лечение, а осторожное отмывание редко ускоряет кровотечение.</div>
+<div style="text-align: justify;">
+<br/>
+		В случае, когда крови в желудке оказывается слишком много для проведения адекватного осмотра, необходим<strong> лаваж</strong>. Лаважная трубка 40 Fr идеально проводится в желудок, где напрямую производится аспирация. Таким образом, обычно убирают достаточное количество крови и сгустков, что позволяет осуществить осмотр. Если это не помогло, то лаваж проводится с введением литра воды через канал. Благодаря этому сгустки будут разбиты и затем их нетрудно удалить через трубку, установленную в соответствующем положении.</div>
+</div>
+</div>
+</div>
+</section>
+<section class="page-section" data-section-name="LABORATORYDIAGNOSTICS">
+<h2 class="page-section__title" id="laboratorydiagnostics">
+        Лабораторная диагностика    </h2>
+<div class="container">
+<div class="row page-section__row">
+<div>
+<br/>
+	При обследовании больных с подозрением на кровотечение осуществляют динамический контроль следующих лабораторных показателей:<br/>
+	- гематокрит;<br/>
+	- содержание гемоглобина, эритроцитов и тромбоцитов;<br/>
+	- концентрация протромбина, фибриноген.<br/>
+<br/>
+	Обязательно определение группы крови и резус-фактора.</div>
+</div>
+</div>
+</section>
+<section class="page-section" data-section-name="DIFFERENTIALDIAGNOSIS">
+<h2 class="page-section__title" id="differentialdiagnosis">
+        Дифференциальный диагноз    </h2>
+<div class="container">
+<div class="row page-section__row">
+<div>
+<br/><span>Дифференциацию проводят:<br/>
+	1.<strong>С кровотечениями из других отделов ЖКТ</strong>: пищевод, двенадцатиперстная кишка, тонкая кишка. </span><br/><span>2.<strong> С желудочными кровотечениями другой этиологии</strong>: о</span>стрые стрессорные язвы желудка, болезнь Дьелафуа, <span>острый эрозивный гастрит, варикозное расширение вен, сосудистая <aterm term="1">мальформация</aterm>, полип, карцинома, лейомиома, лимфома и прочие.</span><br/><br/>
+	Основной и самый ранний клинический симптом  (рвота с кровью) при язве желудка отличается от такового при кровотечениях иной локализации.<br/>
+	Артериальное пищеводное кровотечение характеризуется рвотой с примесью неизмененной крови, кровотечение из варикозно-расширенных вен пищевода нередко бывает <aterm term="1">профузным</aterm> и проявляется рвотой с кровью темно-вишневого цвета. <br/>
+	 </div>
+</div>
+</div>
+</section>
+<section class="page-section" data-section-name="SEQUELAE">
+<h2 class="page-section__title" id="sequelae">
+        Осложнения    </h2>
+<div class="container">
+<div class="row page-section__row">
+<div>
+<br/>
+	Возможные осложнения:<br/>
+	- шок;<br/>
+	- анемия;<br/>
+	- коагулопатия потребления;<br/>
+	- рецидивы кровотечения.<br/><br/>
+	В соответствии с современными представлениями, риск развития рецидива кровотечения и/или летального исхода ассоциирован со следующими эндоскопическими признаками:<br/>
+	- обнаружение на дне язвы обнаженного сосуда (риск 90%);<br/>
+	- обнаженный сосуд на дне язвы без видимого кровотечения (риск 50%);<br/>
+	- большой несформированный "красный" тромб, закрывающий дефект и не смыкающийся при орошении язвы изотоническим раствором натрия хлорида (риск 25%).<br/><br/>
+	Согласно <strong>Международным клиническим рекомендациям по ведению пациентов с неварикозными кровотечениями из верхних отделов желудочно-кишечного тракта </strong>(согласительное совещание было проведено в июне 2002 г. под эгидой Канадской ассоциации гастроэнтерологов), риск рецидива кровотечения можно определить согласно представленной ниже таблице.</div><br/><div>
+<strong>Статистически достоверные предикторы рецидива кровотечения</strong><br/><br/><div class="table-responsive"><table border="1" bordercolor="#000000" cellpadding="4" cellspacing="0" width="100%"><colgroup><col width="176*"></col><col width="80*"></col></colgroup><tbody><tr valign="TOP"><td width="69%">
+<p>
+<span><span><strong>Факторы риска</strong></span></span></p>
+</td>
+<td width="31%">
+<p>
+<span><span><strong>Показатели повышения риска</strong></span></span></p>
+</td>
+</tr><tr><td colspan="2" valign="TOP" width="100%">
+<p align="CENTER">
+<span><span><strong>Клинические факторы</strong></span></span></p>
+</td>
+</tr><tr valign="TOP"><td height="22" width="69%">
+<p>
+<span><span>Возраст &gt; 65 лет</span></span></p>
+</td>
+<td sdnum="1049;" sdval="1,3" width="31%">
+<p>
+<span><span>1,3</span></span></p>
+</td>
+</tr><tr valign="TOP"><td width="69%">
+<p>
+<span><span>Возраст &gt; 70 лет</span></span></p>
+</td>
+<td sdnum="1049;" sdval="2,3" width="31%">
+<p>
+<span><span>2,3</span></span></p>
+</td>
+</tr><tr valign="TOP"><td width="69%">
+<p>
+<span><span>Шок (сист. АД &lt; 100 мм рт.ст.)</span></span></p>
+</td>
+<td width="31%">
+<p>
+<span><span>1,2-3,65</span></span></p>
+</td>
+</tr><tr valign="TOP"><td width="69%">
+<p>
+<span><span>Общий статус <span lang="en-US">(ASA*)</span></span></span></p>
+</td>
+<td width="31%">
+<p>
+<span><span>1,94-7,63</span></span></p>
+</td>
+</tr><tr valign="TOP"><td width="69%">
+<p>
+<span><span>Сопутствующие заболевания</span></span></p>
+</td>
+<td width="31%">
+<p>
+<span><span>1,6-7,63</span></span></p>
+</td>
+</tr><tr valign="TOP"><td width="69%">
+<p>
+<span><span>Нестабильный уровень сознания</span></span></p>
+</td>
+<td width="31%">
+<p>
+<span><span>3,21 (1,53-6,74)</span></span></p>
+</td>
+</tr><tr valign="TOP"><td width="69%">
+<p>
+<span><span>Продолжающееся кровотечение</span></span></p>
+</td>
+<td width="31%">
+<p>
+<span><span>3,14 (2,4-4,12)</span></span></p>
+</td>
+</tr><tr valign="TOP"><td width="69%">
+<p>
+<span><span>Перенесенная гемотрансфузия</span></span></p>
+</td>
+<td width="31%">
+<p>
+<span><span>Не определен</span></span></p>
+</td>
+</tr><tr><td colspan="2" valign="TOP" width="100%">
+<p align="CENTER">
+<span><span><strong>Лабораторные факторы</strong></span></span></p>
+</td>
+</tr><tr valign="TOP"><td width="69%">
+<p>
+<span><span>Гемоглобин &lt; 100 г/л или</span></span></p>
+<p>
+<span><span>гематокрит &lt; 0,3</span></span></p>
+</td>
+<td width="31%">
+<p>
+<span><span>0,8-2,99</span></span></p>
+</td>
+</tr><tr valign="TOP"><td width="69%">
+<p>
+<span><span>Коагулопатия (длительное АЧТВ)</span></span></p>
+</td>
+<td width="31%">
+<p>
+<span><span>1,96 (1,46-2,64)</span></span></p>
+</td>
+</tr><tr><td colspan="2" valign="TOP" width="100%">
+<p>
+<span><span><strong>Признаки кровотечения</strong></span></span></p>
+</td>
+</tr><tr valign="TOP"><td width="69%">
+<p>
+<span><span>Мелена</span></span></p>
+</td>
+<td width="31%">
+<p>
+<span><span>1,6 (1,1-2,4)</span></span></p>
+</td>
+</tr><tr valign="TOP"><td width="69%">
+<p>
+<span><span>Алая кровь при ректальном исследовании</span></span></p>
+</td>
+<td width="31%">
+<p>
+<span><span>3,76 (2,26-6,26)</span></span></p>
+</td>
+</tr><tr valign="TOP"><td width="69%">
+<p>
+<span><span>Кровь в желудке или зонде</span></span></p>
+</td>
+<td width="31%">
+<p>
+<span><span>1,1-11,5</span></span></p>
+</td>
+</tr><tr valign="TOP"><td width="69%">
+<p>
+<span><span>Гематемезис</span></span></p>
+</td>
+<td width="31%">
+<p>
+<span><span>1,2-5,7</span></span></p>
+</td>
+</tr><tr><td colspan="2" valign="TOP" width="100%">
+<p align="CENTER">
+<span><span><strong>Эндоскопические факторы</strong></span></span></p>
+</td>
+</tr><tr valign="TOP"><td width="69%">
+<p>
+<span><span>Активное кровотечение в ходе эндоскопии</span></span></p>
+</td>
+<td width="31%">
+<p>
+<span><span>2,5-6,48</span></span></p>
+</td>
+</tr><tr valign="TOP"><td width="69%">
+<p>
+<span><span>Признаки высокого риска</span></span></p>
+</td>
+<td width="31%">
+<p>
+<span><span>1,91-4,81</span></span></p>
+</td>
+</tr><tr valign="TOP"><td width="69%">
+<p>
+<span><span>Сгусток в дне язвы</span></span></p>
+</td>
+<td width="31%">
+<p>
+<span><span>1,72-1,9</span></span></p>
+</td>
+</tr><tr valign="TOP"><td width="69%">
+<p>
+<span><span>Размер язвы &gt; 2 см</span></span></p>
+</td>
+<td width="31%">
+<p>
+<span><span>2,29-3,54</span></span></p>
+</td>
+</tr><tr valign="TOP"><td width="69%">
+<p>
+<span><span>Наличие язвенной болезни</span></span></p>
+</td>
+<td width="31%">
+<p>
+<span><span>2,7 (1,2-4,9)</span></span></p>
+</td>
+</tr><tr><td colspan="2" valign="TOP" width="100%">
+<p align="CENTER">
+<span><span><strong>Локализация язвы</strong></span></span></p>
+</td>
+</tr><tr valign="TOP"><td width="69%">
+<p>
+<span><span>Малая кривизна желудка</span></span></p>
+</td>
+<td sdnum="1049;" sdval="2,79" width="31%">
+<p>
+<span><span>2,79</span></span></p>
+</td>
+</tr><tr valign="TOP"><td width="69%">
+<p>
+<span><span>Верхняя стенка</span></span></p>
+</td>
+<td sdnum="1049;" sdval="13,9" width="31%">
+<p>
+<span><span>13,9</span></span></p>
+</td>
+</tr><tr valign="TOP"><td width="69%">
+<p>
+<span><span>Задняя стенка</span></span></p>
+</td>
+<td sdnum="1049;" sdval="9,2" width="31%">
+<p>
+<span><span>9,2</span></span></p>
+</td>
+</tr></tbody></table></div></div><p>
+* ASA - Американское общество анестезиологов<br/><br/></p>
+</div>
+</div>
+</section>
+<section class="page-section" data-section-name="THERAPY">
+<h2 class="page-section__title" id="therapy">
+        Лечение    </h2>
+<div class="container">
+<div class="row page-section__row">
+<div>
+<div>
+<br/>
+		Тактика лечения сводится к стабилизации состояния пациента с последующей эндоскопией.  <br/><br/>
+		При остром кровотечении перед любыми вмешательствами и обследованиями необходимо проведение мероприятий по стабилизации артериального давления и восстановлению объема циркулирующей крови.</div>
+<div>
+<br/>
+		Наличие признаков высокого риска (активное кровотечение или кровоточащий сосуд в дне язвы) является показанием к немедленному <strong>эндоскопическому </strong><aterm term="1"><strong>гемостазу</strong></aterm><strong>.</strong><br/>
+		Не является показанием к проведению эндоскопического гемостаза выявление индикаторов низкой степени риска рецидива кровотечения (чистое дно язвы или невыступающий тромбированный сосуд в виде окрашенного пятна на дне язвы).<br/>
+		При наличии тромба в дне язвы нужно попытаться удалить его гемостатическим препаратом при помощи прицельного орошения с соответствующей последующей обработкой повреждения.<br/><br/><strong>Основные эндоскопические методики остановки кровотечения при пептических язвах</strong>, доступные в настоящее время:<br/><br/>
+		1. Лазерная фотокоагуляция (аргоновый плазменный лазер, ниобий-гранатовый лазер).<br/><br/>
+		2. Биполярная диатермия.<br/><br/>
+		3. Тепловой электрод. Ни один из методов термокоагуляции не имеет особых преимуществ перед другими. В случае применения термокоагуляции, целесообразно сочетать ее с<strong><em> </em></strong>инъекционным эндоскопическим гемостазом.  <br/><br/>
+		4. Инъекционная склеротерапия и инъекция эпинефрина. В случае необходимости выполнения инъекций, следует помнить, что ни один из растворов, применяемых для эндоскопической инъекционной терапии, не имеет доказанных преимуществ перед другими, хотя традиционно предпочтение отдается эпинефрину. <br/><br/>
+		5. Клипирование сосудов - является перспективным методом эндоскопической профилактики и гемостаза при высоком риске рецидива кровотечения. <br/>
+		При неудаче эндоскопического гемостаза необходима консультация хирурга для решения вопроса об оперативном вмешательстве. <br/>
+		 </div>
+<div>
+<strong>Медикаментозная терапия</strong><br/><br/><strong>При лечении кровотечений</strong>  показано применение Н2-блокаторов и ИПП, так как они обладают способностью повышать уровень интрагастрального рН. Ранитидин вводят капельно или струйно по 50 мг (фамотидин - по 20 мг) каждые 6-8 ч., омепразол - внутривенно капельно по 40 мг/сутки. <br/>
+		Возможно применение транексамовой кислоты, обладающей антифибринолитической активностью, <aterm term="1">ингибирующей</aterm> связывание плазминогена и активирующей превращение плазмина в фибрин. Транексамовую кислоту назначают внутривенно в дозе 10-15 мг на 1 кг массы тела.</div>
+</div><div>
+<div>
+<br/><strong>В лечении эрозивно-язвенных кровотечений</strong> (типа Forrest Ib) эффективно применение секретина или соматостатина.<br/>
+		Секретин вводят внутривенно капельно в изотоническом растворе натрия хлорида или 5% растворе фруктозы в дозе 800 ЕД (или 12 ЕД на 1 кг массы тела в сутки). Препарат в 80-95% случаев способствует остановке кровотечения.<br/>
+		Соматостатин вводят с помощью непрерывной инфузии в дозе 250мкг/ч.<br/>
+		Продолжительность применения секретина и соматостатина должна составлять не менее 48 часов.<br/><br/>
+		Назначение Н2-блокаторов в ранний период после эндоскопического вмешательства снижает риск возникновения рецидива, оперативного вмешательства и летальности. Соматостатин также уменьшает риск возникновения рецидивов. ИПП возможно назначать для этих же целей как до, так и после эндоскопии.</div>
+<div>
+<br/>
+		Медикаментозную терапию традиционно сочетают с <strong>эндоскопическим методом остановки кровотечений</strong>.</div>
+<div>
+		После эндоскопического гемостаза пациенты с низким риском рецидива кровотечения могут принимать пищу уже в течение первых суток. После стабилизации состояния они могут быть выписаны на амбулаторный этап. </div>
+</div><div>
+<div>
+<br/>
+		К <strong>хирургическому лечению </strong>прибегают в случаях, когда эндоскопические методы остановки язвенного кровотечения неэффективны. <br/><br/>
+		Альтернативой традиционным способам хирургического лечения считают <strong>лапароскопические операции</strong>. При лапараскопических вмешательствах меньше вероятность летального исхода и короче срок восстановительного лечения. <br/><br/>
+		При высоком операционном риске возможно применение ангиографических методов лечения, включающих инфузии вазопрессина и <aterm term="1">эмболизацию</aterm>. Внутриартериальное вливание вазопрессина вызывает <aterm term="1">вазоконстрикцию</aterm> и приводит к остановке кровотечения в 50% случаев. Эмболизирующие материалы (абсорбируемая желатиновая губка) вводят в кровоточащую артерию через катетер.</div>
+</div><br/>
+</div>
+</div>
+</section>
+<section class="page-section" data-section-name="PROGNOSIS">
+<h2 class="page-section__title" id="prognosis">
+        Прогноз    </h2>
+<div class="container">
+<div class="row page-section__row">
+<br/><span>В среднем летальный исход наблюдается в 4,5-6% случаев.<br/>
+В</span><span> группах низкого риска п</span><span>рогноз в основном благоприятный.</span><div>
+<span>В группах пациентов ввысокого риска, где летальность в старческом и пожилом возрасте может достигать значительных цифр,  <aterm term="1">предикторы</aterm> летального исхода представлены в таблице ниже.</span><br/><br/><div>
+<strong>Статистически достоверные предикторы летальности</strong><br/><div class="table-responsive"><table border="1" bordercolor="#000000" cellpadding="4" cellspacing="0" width="100%"><colgroup><col width="176*"></col><col width="80*"></col></colgroup><tbody><tr valign="TOP"><td width="69%">
+<p>
+<span><span><strong>Факторы риска</strong></span></span></p>
+</td>
+<td width="31%">
+<p>
+<span><span><strong>Показатели повышения степени риска</strong></span></span></p>
+</td>
+</tr><tr><td colspan="2" valign="TOP" width="100%">
+<p align="CENTER">
+<span><span><strong>Клинические факторы</strong></span></span></p>
+</td>
+</tr><tr valign="TOP"><td height="22" width="69%">
+<p>
+<span><span>Возраст 60-69 лет</span></span></p>
+</td>
+<td width="31%">
+<p>
+<span><span>3,5 (1,5-4,7)</span></span></p>
+</td>
+</tr><tr valign="TOP"><td width="69%">
+<p>
+<span><span>Возраст &gt; 75 лет</span></span></p>
+</td>
+<td width="31%">
+<p>
+<span><span>4,5-12,7</span></span></p>
+</td>
+</tr><tr valign="TOP"><td width="69%">
+<p>
+<span><span>Возраст &gt; 80 лет</span></span></p>
+</td>
+<td width="31%">
+<p>
+<span><span>5,7 (2,9-10,2)</span></span></p>
+</td>
+</tr><tr valign="TOP"><td width="69%">
+<p>
+<span><span>Шок (сист. АД &lt; 100 мм рт.ст.)</span></span></p>
+</td>
+<td width="31%">
+<p>
+<span><span>1,18-6,4</span></span></p>
+</td>
+</tr><tr valign="TOP"><td width="69%">
+<p>
+<span><span>Общий статус <span lang="en-US">(ASA*)</span></span></span></p>
+</td>
+<td width="31%">
+<p>
+<span><span>2,6-9,52</span></span></p>
+</td>
+</tr><tr valign="TOP"><td width="69%">
+<p>
+<span><span>Сопутствующие заболевания</span></span></p>
+</td>
+<td width="31%">
+<p>
+<span><span>1,19-12,1</span></span></p>
+</td>
+</tr><tr valign="TOP"><td width="69%">
+<p>
+<span><span>Продолжающееся кровотечение или рецидив</span></span></p>
+</td>
+<td width="31%">
+<p>
+<span><span>5,29-76,23</span></span></p>
+</td>
+</tr><tr><td colspan="2" valign="TOP" width="100%">
+<p align="CENTER">
+<span><span><strong>Признаки кровотечения</strong></span></span></p>
+</td>
+</tr><tr valign="TOP"><td width="69%">
+<p>
+<span><span>Кровь в желудке или зонде</span></span></p>
+</td>
+<td width="31%">
+<p>
+<span><span>0,43-18,9</span></span></p>
+</td>
+</tr><tr valign="TOP"><td width="69%">
+<p>
+<span><span>Гематемезис</span></span></p>
+</td>
+<td width="31%">
+<p>
+<span><span>2,0 (1,1-3,5)</span></span></p>
+</td>
+</tr><tr valign="TOP"><td width="69%">
+<p>
+<span><span>Алая кровь при ректальном исследовании</span></span></p>
+</td>
+<td width="31%">
+<p>
+<span><span>2,95 (1,29-6,76)</span></span></p>
+</td>
+</tr><tr valign="TOP"><td width="69%">
+<p>
+<span><span>Эпизод кровотечения в анамнезе</span></span></p>
+</td>
+<td width="31%">
+<p>
+<span><span>2,77 (1,64-4,66)</span></span></p>
+</td>
+</tr><tr><td colspan="2" valign="TOP" width="100%">
+<p align="CENTER">
+<span><span><strong>Лабораторные факторы</strong></span></span></p>
+</td>
+</tr><tr valign="TOP"><td width="69%">
+<p>
+<span><span>Высокий уровень мочевины</span></span></p>
+</td>
+<td sdnum="1049;0;DD.MM.YY" width="31%">
+<p>
+<span><span>5,5-18</span></span></p>
+</td>
+</tr><tr valign="TOP"><td width="69%">
+<p>
+<span><span>Креатинин &gt; 150 ммоль/л</span></span></p>
+</td>
+<td width="31%">
+<p>
+<span><span>14,8 (2,6-83,5)</span></span></p>
+</td>
+</tr><tr valign="TOP"><td width="69%">
+<p>
+<span><span>Подъем уровня трансаминаз</span></span></p>
+</td>
+<td width="31%">
+<p>
+<span><span>4,2-20,2</span></span></p>
+</td>
+</tr><tr valign="TOP"><td width="69%">
+<p>
+<span><span>Сепсис</span></span></p>
+</td>
+<td width="31%">
+<p>
+<span><span>5,4 (1,5-19,6)</span></span></p>
+</td>
+</tr><tr><td colspan="2" valign="TOP" width="100%">
+<p align="CENTER">
+<span><span><strong>Эндоскопические факторы</strong></span></span></p>
+</td>
+</tr><tr valign="TOP"><td width="69%">
+<p>
+<span><span>Явные признаки продолжающегося кровотечения</span></span></p>
+</td>
+<td width="31%">
+<p>
+<span><span>Не определен</span></span></p>
+</td>
+</tr></tbody></table></div></div>
+	*ASA - Американское общество анестезиологов</div>
+</div>
+</div>
+</section>
+<section class="page-section" data-section-name="HOSPITALIZATION">
+<h2 class="page-section__title" id="hospitalization">
+        Госпитализация    </h2>
+<div class="container">
+<div class="row page-section__row">
+<br/>
+Экстренная, в отделение хирургии.
+                    </div>
+</div>
+</section>
+<section class="page-section" data-section-name="PROPHYLAXIS">
+<h2 class="page-section__title" id="prophylaxis">
+        Профилактика    </h2>
+<div class="container">
+<div class="row page-section__row">
+<div>
+<br/>
+	Профилактика кровотечений из верхних отделов ЖКТ включает своевременное выявление и лечение ЯБЖ.<br/>
+	Проведение эрадикационной антихеликобактерной терапии снижает вероятность язвенных кровотечений (в том числе и ранних рецидивов).</div>
+</div>
+</div>
+</section>
+<section class="page-section" data-index="14">
+<h2 class="page-section__title" id="information">
+        Информация    </h2>
+<div class="container">
+<section class="row page-field" data-field-name="LISTOFREFERENCES">
+<h3 class="page-field__title text-left" id="listofreferences">
+                    Источники и литература                </h3>
+<div class="page-field__data">
+<ol id="AdditionalListSources" type="I">
+<li level="1">
+<span>Ивашкин В.Т., Лапина Т.Л. Гастроэнтерология. Национальное руководство. Научно-практическое издание, 2008   </span>
+<ol type="1">
+</ol>
+</li>
+<li level="1">
+<span>МакНелли Питер Р. Секреты гастроэнтерологии/ перевод с англ. под редакцией проф. Апросиной З.Г., Бином, 2005</span>
+<ol type="1">
+</ol>
+</li>
+<li level="1">
+<span>"Международные клинические рекомендации по ведению пациентов с неварикозными кровотечениями из верхних отделов желудочно-кишечного тракта", журнал «Медицина неотложных состояний», №5(18), 2008 </span>
+<ol type="1">
+</ol>
+</li>
+</ol> </div>
+</section>
+</div>
+</section>
+<section class="page-section" data-section-name="ATTENTION">
+<h2 class="page-section__title" id="attention">
+        Внимание!    </h2>
+<div class="container">
+<div class="row page-section__row">
+<!--noindex-->
+<label class="attention-self-treatment-list__caption">Если вы не являетесь медицинским специалистом:</label>
+<ul class="attention-self-treatment-list">
+<li>
+        Занимаясь самолечением, вы можете нанести непоправимый вред своему здоровью.
+         
+    </li>
+<li>
+        Информация, размещенная на сайте MedElement, не может и не должна заменять очную консультацию врача.
+        Обязательно
+        обращайтесь в медицинские учреждения при наличии каких-либо заболеваний или беспокоящих вас симптомов.
+         
+    </li>
+<li>
+        Выбор лекарственных средств и их дозировки, должен быть оговорен со специалистом. Только врач может
+        назначить
+        нужное лекарство и его дозировку с учетом заболевания и состояния организма больного.
+         
+    </li>
+<li>
+        Сайт MedElement является исключительно информационно-справочным ресурсом. Информация, размещенная на данном
+        сайте, не должна использоваться для самовольного изменения предписаний врача.
+         
+    </li>
+<li>
+        Редакция MedElement не несет ответственности за какой-либо ущерб здоровью или материальный ущерб, возникший
+        в
+        результате использования данного сайта.
+    </li>
+</ul>
+<!--/noindex-->
+</div>
+</div>
+</section>
+</main>

@@ -1,0 +1,352 @@
+<main id="main">
+<section class="page-information disease-information">
+<div class="container">
+<h1 class="page-information__name disease-information__name">
+            Остаточные геморроидальные кожные метки (K64.4)        </h1>
+<div class="disease-information__alternate-name">
+<label>Также: </label>
+                residual hemorrhoidal skin tags; external hemorrhoids, NOS; skin tags of anus; наружный геморрой            </div>
+<div class="disease-information__version-name">
+<p class="lead text-muted">
+                
+                Версия: Справочник заболеваний MedElement                </p>
+</div>
+<div class="disease-information__categories-mkb">
+<label>Категории МКБ: </label>
+                Остаточные геморроидальные кожные метки (K64.4)            </div>
+<div class="disease-information__sections-medicine">
+<label>Разделы медицины: </label>
+                Гастроэнтерология            </div>
+</div>
+</section>
+<section class="page-section" data-index="0">
+<h2 class="page-section__title" id="general_information">
+        Общая информация    </h2>
+<div class="container">
+<div class="page-links-actions">
+<ul>
+<li class="page-links-actions__item page-links-actions__item--print" data-ga-event-action="Клик по ссылке: Версия для печати" data-ga-event-category="Links actions" data-ga-event-label="" data-send-ga-event="">
+<a href="javascript:window.print()">Версия для печати
+                    <svg class="svg-icon svg-icon-printer" height="18" version="1.1" viewbox="0 0 24 24" width="18" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<path d="M18,3H6V7H18M19,12A1,1 0 0,1 18,11A1,1 0 0,1 19,10A1,1 0 0,1 20,11A1,1 0 0,1 19,12M16,19H8V14H16M19,8H5A3,3 0 0,0 2,11V17H6V21H18V17H22V11A3,3 0 0,0 19,8Z"></path>
+</svg>
+</a>
+</li>
+</ul>
+</div>
+<section class="row page-field" data-field-name="SHORTDESCRIPTION">
+<h3 class="page-field__title text-left" id="shortdescription">
+                    Краткое описание                </h3>
+<div class="page-field__data">
+<div style="text-align: justify;">
+<br/>
+<strong style="text-align: justify;">Геморрой</strong><span style="text-align: justify;"> - заболевание, связанное с </span><aterm term="1">тромбозом<span class="term-description" style="display: none;"><span>Тромбоз - процесс образования тромба (плотный сверток крови в просвете кровеносного сосуда или полости сердца, образовавшийся прижизненно)</span><br/></span></aterm><span style="text-align: justify;">, воспалением, патологическим расширением и извитостью геморроидальных вен, образующих узлы вокруг прямой кишки.</span></div>
+<p style="text-align: justify;">
+<br/>
+	Наружные геморроидальные узлы располагаются под кожей промежности, в непосредственной близости от подкожной порции наружного сфинктера. Они состоят из мелких подкожных вен, обеспечивающих отток крови из этой части заднего прохода. Как правило, их расположение соответствует внутренним геморроидальным узлам.</p>
+<div style="text-align: justify;">
+<br/>
+<strong style="text-align: justify;">Примечания</strong><br style="text-align: justify;"/>
+<span style="text-align: justify;">1. До редакции МКБ-10 2014 г. данное заболевание кодировалось в  рубрике I84.- "Геморрой".</span><br style="text-align: justify;"/>
+<span style="text-align: justify;">2. Из всей рубрики К64 и ее подрубрик исключены подрубрики O87.2 "Геморрой в послеродовом периоде", O22.4 "Геморрой во время беременности".</span></div>
+</div>
+</section>
+<section class="row page-field" data-field-name="NUMBERDAYSFLOW">
+<h3 class="page-field__title text-left" id="numberdaysflow">
+                    Период протекания                </h3>
+<div class="page-field__data">
+<br/>
+<label>Описание:</label>
+<p>Хроническое течение.</p>
+</div>
+</section>
+</div>
+</section>
+<section class="page-section" data-section-name="ETIOLOGY">
+<h2 class="page-section__title" id="etiology">
+        Этиология и патогенез    </h2>
+<div class="container">
+<div class="row page-section__row">
+<div style="text-align: justify;">
+<br/>
+	Этиология и патогенез геморроя - см. подрубрику <a href="https://diseases.medelement.com/disease/view/MTM4MDI%253D/fDR8">"Другой геморрой" (K64.8)</a>.<br/>
+<br/>
+	Наружные геморроидальные узлы располагаются под кожей промежности, в непосредственной близости от подкожной порции наружного сфинктера. Они состоят из мелких подкожных вен, обеспечивающих отток крови из этой части заднего прохода. Как правило, их расположение соответствует внутренним геморроидальным узлам.<br/>
+	Покрыты наружные узлы многослойным плоским эпителием (кожей). Кровоснабжаются они из нижней геморроидальной артерии, отходящей от внутренней срамной артерии. Слабая подслизистая сосудистая система связывает внутреннее и наружное геморроидальные сплетения. Венозный отток из наружного венозного сплетения происходит по мелким венам, которые впадают в нижнюю геморроидальную вену.</div>
+</div>
+</div>
+</section>
+<section class="page-section" data-section-name="EPIDEMIOLOGY">
+<h2 class="page-section__title" id="epidemiology">
+        Эпидемиология    </h2>
+<div class="container">
+<div class="row page-section__row">
+<p>Признак распространенности: Очень распространено</p>
+<br/>
+<div style="text-align: justify;">
+	Эпидемиология именно наружного неуточненного геморроя без тромбоза наружных узлов не изучена. Ориентировочно распространенность (в том числе - в сочетании с внутренним геморроем) оценивается как присутствующая патология у 50% взрослого населения в отдельных регионах.<br/>
+	Чаще всего пик обращаемости приходится на возраст от 45 до 65 лет.</div>
+<br/>
+</div>
+</div>
+</section>
+<section class="page-section" data-section-name="FACTORSANDRISKGROUPS">
+<h2 class="page-section__title" id="factorsandriskgroups">
+        Факторы и группы риска    </h2>
+<div class="container">
+<div class="row page-section__row">
+<div style="text-align: justify;">
+<br/>
+<strong>Факторы риска:</strong><br/>
+	- напряжение во время дефекации;<br/>
+	- пожилой и зрелый возраст; <br/>
+	- хронический запор;<br/>
+	- хроническая диарея;<br/>
+	- тяжелая атлетика;<br/>
+	- <aterm term="1">асцит<span class="term-description" style="display: none;"><span>Асцит - скопление транссудата в брюшной полости</span><br/></span></aterm> и другие причины повышения внутрибрюшного давления, такие как хронический кашель;<br/>
+	- повышенный приток и нарушение оттока крови в малом тазу (например, вследствие постоянной сидячей работы, <aterm term="1">простатизма<span class="term-description" style="display: none;"><span>Простатизм - синдром нарушения мочеиспускания и расстройств некоторых других функций организма при заболеваниях предстательной железы</span><br/></span></aterm> или избыточного веса);<br/>
+	- анальный секс.<br/>
+<br/>
+	Поскольку имеются венозные коммуникации между внутренними и внешними  геморроидальными сплетениями в области зубчатой ​​линии,  с течением времени хроническая деформация и повышение давления в венах могут привести к развитию комбинированного внутреннего и наружного геморроя. </div>
+</div>
+</div>
+</section>
+<section class="page-section" data-index="4">
+<h2 class="page-section__title" id="clinical">
+        Клиническая картина    </h2>
+<div class="container">
+<section class="row page-field" data-field-name="THESIS">
+<h3 class="page-field__title text-left" id="thesis">
+                    Клинические критерии диагностики                </h3>
+<div class="page-field__data">
+                    
+                    анальный зуд; перианальный дерматит; видимые геморроидальные узлы; увеличение геморроидальных узлов при натуживании; чувство дискомфорта в анальной области; боль в перианальной области                </div>
+</section>
+<section class="row page-field" data-field-name="ANTIPRAXIA">
+<h3 class="page-field__title text-left" id="antipraxia">
+                    Cимптомы, течение                </h3>
+<div class="page-field__data">
+<div style="text-align: justify;">
+<br/>
+	Наружный геморрой без тромбоза не сопровождается значимыми жалобами. Кровотечения редки.<br/>
+	Среди проявлений в основном превалирует анальный зуд, который, как и перианальный дерматит, возникает в основном при больших размерах узлов, когда соблюдение гигиены становится проблематичным. Также зуд и раздражение могут появляться как следствие использования некоторых местных средств для лечения геморроя.<br/>
+	Выраженный болевой синдром свидетельствует о развитии осложнений (инфицирование, <aterm term="1">тромбоз<span class="term-description" style="display: none;"><span>Тромбоз - процесс образования тромба (плотный сверток крови в просвете кровеносного сосуда или полости сердца, образовавшийся прижизненно)</span><br/></span></aterm>) или об очень больших размерах узлов с признаками выраженного растяжения кожи. Вне осложнений болевые ощущения возникают также при дефекации, когда наружные узлы могут выпадать и частично травмироваться каловыми массами. Наличие болевого синдрома отличает внешний геморрой от внутреннего. <br/>
+<br/>
+	Диагноз ставится при внешнем осмотре. Иногда пациента просят натужиться для более четкой визуализации узлов, которые представляют из себя выбухания синеватого, фиолетового или лилового цвета. Возможно развитие комбинированного геморроя, поэтому пальцевое ректальное исследование необходимо.<br/>
+<br/>
+	Часто геморрой сопровождается анальной трещиной, которая видна при раздвижении ягодиц или при исследовании с зеркалами, <aterm term="1">аноскопии<span class="term-description" style="display: none;"><span>Аноскопия — метод инструментального обследования прямой кишки путем осмотра ее внутренней поверхности с помощью специального инструмента - аноскопа, введенного через задний проход</span><br/></span></aterm>.  <br/>
+<br/>
+	Перианальный дерматит проявляется отеком анальной области, сглаженностью перианальной области, <aterm term="1">мацерацией<span class="term-description" style="display: none;"><span>Мацерация - размягчение и разрыхление тканей вследствие длительного воздействия на них жидкости</span><br/></span></aterm>, <aterm term="1">гиперемией<span class="term-description" style="display: none;"><span>Гиперемия - увеличенное кровенаполнение какого-либо участка периферической сосудистой системы.</span><br/></span></aterm>.</div>
+</div>
+</section>
+</div>
+</section>
+<section class="page-section" data-section-name="DIAGNOSTICS">
+<h2 class="page-section__title" id="diagnostics">
+        Диагностика    </h2>
+<div class="container">
+<div class="row page-section__row">
+<div style="text-align: justify;">
+<br/>
+<aterm term="1">Аноскопия<span class="term-description" style="display: none;"><span>Аноскопия — метод инструментального обследования прямой кишки путем осмотра ее внутренней поверхности с помощью специального инструмента - аноскопа, введенного через задний проход</span><br/></span></aterm> и <aterm term="1">колоноскопия<span class="term-description" style="display: none;"><span>Колоноскопия -  метод исследования внутренней поверхности толстой кишки, основанный на ее осмотре с помощью колоноскопа.</span><br/></span></aterm> по показаниям являются диагностическими процедурами, необходимыми для исключения комбинированного геморроя и дифференциальной диагностики.</div>
+</div>
+</div>
+</section>
+<section class="page-section" data-section-name="LABORATORYDIAGNOSTICS">
+<h2 class="page-section__title" id="laboratorydiagnostics">
+        Лабораторная диагностика    </h2>
+<div class="container">
+<div class="row page-section__row">
+<div style="text-align: justify;">
+<br/>
+	Неосложненный наружный геморрой не сопровождается никакими специфическими изменениями в лабораторных показателях. Однако стандартный подход включает в себя:<br/>
+	- исследование картины периферической крови;<br/>
+	- определения маркеров ВИЧ и сывороточных гепатитов;<br/>
+	- исследования на сифилис;<br/>
+	- коагулограмму;<br/>
+	- анализ кала на скрытую кровь.<br/>
+	Расширение лабораторных исследований возможно перед операцией или для дифференциальной диагностики (например, с <aterm term="1">псориазом<span class="term-description" style="display: none;"><span>Псориаз - хроническое неинфекционное заболевание, дерматоз, поражающий в основном кожу. В настоящее время предполагается аутоиммунная природа этого заболевания. Обычно псориаз проявляется образованием красных, чрезмерно сухих, приподнятых над поверхностью кожи пятен (папул), которые сливаются между собой, образуя бляшки</span><br/></span></aterm>, <aterm term="1">болезнью Крона<span class="term-description" style="display: none;"><span>Болезнь Крона -  заболевание, при котором отдельные участки пищеварительного тракта воспаляются, утолщаются и изъязвляются.</span><br/><a class="tooltip-term__more" href="https://diseases.medelement.com/index.php/disease/view/NDY4Mg/0" target="_blank" title="Подробнее о болезнью Крона">Подробно</a></span></aterm>). <br/>
+<br/>
+	Положительный результат исследования кала на скрытую кровь или выявленная анемия не должны связываться с геморроем, пока кишечник не будет надлежащим образом исследован. Это положение особенно важно, если ректальное кровотечение не является типичным для геморроя, если отсутствует внешний источник кровотечения при проведении аноскопии или когда пациент имеет значительные факторы риска развития колоректальной <aterm term="1">неоплазии<span class="term-description" style="display: none;"><span>О́пухоль (син.: новообразование, неоплазия, неоплазма) — патологический процесс, представленный новообразованной тканью, в которой изменения генетического аппарата клеток приводят к нарушению регуляции их роста и дифференцировки.</span><br/></span></aterm>.</div>
+</div>
+</div>
+</section>
+<section class="page-section" data-section-name="DIFFERENTIALDIAGNOSIS">
+<h2 class="page-section__title" id="differentialdiagnosis">
+        Дифференциальный диагноз    </h2>
+<div class="container">
+<div class="row page-section__row">
+<p>
+<br/>
+	Наружный геморрой дифференцируют со следующими заболеваниями:<br/>
+	- анальный рак;<br/>
+	- колоректальный рак; <br/>
+	- воспалительные заболевания кишечника: болезнь Крона, язвенный колит;<br/>
+	- выпадение прямой кишки;<br/>
+	- аденоматозные полипы;<br/>
+	- анальная трещина;<br/>
+	- остроконечные кондиломы (генитальные бородавки);<br/>
+	- аноректальный абсцесс;<br/>
+	- анальный свищ;<br/>
+	- другие причины, связанные с анальным зудом (например, острицы, контактный дерматит).</p><p>
+<br/>
+	Перечень заболеваний более подробно - см. подрубрику <a href="https://diseases.medelement.com/disease/view/MTM4MDI%253D/fDEwfA%253D%253D">"Другой геморрой" (К64.8)</a>. <br/><br/>
+	Наружный геморрой часто сочетается с внутренним и описывается в клинике как комбинированный или смешанный. <br/>
+	 </p>
+</div>
+</div>
+</section>
+<section class="page-section" data-section-name="SEQUELAE">
+<h2 class="page-section__title" id="sequelae">
+        Осложнения    </h2>
+<div class="container">
+<div class="row page-section__row">
+<div style="text-align: justify;">
+<br/>
+	Основным осложнением считается перианальный тромбоз. Иногда возникают анальная трещина и перианальный дерматит.<br/>
+	Выраженные кровотечения при изолированном наружном геморрое возникают реже, чем при внутреннем, но отличаются большим упорством. <br/>
+	 </div>
+</div>
+</div>
+</section>
+<section class="page-section" data-section-name="THERAPY">
+<h2 class="page-section__title" id="therapy">
+        Лечение    </h2>
+<div class="container">
+<div class="row page-section__row">
+<br/>
+Неосложненный наружный геморрой хорошо поддается консервативной терапии.<br/>
+См. также подрубрику  <a href="https://diseases.medelement.com/disease/view/MTM4MDI%253D/fDEyfA%253D%253D">"Другой геморрой" (K64.8)</a>.  
+                            
+
+
+
+
+
+                       </div>
+</div>
+</section>
+<section class="page-section" data-section-name="PROGNOSIS">
+<h2 class="page-section__title" id="prognosis">
+        Прогноз    </h2>
+<div class="container">
+<div class="row page-section__row">
+<br/>
+Благоприятный.
+                    </div>
+</div>
+</section>
+<section class="page-section" data-section-name="HOSPITALIZATION">
+<h2 class="page-section__title" id="hospitalization">
+        Госпитализация    </h2>
+<div class="container">
+<div class="row page-section__row">
+<br/>
+Как правило, не требуется. Даже хирургические вмешательства могут быть выполнены амбулаторно.
+                    </div>
+</div>
+</section>
+<section class="page-section" data-section-name="PROPHYLAXIS">
+<h2 class="page-section__title" id="prophylaxis">
+        Профилактика    </h2>
+<div class="container">
+<div class="row page-section__row">
+<p style="text-align: justify;">
+<br/>
+	Основные профилактические меры по предупреждению геморроя и его обострений:</p>
+<div style="text-align: justify;">
+	- своевременное лечение запоров и диарей (поносов), нормализация деятельности пищеварительного тракта, регулярное и правильное питание (богатое растительной клетчаткой); <br/>
+	- ограничение или отказ от употребления спиртных напитков, сильно острой и соленой пищи;<br/>
+	- привитие с детства гигиенических навыков; тщательный туалет анальной области после каждой дефекации (при необходимости - отказ от использования туалетной бумаги и переход на обмывание прохладной водой с мылом после дефекации);<br/>
+	- лицам с начальными признаками геморроя необходимо заменить тяжелый физический труд на более легкие виды работы;<br/>
+	- лица, ведущие сидячий образ жизни, должны заниматься гимнастикой, плаванием, больше гулять пешком.</div>
+</div>
+</div>
+</section>
+<section class="page-section" data-index="13">
+<h2 class="page-section__title" id="information">
+        Информация    </h2>
+<div class="container">
+<section class="row page-field" data-field-name="LISTOFREFERENCES">
+<h3 class="page-field__title text-left" id="listofreferences">
+                    Источники и литература                </h3>
+<div class="page-field__data">
+<ol id="AdditionalListSources" type="I">
+<li level="1">
+<span>"Hemorrhoids" Peter Cataldo, The American Society of Colon and Rectal Surgeons (ASCRS)</span>
+<ol type="1">
+<li level="2">www.fascrs.org -   </li>
+</ol>
+</li>
+<li level="1">
+<span>"Hemorrhoids: From basic pathophysiology to clinical management" Varut Lohsiriwat, "World Journal of Gastroenterology", №18(17), 2012</span>
+<ol type="1">
+</ol>
+</li>
+<li level="1">
+<span>"Standards Practice Task Force of the American Society of Colon and Rectal Surgeons. Practice parameters for the management of hemorrhoids (revised 2010)" Rivadeneira DE, Steele SR, Ternent C etc, "Diseases of the Colon &amp; Rectum" journal, №54(9), 2011</span>
+<ol type="1">
+</ol>
+</li>
+<li level="1">
+<span>"The Evaluation and Treatment of Hemorrhoids. A Guide for the Gastroenterologist" Robert A. Ganz, "Clinical Gastroenterology and Hepatology" journal, №11(6), 2013</span>
+<ol type="1">
+</ol>
+</li>
+</ol> </div>
+</section>
+<section class="row page-field" data-field-name="LISTOFREFERENCES_INFO">
+<h3 class="page-field__title text-left" id="listofreferences_info">
+                    Информация                </h3>
+<div class="page-field__data">
+<div id="ctl00_ContentPlaceHolder1_dlXML_ctl00_rptField_ctl00_divOuter">
+<div>
+<div>
+			 </div>
+</div>
+</div>
+<br/>
+</div>
+</section>
+</div>
+</section>
+<section class="page-section" data-section-name="ATTENTION">
+<h2 class="page-section__title" id="attention">
+        Внимание!    </h2>
+<div class="container">
+<div class="row page-section__row">
+<!--noindex-->
+<label class="attention-self-treatment-list__caption">Если вы не являетесь медицинским специалистом:</label>
+<ul class="attention-self-treatment-list">
+<li>
+        Занимаясь самолечением, вы можете нанести непоправимый вред своему здоровью.
+         
+    </li>
+<li>
+        Информация, размещенная на сайте MedElement, не может и не должна заменять очную консультацию врача.
+        Обязательно
+        обращайтесь в медицинские учреждения при наличии каких-либо заболеваний или беспокоящих вас симптомов.
+         
+    </li>
+<li>
+        Выбор лекарственных средств и их дозировки, должен быть оговорен со специалистом. Только врач может
+        назначить
+        нужное лекарство и его дозировку с учетом заболевания и состояния организма больного.
+         
+    </li>
+<li>
+        Сайт MedElement является исключительно информационно-справочным ресурсом. Информация, размещенная на данном
+        сайте, не должна использоваться для самовольного изменения предписаний врача.
+         
+    </li>
+<li>
+        Редакция MedElement не несет ответственности за какой-либо ущерб здоровью или материальный ущерб, возникший
+        в
+        результате использования данного сайта.
+    </li>
+</ul>
+<!--/noindex-->
+</div>
+</div>
+</section>
+</main>

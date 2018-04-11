@@ -1,0 +1,368 @@
+<main id="main">
+<section class="page-information disease-information">
+<div class="container">
+<h1 class="page-information__name disease-information__name">
+            Синдром Мак-Леода (J43.0)        </h1>
+<div class="disease-information__alternate-name">
+<label>Также: </label>
+                Синдром Маклеода (Масleod'S Syndrome), Синдром Суайра-Джеймса (Swyer-James Syndrome), SJS, SJMS, односторонняя легочная эмфизема, сверхпрозрачное легкое.            </div>
+<div class="disease-information__version-name">
+<p class="lead text-muted">
+                
+                Версия: Справочник заболеваний MedElement                </p>
+</div>
+<div class="disease-information__categories-mkb">
+<label>Категории МКБ: </label>
+                Синдром мак-леода (J43.0)            </div>
+<div class="disease-information__sections-medicine">
+<label>Разделы медицины: </label>
+                Пульмонология            </div>
+</div>
+</section>
+<section class="page-section" data-index="0">
+<h2 class="page-section__title" id="general_information">
+        Общая информация    </h2>
+<div class="container">
+<div class="page-links-actions">
+<ul>
+<li class="page-links-actions__item page-links-actions__item--print" data-ga-event-action="Клик по ссылке: Версия для печати" data-ga-event-category="Links actions" data-ga-event-label="" data-send-ga-event="">
+<a href="javascript:window.print()">Версия для печати
+                    <svg class="svg-icon svg-icon-printer" height="18" version="1.1" viewbox="0 0 24 24" width="18" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<path d="M18,3H6V7H18M19,12A1,1 0 0,1 18,11A1,1 0 0,1 19,10A1,1 0 0,1 20,11A1,1 0 0,1 19,12M16,19H8V14H16M19,8H5A3,3 0 0,0 2,11V17H6V21H18V17H22V11A3,3 0 0,0 19,8Z"></path>
+</svg>
+</a>
+</li>
+</ul>
+</div>
+<section class="row page-field" data-field-name="SHORTDESCRIPTION">
+<h3 class="page-field__title text-left" id="shortdescription">
+                    Краткое описание                </h3>
+<div class="page-field__data">
+<div style="text-align: justify;">
+<br/>
+<strong>Синдром Мак-Леода </strong>- хроническое заболевание, которое характеризуется односторонней <aterm term="1">эмфиземой<span class="term-description" style="display: none;"><span>Эмфизема - растяжение (вздутие) органа или ткани воздухом, попавшим извне, или газом, образовавшимся в тканях</span><br/></span></aterm> (повышением прозрачности) одного из легких или его доли, <aterm term="1">гипоплазией<span class="term-description" style="display: none;"><span>Гипоплазия -   остановка развития органа, его части или организма в целом в результате прекращения увеличения числа клеток.</span><br/></span></aterm> ветвей легочной артерии и <aterm term="1">обструкцией<span class="term-description" style="display: none;"><span>Обструкция - непроходимость, закупорка </span><br/></span></aterm> мелких бронхов. </div>
+</div>
+</section>
+<section class="row page-field" data-field-name="NUMBERDAYSFLOW">
+<h3 class="page-field__title text-left" id="numberdaysflow">
+                    Период протекания                </h3>
+<div class="page-field__data">
+<br/>
+<label>Описание:</label>
+<p></p><div style="text-align: justify;">
+	Синдром Мак-Леода имеет хроническое течение. Может протекать бессимптомно или симптомы могут быть выражены минимально. Часто синдром обнаруживается в качестве случайной находки при рентгенологическом обследовании (в основном при присоединении респираторной инфекции нижних дыхательных путей). Может манифестировать в любом возрасте. Чаще всего манифестации отмечаются во взрослом или юношеском возрасте. </div>
+</div>
+</section>
+</div>
+</section>
+<section class="page-section" data-section-name="ETIOLOGY">
+<h2 class="page-section__title" id="etiology">
+        Этиология и патогенез    </h2>
+<div class="container">
+<div class="row page-section__row">
+<div style="text-align: justify;">
+<br/>
+	Однозначных данных об этиологии синдрома Мак-Леода нет. В качестве наиболее вероятных причин предполагают перенесенную в раннем  детском возрасте (возможно неоднократно) тяжелую пневмонию, осложнившуюся констриктивным (облитерирующим) альвеолитом, или иные неуточненные респираторные инфекции.<br/>
+	Наиболее часто к формированию синдрома  приводят бронхиолиты, вызванные респираторно-синцитиальным вирусом, вирусом параинфлюэнцы 1, 2, 3 типов, аденовирусом 1, 2, 3, 5, 6, 7, 21 типов и Mycoplasma рneumoniaе. Присоединяющиеся впоследствии вторичные инфекции приводят к развитию <aterm term="1">бронхоэктазов<span class="term-description" style="display: none;"><span>Бронхоэктаз - расширение ограниченных участков бронхов вследствие воспалительно-дистрофических изменений их стенок или аномалий развития бронхиального дерева</span><br/></span></aterm>.</div>
+<div style="text-align: justify;">
+<br/>
+	Патогенез процесса остается неясным.<br/>
+	При гистологическом исследовании обнаруживают бронхиолит, <aterm term="1">некробиоз<span class="term-description" style="display: none;"><span>Некробиоз - более или менее длительный процесс необратимого нарушения жизнедеятельности тканей, предшествующий их гибели (некрозу)</span><br/></span></aterm> эпителия бронхов с явлениями регенерации, выявляют зоны <aterm term="1">ателектазов<span class="term-description" style="display: none;"><span>Ателектаз - состояние легкого или его части, при котором альвеолы не содержат или почти не содержат воздуха и представляются спавшимися.</span><br/></span></aterm> и бронхоэктазы. Наблюдаются разрывы истонченных альвеолярных перегородок, запустевание капиллярной сети и утолщение стенок сегментарных, субсегментарных и более мелких ветвей легочной артерии.</div>
+<div style="text-align: justify;">
+	Рядом авторов патоморфологическая картина описывается как панацинарная эмфизема с отдельными субплеврально расположенными <aterm term="1">буллами<span class="term-description" style="display: none;"><span>Булла - участок раздутой, перерастянутой легочной ткани</span><br/></span></aterm>, редукцией легочных капилляров, расширением мелких бронхов и гипопластическими изменениями в их стенках. Ветви легочной артерии обычно узкие, тогда как бронхиальные артерии могут быть расширенными и извитыми. Патология хрящей бронхов не обнаруживается.</div>
+</div>
+</div>
+</section>
+<section class="page-section" data-section-name="EPIDEMIOLOGY">
+<h2 class="page-section__title" id="epidemiology">
+        Эпидемиология    </h2>
+<div class="container">
+<div class="row page-section__row">
+<div style="text-align: justify;">
+<br/>
+	Количество описанных случаев - несколько сотен. Значимые статистические данные по заболеваемости отсутствуют. По предварительным данным несколько чаще болеют мужчины.</div>
+</div>
+</div>
+</section>
+<section class="page-section" data-section-name="FACTORSANDRISKGROUPS">
+<h2 class="page-section__title" id="factorsandriskgroups">
+        Факторы и группы риска    </h2>
+<div class="container">
+<div class="row page-section__row">
+<br/>
+Предполагается, что фактором риска являются перенесенные в раннем (дошкольном) возрасте пневмонии и констриктивные бронхиолиты. 
+                    </div>
+</div>
+</section>
+<section class="page-section" data-index="4">
+<h2 class="page-section__title" id="clinical">
+        Клиническая картина    </h2>
+<div class="container">
+<section class="row page-field" data-field-name="THESIS">
+<h3 class="page-field__title text-left" id="thesis">
+                    Клинические критерии диагностики                </h3>
+<div class="page-field__data">
+                    
+                    хроническая экспираторная одышка,  ассиметрия грудной клетки                </div>
+</section>
+<section class="row page-field" data-field-name="ANTIPRAXIA">
+<h3 class="page-field__title text-left" id="antipraxia">
+                    Cимптомы, течение                </h3>
+<div class="page-field__data">
+<div style="text-align: justify;">
+<br/>
+	Для синдрома Мак-Леода характерно наличие функциональных нарушений, которые связаны с тем, что практически не функционирующее эмфизематозное легкое с резко сниженными эластическими свойствами обусловливает смещение <aterm term="1">средостения<span class="term-description" style="display: none;"><span>Средостение - часть грудной полости, расположенная между правым и левым плевральными мешками, ограниченная спереди грудиной, сзади грудным отделом позвоночника, снизу диафрагмой, сверху верхней апертурой грудной клетки.</span><br/></span></aterm> в противоположную сторону и занимает большую часть объема грудной полости. Это приводит к выраженным нарушениям вентиляции нормально развитого легкого, обеспечивающего газообмен.</div>
+<div style="text-align: justify;">
+<br/>
+<strong>Клинические проявления</strong><br/>
+<br/>
+<strong>Жалобы</strong>: <br/>
+	- одышка;<br/>
+	- частые респираторные инфекции;<br/>
+	- кашель.<br/>
+	Не характерно постоянное выделение мокроты. Появление мокроты и ее характер свидетельствует об инфекции (вирусы, бактерии, грибковое поражение). Кровохарканье типично для сочетания синдрома с врожденной <aterm term="1">артериовенозной мальформацией<span class="term-description" style="display: none;"><span>Артериовенозная мальформация (АВМ) — патологическая связь между венами и артериями, обычно врожденная. Эта патология широко известна из-за ее возникновения в центральной нервной системе, но она может сформироваться в любом месте организма, например, между легочным стволом и аортой (открытый артериальный проток)</span><br/></span></aterm>, туберкулезом.<br/>
+<br/>
+	Внешний осмотр выявляет деформацию грудной клетки (пораженная сторона уменьшена в объеме).<br/>
+<br/>
+<strong>Перкуссия:</strong><br/>
+	- коробочный звук;<br/>
+	- смещение вниз нижней границы легкого, подвижность ее ограничена;<br/>
+	- средостение смещено в противоположную сторону;<br/>
+	- верхушечный толчок иногда пальпируется в подмышечной области. <br/>
+<br/>
+<strong>Аускультация:</strong><br/>
+	- ассиметрия дыхания с ослаблением дыхания над пораженным легким (чаще поражается левое легкое);<br/>
+	- удлинение выдоха;<br/>
+	- сухие рассеянные хрипы над пораженным легким;<br/>
+	- акцент II тона сердца над легочной артерией. <br/>
+<br/>
+	При синдроме Мак-Леода периодически, часто в связи с ОРВИ, наблюдаются фебрильные эпизоды с нарастанием бронхитических явлений и усилением обструкции, нередко рефрактерной к спазмолитической терапии. У больных, как правило, отмечается постоянный кашель с мокротой, количество которой, в отличие от больных пневмонией, невелико.<br/>
+<br/>
+<strong>Наиболее характерные симптомы синдрома Мак-Леода у детей:</strong><br/>
+	- дыхательная недостаточность (в тяжелых случаях с <aterm term="1">цианозом<span class="term-description" style="display: none;"><span>Цианоз -  синюшный оттенок кожи и слизистых оболочек, обусловленный недостаточным насыщением крови кислородом.</span><br/></span></aterm>);<br/>
+	- более или менее выраженная бронхиальная обструкция (вследствие чего синдром нередко диагностируется как бронхиальная астма) на фоне хронического, преимущественно одностороннего бронхита.</div>
+</div>
+</section>
+</div>
+</section>
+<section class="page-section" data-section-name="DIAGNOSTICS">
+<h2 class="page-section__title" id="diagnostics">
+        Диагностика    </h2>
+<div class="container">
+<div class="row page-section__row">
+<div style="text-align: justify;">
+	 </div>
+<p style="text-align: justify;">
+	1. <strong>Рентгенологическое исследование</strong>: <br/>
+	- резкое повышение прозрачности одного из легких ("сверхпрозрачное легкое");<br/>
+	- ослабление легочного рисунка, иногда на фоне ослабленного рисунка определяются полностью лишенные рисунка зоны - крупные буллы;<br/>
+	- смещение тени средостения в сторону другого легкого при форсированном дыхании.</p>
+<p style="text-align: justify;">
+<br/>
+	2. <strong>Компьютерная томография</strong> - позволяет наиболее точно идентифицировать буллезные образования.</p>
+<p style="text-align: justify;">
+<br/>
+	3. <strong>Бронхография</strong>: признаки сужения бронхов эмфизематозного легкого, а также деформирующего бронхита. Иногда мелкие бронхи не контрастируются вообще. </p>
+<p style="text-align: justify;">
+<br/>
+	4. <strong>Ангиопульмонография: </strong>​ветви артерии пораженного легкого выглядят суженными, углы их расхождения увеличены,  отсутствует капиллярная фаза.</p>
+<p style="text-align: justify;">
+<br/>
+	5. <strong>Сцинтиграфия</strong> - накопление изотопа в пораженном легком практически не заметно.</p>
+<div style="text-align: justify;">
+<br/>
+	6.<strong> Функция внешнего дыхания </strong>показывает характерную для эмфиземы перестройку остаточной ёмкости легких (ее увеличение), уменьшение жизненной ёмкости легких, а также снижение скоростных показателей и другие признаки бронхиальной обструкции. Иногда выявляется <aterm term="1">артериальная гипоксемия<span class="term-description" style="display: none;"><span>Гипоксемия артериальная - пониженное содержание кислорода в артериальной крови</span><br/></span></aterm>.</div>
+<br/>
+<span style="font-family: Arial; line-height: 16px; text-align: justify;"><strong>Виртуальная компьютерная бронхография</strong></span><br/>
+<br/>
+<img alt="Файл: Swyer2.jpg" src="http://upload.wikimedia.org/wikipedia/commons/1/1d/Swyer2.jpg"/><br/>
+Адрес изображения: <span style="color: rgb(0, 0, 0); font-family: Arial, Helvetica, sans-serif; line-height: 18px;">http://en.wikipedia.org/wiki/Swyer-James_syndrome</span>
+</div>
+</div>
+</section>
+<section class="page-section" data-section-name="LABORATORYDIAGNOSTICS">
+<h2 class="page-section__title" id="laboratorydiagnostics">
+        Лабораторная диагностика    </h2>
+<div class="container">
+<div class="row page-section__row">
+<br/>
+Специфических изменений не описано.
+                    </div>
+</div>
+</section>
+<section class="page-section" data-section-name="DIFFERENTIALDIAGNOSIS">
+<h2 class="page-section__title" id="differentialdiagnosis">
+        Дифференциальный диагноз    </h2>
+<div class="container">
+<div class="row page-section__row">
+<div>
+<br/>
+	Необходима дифференциальная диагностика со <strong>следующими заболеваниями:</strong><br/>
+	- бронхиальная астма; <br/>
+	- <aterm term="1">ХОБЛ<span class="term-description" style="display: none;"><span>Хроническая обструктивная болезнь лёгких (ХОБЛ) - самостоятельное заболевание, для которого характерно частично необратимое ограничение воздушного потока в дыхательных путях</span><br/></span></aterm>, особенно осложненная спонтанным пневмотораксом.<br/>
+<br/>
+<strong>Другие причины возникновения однолегочной эмфиземы:</strong><br/>
+	- простая гипоплазия легкого; </div>
+<div>
+	- агенезия/гипоплазия легочной  артерии;<br/>
+	- врожденная лобарная эмфизема;<br/>
+	- обструкция бронха опухолью или инородным телом;</div>
+<div>
+	- ингаляция токсических веществ.<br/>
+<br/>
+<strong>Другие причины возникновения аномалий грудной клетки:</strong><br/>
+	- радикальная мастэктомия;<br/>
+	- сколиоз;<br/>
+	- некоторые профессии (например, мясник, плотник), которые приводят к асимметрии мускулатуры грудной клетки;</div>
+<div>
+	- атрофия трапециевидной мышцы после радикальной диссекции шеи;<br/>
+	- дефект грудной мышцы (Poland syndrome) .<br/>
+<br/>
+	Следует также исключать <strong>технические ошибки рентгенографии:</strong><br/>
+	- неправильный режим съемки;<br/>
+	- неправильное позиционирование пациента.</div>
+</div>
+</div>
+</section>
+<section class="page-section" data-section-name="SEQUELAE">
+<h2 class="page-section__title" id="sequelae">
+        Осложнения    </h2>
+<div class="container">
+<div class="row page-section__row">
+<div style="text-align: justify;">
+<br/>
+	- дыхательная недостаточность;<br/>
+	- инфекция легких любой этиологии (описаны случаи сочетания синдрома Мак-Леода у иммунокомпетентных взрослых пациентов с туберкулезом, <aterm term="1">аспергиллезом<span class="term-description" style="display: none;"><span>Аспергиллез - микоз, вызываемый паразитическими грибками рода Aspergillus; характеризуется разнообразными клиническими проявлениями в зависимости от локализации поражения</span><br/></span></aterm> и т.д.);<br/>
+	- <aterm term="1">абсцесс легкого<span class="term-description" style="display: none;"><span>Абсцесс легкого - абсцесс, развивающийся в легочной ткани как осложнение пневмонии, реже - в результате заноса возбудителей гнойной инфекции гематогенным, лимфогенным путем или с инородным телом</span><br/></span></aterm>;<br/>
+	- синдром нередко ассоциирован с разнообразными пороками развития сердца и сосудов.</div>
+</div>
+</div>
+</section>
+<section class="page-section" data-section-name="THERAPY">
+<h2 class="page-section__title" id="therapy">
+        Лечение    </h2>
+<div class="container">
+<div class="row page-section__row">
+<div>
+<br/><strong>Консервативное лечение</strong> при синдроме Мак-Леода - симптоматическое, направленное в основном на борьбу с осложнениями или с ассоциированными заболеваниями. Определенную роль играют физические упражнения и  кислородотерапия.</div><div>
+<br/><strong>Оперативное лечение</strong> показано при развитии дыхательной недостаточности, связанной с нарушением вентиляции нормально развитого легкого.<br/>
+	Операция заключается в удалении эмфизематозного легкого, которое, как правило, не выполняет газообменной функции и резко нарушает вентиляцию полноценной легочной ткани.</div>
+</div>
+</div>
+</section>
+<section class="page-section" data-section-name="PROGNOSIS">
+<h2 class="page-section__title" id="prognosis">
+        Прогноз    </h2>
+<div class="container">
+<div class="row page-section__row">
+<div style="text-align: justify;">
+<br/>
+	Прогноз зависит от частоты респираторных инфекций и степени дыхательной недостаточности. Большинством авторов расценивается как неопределенный или неблагоприятный.</div>
+</div>
+</div>
+</section>
+<section class="page-section" data-section-name="HOSPITALIZATION">
+<h2 class="page-section__title" id="hospitalization">
+        Госпитализация    </h2>
+<div class="container">
+<div class="row page-section__row">
+<br/>
+Госпитализация показана при развитии дыхательной недостаточности или респираторных инфекций.
+                    </div>
+</div>
+</section>
+<section class="page-section" data-section-name="PROPHYLAXIS">
+<h2 class="page-section__title" id="prophylaxis">
+        Профилактика    </h2>
+<div class="container">
+<div class="row page-section__row">
+<p>
+<br/>
+	Соответствует профилактике ОРЗ у детей.</p>
+</div>
+</div>
+</section>
+<section class="page-section" data-index="13">
+<h2 class="page-section__title" id="information">
+        Информация    </h2>
+<div class="container">
+<section class="row page-field" data-field-name="LISTOFREFERENCES">
+<h3 class="page-field__title text-left" id="listofreferences">
+                    Источники и литература                </h3>
+<div class="page-field__data">
+<ol id="AdditionalListSources" type="I">
+<li level="1">
+<span>"A Case of Swyer-James-Macleod Syndrome Associated with Middle Lobe Hypoplasia and Arteriovenous Malformation" Hatice Kaplanoglu,  Veysel Kaplanoglu, Ugur Toprak, Alper Dilli and Baki Hekimoglu, Case Reports in Medicine journal, 2012: 959153</span>
+<ol type="1">
+</ol>
+</li>
+<li level="1">
+<span>"CT findings in Swyer-James syndrome" L Marti-Bonmati, F Ruiz Perales, F Catala, J M Mata and E Calonge, Radiology journal, 172(2):477-80, Aug, 1989</span>
+<ol type="1">
+</ol>
+</li>
+<li level="1">
+<span>"Diagnostic approach to unilateral hyperlucent lung" Bulent Altinsoy and Nejat Altintas, Journal of the Royal Society of Medicine.Short Reports, 2(12), December, 2011 </span>
+<ol type="1">
+</ol>
+</li>
+<li level="1">
+<span>"Синдром Свайра-Джеймса (синдром Маклеода)" Беленькая О.И., Афанасьева Н.И., Юдин А.Л., журнал "Радиология-Практика", № 3, 2009 </span>
+<ol type="1">
+</ol>
+</li>
+<li level="1">
+<span>http://pulma.ru/poroki_razvitija/Sindrom_Makleoda.html</span>
+<ol type="1">
+</ol>
+</li>
+<li level="1">
+<span>wikipedia.org (википедия)</span>
+<ol type="1">
+<li level="2">http://en.wikipedia.org/wiki/Swyer-James_syndrome -  </li>
+</ol>
+</li>
+</ol> </div>
+</section>
+</div>
+</section>
+<section class="page-section" data-section-name="ATTENTION">
+<h2 class="page-section__title" id="attention">
+        Внимание!    </h2>
+<div class="container">
+<div class="row page-section__row">
+<!--noindex-->
+<label class="attention-self-treatment-list__caption">Если вы не являетесь медицинским специалистом:</label>
+<ul class="attention-self-treatment-list">
+<li>
+        Занимаясь самолечением, вы можете нанести непоправимый вред своему здоровью.
+         
+    </li>
+<li>
+        Информация, размещенная на сайте MedElement, не может и не должна заменять очную консультацию врача.
+        Обязательно
+        обращайтесь в медицинские учреждения при наличии каких-либо заболеваний или беспокоящих вас симптомов.
+         
+    </li>
+<li>
+        Выбор лекарственных средств и их дозировки, должен быть оговорен со специалистом. Только врач может
+        назначить
+        нужное лекарство и его дозировку с учетом заболевания и состояния организма больного.
+         
+    </li>
+<li>
+        Сайт MedElement является исключительно информационно-справочным ресурсом. Информация, размещенная на данном
+        сайте, не должна использоваться для самовольного изменения предписаний врача.
+         
+    </li>
+<li>
+        Редакция MedElement не несет ответственности за какой-либо ущерб здоровью или материальный ущерб, возникший
+        в
+        результате использования данного сайта.
+    </li>
+</ul>
+<!--/noindex-->
+</div>
+</div>
+</section>
+</main>

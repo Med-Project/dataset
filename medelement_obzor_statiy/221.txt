@@ -1,0 +1,218 @@
+<main id="main">
+<section class="page-information disease-information">
+<div class="container">
+<h1 class="page-information__name disease-information__name">
+            Пищеводная перепонка (Q39.4)        </h1>
+<div class="disease-information__version-name">
+<p class="lead text-muted">
+                
+                Версия: Справочник заболеваний MedElement                </p>
+</div>
+<div class="disease-information__categories-mkb">
+<label>Категории МКБ: </label>
+                Пищеводная перепонка (Q39.4)            </div>
+<div class="disease-information__sections-medicine">
+<label>Разделы медицины: </label>
+                Врожденные заболевания, Гастроэнтерология            </div>
+</div>
+</section>
+<section class="page-section" data-index="0">
+<h2 class="page-section__title" id="general_information">
+        Общая информация    </h2>
+<div class="container">
+<div class="page-links-actions">
+<ul>
+<li class="page-links-actions__item page-links-actions__item--print" data-ga-event-action="Клик по ссылке: Версия для печати" data-ga-event-category="Links actions" data-ga-event-label="" data-send-ga-event="">
+<a href="javascript:window.print()">Версия для печати
+                    <svg class="svg-icon svg-icon-printer" height="18" version="1.1" viewbox="0 0 24 24" width="18" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<path d="M18,3H6V7H18M19,12A1,1 0 0,1 18,11A1,1 0 0,1 19,10A1,1 0 0,1 20,11A1,1 0 0,1 19,12M16,19H8V14H16M19,8H5A3,3 0 0,0 2,11V17H6V21H18V17H22V11A3,3 0 0,0 19,8Z"></path>
+</svg>
+</a>
+</li>
+</ul>
+</div>
+<section class="row page-field" data-field-name="SHORTDESCRIPTION">
+<h3 class="page-field__title text-left" id="shortdescription">
+                    Краткое описание                </h3>
+<div class="page-field__data">
+<div style="text-align: justify; ">
+<br/>
+<strong>Пищеводная перепонка </strong>представляет собой мембрану, полностью (редко) или частично перекрывающую просвет пищевода. Гистологически состоит из слизистой оболочки, подслизистого слоя и соединительной ткани.  Ее толщина редко превышает 2 мм.</div>
+</div>
+</section>
+</div>
+</section>
+<section class="page-section" data-section-name="CLASSIFICATION">
+<h2 class="page-section__title" id="classification">
+        Классификация    </h2>
+<div class="container">
+<div class="row page-section__row">
+<br/>
+Общепризнанная классификация отсутсвует.<br/>
+Пищеводная перепонка входит в классификации других врожденных пороков развития пищевода, т.к. крайне редко встречается изолировано.<br/>
+В клинике обычно используют морфологическое описание, включающее расположение перпонки, ее размеры и диаметр проходимого просвета пищевода. 
+                    </div>
+</div>
+</section>
+<section class="page-section" data-section-name="ETIOLOGY">
+<h2 class="page-section__title" id="etiology">
+        Этиология и патогенез    </h2>
+<div class="container">
+<div class="row page-section__row">
+<br/>
+Врожденный порок развития. 
+                    </div>
+</div>
+</section>
+<section class="page-section" data-section-name="EPIDEMIOLOGY">
+<h2 class="page-section__title" id="epidemiology">
+        Эпидемиология    </h2>
+<div class="container">
+<div class="row page-section__row">
+<br/>
+В изолированном виде практически не встречается. Сочетается с другими пороками развития пищевода и желудочно-кишечного тракта.
+                    </div>
+</div>
+</section>
+<section class="page-section" data-index="4">
+<h2 class="page-section__title" id="clinical">
+        Клиническая картина    </h2>
+<div class="container">
+<section class="row page-field" data-field-name="ANTIPRAXIA">
+<h3 class="page-field__title text-left" id="antipraxia">
+                    Cимптомы, течение                </h3>
+<div class="page-field__data">
+<br/>
+Симптоматика обусловлена непроходимостью пищевода и соответствует симптомам при его полной или частичной непроходимости. Как правило, сочетается с другими аномалиями развития пищевода (например, атрезией) или является составной частью <aterm term="1">синдрома Пламмера-Винсона<span class="term-description" style="display: none;"><span>Синдром Пламмера-Винсона -   болезнь, характеризующаяся дисфагией, атрофией слизистой оболочки пищеварительного тракта, дистрофией ногтей, гипохромной анемией, уменьшением содержания железа в крови.</span><br/></span></aterm>. Полный синдром Пламера-Винсона, включает в себя недостаток железа, <aterm term="1">ангулярный хейлит<span class="term-description" style="display: none;"><span>Ангулярный хейлит (заеда) - дерматоз в виде трещины или эрозии в области угла рта.</span><br/></span></aterm>, <aterm term="1">глоссит<span class="term-description" style="display: none;"><span>Глоссит - воспаление языка.</span><br/></span></aterm>, перепонку пищевода ниже уровня перстневидного хряща.                   </div>
+</section>
+</div>
+</section>
+<section class="page-section" data-section-name="DIAGNOSTICS">
+<h2 class="page-section__title" id="diagnostics">
+        Диагностика    </h2>
+<div class="container">
+<div class="row page-section__row">
+<br/>
+Рентгеноконтрастное исследование. Эзофагоскопия.
+                    </div>
+</div>
+</section>
+<section class="page-section" data-section-name="DIFFERENTIALDIAGNOSIS">
+<h2 class="page-section__title" id="differentialdiagnosis">
+        Дифференциальный диагноз    </h2>
+<div class="container">
+<div class="row page-section__row">
+<br/>
+Проводится дифференциация со всеми заболеваниями, при которых имеется клиника полной или частичной непроходимости пищевода.
+                    </div>
+</div>
+</section>
+<section class="page-section" data-section-name="SEQUELAE">
+<h2 class="page-section__title" id="sequelae">
+        Осложнения    </h2>
+<div class="container">
+<div class="row page-section__row">
+<br/>
+Аспирационная пневмония.
+                    </div>
+</div>
+</section>
+<section class="page-section" data-section-name="THERAPY">
+<h2 class="page-section__title" id="therapy">
+        Лечение    </h2>
+<div class="container">
+<div class="row page-section__row">
+<br/>
+Хирургическое лечение - рассечение перепонки или <aterm term="1">бужирование<span class="term-description" style="display: none;"><span>Бужирование -  введение бужей (инструмент в виде жесткого или гибкого стержня, предназначенный для исследования или постепенного расширения органов трубчатой формы) в некоторые органы трубчатой формы (мочеиспускательный канал, пищевод и др.) с диагностической или лечебной целью.</span><br/></span></aterm>.
+                            
+
+
+
+
+
+                       </div>
+</div>
+</section>
+<section class="page-section" data-section-name="PROGNOSIS">
+<h2 class="page-section__title" id="prognosis">
+        Прогноз    </h2>
+<div class="container">
+<div class="row page-section__row">
+<br/>
+Благоприятный при  своевременной диагностике и коррекции.
+                    </div>
+</div>
+</section>
+<section class="page-section" data-section-name="HOSPITALIZATION">
+<h2 class="page-section__title" id="hospitalization">
+        Госпитализация    </h2>
+<div class="container">
+<div class="row page-section__row">
+<br/>
+Обязательна.
+                    </div>
+</div>
+</section>
+<section class="page-section" data-index="11">
+<h2 class="page-section__title" id="information">
+        Информация    </h2>
+<div class="container">
+<section class="row page-field" data-field-name="LISTOFREFERENCES">
+<h3 class="page-field__title text-left" id="listofreferences">
+                    Источники и литература                </h3>
+<div class="page-field__data">
+<ol id="AdditionalListSources" type="I">
+<li level="1">
+<span>Детская гастроэнтерология: руководство для врачей /под ред. проф. Шабалова Н.П., 2011</span>
+<ol type="1">
+</ol>
+</li>
+<li level="1">
+<span>Исаков Ю.Ф., Степанов Э.А., Красовская Т.В. Абдоминальная хирургия у детей, руководство, Медицина, 1988</span>
+<ol type="1">
+</ol>
+</li>
+</ol> </div>
+</section>
+</div>
+</section>
+<section class="page-section" data-section-name="ATTENTION">
+<h2 class="page-section__title" id="attention">
+        Внимание!    </h2>
+<div class="container">
+<div class="row page-section__row">
+<!--noindex-->
+<label class="attention-self-treatment-list__caption">Если вы не являетесь медицинским специалистом:</label>
+<ul class="attention-self-treatment-list">
+<li>
+        Занимаясь самолечением, вы можете нанести непоправимый вред своему здоровью.
+         
+    </li>
+<li>
+        Информация, размещенная на сайте MedElement, не может и не должна заменять очную консультацию врача.
+        Обязательно
+        обращайтесь в медицинские учреждения при наличии каких-либо заболеваний или беспокоящих вас симптомов.
+         
+    </li>
+<li>
+        Выбор лекарственных средств и их дозировки, должен быть оговорен со специалистом. Только врач может
+        назначить
+        нужное лекарство и его дозировку с учетом заболевания и состояния организма больного.
+         
+    </li>
+<li>
+        Сайт MedElement является исключительно информационно-справочным ресурсом. Информация, размещенная на данном
+        сайте, не должна использоваться для самовольного изменения предписаний врача.
+         
+    </li>
+<li>
+        Редакция MedElement не несет ответственности за какой-либо ущерб здоровью или материальный ущерб, возникший
+        в
+        результате использования данного сайта.
+    </li>
+</ul>
+<!--/noindex-->
+</div>
+</div>
+</section>
+</main>

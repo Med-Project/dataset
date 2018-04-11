@@ -1,0 +1,678 @@
+<main id="main">
+<section class="page-information disease-information">
+<div class="container">
+<h1 class="page-information__name disease-information__name">
+            Гастрит неуточненный (K29.7)        </h1>
+<div class="disease-information__version-name">
+<p class="lead text-muted">
+                
+                Версия: Справочник заболеваний MedElement                </p>
+</div>
+<div class="disease-information__categories-mkb">
+<label>Категории МКБ: </label>
+                Гастрит неуточненный (K29.7)            </div>
+<div class="disease-information__sections-medicine">
+<label>Разделы медицины: </label>
+                Гастроэнтерология            </div>
+</div>
+</section>
+<section class="page-section" data-index="0">
+<h2 class="page-section__title" id="general_information">
+        Общая информация    </h2>
+<div class="container">
+<div class="page-links-actions">
+<ul>
+<li class="page-links-actions__item page-links-actions__item--print" data-ga-event-action="Клик по ссылке: Версия для печати" data-ga-event-category="Links actions" data-ga-event-label="" data-send-ga-event="">
+<a href="javascript:window.print()">Версия для печати
+                    <svg class="svg-icon svg-icon-printer" height="18" version="1.1" viewbox="0 0 24 24" width="18" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<path d="M18,3H6V7H18M19,12A1,1 0 0,1 18,11A1,1 0 0,1 19,10A1,1 0 0,1 20,11A1,1 0 0,1 19,12M16,19H8V14H16M19,8H5A3,3 0 0,0 2,11V17H6V21H18V17H22V11A3,3 0 0,0 19,8Z"></path>
+</svg>
+</a>
+</li>
+</ul>
+</div>
+<section class="row page-field" data-field-name="SHORTDESCRIPTION">
+<h3 class="page-field__title text-left" id="shortdescription">
+                    Краткое описание                </h3>
+<div class="page-field__data">
+<div style="text-align: justify;">
+<br/>
+<strong>Гастрит </strong>– термин, используемый для обозначения различных по происхождению, течению и клиническим проявлениям воспалительных и дистрофических изменений слизистой оболочки желудка (СОЖ). Различают две основные формы гастрита – острый и хронический. <br/>
+<br/>
+<strong>Острый гастрит </strong>– острое воспаление СОЖ, вызванное непродолжительным действием относительно сильных раздражителей (например, употребление недоброкачественной пищи, прием некоторых лекарств и т.д.). Подробнее см. в подрубриках "<a href="https://diseases.medelement.com/index.php/disease/view/NDYwNw%253D%253D/fDB8" target="_blank">Острый геморрагический гастрит</a>" (K29.0) и "<a href="https://diseases.medelement.com/index.php/disease/view/MTIyNjg%253D/fDB8" target="_blank">Другие острые гастриты</a>" (K29.1).<br/>
+<br/>
+<strong>Хронический гастрит </strong> – длительно текущее рецидивирующее воспалительное поражение СОЖ, протекающее с ее структурной перестройкой и нарушением секреторной (кислото- и пепсинообразующей), моторной и инкреторной (синтез гастроинтестинальных гормонов) функций желудка. <br/>
+<br/>
+	Выделяют две основные формы хронического течения заболевания: <br/>
+	- поверхностный гастрит (<a href="https://diseases.medelement.com/index.php/disease/view/NDYxMA%253D%253D/fDB8" target="_blank">К29.3</a>);<br/>
+	- атрофический гастрит (<a href="https://diseases.medelement.com/index.php/disease/view/NDYxMQ%253D%253D/fDB8" target="_blank">К29.4</a>). <br/>
+<br/>
+<div>
+		Имеются также особые формы хронического гастрита: <br/>
+<div>
+			- атрофически-гиперпластический гастрит (полипозный, "бородавчатый") -  "<a href="https://diseases.medelement.com/index.php/disease/view/MTI2Mzg%253D/fDF8Mnw%253D" target="_blank">Полип желудка</a>" - К31.7, "Доброкачественные новообразования желудка" - D13.1;</div>
+<div>
+			- гипертрофический гастрит, гигантский гипертрофический гастрит (болезнь Менетрие) -<a href="https://diseases.medelement.com/index.php/disease/view/NDYxMw%253D%253D/fDB8" target="_blank"> К29.6</a>;<br/>
+			- лимфоцитарный - <a href="https://diseases.medelement.com/index.php/disease/view/NDYxMw%253D%253D/fDB8" target="_blank">К29.6</a>;<br/>
+			- гранулематозный ("<a href="https://diseases.medelement.com/index.php/disease/view/NDY4Mg%253D%253D/fDB8" target="_blank">Болезнь Крона</a>" - K50,  "Гранулематоз Вегенера" - M31.3, "Саркоидоз других уточненных и комбинированных локализаций" - D86.8);</div>
+<div>
+			- коллагеновый - <a href="https://diseases.medelement.com/index.php/disease/view/NDYxMw%253D%253D/fDB8" target="_blank">К29.6</a>;<br/>
+			- эозинофильный (аллергический) - "Аллергический и алиментарный гастроэнтерит и колит" - K52.2;</div>
+<div>
+			- радиационный - "<a href="https://diseases.medelement.com/index.php/disease/view/NDY5Mw%253D%253D/fDB8" target="_blank">Радиационный гастроэнтерит и колит</a>" - K52.0;</div>
+<div>
+			- инфекционный (гастроспириллы, цитомегаловирус, дрожжеподобные грибки Candida); <br/>
+			- сифилитический -  "Другие формы вторичного сифилиса" - A51.4;<br/>
+			- туберкулезный - "Туберкулез кишечника, брюшины и брыжеечных лимфатических узлов" - A18.3.</div>
+</div>
+<div>
+		 </div>
+	Как правило, отдельно рассматривают алкогольный гастрит (<a href="https://diseases.medelement.com/index.php/disease/view/NDYwOQ%253D%253D/fDB8" target="_blank">К29.2</a>).</div>
+<div style="text-align: justify;">
+<br/>
+<strong>Примечание.</strong> Гастрит неуточненный (К29.7) кодируется, если в медицинских документах указан диагноз "Гастрит" без дополнительных уточнений. Уточнения могут отсутствовать вследствие дефектов ведения документации, объективных затруднений в диагностике, ограниченных институциональных возможностей врача.</div>
+</div>
+</section>
+</div>
+</section>
+<section class="page-section" data-section-name="CLASSIFICATION">
+<h2 class="page-section__title" id="classification">
+        Классификация    </h2>
+<div class="container">
+<div class="row page-section__row">
+<div>
+<br/>
+	Общепризнанная классификация гастритов до сих пор является камнем преткновения.<br/><br/>
+	Существует три основных классификации хронических гастритов и несколько дополнительных. <br/><br/>
+	В 1973 г. R.G. Strickland и J.R. Mackay предложили классификацию, получившую широкое распространение:<br/><br/>
+	1. <strong>Гастрит типа А</strong> (аутоиммунный) - характеризуется наличием антител к париетальным клеткам, высоким уровнем <aterm term="1">гастрина</aterm> в крови и преимущественным поражением тела желудка.<br/>
+	2. <strong>Гастрит типа В -</strong> развивается в результате инфицирования слизистой <aterm term="1">Н. pylori</aterm> и бактериального воспаления преимущественно антрального отдела желудка.  Характеризуется нормальным или сниженным уровнем гaстрина в крови и отсутствием иммунных нарушений.<br/>
+	3. <strong>Гастрит типа С</strong> (химикотоксический) - развивается в результате дуоденогастрального <aterm term="1">рефлюкса</aterm> или воздействия на слизистую некоторых лекарственных средств (чаще всего <aterm term="1">НПВС</aterm>) или химических веществ. <br/>
+	4. Кроме этого выделяют<strong> смешанный гастрит </strong>(А и В или пангастрит). <br/><br/>
+	В 1990 г. на 9-м Международном конгрессе гастроэнтерологов  была принята <strong>Сиднейская классификация.</strong><br/>
+	Согласно этой классификации выделяют три основных вида гастритов: острый, хронический и особые (специальные) формы. Решающее значение в диагностике гастритов придается этиологии, характеру морфологических изменений слизистой и преимущественной локализации этих изменений.<br/><br/><p>
+<strong>Сиднейская классификация</strong></p>
+<div class="table-responsive"><table border="1" cellpadding="2" cellspacing="0" width="643"><colgroup><col width="147"></col><col width="149"></col><col width="144"></col><col width="185"></col></colgroup><tbody><tr><td width="147">
+<p>
+<span><span><strong>Тип гастрита</strong></span></span></p>
+</td>
+<td width="149">
+<p>
+<span><span><strong>Локализация поражения</strong></span></span></p>
+</td>
+<td width="144">
+<p>
+<span><span><strong>Морфологические изменения</strong></span></span></p>
+</td>
+<td width="185">
+<p>
+<span><span><strong>Этиологические факторы</strong></span></span></p>
+</td>
+</tr><tr><td width="147">
+<p>
+<span><span><strong>Острый</strong></span></span></p>
+</td>
+<td rowspan="3" width="149">
+<p>
+<span><span>- Антральный отдел</span></span></p>
+<p>
+<span><span>- Тело желудка</span></span></p>
+<p>
+<span><span>- Пангастрит (гастрит антрума и тела желудка)</span></span></p>
+</td>
+<td rowspan="3" width="144">
+<p>
+<span><span>- Степень воспаления<br/>
+						- Активность воспаления<br/>
+						- Атрофия желудочных желез<br/>
+						- Метаплазия<br/>
+						- Обсеменение слизистой H. pylori</span></span></p>
+</td>
+<td rowspan="3" width="185">
+<p>
+<span><span><strong>Инфекционные </strong>(H.pylori)<br/>
+						 <br/><strong>Неинфекционные:</strong><br/>
+						 - аутоиммунные;<br/>
+						- алкогольный;<br/>
+						 - постгастрорезекционный;<br/>
+						- обусловленный приемом НПВС;<br/>
+						- обусловленный химическими агентами</span></span></p>
+</td>
+</tr><tr><td width="147">
+<p>
+<span><span><strong>Хронический</strong></span></span></p>
+</td>
+</tr><tr><td width="147">
+<p>
+<span><span><strong>"Особые" (специальные) формы</strong><br/>
+						- реактивный<br/>
+						- лимфоцитарный<br/>
+						- эозинофильный<br/>
+						- гипертрофический<br/>
+						- гранулематозный<br/>
+						- другие</span></span></p>
+</td>
+</tr></tbody></table></div><p>
+<span><span><font color="#222222"> </font></span></span></p>
+</div><span><span><span>Описание морфологических изменений </span><strong>дополняется описанием эндоскопических категорий гастритов</strong><span>: </span></span><br/><span>- эритематозный/экссудативный гастрит (поверхностный гастрит);</span><br/><span>- плоские эрозии;</span><br/><span>- приподнятые эрозии;</span><br/><span>- геморрагический гастрит;</span><br/><span>- гиперпластический гастрит;</span><br/><span>- гастрит, сопровождающийся д</span></span><p>уоденогастральным рефлюксом<span><span> (рефлюкс-гастрит).</span></span>
+</p><div>
+<br/>
+	Диагноз хронического гастрита должен формироваться на основании оценки всех 4-х признаков заболевания:<br/>
+	- локализация патологического процесса (антральный, тела желудка, мультифокальный);<br/>
+	- гистологические изменения;<br/>
+	- макроскопические изменения слизистой, выявляемые при эндоскопии;<br/>
+	- этиологические факторы. <br/><br/><strong>Модификация Сиднейской классификации гастрита</strong> ("Сиднейская система", 1990)<br/><br/><strong>I. Морфологическая часть:</strong> <br/>
+	1. Диагноз, основанный на эндоскопическом исследовании: <br/>
+	- эритематозный (поверхностный); <br/>
+	- эрозивный, геморрагический;<br/>
+	- атрофический;<br/>
+	- гиперпластический (нодулярный). <br/>
+	2. Диагноз, основанный на гистологическом исследовании слизистой оболочки желудка: <br/>
+	- воспаление с эрозиями, кровоизлияниями; <br/>
+	- атрофический; <br/>
+	- нарушение клеточного обновления - метаплазия эпителия. <br/><br/><strong>II. Этиологическая часть: </strong><br/>
+	- аутоиммунный (тип А); <br/>
+	- Н.pylori-ассоциированный гастрит (тип В); <br/>
+	- особые формы. <br/><br/><strong>III. Топографическая часть:</strong> <br/>
+	- тотальный; <br/>
+	- фундальный;<br/>
+	- антральный;  <br/><br/><strong>IV. Активность процесса: </strong><br/>
+	- отсутствует; <br/>
+	- умеренная; <br/>
+	- выраженная. <br/><br/>
+	В 1996 г. была предложена <strong>Хьюстонская классификация</strong> хронических гастритов, являющаяся также модификацией Сиднейской системы.<br/><br/><strong>Хьюстонская классификация</strong><br/>
+	 </div><div align="center">
+<div class="table-responsive"><table border="1" cellpadding="7" cellspacing="0" width="471"><tbody><tr valign="TOP"><td width="106">
+<p align="CENTER">
+<span><span><span><font><b>Тип гастрита</b></font></span></span></span></p>
+</td>
+<td width="147">
+<p align="CENTER">
+<span><span><span><font><b>Этиологические факторы</b></font></span></span></span></p>
+</td>
+<td width="175">
+<p align="CENTER">
+<span><span><span><font><b>Синонимы (прежние классификации)</b></font></span></span></span></p>
+</td>
+</tr><tr><td width="106">
+<p>
+<span><span><span><font>Неатрофич</font><font>еский</font></span></span></span></p>
+</td>
+<td width="147">
+<p lang="en-US">
+<span><span><span><font>Helicobacter pylori</font></span></span></span></p>
+<dl><dt>
+							 </dt>
+<dt>
+							 </dt>
+<dt>
+<span><span><span><font>Другие факторы</font></span></span></span></dt>
+</dl></td>
+<td width="175">
+<dl><dt>
+<span><span><span><font>Поверхностный</font></span></span></span></dt>
+<dt>
+<span><span><span><font>Хронический антральный</font></span></span></span></dt>
+<dt>
+<span><span><span><font>Гастрит типа В</font></span></span></span></dt>
+<dt>
+							 </dt>
+<dt>
+<span><span><span><font>Гиперсекреторный гастрит</font></span></span></span></dt>
+</dl></td>
+</tr><tr><td width="106">
+<dl><dt>
+<span><span><span><font>Атрофический</font></span></span></span></dt>
+<dt>
+<span><span><span><font>аутоиммунный</font></span></span></span></dt>
+</dl></td>
+<td width="147">
+<p>
+<span><span><span><font>Иммунные механизмы</font></span></span></span></p>
+</td>
+<td width="175">
+<dl><dt>
+<span><span><span><font>Гастрит типа А</font></span></span></span></dt>
+<dt>
+<span><span><span><font>Диффузный гастрит тела желудка</font></span></span></span></dt>
+<dt>
+<span><span><span><font>Гастрит тела желудка, ассоциированный с В<sub>12</sub></font><font>-дефицитной анемией и пониженной секрецией</font></span></span></span></dt>
+</dl></td>
+</tr><tr><td width="106">
+<p>
+<span><span><span><font>Атрофический мультифокальный</font></span></span></span></p>
+</td>
+<td width="147">
+<dl><dt>
+<span><span><span><font><span lang="en-US">Helicobacter</span></font><font> </font><font><span lang="en-US">pylori</span></font></span></span></span></dt>
+<dt>
+<span><span><span><font>Нарушения питания</font></span></span></span></dt>
+<dt>
+<span><span><span><font>Факторы среды</font></span></span></span></dt>
+</dl></td>
+<td width="175">
+<dl><dt>
+<span><span><span><font>Смешанный гастрит</font></span></span></span></dt>
+<dt>
+<span><span><span><font>типа А и В</font></span></span></span></dt>
+</dl></td>
+</tr><tr><td width="106">
+<p>
+<span><span><span><font>Особые формы</font></span></span></span></p>
+</td>
+<td width="147">
+<p>
+						 </p>
+</td>
+<td width="175">
+<p>
+						 </p>
+</td>
+</tr><tr><td width="106">
+<p>
+<span><span><span><font>Химический</font></span></span></span></p>
+</td>
+<td width="147">
+<dl><dt>
+<span><span><span><font>Химические раздражители</font></span></span></span></dt>
+<dt>
+							 </dt>
+<dt>
+<span><span><span><font>Желчь (дуоденогастральный рефлюкс)</font></span><br/><span>Прием </span><span>НПВС</span></span></span></dt>
+</dl></td>
+<td width="175">
+<dl><dt>
+<span><span><span><font>Реактивный гастрит типа С</font></span></span></span></dt>
+<dt>
+							 </dt>
+<dt>
+<span><span><span><font>Реактивный рефлюкс-гастрит</font></span></span></span></dt>
+</dl></td>
+</tr><tr><td width="106">
+<p>
+<span><span><span><font>Радиационный</font></span></span></span></p>
+</td>
+<td width="147">
+<p>
+<span><span><span><font>Лучевое поражение</font></span></span></span></p>
+</td>
+<td width="175">
+<p>
+						 </p>
+</td>
+</tr><tr><td width="106">
+<p>
+<span><span><span><font>Лимфоцитарный</font></span></span></span></p>
+</td>
+<td width="147">
+<dl><dt>
+<span><span><span><font>Идиопатический</font></span></span></span></dt>
+<dt>
+<span><span><span><font>Иммунные механизмы</font></span></span></span></dt>
+<dt>
+<span><span><span><font>Глютен</font></span></span></span></dt>
+<dt>
+<span><span><span><font><span lang="en-US">Helicobacter</span></font><font> </font><font><span lang="en-US">pylori</span></font></span></span></span></dt>
+</dl></td>
+<td width="175">
+<p>
+<span><span><span><font>Гастрит, ассоциированный с целиакией</font></span></span></span></p>
+</td>
+</tr><tr><td width="106">
+<p>
+<span><span><span><font>Гранулематозный</font></span></span></span></p>
+</td>
+<td width="147">
+<dl><dt>
+<span><span><span><font>Болезнь Крона</font></span></span></span></dt>
+<dt>
+<span><span><span><font>Саркоидоз</font></span></span></span></dt>
+<dt>
+<span><span><span><font>Гранулематоз Вегенера</font></span></span></span></dt>
+<dt>
+<span><span><span><font>Инородные тела</font></span></span></span></dt>
+<dt>
+<span><span><span><font>Идиопатический</font></span></span></span></dt>
+</dl></td>
+<td width="175">
+<p>
+<span><span><span><font>Изолированный гранулематоз</font></span></span></span></p>
+</td>
+</tr><tr><td width="106">
+<p>
+<span><span><span><font>Эозинофильный</font></span></span></span></p>
+</td>
+<td width="147">
+<dl><dt>
+<span><span><span><font>Пищевая аллергия</font></span></span></span></dt>
+<dt>
+<span><span><span><font>Другие аллергены</font></span></span></span></dt>
+</dl></td>
+<td width="175">
+<p>
+<span><span><span><font>Аллергический</font></span></span></span></p>
+</td>
+</tr><tr><td width="106">
+<dl><dt>
+<span><span><span><font>Другие</font></span></span></span></dt>
+<dt>
+<span><span><span><font>инфекционные</font></span></span></span></dt>
+</dl></td>
+<td width="147">
+<dl><dt>
+<span><span><span><font>Бактерии (кроме Н.рylori)</font></span></span></span></dt>
+<dt>
+<span><span><span><font>Грибы</font></span></span></span></dt>
+<dt>
+<span><span><span><font>Паразиты</font></span></span></span></dt>
+</dl></td>
+<td width="175">
+<p>
+						 </p>
+</td>
+</tr><tr><td width="106">
+<dl><dt>
+<span><span><span><font>Гигантский</font></span></span></span></dt>
+<dt>
+<span><span><span><font>гипертрофический</font></span></span></span></dt>
+</dl></td>
+<td width="147">
+<p>
+<span><span><span><font>Болезнь Менетрие</font></span></span></span></p>
+</td>
+<td width="175">
+<p>
+						 </p>
+</td>
+</tr></tbody></table></div></div><div>
+<br/>
+	Следует отметить, что эти классификации не содержат таких важных клинических и функциональных признаков болезни, как оценка секреторной функции желудка (нормальная, повышенная или пониженная секреция соляной кислоты), стадии течения заболевания (обострение, ремиссия) и наличия осложнений (эрозии, кровотечения, <aterm term="1">малигнизация</aterm>). В связи с этим в России получила распространение рабочая классификация хронических гастритов, основы которой были заложены  Рыссом С. М..<br/><br/><div>
+<strong>Рабочая классификация хронических гастритов (Рысс С. М.)</strong></div>
+<div>
+<br/><strong>По типу гастритов: </strong></div>
+<div>
+		- неатрофический (поверхностный) гастрит;</div>
+</div><div>
+	- атрофический гастрит (аутоиммунный атрофический и мультифокальный атрофический);</div><div>
+	- особые формы гастритов (реактивный, радиационный, лимфоцитарный, гранулематозный, эозинофильный, гигантский гипертрофический и др).</div><div>
+<br/><strong>По локализации: </strong></div><div>
+	- антральный отдел желудка;</div><div>
+	- тело желудка.</div><div>
+	 </div><div>
+<div>
+<strong>По эндоскопической картине: </strong><br/>
+		- поверхностный;<br/>
+		- эрозивный.<br/>
+		- атрофический.<br/>
+		- геморрагический.<br/>
+		- гиперплазия слизистой.<br/>
+		- наличие дуоденогастрального рефлюкса и др.</div>
+<div>
+<br/><strong>По морфологии:</strong> <br/>
+		- степень воспаления;<br/>
+		- активность воспаления;<br/>
+		- наличие атрофии желудочных желез;<br/>
+		- наличие и тип кишечной метаплазии;<br/>
+		- степень обсеменения слизистой Н. рylori.</div>
+<div>
+<br/><strong>По функциональному признаку: </strong><br/>
+		- нормальная секреция;<br/>
+		- повышенная секреция;<br/>
+		- секреторная недостаточность (умеренная или выраженная).</div>
+<div>
+<br/><strong>По клиническим признакам: </strong><br/>
+		- фаза обострения;<br/>
+		- фаза ремиссии. </div>
+<div>
+<br/><strong>Осложнения: </strong><br/>
+		- кровотечения;<br/>
+		- малигнизация.</div>
+</div><div>
+<br/><strong>Патофизиологическая классификация хронического гастрита</strong> (по P. McNelly 2005)<br/><br/>
+	1. Химический гастрит:<br/>
+	 - при щелочном (желчном) рефлюксе (гастродуоденальный /дуоденогастральный рефлюкс);</div><div>
+	- при приеме <aterm term="1">НПВС.</aterm><br/><br/>
+	2."Специфический гастрит": эозинофильный гастрит:<br/>
+	- эозинофильная гранулема;<br/>
+	- эозинофильный гастроэнтерит.<br/><br/>
+	3. Коллагеновый гастрит.<br/><br/>
+	4. Гранулематозный гастрит:<br/>
+	- болезнь Крона;<br/>
+	- туберкулез;<br/>
+	- гистоплазмоз;<br/>
+	- сифилис;<br/>
+	- саркоидоз;<br/>
+	- вызванный инородным телом;<br/>
+	- паразитарный;<br/>
+	- идиопатический.<br/><br/>
+	5. Гипертрофические гастропатии:<br/>
+	- болезнь Менетрие (Menetrier);<br/>
+	- псевдолимфома желудка;<br/>
+	- синдром Золлингера-Эллисона;<br/>
+	- вариант нормы.<br/><br/>
+	6. Портальная(застойная) гастропатия (не является истинным гастритом).<br/><br/>
+	7."Неспецифический" гастрит:<br/>
+	7.1 Неэрозивные варианты:<br/>
+	- аутоиммунный гастрит - тип А;<br/>
+	- приобретенный гастрит - тип В;<br/>
+	- хронический гастрит, обусловленный H.pylori.<br/>
+	7.2 Эрозивные варианты:<br/>
+	- лимфоцитарный гастрит;<br/>
+	- оспоподобный гастрит.<br/><br/>
+	Подробнее по классификации см. "Другие острые гастриты" (K29.1), "Острый геморрагический гастрит" (K29.0).</div>
+</div>
+</div>
+</section>
+<section class="page-section" data-section-name="ETIOLOGY">
+<h2 class="page-section__title" id="etiology">
+        Этиология и патогенез    </h2>
+<div class="container">
+<div class="row page-section__row">
+<br/>
+Для острого гастрита - см. "<span style="margin: 0px; padding: 0px; font-family: Arial, Helvetica, sans-serif; line-height: 18px;"><a href="https://diseases.medelement.com/index.php/disease/view/MTIyNjg%253D/fDR8" target="_blank">Другие острые гастриты</a>" (</span>K29.1),<strong style="margin: 0px; padding: 0px; font-family: Arial, Helvetica, sans-serif; line-height: 18px;"> </strong>"<span style="margin: 0px; padding: 0px; font-family: Arial, Helvetica, sans-serif; line-height: 18px;"><a href="https://diseases.medelement.com/index.php/disease/view/NDYwNw%253D%253D/fDR8" target="_blank">Острый геморрагический гастрит</a>"</span> (K29.0).<br/>
+Хронический гастрит - см. "<a href="https://diseases.medelement.com/index.php/disease/view/NDYxMg%253D%253D/fDR8" target="_blank">Хронический гастрит неуточненный</a>" (K29.5).<br/>
+</div>
+</div>
+</section>
+<section class="page-section" data-section-name="EPIDEMIOLOGY">
+<h2 class="page-section__title" id="epidemiology">
+        Эпидемиология    </h2>
+<div class="container">
+<div class="row page-section__row">
+<p>Признак распространенности: Очень распространено</p>
+<br/>
+            
+            
+            
+            Для острого гастрита - см. "<span style="margin: 0px; padding: 0px; font-family: Arial, Helvetica, sans-serif; line-height: 18px;"><a href="https://diseases.medelement.com/index.php/disease/view/MTIyNjg%253D/fDV8" target="_blank">Другие острые гастриты</a>" (</span>K29.1),<strong style="margin: 0px; padding: 0px; font-family: Arial, Helvetica, sans-serif; line-height: 18px;"> </strong>"<span style="margin: 0px; padding: 0px; font-family: Arial, Helvetica, sans-serif; line-height: 18px;"><a href="https://diseases.medelement.com/index.php/disease/view/NDYwNw%253D%253D/fDV8" target="_blank">Острый геморрагический гастрит</a>"</span> (K29.0).<br/>
+Хронический гастрит - см. "<a href="https://diseases.medelement.com/index.php/disease/view/NDYxMg%253D%253D/fDV8" target="_blank">Хронический гастрит неуточненный</a>" (K29.5).<br/>
+</div>
+</div>
+</section>
+<section class="page-section" data-section-name="FACTORSANDRISKGROUPS">
+<h2 class="page-section__title" id="factorsandriskgroups">
+        Факторы и группы риска    </h2>
+<div class="container">
+<div class="row page-section__row">
+<br/>
+Для острого гастрита - см. "<span style="margin: 0px; padding: 0px; font-family: Arial, Helvetica, sans-serif; line-height: 18px;"><a href="https://diseases.medelement.com/index.php/disease/view/MTIyNjg%253D/fDZ8" target="_blank">Другие острые гастриты</a>" (</span>K29.1),<strong style="margin: 0px; padding: 0px; font-family: Arial, Helvetica, sans-serif; line-height: 18px;"> </strong>"<span style="margin: 0px; padding: 0px; font-family: Arial, Helvetica, sans-serif; line-height: 18px;"><a href="https://diseases.medelement.com/index.php/disease/view/NDYwNw%253D%253D/fDZ8" target="_blank">Острый геморрагический гастрит</a>"</span> (K29.0).<br/>
+Хронический гастрит - см. "<a href="https://diseases.medelement.com/index.php/disease/view/NDYxMg%253D%253D/fDR8" target="_blank">Хронический гастрит неуточненный</a>" (K29.5).
+                    </div>
+</div>
+</section>
+<section class="page-section" data-index="5">
+<h2 class="page-section__title" id="clinical">
+        Клиническая картина    </h2>
+<div class="container">
+<section class="row page-field" data-field-name="THESIS">
+<h3 class="page-field__title text-left" id="thesis">
+                    Клинические критерии диагностики                </h3>
+<div class="page-field__data">
+                    
+                    диспепсия, изжога, боль в эпигастрии, тошнота                </div>
+</section>
+<section class="row page-field" data-field-name="ANTIPRAXIA">
+<h3 class="page-field__title text-left" id="antipraxia">
+                    Cимптомы, течение                </h3>
+<div class="page-field__data">
+<br/>
+Для острого гастрита - см. "<span style="margin: 0px; padding: 0px; font-family: Arial, Helvetica, sans-serif; line-height: 18px;"><a href="https://diseases.medelement.com/index.php/disease/view/MTIyNjg%253D/fDd8MTl8" target="_blank">Другие острые гастриты</a>" (</span>K29.1),<strong style="margin: 0px; padding: 0px; font-family: Arial, Helvetica, sans-serif; line-height: 18px;"> </strong>"<span style="margin: 0px; padding: 0px; font-family: Arial, Helvetica, sans-serif; line-height: 18px;"><a href="https://diseases.medelement.com/index.php/disease/view/NDYwNw%253D%253D/fDd8MTl8" target="_blank">Острый геморрагический гастрит</a>"</span> (K29.0).<br/>
+Хронический гастрит - см. "<a href="https://diseases.medelement.com/index.php/disease/view/NDYxMg%253D%253D/fDd8MTl8" target="_blank">Хронический гастрит неуточненный</a>" (K29.5).                </div>
+</section>
+</div>
+</section>
+<section class="page-section" data-section-name="DIAGNOSTICS">
+<h2 class="page-section__title" id="diagnostics">
+        Диагностика    </h2>
+<div class="container">
+<div class="row page-section__row">
+<div style="text-align: justify;">
+<br/>
+	Диагностика различается лишь в оценке жалоб, анамнеза и клиники заболеваний. Это касается и острого, и хронического, и алкогольного  гастритов.<br/>
+<br/>
+	См. также"<span style="margin: 0px; padding: 0px; font-family: Arial, Helvetica, sans-serif; line-height: 18px;"><a href="https://diseases.medelement.com/index.php/disease/view/MTIyNjg%253D/fDh8" target="_blank">Другие острые гастриты</a>" (</span>K29.1),<strong style="margin: 0px; padding: 0px; font-family: Arial, Helvetica, sans-serif; line-height: 18px;"> </strong> "<a href="https://diseases.medelement.com/index.php/disease/view/NDYxMg%253D%253D/fDh8" target="_blank">Хронический гастрит неуточненный</a>" (K29.5), "<a href="https://diseases.medelement.com/index.php/disease/view/NDYwOQ%253D%253D/fDh8" target="_blank">Алкогольный гастрит</a>" (K29.2)</div>
+</div>
+</div>
+</section>
+<section class="page-section" data-section-name="DIFFERENTIALDIAGNOSIS">
+<h2 class="page-section__title" id="differentialdiagnosis">
+        Дифференциальный диагноз    </h2>
+<div class="container">
+<div class="row page-section__row">
+<div>
+<br/>
+	Наибольшее значение имеет диф. диагностика с:<br/>
+	- функциональной диспепсией;<br/>
+	- язвой желудка;<br/>
+	- раком желудка.<br/><br/>
+	Значительно реже встречается необходимость дифференцировать с:<br/>
+	- острым инфарктом миокарда;<br/>
+	- острым панкреатитом;<br/>
+	- острым холециститом;<br/>
+	- эозинофильным (аллергическим) гастроэнтероколитом;<br/>
+	- инфекционным гастроэнтеритом;<br/>
+	- травмами органов брюшной полости.<br/>
+	 </div>
+</div>
+</div>
+</section>
+<section class="page-section" data-section-name="SEQUELAE">
+<h2 class="page-section__title" id="sequelae">
+        Осложнения    </h2>
+<div class="container">
+<div class="row page-section__row">
+<br/>
+Для острого гастрита - см. "<a href="https://diseases.medelement.com/index.php/disease/view/MTIyNjg%253D/fDExfA%253D%253D" target="_blank">Другие острые гастриты</a>" (K29.1), "<a href="https://diseases.medelement.com/index.php/disease/view/NDYwNw%253D%253D/fDExfA%253D%253D" target="_blank">Острый геморрагический гастрит</a>" (K29.0).<br/>
+Хронический гастрит - см. "<a href="https://diseases.medelement.com/index.php/disease/view/NDYxMg%253D%253D/fDExfA%253D%253D" target="_blank">Хронический гастрит неуточненный</a>" (K29.5).<br/>
+<br/>
+</div>
+</div>
+</section>
+<section class="page-section" data-section-name="THERAPY">
+<h2 class="page-section__title" id="therapy">
+        Лечение    </h2>
+<div class="container">
+<div class="row page-section__row">
+<br/>
+Для острого гастрита - см. "<a href="https://diseases.medelement.com/index.php/disease/view/MTIyNjg%253D/fDEyfA%253D%253D" target="_blank">Другие острые гастриты</a>" (K29.1), "<a href="https://diseases.medelement.com/index.php/disease/view/NDYwNw%253D%253D/fDEyfA%253D%253D" target="_blank">Острый геморрагический гастрит</a>" (K29.0).<br/>
+Хронический гастрит - см. "<a href="https://diseases.medelement.com/index.php/disease/view/NDYxMg%253D%253D/fDEyfA%253D%253D" target="_blank">Хронический гастрит неуточненный</a>" (K29.5).
+                            
+
+
+
+
+
+                       </div>
+</div>
+</section>
+<section class="page-section" data-section-name="PROGNOSIS">
+<h2 class="page-section__title" id="prognosis">
+        Прогноз    </h2>
+<div class="container">
+<div class="row page-section__row">
+<br/>
+Благоприятный.
+                    </div>
+</div>
+</section>
+<section class="page-section" data-section-name="HOSPITALIZATION">
+<h2 class="page-section__title" id="hospitalization">
+        Госпитализация    </h2>
+<div class="container">
+<div class="row page-section__row">
+<div>
+<br/>
+	Для острых гастритов рекомендуется госпитализация в терапевтическое, токсикологическое, инфекционное или хирургическое отделение.<br/>
+	Для хронических гастритов госпитализации не требуется.</div>
+</div>
+</div>
+</section>
+<section class="page-section" data-index="12">
+<h2 class="page-section__title" id="information">
+        Информация    </h2>
+<div class="container">
+<section class="row page-field" data-field-name="LISTOFREFERENCES">
+<h3 class="page-field__title text-left" id="listofreferences">
+                    Источники и литература                </h3>
+<div class="page-field__data">
+<ol id="AdditionalListSources" type="I">
+<li level="1">
+<span>МакНелли Питер Р. Секреты гастроэнтерологии/ перевод с англ. под редакцией проф. Апросиной З.Г., Бином, 2005</span>
+<ol type="1">
+</ol>
+</li>
+<li level="1">
+<span>Приворотский В.Ф., Луппова Н.Е. Кислотозависимые заболевания у детей (клиническая картина, диагностика, лечение).Учеб. пособие, СПб., 2005
+</span>
+<ol type="1">
+</ol>
+</li>
+<li level="1">
+<span>Рапопорт С.И. Гастриты. Пособие для врачей, М.: ИД "Медпрактика-М", 2010</span>
+<ol type="1">
+</ol>
+</li>
+</ol> </div>
+</section>
+</div>
+</section>
+<section class="page-section" data-section-name="ATTENTION">
+<h2 class="page-section__title" id="attention">
+        Внимание!    </h2>
+<div class="container">
+<div class="row page-section__row">
+<!--noindex-->
+<label class="attention-self-treatment-list__caption">Если вы не являетесь медицинским специалистом:</label>
+<ul class="attention-self-treatment-list">
+<li>
+        Занимаясь самолечением, вы можете нанести непоправимый вред своему здоровью.
+         
+    </li>
+<li>
+        Информация, размещенная на сайте MedElement, не может и не должна заменять очную консультацию врача.
+        Обязательно
+        обращайтесь в медицинские учреждения при наличии каких-либо заболеваний или беспокоящих вас симптомов.
+         
+    </li>
+<li>
+        Выбор лекарственных средств и их дозировки, должен быть оговорен со специалистом. Только врач может
+        назначить
+        нужное лекарство и его дозировку с учетом заболевания и состояния организма больного.
+         
+    </li>
+<li>
+        Сайт MedElement является исключительно информационно-справочным ресурсом. Информация, размещенная на данном
+        сайте, не должна использоваться для самовольного изменения предписаний врача.
+         
+    </li>
+<li>
+        Редакция MedElement не несет ответственности за какой-либо ущерб здоровью или материальный ущерб, возникший
+        в
+        результате использования данного сайта.
+    </li>
+</ul>
+<!--/noindex-->
+</div>
+</div>
+</section>
+</main>

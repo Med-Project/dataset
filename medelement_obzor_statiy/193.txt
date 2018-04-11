@@ -1,0 +1,311 @@
+<main id="main">
+<section class="page-information disease-information">
+<div class="container">
+<h1 class="page-information__name disease-information__name">
+            Острый бронхит, вызванный эховирусом (J20.7)        </h1>
+<div class="disease-information__version-name">
+<p class="lead text-muted">
+                
+                Версия: Справочник заболеваний MedElement                </p>
+</div>
+<div class="disease-information__categories-mkb">
+<label>Категории МКБ: </label>
+                Острый бронхит, вызванный эховирусом (J20.7)            </div>
+<div class="disease-information__sections-medicine">
+<label>Разделы медицины: </label>
+                Пульмонология            </div>
+</div>
+</section>
+<section class="page-section" data-index="0">
+<h2 class="page-section__title" id="general_information">
+        Общая информация    </h2>
+<div class="container">
+<div class="page-links-actions">
+<ul>
+<li class="page-links-actions__item page-links-actions__item--print" data-ga-event-action="Клик по ссылке: Версия для печати" data-ga-event-category="Links actions" data-ga-event-label="" data-send-ga-event="">
+<a href="javascript:window.print()">Версия для печати
+                    <svg class="svg-icon svg-icon-printer" height="18" version="1.1" viewbox="0 0 24 24" width="18" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<path d="M18,3H6V7H18M19,12A1,1 0 0,1 18,11A1,1 0 0,1 19,10A1,1 0 0,1 20,11A1,1 0 0,1 19,12M16,19H8V14H16M19,8H5A3,3 0 0,0 2,11V17H6V21H18V17H22V11A3,3 0 0,0 19,8Z"></path>
+</svg>
+</a>
+</li>
+</ul>
+</div>
+<section class="row page-field" data-field-name="SHORTDESCRIPTION">
+<h3 class="page-field__title text-left" id="shortdescription">
+                    Краткое описание                </h3>
+<div class="page-field__data">
+<div style="text-align: justify;">
+<br/>
+<strong>Бронхит острый</strong> - диффузное острое воспаление трахеобронхиального дерева (слизистой оболочки бронхов). <br/>
+<br/>
+<strong>Эховирусы или "вирусы-сиротки"</strong> (англ. ECHO, Enteric Cytopathic Human Orphan) - вид РНК-содержащего вируса, принадлежащего роду энтеровирусов (как и вирусы Коксаки). Они составляют самую большую  подгруппу, состоящую из 32 серотипов.  <br/>
+	Эховирусы  вызывают целый ряд болезней - от незначительных лихорадок, до тяжелых, потенциально смертельных заболеваний (например, асептический менингит, энцефалит, паралич, миокардит).<br/>
+	Различные  серотипы имеют разные периоды циркуляции в человеческой популяции и вызывают различные клинические проявления при инфицировании. Изменения циркулирующих серотипов могут быть связаны с возникновением крупных эпидемических вспышек эховирусной инфекции.<br/>
+<br/>
+<strong>Острый бронхит </strong>является одной из нетяжелых форм эховирусной инфекции и выделен в отдельную нозологическую единицу вследствие потенциальной опасности эпидемиологических вспышек в детских коллективах.  Клинически эховирусный острый бронхит практически не отличается от острого бронхита, вызванного вирусом Коксаки ( подробнее см.  "Острый бронхит, вызванный вирусом Коксаки" - J20.3)<br/>
+<br/>
+<strong>Примечание</strong>. Другие  проявления эховирусной инфекции описаны в следующих подрубриках:  <br/>
+	- Энтеровирусный энцефалит - A85.0+  (G05.1*);</div>
+<div style="text-align: justify;">
+	- Энтеровирусный менингит - A87.0+ (G02.0*);</div>
+<div style="text-align: justify;">
+	- Энтеровирусная экзантематозная лихорадка [бостонская экзантема] - A88.0;</div>
+<div style="text-align: justify;">
+	- Энтеровирусный везикулярный стоматит с экзантемой - B08.4;</div>
+<div style="text-align: justify;">
+	- Энтеровирусный везикулярный фарингит - B08.5;</div>
+<div style="text-align: justify;">
+	- Острый эпидемический геморрагический конъюнктивит (энтеровирусный) - B30.3+  (H13.1*);</div>
+<div style="text-align: justify;">
+	- Энтеровирусная инфекция неуточненная - B34.1;</div>
+<div style="text-align: justify;">
+	- Энтеровирусы как причина болезней, классифицированных в других рубриках - B97.1;</div>
+<div style="text-align: justify;">
+	- Эпидемическая миалгия - B33.0.</div>
+</div>
+</section>
+</div>
+</section>
+<section class="page-section" data-section-name="ETIOLOGY">
+<h2 class="page-section__title" id="etiology">
+        Этиология и патогенез    </h2>
+<div class="container">
+<div class="row page-section__row">
+<div style="text-align: justify;">
+<br/>
+	Серотип 11 ECHO-вирусов является наиболее частой причиной респираторных заболеваний, хотя серотипы 4, 8, 9, 20, 22 и 25 также могут являться возбудителями. <br/>
+	У добровольцев, зараженных экспериментально, а иногда и у пациентов с естественно приобретенным заболеванием, некоторые Коксаки-  и ECHO могут быть связаны с воспалением легких. Роль энтеровирусов в развитии заболеваний нижних дыхательных путей пока четко не определена и в настоящее время они должны рассматриваться, как редкие причины пневмонии.</div>
+<div style="text-align: justify;">
+<br/>
+	Путь передачи для острого бронхита - воздушно-капельный, для маленьких детей - механический контакт.<br/>
+	Инкубационный период EV трудно установить, поскольку вирус распространяют и больные, и здоровые люди. Считается, что инкубационный период составляет от 2 дней до 2 недель. <aterm term="1">Репликация<span class="term-description" style="display: none;"><span>Репликация - процесс образования реплики, размножение, самовоспроизведение</span><br/></span></aterm> вируса происходит в лимфоидной ткани, откуда он может диссеминировать во многие органы и системы. Ограниченное поражение только дыхательных путей связано, по-видимому, и с серотипом вируса, и с состоянием иммунной системы пациента. </div>
+</div>
+</div>
+</section>
+<section class="page-section" data-section-name="EPIDEMIOLOGY">
+<h2 class="page-section__title" id="epidemiology">
+        Эпидемиология    </h2>
+<div class="container">
+<div class="row page-section__row">
+<div style="text-align: justify;">
+<br/>
+	Эховирусы, как и все энтеровирусы, относятся к группе <aterm term="1">антропонозов<span class="term-description" style="display: none;"><span>Антропонозы (антропонозные инфекции) — группа инфекционных и паразитарных заболеваний, возбудители которых способны паразитировать в естественных условиях только в организме человека</span><br/></span></aterm>. Суще­ствование вирусов в природе обусловлено наличием двух основных резервуаров - человека, у которого происходит размножение и накопление вируса, и внешней среды (вода, почва, пищевые продукты), в которой они способны выживать благодаря высокой устойчивости.<br/>
+	ECHO-вирусы распространены по всему миру. В странах с умеренным климатом отмечается повышение заболеваемости в летне-осенний период.<br/>
+	Три четверти больных - дети младше 15 лет. Из заболевших лиц моложе 20 лет преобладают мужчины. После 20 лет чаще болеют женщины (вероятно связано с уходом за детьми). Особую группу пациентов составляют новорожденные, которые в возрасте до 2 недель особенно восприимчивы к вирусу.  </div>
+</div>
+</div>
+</section>
+<section class="page-section" data-section-name="FACTORSANDRISKGROUPS">
+<h2 class="page-section__title" id="factorsandriskgroups">
+        Факторы и группы риска    </h2>
+<div class="container">
+<div class="row page-section__row">
+<br/>
+- возраст; <br/>
+- сопутствующие заболевания легких и сердца;<br/>
+- курение;<br/>
+- плохие социально-бытовые условия;<br/>
+- несоблюдение правил санитарии и гигиены в домашних условиях и в коллективах.
+                    </div>
+</div>
+</section>
+<section class="page-section" data-index="4">
+<h2 class="page-section__title" id="clinical">
+        Клиническая картина    </h2>
+<div class="container">
+<section class="row page-field" data-field-name="ANTIPRAXIA">
+<h3 class="page-field__title text-left" id="antipraxia">
+                    Cимптомы, течение                </h3>
+<div class="page-field__data">
+<div style="text-align: justify;">
+<br/>
+	Классические общие признаки острого бронхита (умеренная гипертермия - менее 38<sup>о</sup>С, кашель с мокротой или без длительностью не более трех недель, <aterm term="1">ЧСС<span class="term-description" style="display: none;"><span>ЧСС - частота сердечных сокращений</span><br/></span></aterm> - менее 100 уд./мин., частота дыхания - менее 24/мин., отсутствие признаков пневмонии) сочетаются с некоторыми клиническими особенностями ECHO-вирусной инфекции:<br/>
+	- лихорадка менее 39<sup>о</sup>С;<br/>
+	- сопутствующие заболевания других отделов дыхательных путей: острый стенозирующий ларингит, пневмония (развивается редко);<br/>
+	- коньюктивит;<br/>
+	- <aterm term="1">лимфаденопатия<span class="term-description" style="display: none;"><span>Лимфаденопатия - состояние, проявляющееся увеличением лимфатических узлов лимфатической системы. </span><br/></span></aterm>;<br/>
+	- гепато- и спленомегалия (редко);<br/>
+	- при распространении с кровью вызывает поражение других органов (миокардиты, артриты, поражения мышечной и нервной системы, кишечника и пр.);<br/>
+	- сыпь; <br/>
+	- вызывает септические состояния у новорожденных.</div>
+</div>
+</section>
+</div>
+</section>
+<section class="page-section" data-section-name="DIAGNOSTICS">
+<h2 class="page-section__title" id="diagnostics">
+        Диагностика    </h2>
+<div class="container">
+<div class="row page-section__row">
+<br/>
+Диагноз выставляется на основании эпидемиологических, клинических и лабораторных данных.
+                    </div>
+</div>
+</section>
+<section class="page-section" data-section-name="LABORATORYDIAGNOSTICS">
+<h2 class="page-section__title" id="laboratorydiagnostics">
+        Лабораторная диагностика    </h2>
+<div class="container">
+<div class="row page-section__row">
+<div style="text-align: justify;">
+<br/>
+	1.<strong> Выделение культуры</strong> вируса является долгим и сложным способом, который в силу длительности верификации возбудителя (3-8 дней), как правило, уже не играет роли в принятии решения о ведении пациента. Анализ может быть полезным для составления плана противоэпидемических мероприятий.<br/>
+<br/>
+	2. <strong><aterm term="1">ПЦР<span class="term-description" style="display: none;"><span>ПЦР - полимеразная цепная реакция</span><br/></span></aterm> </strong>имеет достаточно высокую чувствительность (до 90%). Однако в связи с возможным безсимптомным носительством вируса и риском <aterm term="1">контаминации<span class="term-description" style="display: none;"><span>Контаминация - попадание в определенную среду какой-либо примеси, изменяющей свойства этой среды.</span><br/></span></aterm> непосредственно в лаборатории, клиническая ценность теста не всегда бесспорна.<br/>
+<br/>
+<strong>3. Серологическая диагностика.</strong> Требует применения метода парных сывороток с интервалом в 14 дней. В связи с этим не оправдана клинически, так как типирование инфекции в период выздоровления у конкретного пациента представляет скорее эпидемиологический интерес.  <br/>
+	Иммунофлюоресцентная диагностика по мазкам из зева и носа представляется весьма перспективной, однако убедительные данные по эффективности этого метода отсутствуют.  </div>
+</div>
+</div>
+</section>
+<section class="page-section" data-section-name="DIFFERENTIALDIAGNOSIS">
+<h2 class="page-section__title" id="differentialdiagnosis">
+        Дифференциальный диагноз    </h2>
+<div class="container">
+<div class="row page-section__row">
+<br/>
+- бронхиты другой этиологии;<br/>
+- сепсис новорожденных.
+                    </div>
+</div>
+</section>
+<section class="page-section" data-section-name="SEQUELAE">
+<h2 class="page-section__title" id="sequelae">
+        Осложнения    </h2>
+<div class="container">
+<div class="row page-section__row">
+<br/>
+Поражения других органов и систем в связи с возможным гематогенным путем распространения.
+                    </div>
+</div>
+</section>
+<section class="page-section" data-section-name="THERAPY">
+<h2 class="page-section__title" id="therapy">
+        Лечение    </h2>
+<div class="container">
+<div class="row page-section__row">
+<div>
+<br/><span>Специального лечения, кроме симптоматического (жаропонижающие, бронхолитики, ингаляции солевых растворов), не существует. Ниже приведенные препараты хотя и признаны перспективными, тем не менее не имеют убедительной доказательной базы для лечения острого бронхита </span>энтеровирусной этиологии: </div><div>
+<span> - внутривенное введение  человеческого иммуноглобулина (IVIG);</span><br/><span>- рекомбинантные интерфероны;</span><br/><span>-  плеконарил </span>(в том числе в виде назального спрея);</div><div>
+	Следует понимать, что острый бронхит является так называемым "спонтанно самоизлечивающимся (самоликвидирующимся) заболеванием" и целесообразность применения этих препаратов также весьма дискутабельна. Данные препараты могут применяться, например, у новорожденных, у иммунокомпрометированных пациентов, при длительном затяжном течении заболевания. </div><div>
+<br/>
+	Нет убедительных доказательств в пользу применения антибиотиков, кортикостероидов.<br/><br/><span>В эпидемическом очаге не рекомендуется общение детей из группы дошкольного детского учреждения, в которой зарегистрировано заболевание, с другими детьми и прием новых детей в эту группу в течение 14 дней от момента изоляции больного. Такое же время </span>требуется для изоляции больного ребенка в домашних условиях. Требуется проведение дезинфекции.</div>
+</div>
+</div>
+</section>
+<section class="page-section" data-section-name="PROGNOSIS">
+<h2 class="page-section__title" id="prognosis">
+        Прогноз    </h2>
+<div class="container">
+<div class="row page-section__row">
+<div style="text-align: justify;">
+<br/>
+<span style="font-family: Arial; line-height: 16px; text-align: justify;">После перенесения заболевания формируется <aterm term="1">гуморальный<span class="term-description" style="display: none;"><span>Гуморальный - относящийся к жидким внутренним средам организма.</span><br/></span></aterm> типоспецифический иммунитет, продолжительность которого колеблется в разных пределах. Некоторые авторы связывают перенесенную инфекцию с повышенным риском развития сахарного диабета первого типа.</span></div>
+</div>
+</div>
+</section>
+<section class="page-section" data-section-name="HOSPITALIZATION">
+<h2 class="page-section__title" id="hospitalization">
+        Госпитализация    </h2>
+<div class="container">
+<div class="row page-section__row">
+<div>
+<br/>
+	Как правило, не требуется. <br/>
+	Госпитализации подлежат дети до 6 месяцев, дети с тяжелой дыхательной недостаточностью или врожденными пороками легких.</div>
+</div>
+</div>
+</section>
+<section class="page-section" data-section-name="PROPHYLAXIS">
+<h2 class="page-section__title" id="prophylaxis">
+        Профилактика    </h2>
+<div class="container">
+<div class="row page-section__row">
+<br/>
+Вакцины не существует. Значительную роль играют соблюдение правил личной и коллективной санитарии и гигиены.
+                    </div>
+</div>
+</section>
+<section class="page-section" data-index="13">
+<h2 class="page-section__title" id="information">
+        Информация    </h2>
+<div class="container">
+<section class="row page-field" data-field-name="LISTOFREFERENCES">
+<h3 class="page-field__title text-left" id="listofreferences">
+                    Источники и литература                </h3>
+<div class="page-field__data">
+<ol id="AdditionalListSources" type="I">
+<li level="1">
+<span>"Acute Bronchitis" William J. Hueston, Arch G. Mainous III, American Family Physician journal, 1998 Mar 15; 57(6):1270-1276</span>
+<ol type="1">
+</ol>
+</li>
+<li level="1">
+<span>"Acute bronchitis" Graham Worrall, Canadian Family Physician journal, 2008 February; 54(2): 238–239
+</span>
+<ol type="1">
+</ol>
+</li>
+<li level="1">
+<span>"Противокашлевая терапия: рациональный выбор"Самсыгина Г.А., журнал "В мире лекарств", №2, 1999</span>
+<ol type="1">
+</ol>
+</li>
+<li level="1">
+<span>http://rsmu.ru/8633.html</span>
+<ol type="1">
+<li level="2"> "Бронхиты и бронхиолиты. Острые обструктивные состояния дыхательных путей у детей" Научно-информационный материал, Российский национальный
+исследовательский медицинский университет имени Н. И. Пирогова, 2011 -   </li>
+</ol>
+</li>
+<li level="1">
+<span>http://guideline.gov</span>
+<ol type="1">
+<li level="2">"Management of uncomplicated acute bronchitis in adults", Southfield (MI): Michigan Quality Improvement Consortium, 2010 May -  </li>
+</ol>
+</li>
+</ol> </div>
+</section>
+</div>
+</section>
+<section class="page-section" data-section-name="ATTENTION">
+<h2 class="page-section__title" id="attention">
+        Внимание!    </h2>
+<div class="container">
+<div class="row page-section__row">
+<!--noindex-->
+<label class="attention-self-treatment-list__caption">Если вы не являетесь медицинским специалистом:</label>
+<ul class="attention-self-treatment-list">
+<li>
+        Занимаясь самолечением, вы можете нанести непоправимый вред своему здоровью.
+         
+    </li>
+<li>
+        Информация, размещенная на сайте MedElement, не может и не должна заменять очную консультацию врача.
+        Обязательно
+        обращайтесь в медицинские учреждения при наличии каких-либо заболеваний или беспокоящих вас симптомов.
+         
+    </li>
+<li>
+        Выбор лекарственных средств и их дозировки, должен быть оговорен со специалистом. Только врач может
+        назначить
+        нужное лекарство и его дозировку с учетом заболевания и состояния организма больного.
+         
+    </li>
+<li>
+        Сайт MedElement является исключительно информационно-справочным ресурсом. Информация, размещенная на данном
+        сайте, не должна использоваться для самовольного изменения предписаний врача.
+         
+    </li>
+<li>
+        Редакция MedElement не несет ответственности за какой-либо ущерб здоровью или материальный ущерб, возникший
+        в
+        результате использования данного сайта.
+    </li>
+</ul>
+<!--/noindex-->
+</div>
+</div>
+</section>
+</main>

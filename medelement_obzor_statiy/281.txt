@@ -1,0 +1,361 @@
+<main id="main">
+<section class="page-information disease-information">
+<div class="container">
+<h1 class="page-information__name disease-information__name">
+            Туберкулезный эзофагит (A18.8+) (K23.0*)        </h1>
+<div class="disease-information__alternate-name">
+<label>Также: </label>
+                туберкулез пищевода            </div>
+<div class="disease-information__version-name">
+<p class="lead text-muted">
+                
+                Версия: Справочник заболеваний MedElement                </p>
+</div>
+<div class="disease-information__categories-mkb">
+<label>Категории МКБ: </label>
+                Туберкулезный эзофагит (A18.8+)            </div>
+<div class="disease-information__sections-medicine">
+<label>Разделы медицины: </label>
+                Гастроэнтерология            </div>
+</div>
+</section>
+<section class="page-section" data-index="0">
+<h2 class="page-section__title" id="general_information">
+        Общая информация    </h2>
+<div class="container">
+<div class="page-links-actions">
+<ul>
+<li class="page-links-actions__item page-links-actions__item--print" data-ga-event-action="Клик по ссылке: Версия для печати" data-ga-event-category="Links actions" data-ga-event-label="" data-send-ga-event="">
+<a href="javascript:window.print()">Версия для печати
+                    <svg class="svg-icon svg-icon-printer" height="18" version="1.1" viewbox="0 0 24 24" width="18" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<path d="M18,3H6V7H18M19,12A1,1 0 0,1 18,11A1,1 0 0,1 19,10A1,1 0 0,1 20,11A1,1 0 0,1 19,12M16,19H8V14H16M19,8H5A3,3 0 0,0 2,11V17H6V21H18V17H22V11A3,3 0 0,0 19,8Z"></path>
+</svg>
+</a>
+</li>
+</ul>
+</div>
+<section class="row page-field" data-field-name="SHORTDESCRIPTION">
+<h3 class="page-field__title text-left" id="shortdescription">
+                    Краткое описание                </h3>
+<div class="page-field__data">
+<div style="text-align: justify;">
+<br/>
+<strong>Туберкулезный эзофагит</strong> (туберкулез пищевода) представляет собой одну из редких локализаций туберкулеза и в большинстве случаев наблюдается у лиц с далеко зашедшими легочными формами заболевания, незадолго до смерти. Относится к так называемым "внелегочным" формам туберкулеза.<br/>
+<br/>
+<br/>
+<strong>Примечание</strong>. Кодируется дополнительно к подрубрике "Туберкулез других уточненных органов" - A18.8+ </div>
+</div>
+</section>
+</div>
+</section>
+<section class="page-section" data-section-name="CLASSIFICATION">
+<h2 class="page-section__title" id="classification">
+        Классификация    </h2>
+<div class="container">
+<div class="row page-section__row">
+<p style="text-align: justify;">
+<br/>
+	Общепринятая классификация отсутствует.</p>
+<p style="text-align: justify;">
+<br/>
+	Различают 3 основные формы туберкулезного поражения пищевода:</p>
+<p style="text-align: justify;">
+	1. Язва.</p>
+<p style="text-align: justify;">
+	2. Склеротический инфильтрат (стенотическая форма).</p>
+<p style="text-align: justify;">
+	3. Туберкулома (гранулёма, милиарная форма).</p>
+<p style="text-align: justify;">
+<br/>
+	Данные формы могут встречаться изолированно или сочетаться между собой, а также с другими заболеваниями пищевода (сифилисом, раком).</p>
+</div>
+</div>
+</section>
+<section class="page-section" data-section-name="ETIOLOGY">
+<h2 class="page-section__title" id="etiology">
+        Этиология и патогенез    </h2>
+<div class="container">
+<div class="row page-section__row">
+<div style="text-align: justify;">
+<br/>
+	Возбудитель туберкулеза - кислотоустойчивые бактерии рода Mycobacterium. Микобактерии широко распространены в почве, воде, среди людей и животных. У человека туберкулез вызывает условно выделенный комплекс, включающий Mycobacterium tuberculosis (человеческий вид), Mycobacterium bovis (бычий вид), Mycobacterium bovis BCG (БЦЖ-штамм бычьего вида), Mycobacterium africanum, Mycobacterium microti, Mycobacterium canettii. В последнее время к данному комплексу также относят Mycobacterium pinnipedii и Mycobacterium caprae, которые филогенетически имеют отношение к Mycobacterium microti и Mycobacterium bovis.</div>
+<div style="text-align: justify;">
+<br/>
+	Микобактерии могут попадать в пищевод рег continuitatem (при диссеминациях милиарного процесса), лимфогенным путем (на уровне бифуркации). Первичное поражение стенки пищевода микобактериями наблюдается очень редко. <br/>
+<br/>
+<strong>Патоанатомия</strong><br/>
+	Типичная локализация туберкулезных очагов - на уровне бифуркации. Гистологически туберкулезные очаги имеют такое же строение, что и первичные очаги.  <br/>
+<br/>
+	1. При <strong>язвенной форме туберкулеза</strong> обнаруживается дефект слизистой оболочки (до мышечного слоя). Этот дефект имеет серый цвет, гнойный налет на дне и возвышенные края; окружен мелкими узелками. Более редко регистрируются множественные язвы при казеозном распаде рассеянных туберкулезных бугорков, расположенных по длинной оси пищевода в виде цепочки. </div>
+<div style="text-align: justify;">
+<br/>
+	2. <strong>Склерозирующая (стенозирующая) форма туберкулеза</strong> характеризуется концентрическим специфическим воспалением пищевода и околопищеводной клетчатки (медиастинит) на протяжении от 1 до 6-8 см.<br/>
+	При данной форме сужение просвета пищевода возникает в результате склеротического утолщения мышечного слоя в сочетании с почти не измененной слизистой оболочкой, а также может наблюдаться вследствие рубцового стеноза на месте туберкулезной язвы.<br/>
+	Склерозирующая форма туберкулеза имеет длительное течение (годы и десятилетия), с частыми обострениями и ремиссиями в зависимости от правильного распознавания и эффективности противотуберкулезного лечения.<br/>
+<br/>
+	3. <strong>Гранулемная форма туберкулеза - </strong>наиболее редкая в клинической и патоанатомической практике. Характерны мелкие поверхностные узелки серого цвета без тенденции к казеозному распаду (подслизистые микротуберкуломы).<br/>
+	 </div>
+</div>
+</div>
+</section>
+<section class="page-section" data-section-name="EPIDEMIOLOGY">
+<h2 class="page-section__title" id="epidemiology">
+        Эпидемиология    </h2>
+<div class="container">
+<div class="row page-section__row">
+<p>Признак распространенности: Крайне редко</p>
+<br/>
+<div style="text-align: justify;">
+	Туберкулез пищевода в 20 веке встречался в 0,04-0,15% случаев туберкулеза. По данным различных патологоанатомических статистик, туберкулез пищевода встречается в 2-5 случаях на 10 000 вскрытий.</div>
+</div>
+</div>
+</section>
+<section class="page-section" data-section-name="FACTORSANDRISKGROUPS">
+<h2 class="page-section__title" id="factorsandriskgroups">
+        Факторы и группы риска    </h2>
+<div class="container">
+<div class="row page-section__row">
+<br/>
+- пациенты с тяжелыми легочными формами туберкулеза;<br/>
+- <aterm term="1">дискинезия пищевода<span class="term-description" style="display: none;"><span>Дискинезия пищевода - это нарушение его моторной (двигательной) функции, которое заключается в изменении продвижения пищи из полости глотки в желудок при отсутствии органических поражений пищевода. Нарушения моторной функции пищевода приводят к задержке или замедлению продвижения пищи в желудок либо к появлению ретроградного ее продвижения</span><br/><a class="tooltip-term__more" href="https://diseases.medelement.com/index.php/disease/view/NDU5Mw%253D%253D/fDB8" target="_blank" title="Подробнее о дискинезия пищевода">Подробно</a></span></aterm>;<br/>
+- <aterm term="1">эзофагит<span class="term-description" style="display: none;"><span>Эзофагит - воспаление слизистой оболочки пищевода.</span><br/><a class="tooltip-term__more" href="https://diseases.medelement.com/index.php/disease/view/NDU4NA%3D%3D/0" target="_blank" title="Подробнее о эзофагит">Подробно</a></span></aterm>;<br/>
+- ожоги;<br/>
+- рубцовые стенозы;<br/>
+- <aterm term="1">ГЭРБ<span class="term-description" style="display: none;"><span>Гастроэзофагеальная рефлюксная болезнь (ГЭРБ) - хроническое рецидивирующее заболевание, обусловленное спонтанным, регулярно повторяющимся забросом в пищевод желудочного и/или дуоденального содержимого,  что приводит к поражению нижнего отдела пищевода.
+Часто сопровождается развитием воспаления слизистой дистального отдела пищевода - рефлюкс-эзофагитом, и/или формированием пептической язвы и пептической стриктуры пищевода, пищеводно-желудочных кровотечений и других осложнений</span><br/><img class="tooltip-term__img" data-link="https://diseases.medelement.com/upload/21441763743e4c828947bee3dc064df4.jpg" src="/images/tooltip/image.svg" title="Открыть изображение"/><a class="tooltip-term__more" href="https://diseases.medelement.com/index.php/disease/view/NDU4Nw%3D%3D/0" target="_blank" title="Подробнее о ГЭРБ">Подробно</a></span></aterm>;<br/>
+- аллергическое поражение пищевода.
+                    </div>
+</div>
+</section>
+<section class="page-section" data-index="5">
+<h2 class="page-section__title" id="clinical">
+        Клиническая картина    </h2>
+<div class="container">
+<section class="row page-field" data-field-name="THESIS">
+<h3 class="page-field__title text-left" id="thesis">
+                    Клинические критерии диагностики                </h3>
+<div class="page-field__data">
+                    
+                    дисфагия, одинофагия, боль за грудиной, кашель, гипертермия, одышка                </div>
+</section>
+<section class="row page-field" data-field-name="ANTIPRAXIA">
+<h3 class="page-field__title text-left" id="antipraxia">
+                    Cимптомы, течение                </h3>
+<div class="page-field__data">
+<p style="text-align: justify;">
+<br/>
+	Клиника туберкулезного эзофагита не характеризуется  выраженными симптомами и определяется в основном формой поражения пищевода.<br/>
+<br/>
+	1. <strong>Язвенная форма</strong> сопровождается чувством жжения за грудиной и болью при проглатывании пищи (одинофагия), исчезающим в промежутках между актами глотания. <br/>
+<br/>
+	2. <strong>Склеротическая форма</strong> характеризуется преобладанием дисфагии в сочетании с истощением и анемией.  <br/>
+<br/>
+	3. При <strong>пролиферативной форме</strong> в начальной стадии у больных отмечаются удовлетворительное общее состояние и безболезненный акт глотания. Затем, по мере сужения просвета пищевода и в особенности при изъязвлении и распаде <aterm term="1">гранулём<span class="term-description" style="display: none;"><span>Гранулёма - очаг продуктивного воспаления, имеющий вид плотного узелка.</span><br/></span></aterm>, состояние пациентов быстро ухудшается, появляются выраженные боли, не связанные с приемом пищи.</p>
+<p style="text-align: justify;">
+<br/>
+	Как правило, при всех формах туберкулезного эзофагита присутствует изжога, обусловленная <aterm term="1">ГЭРБ<span class="term-description" style="display: none;"><span>Гастроэзофагеальная рефлюксная болезнь (ГЭРБ) - хроническое рецидивирующее заболевание, обусловленное спонтанным, регулярно повторяющимся забросом в пищевод желудочного и/или дуоденального содержимого,  что приводит к поражению нижнего отдела пищевода.
+Часто сопровождается развитием воспаления слизистой дистального отдела пищевода - рефлюкс-эзофагитом, и/или формированием пептической язвы и пептической стриктуры пищевода, пищеводно-желудочных кровотечений и других осложнений</span><br/><img class="tooltip-term__img" data-link="https://diseases.medelement.com/upload/21441763743e4c828947bee3dc064df4.jpg" src="/images/tooltip/image.svg" title="Открыть изображение"/><a class="tooltip-term__more" href="https://diseases.medelement.com/index.php/disease/view/NDU4Nw%3D%3D/0" target="_blank" title="Подробнее о ГЭРБ">Подробно</a></span></aterm>.</p>
+<p style="text-align: justify;">
+<br/>
+	Прогрессирование язвенного процесса в пищеводе при одновременном поражении глотки туберкулезной инфекцией сопровождается резким нарушением акта глотания, возникновением сильных спонтанных болей (в особенности в ночное время), которые не купируются обычными анальгетиками. Боль <aterm term="1">иррадиирует<span class="term-description" style="display: none;"><span>Иррадиация - распространение болевых ощущений за пределы пораженного участка или органа.</span><br/></span></aterm> в одно или оба уха, у больных появляется чувство жжения за грудиной, усиливающееся при глотании.</p>
+<p style="text-align: justify;">
+	Клиническая картина заболевания дополняется характерными для легочного туберкулеза общими симптомами. <br/>
+<br/>
+	Клиническая диагностика туберкулеза пищевода затруднена при стертых формах первичного туберкулеза, явившегося источником поражения пищевода. На начальной стадии туберкулезного эзофагита можно лишь предполагать наличие специфического процесса в пищеводе.</p>
+</div>
+</section>
+</div>
+</section>
+<section class="page-section" data-section-name="DIAGNOSTICS">
+<h2 class="page-section__title" id="diagnostics">
+        Диагностика    </h2>
+<div class="container">
+<div class="row page-section__row">
+<p style="text-align: justify;">
+<br/>
+	1.<strong> </strong><aterm term="1"><strong>ФГДС<span class="term-description" style="display: none;"><span>ФГДС - фиброгастродуоденоскопия (инструментальное исследование пищевода, желудка и двенадцатиперстной кишки с помощью волокнооптического эндоскопа)</span><br/></span></strong></aterm><strong> </strong>должна проводиться всем пациентам с туберкулезом легких при наличии жалоб на затруднение глотания. Следует иметь в виду, что глубокие поражения стенки пищевода могут обуславливать ее перфорацию и смертельные кровотечения. В связи с этим при проведении исследования необходимо соблюдать осторожность (в особенности в случае язвенно-некротических форм поражения пищевода или при появлении трудностей с продвижением инструмента). Наличие значительных затруднений  может быть веским поводом к отмене ФГДС<span class="term-description" style="display: none;"><span>ФГДС - фиброгастродуоденоскопия (инструментальное исследование пищевода, желудка и двенадцатиперстной кишки с помощью волокнооптического эндоскопа)</span><br/></span>.</p>
+<p style="text-align: justify;">
+<br/>
+	Успешная эзофагоскопия позволяет выявить макроскопические признаки поражения стенки пищевода, предположить форму туберкулеза пищевода, а также осуществить биопсию туберкулезных очагов. <br/>
+	Диагноз туберкулеза пищевода считают достоверным при обнаружении в биоптате эпителиоидных и гигантских клеток среди творожистого распада, остатков пищеводных тканей и нейтрофилов в отделяемом (зачастую - гнойном).</p>
+<p style="text-align: justify;">
+	Для язвенных форм характерна локализация патологического процесса в средней и верхней части пищевода.<br/>
+<br/>
+	При инфильтративно-склеротической форме патологический процесс наблюдается в нижней трети пищевода. Здесь определяются значительное утолщение стенки пищевода, туберкулезные гранулёмы, а также стеноз, протяженность которого может достигать 10-12 сантиметров, а просвет пищевода не превышает нескольких миллиметров. При биопсии отмечается значительная плотность пролиферативно-склеротических образований. Над стенозом, как правило, обнаруживают участок <aterm term="1">дилатации<span class="term-description" style="display: none;"><span>Дилатация - стойкое диффузное расширение просвета какого-либо полого органа.</span><br/></span></aterm> пищевода, заполненный остатками пищи и гноевидной массой.<br/>
+<br/>
+	В некоторых случаях, когда туберкулезный процесс в легких развивается в непосредственной близости от пищевода и распространяется на него, возможны вторичные смещения и деформации пищевода, вызванные первичным процессом.</p>
+<p style="text-align: justify;">
+<br/>
+	2. <strong>Рентгенодиагностика</strong>. Могут выявляться туберкулезные поражения легких или лимфатических узлов <aterm term="1">средостения<span class="term-description" style="display: none;"><span>Средостение - часть грудной полости, расположенная между правым и левым плевральными мешками, ограниченная спереди грудиной, сзади грудным отделом позвоночника, снизу диафрагмой, сверху верхней апертурой грудной клетки.</span><br/></span></aterm> (фазы инфильтрации, уплотнения, распада), <aterm term="1">дискинезия<span class="term-description" style="display: none;"><span>Дискинезия - общее название расстройств координированных двигательных актов (в т.ч. внутренних органов), заключающихся в нарушении временной и пространственной координации движений и неадекватной интенсивности отдельных их компонентов.</span><br/></span></aterm>, деформация стенок (язвы видны редко), рубцовые стенозы, склерозирующий <aterm term="1">медиастинит<span class="term-description" style="display: none;"><span>Медиастинит - воспаление клетчатки средостения.</span><br/></span></aterm> с параэзофагеальными кальцинатами.</p>
+</div>
+</div>
+</section>
+<section class="page-section" data-section-name="LABORATORYDIAGNOSTICS">
+<h2 class="page-section__title" id="laboratorydiagnostics">
+        Лабораторная диагностика    </h2>
+<div class="container">
+<div class="row page-section__row">
+<div style="text-align: justify;">
+<br/>
+	Лабораторные показатели изменяются в зависимости от стадии процесса, проводимой терапии и индивидуальных особенностей пациента.<br/>
+<aterm term="1">Патогномоничные<span class="term-description" style="display: none;"><span>Патогномоничный - характерный для данной болезни (о признаке).</span><br/></span></aterm> для туберкулезного эзофагита признаки отсутствуют.</div>
+</div>
+</div>
+</section>
+<section class="page-section" data-section-name="DIFFERENTIALDIAGNOSIS">
+<h2 class="page-section__title" id="differentialdiagnosis">
+        Дифференциальный диагноз    </h2>
+<div class="container">
+<div class="row page-section__row">
+<div>
+<br/>
+	В основном дифференциальная диагностика проводится с сифилисом и новообразованиями, особенно с  эндофитным, плоскоинфильтрирующим раком пищевода.<br/>
+	Критерием дифференциации является  наличие туберкулеза у пациента и исследование биоптатов, полученных при ФГДС.<br/>
+	 </div>
+</div>
+</div>
+</section>
+<section class="page-section" data-section-name="SEQUELAE">
+<h2 class="page-section__title" id="sequelae">
+        Осложнения    </h2>
+<div class="container">
+<div class="row page-section__row">
+<div style="text-align: justify;">
+<br/>
+<strong>Наиболее частые осложнения туберкулеза пищевода:</strong><br/>
+	- тракционные бифуркационные дивертикулы и дивертикулиты;<br/>
+	- рубцовый стеноз;<br/>
+	- эзофагобронхиальные, трахеальные и плевральные фистулы;<br/>
+	- гнойный медиастинит;<br/>
+	- <aterm term="1">плеврит<span class="term-description" style="display: none;"><span>Плеврит - воспаление плевры (серозная оболочка, покрывающая легкие и выстилающая стенки грудной полости)</span><br/></span></aterm>;<br/>
+	- пневмония;<br/>
+	- кровотечение из аррозированных сосудов;<br/>
+	- вторичная грибковая инфекция.<br/>
+	 </div>
+</div>
+</div>
+</section>
+<section class="page-section" data-section-name="THERAPY">
+<h2 class="page-section__title" id="therapy">
+        Лечение    </h2>
+<div class="container">
+<div class="row page-section__row">
+<br/>
+Лечение туберкулезного эзофагита в основном медикаментозное. К хирургическому вмешательству  (<aterm term="1">бужированию<span class="term-description" style="display: none;"><span>Бужирование -  введение бужей (инструмент в виде жесткого или гибкого стержня, предназначенный для исследования или постепенного расширения органов трубчатой формы) в некоторые органы трубчатой формы (мочеиспускательный канал, пищевод и др.) с диагностической или лечебной целью.</span><br/></span></aterm>) прибегают крайне редко.<br/>
+<br/>
+</div>
+</div>
+</section>
+<section class="page-section" data-section-name="PROGNOSIS">
+<h2 class="page-section__title" id="prognosis">
+        Прогноз    </h2>
+<div class="container">
+<div class="row page-section__row">
+<br/>
+Прогноз сомнительный. 
+                    </div>
+</div>
+</section>
+<section class="page-section" data-section-name="HOSPITALIZATION">
+<h2 class="page-section__title" id="hospitalization">
+        Госпитализация    </h2>
+<div class="container">
+<div class="row page-section__row">
+<br/>
+Госпитализация в специализированные клиники - требуется при развитии осложнений.
+                    </div>
+</div>
+</section>
+<section class="page-section" data-section-name="PROPHYLAXIS">
+<h2 class="page-section__title" id="prophylaxis">
+        Профилактика    </h2>
+<div class="container">
+<div class="row page-section__row">
+<br/>
+Своевременное выявление и лечение легочных форм туберкулеза.
+                    </div>
+</div>
+</section>
+<section class="page-section" data-index="14">
+<h2 class="page-section__title" id="information">
+        Информация    </h2>
+<div class="container">
+<section class="row page-field" data-field-name="LISTOFREFERENCES">
+<h3 class="page-field__title text-left" id="listofreferences">
+                    Источники и литература                </h3>
+<div class="page-field__data">
+<ol id="AdditionalListSources" type="I">
+<li level="1">
+<span>"Туберкулез пищевода: клиника, диагностика" Кузьмина О.А., Таланова О.С., Холева А.О., Савоненкова Л.Н., Арямкина О.Л., ФГБОУ ВПО Ульяновский государственный университет</span>
+<ol type="1">
+</ol>
+</li>
+<li level="1">
+<span>http://mydoc.ru/2012/04/21/porazhenie-pishhevoda-pri-zabolevaniyax-organov-i-sistem-redkie-zabolevaniya-pishhevoda</span>
+<ol type="1">
+</ol>
+</li>
+<li level="1">
+<span>http://www.esophagealcancer.ru/allergiya/tuberkulez_pishchev.html</span>
+<ol type="1">
+</ol>
+</li>
+<li level="1">
+<span>http://www.policlinica.ru/def10_422.html</span>
+<ol type="1">
+</ol>
+</li>
+<li level="1">
+<span>http://zheludok.ru/polezno/266-tuberkulez-zhkt-zheludka-i-pishhevoda.html</span>
+<ol type="1">
+</ol>
+</li>
+<li level="1">
+<span>wikipedia.org (википедия)</span>
+<ol type="1">
+</ol>
+</li>
+</ol> </div>
+</section>
+</div>
+</section>
+<section class="page-section" data-section-name="ATTENTION">
+<h2 class="page-section__title" id="attention">
+        Внимание!    </h2>
+<div class="container">
+<div class="row page-section__row">
+<!--noindex-->
+<label class="attention-self-treatment-list__caption">Если вы не являетесь медицинским специалистом:</label>
+<ul class="attention-self-treatment-list">
+<li>
+        Занимаясь самолечением, вы можете нанести непоправимый вред своему здоровью.
+         
+    </li>
+<li>
+        Информация, размещенная на сайте MedElement, не может и не должна заменять очную консультацию врача.
+        Обязательно
+        обращайтесь в медицинские учреждения при наличии каких-либо заболеваний или беспокоящих вас симптомов.
+         
+    </li>
+<li>
+        Выбор лекарственных средств и их дозировки, должен быть оговорен со специалистом. Только врач может
+        назначить
+        нужное лекарство и его дозировку с учетом заболевания и состояния организма больного.
+         
+    </li>
+<li>
+        Сайт MedElement является исключительно информационно-справочным ресурсом. Информация, размещенная на данном
+        сайте, не должна использоваться для самовольного изменения предписаний врача.
+         
+    </li>
+<li>
+        Редакция MedElement не несет ответственности за какой-либо ущерб здоровью или материальный ущерб, возникший
+        в
+        результате использования данного сайта.
+    </li>
+</ul>
+<!--/noindex-->
+</div>
+</div>
+</section>
+</main>

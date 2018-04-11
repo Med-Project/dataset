@@ -1,0 +1,408 @@
+<main id="main">
+<section class="page-information disease-information">
+<div class="container">
+<h1 class="page-information__name disease-information__name">
+            Другие виды перитонита (K65.8)        </h1>
+<div class="disease-information__version-name">
+<p class="lead text-muted">
+                
+                Версия: Справочник заболеваний MedElement                </p>
+</div>
+<div class="disease-information__categories-mkb">
+<label>Категории МКБ: </label>
+                Другие виды перитонита (K65.8)            </div>
+<div class="disease-information__sections-medicine">
+<label>Разделы медицины: </label>
+                Гастроэнтерология            </div>
+</div>
+</section>
+<section class="page-section" data-index="0">
+<h2 class="page-section__title" id="general_information">
+        Общая информация    </h2>
+<div class="container">
+<div class="page-links-actions">
+<ul>
+<li class="page-links-actions__item page-links-actions__item--print" data-ga-event-action="Клик по ссылке: Версия для печати" data-ga-event-category="Links actions" data-ga-event-label="" data-send-ga-event="">
+<a href="javascript:window.print()">Версия для печати
+                    <svg class="svg-icon svg-icon-printer" height="18" version="1.1" viewbox="0 0 24 24" width="18" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<path d="M18,3H6V7H18M19,12A1,1 0 0,1 18,11A1,1 0 0,1 19,10A1,1 0 0,1 20,11A1,1 0 0,1 19,12M16,19H8V14H16M19,8H5A3,3 0 0,0 2,11V17H6V21H18V17H22V11A3,3 0 0,0 19,8Z"></path>
+</svg>
+</a>
+</li>
+</ul>
+</div>
+<section class="row page-field" data-field-name="SHORTDESCRIPTION">
+<h3 class="page-field__title text-left" id="shortdescription">
+                    Краткое описание                </h3>
+<div class="page-field__data">
+<div style="text-align: justify;">
+<br/>
+<strong>Перитонит </strong>- это реакция брюшины на некий раздражитель. Как правило, роль последнего выполняет инфекция, хотя иногда раздражение (по крайней мере вначале) имеет химический характер (например, при попадании в брюшную полость желчи или мочи). <br/>
+<br/>
+<br/>
+<strong>Примечание 1</strong><br/>
+	В данную подрубрику включены различные по этиологии и патогенезу, не связанные между собой воспалительные процессы в брюшине:<br/>
+	1. Хронический пролиферативный перитонит.<br/>
+	2. Брыжеечный/ая:<br/>
+	- жировой некроз;<br/>
+	- сапонификация (омыление при панкреатите).<br/>
+	3. Перитонит, вызванный:<br/>
+	- желчью;<br/>
+	- мочой.<br/>
+<br/>
+	1. <strong>Пролиферативной перитонит - </strong>воспалительный процесс брюшины (чаще всего хронический), характеризующийся ее утолщением при отсутствии или небольшом количестве спаек в брюшной полости.</div>
+<div style="text-align: justify;">
+<br/>
+	2. <strong>Брыжеечный жировой некроз </strong>(мезентериальный панникулит) - редкая патология, которая представляет собой хронический неспецифический воспалительный процесс с вовлечением жировой ткани <aterm term="1">брыжейки<span class="term-description" style="display: none;"><span>Брыжейка - складка брюшины, посредством которой внутрибрюшинные органы прикрепляются к стенкам брюшной полости.</span><br/></span></aterm> кишечника, сальника, пред- и забрюшинной клетчатки. Некроз может сопровождаться омылением жировых клеток с образованием плотных узелков. <br/>
+	Следует отличать мезентериальный панникулит от панникулита подкожно-жировой клетчатки ("Панникулит неуточненный" - M79.3), жирового некроза и омыления, возникшего как осложнение острого панкреатита ("Острый панкреатит" - K85), хотя вопросы классификации жирового некроза <aterm term="1">брыжейки<span class="term-description" style="display: none;"><span>Брыжейка - складка брюшины, посредством которой внутрибрюшинные органы прикрепляются к стенкам брюшной полости.</span><br/></span></aterm> остаются во многом спорными.</div>
+<div style="text-align: justify;">
+<br/>
+	3. <strong>Перитониты, вызванные мочой или желчью</strong>, относятся по сути к асептическим (химическим) перитонитам и являются ответом брюшины, возникающим в результате прямого раздражающего воздействия на брюшину желчи и мочи, а не воспалительного процесса. Присоединение инфекции переводит это состояние в подрубрику  "<a href="https://diseases.medelement.com/index.php/disease/view/NDc2OA%253D%253D/fDB8" target="_blank">Острый перитонит</a>" - K65.0  или  "<a href="https://diseases.medelement.com/index.php/disease/view/NDc3MA%253D%253D/fDB8" target="_blank">Перитонит неуточненный</a>" - K65.9.</div>
+<div style="text-align: justify;">
+<br/>
+<strong>Из данной подрубрики исключены:</strong><br/>
+	- асептический перитонит (T81.6);<br/>
+	- доброкачественный пароксизмальный перитонит (E85.0);<br/>
+	- химический перитонит (T81.6);<br/>
+	- перитонит, вызванный тальком или другим инородным веществом (T81.6)<br/>
+	- неонатальный перитонит (P78.0-P78.1);<br/>
+	- тазовый перитонит у женщин (N73.3-N73.5);<br/>
+	- периодический семейный перитонит (E85.0);<br/>
+	- послеродовой перитонит (O85);<br/>
+	- перитонит, возникший после аборта, внематочной или молярной беременности (O00-O07, O08.0);<br/>
+	- перитонит, возникший после аппендицита (K35. -);</div>
+<div style="text-align: justify;">
+	- перитонит в сочетании с дивертикулярной болезнью кишечника (K57. -).<br/>
+	 </div>
+<div style="text-align: justify;">
+<strong>Примечание 2</strong>. Виды перитонитов, исключенные из данной подрубрики, приводятся ниже (разделы "Классификация", "Этиология и патогенез") исключительно в целях полноты описания. </div>
+</div>
+</section>
+<section class="row page-field" data-field-name="NUMBERDAYSFLOW">
+<h3 class="page-field__title text-left" id="numberdaysflow">
+                    Период протекания                </h3>
+<div class="page-field__data">
+<br/>
+<label>Описание:</label>
+<p>Как правило, протекают хронически. </p>
+</div>
+</section>
+</div>
+</section>
+<section class="page-section" data-section-name="CLASSIFICATION">
+<h2 class="page-section__title" id="classification">
+        Классификация    </h2>
+<div class="container">
+<div class="row page-section__row">
+<div style="text-align: justify;">
+<br/>
+	Отдельной классификации не существует. В клинических целях рекомендуется использовать общую классификацию перитонитов (см. "<a href="https://diseases.medelement.com/index.php/disease/view/NDc3MA%253D%253D/fDN8" target="_blank">Перитонит неуточненный</a>" - K65.9).<br/>
+	В основном все процессы являются отграниченными и негнойными.</div>
+</div>
+</div>
+</section>
+<section class="page-section" data-section-name="ETIOLOGY">
+<h2 class="page-section__title" id="etiology">
+        Этиология и патогенез    </h2>
+<div class="container">
+<div class="row page-section__row">
+<div style="text-align: justify;">
+<br/>
+<strong>Хронический перитонит</strong><br/>
+	Хронический перитонит связан с циррозом печени, заболеваниями желудка (перигастрит) или почек и нередко- с хроническим алкоголизмом. К нему также приводят диализ (включая перитонеальный), инородные тела (имплантаты и протезы) в брюшной полости (исключая классифицированные в других рубриках, например, "Инородное тело, случайно оставленное в полости тела или операционной ране при выполнении процедуры" - T81.5 и прочие).<br/>
+<br/>
+	Морфологически отмечается утолщение брюшины с минимальным количеством спаек и неинфицированным выпотом. Процесс, как правило, носит отграниченный характер.</div>
+<div style="text-align: justify;">
+<br/>
+<strong>Брыжеечный жировой некроз </strong>(мезентериальный панникулит)<br/>
+	Этиология неизвестна. Предполагается, что брыжеечный жировой некроз представляет собой вариант ретроперитонеального фиброза.<br/>
+<br/>
+	В воспалительный процесс обычно вовлечен свод брыжейки тонкой кишки. Происходит значительное утолщение в целом нормальной жировой дольчатости  и брыжейка утрачивает прочность. Повсеместно наблюдаются зоны неправильной формы, которые имеют измененную окраску (варьирует от красновато-коричневых бляшек до бледно-желтых очагов) и напоминают жировой некроз.<br/>
+<br/>
+	Некоторые авторы полагают мезентериальный панникулит вариантом течения склерозирующего мезентерита, в который собственно входят: </div>
+<div style="text-align: justify;">
+	- мезентериальная липодистрофия (собственно жировой некроз);</div>
+<div style="text-align: justify;">
+	- мезентериальный панникулит как таковой (хроническое воспаление);</div>
+<div style="text-align: justify;">
+	- ретрактильный мезентерит (фиброз).<br/>
+	Вопросы названия патологии "мезентериальный панникулит", "жировой некроз брыжейки" и прочие остаются дискутабельными.<br/>
+<br/>
+<strong>Жировой некроз брыжейки с или без омыления</strong> может возникнуть вследствие панкреонекроза (см. "<a href="https://diseases.medelement.com/index.php/disease/view/NDg3MQ%253D%253D/fDB8" target="_blank">Острый панкреатит</a>" - K85).</div>
+<div style="text-align: justify;">
+<br/>
+<strong>Перитонит, вызванный попаданием в брюшную полость мочи или желчи </strong>развивается после прободения желчевыводящих и мочевых путей вследствие травмы, опухоли, медицинской процедуры. Если к процессу присоединяется инфекция, то перитонит быстро становится острым вторичным (см. "<a href="https://diseases.medelement.com/index.php/disease/view/NDc2OA%253D%253D/fDB8" target="_blank">Острый перитонит</a>" - K65.0). Если присоединения инфекции не наблюдается, что, как правило, происходит при отграниченном локальном затёке, течение перитонита принимает хронический, локальный характер. <br/>
+	 </div>
+</div>
+</div>
+</section>
+<section class="page-section" data-section-name="EPIDEMIOLOGY">
+<h2 class="page-section__title" id="epidemiology">
+        Эпидемиология    </h2>
+<div class="container">
+<div class="row page-section__row">
+<p>Признак распространенности: Крайне редко</p>
+<p>Соотношение полов(м/ж): 2</p>
+<br/>
+<div style="text-align: justify;">
+	В связи с разнородностью патологии истинная распространенность неизвестна, но считается крайне низкой. Предполагается превалирование мужчин.</div>
+</div>
+</div>
+</section>
+<section class="page-section" data-section-name="FACTORSANDRISKGROUPS">
+<h2 class="page-section__title" id="factorsandriskgroups">
+        Факторы и группы риска    </h2>
+<div class="container">
+<div class="row page-section__row">
+<div style="text-align: justify;">
+<br/>
+<strong>Патология ассоциирована со следующими факторами:</strong><br/>
+	- оперативные вмешательства на брюшной полости;<br/>
+	- заболевания органов брюшной полости;<br/>
+	- злокачественные новообразования;<br/>
+	- <aterm term="1">цирроз печени<span class="term-description" style="display: none;"><span>Цирроз печени - хроническая прогрессирующая болезнь, характеризующаяся дистрофией и некрозом печеночной паренхимы, сопровождающимися ее узловой регенерацией, диффузным разрастанием соединительной ткани и глубокой перестройкой архитектоники печени.</span><br/><a class="tooltip-term__more" href="https://diseases.medelement.com/disease/view/NDgxOA/fDB8" target="_blank" title="Подробнее о цирроз печени">Подробно</a></span></aterm>;<br/>
+	- алкоголизм (у взрослых);<br/>
+	- <aterm term="1">нефрит<span class="term-description" style="display: none;"><span>Нефрит - воспаление почки</span><br/></span></aterm>;<br/>
+	- <aterm term="1">васкулит<span class="term-description" style="display: none;"><span>Васкулит (син. ангиит) - воспаление стенок кровеносных сосудов</span><br/></span></aterm> и иные аутоиммунные заболевания;<br/>
+	- панкреатит;<br/>
+	- травмы органов живота без нарушения целостности органов;<br/>
+	- <aterm term="1">прободение<span class="term-description" style="display: none;"><span>Прободение - возникновение сквозного дефекта в стенке полого органа.</span><br/></span></aterm> желчевыводящих и мочевых путей;<br/>
+	- прием некоторых лекарств.</div>
+</div>
+</div>
+</section>
+<section class="page-section" data-index="5">
+<h2 class="page-section__title" id="clinical">
+        Клиническая картина    </h2>
+<div class="container">
+<section class="row page-field" data-field-name="THESIS">
+<h3 class="page-field__title text-left" id="thesis">
+                    Клинические критерии диагностики                </h3>
+<div class="page-field__data">
+                    
+                    тошнота, рвота, вздутие живота, боли в животе, симптомы раздражения брюшины, лихорадка                </div>
+</section>
+<section class="row page-field" data-field-name="ANTIPRAXIA">
+<h3 class="page-field__title text-left" id="antipraxia">
+                    Cимптомы, течение                </h3>
+<div class="page-field__data">
+<div style="text-align: justify;">
+<br/>
+	В 30-50% случаев данная патология протекает бессимптомно.<br/>
+<br/>
+<strong>Основные признаки:</strong><br/>
+	- потеря веса; <br/>
+	- тошнота; <br/>
+	- рвота;<br/>
+	- боли в животе;<br/>
+	- лихорадка (непостоянная, иногда субфебрильная, иногда отсутсвует); <br/>
+	- задержка стула и газов;<br/>
+	- симптомы раздражения брюшины (локальные, непостоянные).<br/>
+<br/>
+	Иногда заболевание манифестирует острой клиникой кишечной непроходимости с развитием кровотечения из нижних отделов желудочно-кишечного тракта в терминальной стадии. </div>
+</div>
+</section>
+</div>
+</section>
+<section class="page-section" data-section-name="DIAGNOSTICS">
+<h2 class="page-section__title" id="diagnostics">
+        Диагностика    </h2>
+<div class="container">
+<div class="row page-section__row">
+<div style="text-align: justify;">
+<br/>
+	Основными диагностическим процедурами являются<strong> КТ</strong> и <strong>МРТ</strong>. Они же позволяют выявить ассоциированную патологию и провести дифференциальную диагностику.<br/>
+<br/>
+<strong>Видеолапароскопия с биопсией</strong> позволяет верифицировать патологию практически в 100%, но относительно противопоказана (может спровоцировать прогрессирование процесса) и технически затруднена (<aterm term="1">парез<span class="term-description" style="display: none;"><span>Парез - уменьшение силы и/или амплитуды произвольных движений, обусловленное нарушением иннервации (обеспечения нервами и связи с центральной нервной системой) соответствующих мышц</span><br/></span></aterm> кишечника).<br/>
+<br/>
+<strong>УЗИ</strong> иногда может выявить изолированные скопления жидкости и ассоциированную патологию, но не указывает ни на характер процесса, ни на его природу.</div>
+<div style="text-align: justify;">
+<br/>
+	Контрастные рентгенологические исследования не рекомендуются.  </div>
+</div>
+</div>
+</section>
+<section class="page-section" data-section-name="LABORATORYDIAGNOSTICS">
+<h2 class="page-section__title" id="laboratorydiagnostics">
+        Лабораторная диагностика    </h2>
+<div class="container">
+<div class="row page-section__row">
+<div style="text-align: justify;">
+<br/>
+<aterm term="1">Патогномоничные<span class="term-description" style="display: none;"><span>Патогномоничный - характерный для данной болезни (о признаке).</span><br/></span></aterm> признаки при неосложненном локальном процессе отсутствуют. Изменения в анализах могут указывать на ассоциированную патологию, осложнения перитонита и присоединение инфекции.<br/>
+	Приводимые ниже (в таблице) изменения характерны именно для осложненных форм.<br/>
+	 </div>
+</div>
+</div>
+</section>
+<section class="page-section" data-section-name="DIFFERENTIALDIAGNOSIS">
+<h2 class="page-section__title" id="differentialdiagnosis">
+        Дифференциальный диагноз    </h2>
+<div class="container">
+<div class="row page-section__row">
+<div>
+<br/>
+	Патология представляет значительные сложности в плане дифференциальной диагностики, так как диагностируется преимущественно МРТ и исследованиями биоптатов.<br/><br/>
+	Следует исключать все хронические заболевания, сопровождающиеся абдоминальной болью и симптомами раздражения брюшины:<br/>
+	- хронические колиты;<br/>
+	- злокачественные опухоли (лимфома, карциноид и т.д.);<br/>
+	- системные заболевания соединительной ткани;<br/>
+	- аутоиммунные заболевания;<br/>
+	- амилоидоз;<br/>
+	- асцит;<br/>
+	- вялопротекающие абсцессы и инфильтраты в брюшной полости.<br/>
+	 </div>
+</div>
+</div>
+</section>
+<section class="page-section" data-section-name="SEQUELAE">
+<h2 class="page-section__title" id="sequelae">
+        Осложнения    </h2>
+<div class="container">
+<div class="row page-section__row">
+<div style="text-align: justify;">
+<br/>
+	- кишечная непроходимость;<br/>
+	- развитие острого перитонита (при присоединении инфекции);<br/>
+	- мезентериальный тромбоз;<br/>
+	- <aterm term="1">малигнизация<span class="term-description" style="display: none;"><span>Малигнизация - приобретение клетками нормальной или патологически измененной ткани (например, доброкачественной опухоли) свойств клеток злокачественной опухоли.</span><br/></span></aterm> (риск имеется для жирового некроза брыжейки);<br/>
+	- развитие спаечного процесса.<br/>
+	 </div>
+</div>
+</div>
+</section>
+<section class="page-section" data-section-name="THERAPY">
+<h2 class="page-section__title" id="therapy">
+        Лечение    </h2>
+<div class="container">
+<div class="row page-section__row">
+<div>
+<br/><strong>Консервативное лечение</strong> не разработано и складывается в основном из лечения ассоциированной патологии, назначения системных <aterm term="1">ГКС</aterm> и/или цитостатиков (в случае жирового некроза брыжейки). Антибиотики до подтверждения инфекционных осложнений не назначаются.<br/><br/><strong>Оперативное лечение</strong> предусматривает устранение причины (затёка желчи или мочи), дренирование, оперативное лечение спаек и кишечной непроходимости.  </div><br/>
+</div>
+</div>
+</section>
+<section class="page-section" data-section-name="PROGNOSIS">
+<h2 class="page-section__title" id="prognosis">
+        Прогноз    </h2>
+<div class="container">
+<div class="row page-section__row">
+<br/>
+Прогноз зависит от этиологии процесса, возраста пациента, ассоциированной патологии и т.д. В целом благоприятный, с возможностью рецидива процесса.
+                    </div>
+</div>
+</section>
+<section class="page-section" data-section-name="HOSPITALIZATION">
+<h2 class="page-section__title" id="hospitalization">
+        Госпитализация    </h2>
+<div class="container">
+<div class="row page-section__row">
+<br/>
+В плановом порядке. В случае развития осложнений - в экстренном.
+                    </div>
+</div>
+</section>
+<section class="page-section" data-section-name="PROPHYLAXIS">
+<h2 class="page-section__title" id="prophylaxis">
+        Профилактика    </h2>
+<div class="container">
+<div class="row page-section__row">
+<br/>
+Не разработана.
+                    </div>
+</div>
+</section>
+<section class="page-section" data-index="14">
+<h2 class="page-section__title" id="information">
+        Информация    </h2>
+<div class="container">
+<section class="row page-field" data-field-name="LISTOFREFERENCES">
+<h3 class="page-field__title text-left" id="listofreferences">
+                    Источники и литература                </h3>
+<div class="page-field__data">
+<ol id="AdditionalListSources" type="I">
+<li level="1">
+<span>"NORD guide to rare disorders"  by National Organization for Rare Disorders, 2002</span>
+<ol type="1">
+</ol>
+</li>
+<li level="1">
+<span>Клиническая хирургия: национальное руководство, в 3 т. /под ред.
+Савельева B.C., Кириенко А.И.,М.: ГЭОТАР-Медиа, 2009</span>
+<ol type="1">
+</ol>
+</li>
+<li level="1">
+<span>Общая и неотложная хирургия. Руководство/ ред. Патерсон-Браун С., пер. с англ. под ред. Гостищева В.К., М: ГЭОТАР-Медиа, 2010</span>
+<ol type="1">
+</ol>
+</li>
+<li level="1">
+<span>Рэфтери Э. Хирургия. Справочник/под общ.редакцией Луцевича О.И., Пушкаря Д.Ю., Медпресс-информ, 2006</span>
+<ol type="1">
+</ol>
+</li>
+<li level="1">
+<span> "Mesenteric Panniculitis – What does it mean?" Dr Narelle Vujcich MBBS FRANZCR ARGANZ, March 2013</span>
+<ol type="1">
+</ol>
+</li>
+<li level="1">
+<span>"Мезентериальный панникулит (обзор литературы и собственные наблюдения)" Лукьянченко А.Б., Долгушин Б.И., Стилиди И.С., Медведева Б.М., журнал "Медицинская визуализация", №4, 2005</span>
+<ol type="1">
+</ol>
+</li>
+<li level="1">
+<span>http://www.cityfirm.ru/</span>
+<ol type="1">
+<li level="2">Словарь-справочник по хирургии </li>
+</ol>
+</li>
+<li level="1">
+<span>ehealthwall.com</span>
+<ol type="1">
+</ol>
+</li>
+</ol> </div>
+</section>
+</div>
+</section>
+<section class="page-section" data-section-name="ATTENTION">
+<h2 class="page-section__title" id="attention">
+        Внимание!    </h2>
+<div class="container">
+<div class="row page-section__row">
+<!--noindex-->
+<label class="attention-self-treatment-list__caption">Если вы не являетесь медицинским специалистом:</label>
+<ul class="attention-self-treatment-list">
+<li>
+        Занимаясь самолечением, вы можете нанести непоправимый вред своему здоровью.
+         
+    </li>
+<li>
+        Информация, размещенная на сайте MedElement, не может и не должна заменять очную консультацию врача.
+        Обязательно
+        обращайтесь в медицинские учреждения при наличии каких-либо заболеваний или беспокоящих вас симптомов.
+         
+    </li>
+<li>
+        Выбор лекарственных средств и их дозировки, должен быть оговорен со специалистом. Только врач может
+        назначить
+        нужное лекарство и его дозировку с учетом заболевания и состояния организма больного.
+         
+    </li>
+<li>
+        Сайт MedElement является исключительно информационно-справочным ресурсом. Информация, размещенная на данном
+        сайте, не должна использоваться для самовольного изменения предписаний врача.
+         
+    </li>
+<li>
+        Редакция MedElement не несет ответственности за какой-либо ущерб здоровью или материальный ущерб, возникший
+        в
+        результате использования данного сайта.
+    </li>
+</ul>
+<!--/noindex-->
+</div>
+</div>
+</section>
+</main>

@@ -1,0 +1,358 @@
+<main id="main">
+<section class="page-information disease-information">
+<div class="container">
+<h1 class="page-information__name disease-information__name">
+            Неопределенный колит (K52.3)        </h1>
+<div class="disease-information__alternate-name">
+<label>Также: </label>
+                недифференцируемый колит, indeterminate colitis, IBD unclassified (IBDU)            </div>
+<div class="disease-information__version-name">
+<p class="lead text-muted">
+                
+                Версия: Справочник заболеваний MedElement                </p>
+</div>
+<div class="disease-information__categories-mkb">
+<label>Категории МКБ: </label>
+                Неопределенный колит (K52.3)            </div>
+<div class="disease-information__sections-medicine">
+<label>Разделы медицины: </label>
+                Гастроэнтерология            </div>
+</div>
+</section>
+<section class="page-section" data-index="0">
+<h2 class="page-section__title" id="general_information">
+        Общая информация    </h2>
+<div class="container">
+<div class="page-links-actions">
+<ul>
+<li class="page-links-actions__item page-links-actions__item--print" data-ga-event-action="Клик по ссылке: Версия для печати" data-ga-event-category="Links actions" data-ga-event-label="" data-send-ga-event="">
+<a href="javascript:window.print()">Версия для печати
+                    <svg class="svg-icon svg-icon-printer" height="18" version="1.1" viewbox="0 0 24 24" width="18" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<path d="M18,3H6V7H18M19,12A1,1 0 0,1 18,11A1,1 0 0,1 19,10A1,1 0 0,1 20,11A1,1 0 0,1 19,12M16,19H8V14H16M19,8H5A3,3 0 0,0 2,11V17H6V21H18V17H22V11A3,3 0 0,0 19,8Z"></path>
+</svg>
+</a>
+</li>
+</ul>
+</div>
+<section class="row page-field" data-field-name="SHORTDESCRIPTION">
+<h3 class="page-field__title text-left" id="shortdescription">
+                    Краткое описание                </h3>
+<div class="page-field__data">
+<div style="text-align: justify;">
+<br/>
+<span style="color: rgb(35, 31, 32); font-family: Arial, Helvetica, sans-serif; line-height: 18px;"><strong>Колит</strong> - воспалительное или воспалительно-дистрофическое поражение толстой кишки.</span><br/>
+<br/>
+	Понятие "<strong>неопределенный (недифференцируемый, неуточненный) колит</strong>"<strong> </strong>было введено<strong> </strong>для описания случаев, при которых были предприняты <aterm term="1">резекции<span class="term-description" style="display: none;"><span>Резекция - хирургическая операция по удалению части органа или анатомического образования, обычно с соединением его сохраненных частей.</span><br/></span></aterm> толстой кишки, как метод лечения хронических воспалительных заболеваний кишечника (CIBD), но  окончательный диагноз "<aterm term="1">болезнь Крона<span class="term-description" style="display: none;"><span>Болезнь Крона -  заболевание, при котором отдельные участки пищеварительного тракта воспаляются, утолщаются и изъязвляются.</span><br/><a class="tooltip-term__more" href="https://diseases.medelement.com/index.php/disease/view/NDY4Mg/0" target="_blank" title="Подробнее о болезнь Крона">Подробно</a></span></aterm>" или "<aterm term="1">неспецифический язвенный колит<span class="term-description" style="display: none;"><span>Язвенный колит неспецифический - болезнь неясной этиологии, характеризующаяся хроническим колитом с развитием язв, кровоизлияний, псевдополипов, эрозий и других поражений кишечной стенки</span><br/><a class="tooltip-term__more" href="https://diseases.medelement.com/index.php/disease/view/NDY5MQ%3D%3D/0" target="_blank" title="Подробнее о неспецифический язвенный колит">Подробно</a></span></aterm>" уже оперированным пациентам установить так и не удалось. Это особенно проявлялось в случаях острого молниеносного поражения ободочной кишки. В дальнейшем, термин "неопределенный колит" был применен также и к биопсии, когда  не удавалось провести различие между неспецифическим язвенным колитом и болезнью Крона. <br/>
+<br/>
+	В современной редакции термин "неопределенный колит" заменяется термином "воспалительное заболевание кишечника неуточненное" (inflammatory bowel disease - type unspecified (IBDU)) и применяется к пациентам с остро манифестирующими симптомами тяжелого колита, зачастую уже подвергшимся оперативному вмешательству (например, наложение илеоанального анастомоза)  и/или биопсии, но не имеющим установленного диагноза в силу неразличимости выявленных патологичеких изменений. Является по сути так называемым "промежуточным диагнозом". <br/>
+<br/>
+<br/>
+<strong>Примечание. </strong>Из данной подрубрики исключено: "<a href="https://diseases.medelement.com/index.php/disease/view/NDY5Nw%253D%253D/fDB8" target="_blank">Неинфекционный гастроэнтерит и колит неуточненный</a>" - K52.9.</div>
+</div>
+</section>
+<section class="row page-field" data-field-name="NUMBERDAYSFLOW">
+<h3 class="page-field__title text-left" id="numberdaysflow">
+                    Период протекания                </h3>
+<div class="page-field__data">
+<br/>
+<label>Описание:</label>
+<p>Протекает остро, часто требует интенсивной терапии и/или оперативного вмешательства.</p>
+</div>
+</section>
+</div>
+</section>
+<section class="page-section" data-section-name="ETIOLOGY">
+<h2 class="page-section__title" id="etiology">
+        Этиология и патогенез    </h2>
+<div class="container">
+<div class="row page-section__row">
+<div>
+<br/>
+	См. <a href="https://diseases.medelement.com/index.php/disease/view/NDY4Mg%253D%253D/fDR8" target="_blank">K50.9  - "Болезнь Крона неуточненная"</a> и <a href="https://diseases.medelement.com/index.php/disease/view/NDY4NA%253D%253D/fDR8" target="_blank">K51.9 - "Язвенный колит неуточненный"</a>.</div>
+</div>
+</div>
+</section>
+<section class="page-section" data-section-name="EPIDEMIOLOGY">
+<h2 class="page-section__title" id="epidemiology">
+        Эпидемиология    </h2>
+<div class="container">
+<div class="row page-section__row">
+<p>Признак распространенности: Редко</p>
+<br/>
+<div style="text-align: justify;">
+	Неопределенные колиты диагностируются в 10-20% случаев всех неинфекционных колитов у взрослых и до 30% у детей.</div>
+</div>
+</div>
+</section>
+<section class="page-section" data-section-name="FACTORSANDRISKGROUPS">
+<h2 class="page-section__title" id="factorsandriskgroups">
+        Факторы и группы риска    </h2>
+<div class="container">
+<div class="row page-section__row">
+<div style="text-align: justify;">
+<br/>
+	Рецидивы колита могут возникнуть при эмоциональном стрессе, инфекции или других острых заболеваниях, беременности, диетических погрешностях, использовании слабительных или антибиотиков, несоблюдении или отказе от предписанной врачом терапии.<br/>
+<br/>
+	См. также <a href="https://diseases.medelement.com/index.php/disease/view/NDY4Mg%253D%253D/fDZ8" target="_blank">K50.9 - "Болезнь Крона неуточненная" </a>и <a href="https://diseases.medelement.com/index.php/disease/view/NDY4NA%253D%253D/fDZ8" target="_blank">K51.9 -  "Язвенный колит неуточненный"</a>.</div>
+</div>
+</div>
+</section>
+<section class="page-section" data-index="4">
+<h2 class="page-section__title" id="clinical">
+        Клиническая картина    </h2>
+<div class="container">
+<section class="row page-field" data-field-name="THESIS">
+<h3 class="page-field__title text-left" id="thesis">
+                    Клинические критерии диагностики                </h3>
+<div class="page-field__data">
+                    
+                    лихорадка, гематохезия, обезвоживание, снижение индекса массы тела, диарея, тенезмы, запор, неустойчивый стул, вздутие живота, боль в животе, боль в нижних отделах живота, тахикардия, артериальная гипотензия, дегидратация                </div>
+</section>
+<section class="row page-field" data-field-name="ANTIPRAXIA">
+<h3 class="page-field__title text-left" id="antipraxia">
+                    Cимптомы, течение                </h3>
+<div class="page-field__data">
+<br/>
+Состояние пациента при неопределенном колите, как правило, тяжелое за счет основного заболевания и возможно развившихся уже осложнений.<br/>
+<br/>
+Заболевание манифестирует остро с симптомов представленных ниже:<br/>
+- острая диарея - 95% пациентов;<br/>
+- стул с кровью - 72%;<br/>
+- вздутие живота, боль в левом или нижнем отделах живота - 74%;<br/>
+- потеря веса - 44%;<br/>
+- лихорадка - 26%;<br/>
+- артериальная <aterm term="1">гипотензия<span class="term-description" style="display: none;"><span>Гипотензия - пониженное гидростатическое давление в сосудах, полых органах или в полостях организма.</span><br/></span></aterm> - 14%.<br/>
+<br/>
+В среднем около 6,2% пациентов с неспецифическим язвенным колитом и болезнью Крона имеют значительные внекишечные проявления. <br/>
+К внекишечным проявлениям (ассоциированной патологии) относятся:<br/>
+<div>
+	- <aterm term="1">увеит<span class="term-description" style="display: none;"><span>Увеит - воспаление увеального тракта (сосудистой оболочки глазного яблока)</span><br/></span></aterm> - 3,8%; </div>
+<div>
+	- <aterm term="1">гангренозная пиодермия<span class="term-description" style="display: none;"><span>Пиодермия гангренозная - дерматоз, характеризующийся появлением глубоких фурункулоподобных инфильтратов, некротизирующихся в центре с образованием эксцентрически растущих язв с ярким отечным воспалительным ободком, подрытыми краями и гнойным абсцедирующим дном</span><br/></span></aterm> - 1,2%; </div>
+<div>
+	- <aterm term="1">плеврит<span class="term-description" style="display: none;"><span>Плеврит - воспаление плевры (серозная оболочка, покрывающая легкие и выстилающая стенки грудной полости)</span><br/></span></aterm> - 5%;<br/>
+	- <aterm term="1">узловатая эритема<span class="term-description" style="display: none;"><span>Эритема узловая - дерматоз неясной этиологии, характеризующийся поражением сосудов кожи; проявляется возникновением в дерме или подкожной жировой клетчатке на голенях и бедрах плотных болезненных узлов, кожа над которыми постепенно меняет цвет от ярко-красного до фиолетово-желтого</span><br/></span></aterm> - 1,9%; </div>
+<div>
+	- <aterm term="1">болезнь Бехтерева<span class="term-description" style="display: none;"><span>Бехтерева болезнь - болезнь из группы коллагенозов, характеризующаяся преимущественным поражением суставно-связочного аппарата позвоночника (часто и конечностей), а также вовлечением в процесс внутренних органов (сердце, аорта, почки); имеет склонность к хроническому прогрессирующему течению с развитием анкилозов</span><br/></span></aterm> и другие спондилоартропатии (2,7%-10%); </div>
+<div>
+	- первичный склерозирующий холангит (3%);  <br/>
+	- артропатии (39%);<br/>
+	- боли в спине (30%);<br/>
+	- <aterm term="1">синовит<span class="term-description" style="display: none;"><span>Синовит - воспаление синовиальной оболочки (внутренний слой суставной сумки или костно-фиброзного канала) не распространяющееся на остальные ткани и элементы сустава</span><br/></span></aterm> (10%);<br/>
+	- <aterm term="1">сакроилеит<span class="term-description" style="display: none;"><span>Сакроилеит - воспаление крестцово-подвздошного сочленения</span><br/></span></aterm> (40%). </div>
+</div>
+</section>
+</div>
+</section>
+<section class="page-section" data-section-name="DIAGNOSTICS">
+<h2 class="page-section__title" id="diagnostics">
+        Диагностика    </h2>
+<div class="container">
+<div class="row page-section__row">
+<div style="text-align: justify;">
+<br/>
+	Диагностика основывается на клинических и лабораторных данных.<br/>
+<br/>
+<strong>Диагностические  признаки </strong>неопределенного колита:<br/>
+	- боли в животе;<br/>
+	- эндоскопически определяемые эрозии и язвы;<br/>
+	- <aterm term="1">панколит<span class="term-description" style="display: none;"><span>Панколит - воспаление толстой кишки на всем ее протяжении</span><br/></span></aterm> с отсутствием поражения прямой кишки;<br/>
+	- раннее начало;<br/>
+	- диффузное поражение с очагами воспаления.<br/>
+<br/>
+	Некоторые методы визуализации могут оказаться полезными для подтверждения факта наличия неинфекционного колита, но не позволят определить его природу.<br/>
+<br/>
+	1.<strong> Обзорная рентгенография</strong> может выявить наличие измененного отечного участка кишечника и токсического <aterm term="1">мегаколона<span class="term-description" style="display: none;"><span>Мегаколон - значительное расширение части или всей ободочной кишки.</span><br/></span></aterm> (в виде длинного непрерывного сегмента  толстой кишки более 6-8 см в диаметре, заполненного воздухом).<br/>
+<br/>
+	2. <strong>Двойное контрастирование</strong> является наиболее информативным методом, но ограниченно применяется у таких пациентов в силу их тяжелого состояния.  <br/>
+<br/>
+	3. <strong>УЗИ</strong> - неинвазивный метод диагностики имеет чувствительность 84%, специфичность - 92%. Однако УЗИ имеет меньшую точность, когда поражение распространяется влево или имеется повышенная <aterm term="1">пневматизация<span class="term-description" style="display: none;"><span>Пневматизация — наличие заполненных воздухом полостей</span><br/></span></aterm> кишечника.<br/>
+<br/>
+	4. <strong>КТ и МРТ</strong> являются наиболее ценными диагностическими методами, однако МРТ предпочтительнее для лиц молодого возраста. <br/>
+<br/>
+	5.<strong> Колоноскопия</strong> <strong>с биопсией</strong> являются наиболее ценными методами исследования с целью диагностики.<br/>
+<br/>
+<strong>Примечание.</strong> Ни один из перечисленных рутинных способов исследования, как правило, не позволяет провести дифференциальную диагностику неопределенного колита и отнести его либо к неспецифическому язвенному колиту либо к болезни Крона. Исследование даже послеоперационных биоптатов также не дает однозначного ответа. </div>
+</div>
+</div>
+</section>
+<section class="page-section" data-section-name="LABORATORYDIAGNOSTICS">
+<h2 class="page-section__title" id="laboratorydiagnostics">
+        Лабораторная диагностика    </h2>
+<div class="container">
+<div class="row page-section__row">
+<div style="text-align: justify;">
+<br/>
+	Маркеры воспаления при неопределенном колите:<br/>
+	- повышение СОЭ &gt;33 (по некоторым данным - более 45) мм/час;<br/>
+	- CRP &gt;100 (по некоторым данным - более 50) мг/л;<br/>
+	- тромбоцитоз  &gt; 350,000/µL;<br/>
+	- гипоальбуминемия &lt; 35 (по некоторым данным - менее 30) г/л;<br/>
+	- кальпротектин в кале.<br/>
+<br/>
+	Большие надежды возлагались на определение <aterm term="1">ASCA<span class="term-description" style="display: none;"><span>ASCA - антитела к сахаромицетам классов IgG и IgA</span><br/></span></aterm> (характерны в основном для болезни Крона) и <aterm term="1">pANCA<span class="term-description" style="display: none;"><span>pANCA - антинейтрофильные перинуклеарные IgG-антитела - аутоантитела к компонентам цитоплазмы нейтрофилов</span><br/></span></aterm> (характерны для неспецифического язвенного колита). <br/>
+	ANCA присутствуют только у около 40% пациентов с болезнью Крона. Следует отметить, что вариант болезни Крона, особенно с участием толстой кишки, может привести к положительным тестам рANCA в 40% случаев и наоборот - <aterm term="1">ASCA<span class="term-description" style="display: none;"><span>ASCA - антитела к сахаромицетам классов IgG и IgA</span><br/></span></aterm> присутствует только у 12% пациентов с неспецифическим язвенным колитом.  <br/>
+	Титры ANCA и <aterm term="1">ASCA<span class="term-description" style="display: none;"><span>ASCA - антитела к сахаромицетам классов IgG и IgA</span><br/></span> </aterm>не коррелируют с активностью заболевания, но статистически пациенты с высоким титром pANCA<span class="term-description" style="display: none;"><span>pANCA - антинейтрофильные перинуклеарные IgG-антитела - аутоантитела к компонентам цитоплазмы нейтрофилов</span><br/></span> подвергаются более ранним оперативным вмешательствам.<br/>
+	 </div>
+</div>
+</div>
+</section>
+<section class="page-section" data-section-name="DIFFERENTIALDIAGNOSIS">
+<h2 class="page-section__title" id="differentialdiagnosis">
+        Дифференциальный диагноз    </h2>
+<div class="container">
+<div class="row page-section__row">
+<div>
+<br/>
+	Диагноз "неопределенный колит", уже исходя из его определения, предполагает дифференцировку только между неспецифическим язвенным колитом (НЯК) и болезнью Крона (БК). С учетом отсутствия поражения тонкого кишечника (что безусловно говорит в пользу БК), дифференцировку приходится проводить между ограниченным количеством форм БК и НЯК. <br/>
+	Наблюдения в динамике, серия более тщательных исследований и ответ на терапию показывают, что приблизительно 10-20% так называемого "неопределенного колита" в дальнейшем оказываются БК, а 80-90% - НЯК.<br/>
+	 </div>
+</div>
+</div>
+</section>
+<section class="page-section" data-section-name="SEQUELAE">
+<h2 class="page-section__title" id="sequelae">
+        Осложнения    </h2>
+<div class="container">
+<div class="row page-section__row">
+<div style="text-align: justify;">
+<br/>
+	Неопределенный колит связан с более высоким риском различных осложнений, в том числе и послеоперационных.<br/>
+	Основные осложнения:<br/>
+	- свищ;<br/>
+	- <aterm term="1">перфорация<span class="term-description" style="display: none;"><span>Перфорация - возникновение сквозного дефекта в стенке полого органа.</span><br/></span></aterm>;<br/>
+	- <aterm term="1">перитонит<span class="term-description" style="display: none;"><span>Перитонит - воспаление брюшины.</span><br/></span></aterm>;<br/>
+	- сепсис;<br/>
+	- токсический <aterm term="1">мегаколон<span class="term-description" style="display: none;"><span>Мегаколон - значительное расширение части или всей ободочной кишки.</span><br/></span></aterm>;<br/>
+	- дегидратация с гипопротеинемией и электролитным дисбалансом.<br/>
+	 </div>
+</div>
+</div>
+</section>
+<section class="page-section" data-section-name="THERAPY">
+<h2 class="page-section__title" id="therapy">
+        Лечение    </h2>
+<div class="container">
+<div class="row page-section__row">
+<div>
+<br/>
+	При неопределенном колите рекомендуется лечение как при тяжелых формах неспецифического язвенного колита (НЯК) - см. "<a href="https://diseases.medelement.com/index.php/disease/view/NDY4NA%253D%253D/fDEyfA%253D%253D" target="_blank">Язвенный колит неуточненный</a>" - K51.9.</div><div>
+	В связи с тем, что заболевание протекает, как правило, тяжело и манифестирует молниеносно большое значение придается хирургическим методам лечения. Невозможность провести дифференциальную диагностику между НЯК и болезнью Крона (БК) не должна служить оправданием для отсрочки хирургического вмешательства.<br/>
+	Поскольку неопределенный колит  по большей части (статистически) является НЯК, показания к хирургическому вмешательству аналогичны показаниям при НЯК.<br/><br/><strong>Экстренные показания:</strong><br/>
+	- тяжелый острый колит с отсутствием эффекта от медикаментозной терапии (в/в введение гидрокортизона и инфузионная терапия в течение 72 часов, с сохранением стула более 8 раз в сутки и уровнем <aterm term="1">СРБ</aterm> стабильно более 45 мг/л, без развития осложнений);<br/>
+	- острая токсическая дилатация толстой кишки (токсический мегаколон);<br/>
+	- перфорация (прободение);<br/>
+	- острое некупируемое консервативно кровотечение.<br/><br/><strong>Относительные (плановые) показания:</strong><br/>
+	-  хронический колит с отсутствием эффекта от медикаментозной терапии;<br/>
+	- стероидно-зависимый колит;<br/>
+	- побочные эффекты от стероидной терапии;<br/>
+	- устойчивость (интолерантность) к иммуномодуляторам;<br/>
+	- частые серьезные обострения колита;<br/>
+	- невозможность полного восстановления после эпизодов обострения (отсутствие клинически значимой ремиссии);<br/>
+	- задержка роста и развития у детей в период начала школьного обучения;<br/>
+	- <aterm term="1">дисплазия</aterm> или <aterm term="1">малигнизация</aterm> (оперативное вмешательство может быть не единственным и не стартовым методом);<br/>
+	- активная артропатия;<br/>
+	- <aterm term="1">гангренозная пиодермия</aterm>.<br/><br/>
+	В экстренной ситуации предпочтение отдается тотальной абдоминальной <aterm term="1">колэктомии</aterm> (TAC) с концевой <aterm term="1">илеостомией</aterm>  (EI). При тяжелых кровотечениях следует рассмотреть вариант <aterm term="1">колопроктэктомии</aterm> с концевой <aterm term="1">илеостомией</aterm>.<br/>
+	 </div>
+</div>
+</div>
+</section>
+<section class="page-section" data-section-name="PROGNOSIS">
+<h2 class="page-section__title" id="prognosis">
+        Прогноз    </h2>
+<div class="container">
+<div class="row page-section__row">
+<br/>
+В связи с тяжелым острым течением прогноз менее благоприятен. Процент осложнений может достигать 30%.
+                    </div>
+</div>
+</section>
+<section class="page-section" data-section-name="HOSPITALIZATION">
+<h2 class="page-section__title" id="hospitalization">
+        Госпитализация    </h2>
+<div class="container">
+<div class="row page-section__row">
+<br/>
+Показана госпитализация в экстренном порядке.
+                    </div>
+</div>
+</section>
+<section class="page-section" data-index="12">
+<h2 class="page-section__title" id="information">
+        Информация    </h2>
+<div class="container">
+<section class="row page-field" data-field-name="LISTOFREFERENCES">
+<h3 class="page-field__title text-left" id="listofreferences">
+                    Источники и литература                </h3>
+<div class="page-field__data">
+<ol id="AdditionalListSources" type="I">
+<li level="1">
+<span>Contemporary Coloproctology Brown S., Hartley, J.E.,  Hill, J., Scott, N., Williams, J.G. (Eds.), Springer, 2012</span>
+<ol type="1">
+</ol>
+</li>
+<li level="1">
+<span>Дамианов И. Секреты патологии /перевод с англ. под ред. Коган Е. А., М.:2006</span>
+<ol type="1">
+</ol>
+</li>
+<li level="1">
+<span>"Indeterminate Colitis: A Distinctive Clinical Pattern of Inflammatory Bowel Disease in Children" Claudio Romano, Annalisa Famiani, Romina Gallizzi, Donatella Comito, Valeria Ferrau, Paolo Rossi, Pediatrics, №6, dec., 2008 </span>
+<ol type="1">
+</ol>
+</li>
+<li level="1">
+<span>"Indeterminate colitis" Mitchell PJ, Rabau MY, Haboubi NY, Tech Coloproctol, №11, jun. 2007</span>
+<ol type="1">
+</ol>
+</li>
+<li level="1">
+<span>"Rectal sparing and skip lesions in ulcerative colitis: a comparative study of endoscopic and histologic findings in patients who underwent proctocolectomy" Joo M, Odze RD,The American Journal of Surgical Pathology, №34, may 2010 </span>
+<ol type="1">
+</ol>
+</li>
+</ol> </div>
+</section>
+</div>
+</section>
+<section class="page-section" data-section-name="ATTENTION">
+<h2 class="page-section__title" id="attention">
+        Внимание!    </h2>
+<div class="container">
+<div class="row page-section__row">
+<!--noindex-->
+<label class="attention-self-treatment-list__caption">Если вы не являетесь медицинским специалистом:</label>
+<ul class="attention-self-treatment-list">
+<li>
+        Занимаясь самолечением, вы можете нанести непоправимый вред своему здоровью.
+         
+    </li>
+<li>
+        Информация, размещенная на сайте MedElement, не может и не должна заменять очную консультацию врача.
+        Обязательно
+        обращайтесь в медицинские учреждения при наличии каких-либо заболеваний или беспокоящих вас симптомов.
+         
+    </li>
+<li>
+        Выбор лекарственных средств и их дозировки, должен быть оговорен со специалистом. Только врач может
+        назначить
+        нужное лекарство и его дозировку с учетом заболевания и состояния организма больного.
+         
+    </li>
+<li>
+        Сайт MedElement является исключительно информационно-справочным ресурсом. Информация, размещенная на данном
+        сайте, не должна использоваться для самовольного изменения предписаний врача.
+         
+    </li>
+<li>
+        Редакция MedElement не несет ответственности за какой-либо ущерб здоровью или материальный ущерб, возникший
+        в
+        результате использования данного сайта.
+    </li>
+</ul>
+<!--/noindex-->
+</div>
+</div>
+</section>
+</main>

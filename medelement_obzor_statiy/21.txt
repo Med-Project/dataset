@@ -1,0 +1,295 @@
+<main id="main">
+<section class="page-information disease-information">
+<div class="container">
+<h1 class="page-information__name disease-information__name">
+            Атрезия пищевода без свища (Q39.0)        </h1>
+<div class="disease-information__version-name">
+<p class="lead text-muted">
+                
+                Версия: Справочник заболеваний MedElement                </p>
+</div>
+<div class="disease-information__categories-mkb">
+<label>Категории МКБ: </label>
+                Атрезия пищевода без свища (Q39.0)            </div>
+<div class="disease-information__sections-medicine">
+<label>Разделы медицины: </label>
+                Врожденные заболевания, Гастроэнтерология            </div>
+</div>
+</section>
+<section class="page-section" data-index="0">
+<h2 class="page-section__title" id="general_information">
+        Общая информация    </h2>
+<div class="container">
+<div class="page-links-actions">
+<ul>
+<li class="page-links-actions__item page-links-actions__item--print" data-ga-event-action="Клик по ссылке: Версия для печати" data-ga-event-category="Links actions" data-ga-event-label="" data-send-ga-event="">
+<a href="javascript:window.print()">Версия для печати
+                    <svg class="svg-icon svg-icon-printer" height="18" version="1.1" viewbox="0 0 24 24" width="18" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<path d="M18,3H6V7H18M19,12A1,1 0 0,1 18,11A1,1 0 0,1 19,10A1,1 0 0,1 20,11A1,1 0 0,1 19,12M16,19H8V14H16M19,8H5A3,3 0 0,0 2,11V17H6V21H18V17H22V11A3,3 0 0,0 19,8Z"></path>
+</svg>
+</a>
+</li>
+</ul>
+</div>
+<section class="row page-field" data-field-name="SHORTDESCRIPTION">
+<h3 class="page-field__title text-left" id="shortdescription">
+                    Краткое описание                </h3>
+<div class="page-field__data">
+<div style="text-align: justify; ">
+<br/>
+<strong><aterm term="1">Атрезия<span class="term-description" style="display: none;"><span>Атрезия — врождённое отсутствие или приобретенное заращение естественных отверстий и каналов в организме</span><br/></span></aterm></strong><strong> пищевода</strong>  - полная врожденная непроходимость пищевода.<br/>
+	Это заболевание является тяжелым пороком развития, при котором верхний отрезок пищевода заканчивается слепо. Нижний отрезок органа чаще всего сообщается с трахеей.</div>
+</div>
+</section>
+</div>
+</section>
+<section class="page-section" data-section-name="CLASSIFICATION">
+<h2 class="page-section__title" id="classification">
+        Классификация    </h2>
+<div class="container">
+<div class="row page-section__row">
+<div style="text-align: justify; ">
+<br/>
+<aterm term="1">Атрезия<span class="term-description" style="display: none;"><span>Атрезия — врождённое отсутствие или приобретенное заращение естественных отверстий и каналов в организме</span><br/></span></aterm> пищевода и  трахеопищеводный свищ (ТПС) наиболее часто встречаются в комбинации, но могут существовать и в качестве самостоятельных изолированных аномалий. Тип аномалии имеет большое клиническое значение (Ашкрафт К.У., Холдер Т.М., 1996).<br/>
+<br/>
+<strong>Изолированная атрезия пищевода</strong> является редкой формой порока (5-7%). При данной аномалии верхний и нижний сегменты пищевода заканчиваются слепо, между ними имеется большой <aterm term="1"><aterm term="1">диастаз<span class="term-description" style="display: none;"><span>Диастаз – в пер. с гр. - разъединение</span><br/></span></aterm></aterm>. Обычно <aterm term="1">дистальный<span class="term-description" style="display: none;"><span>дистальный - (лат. distalis) - расположенный дальше от центра или срединной линии </span><br/></span></aterm> сегмент пищевода очень короткий: он выступает над диафрагмой всего на 1-2 см. При данной аномалии у плода  <aterm term="1">амниотическая жидкость<span class="term-description" style="display: none;"><span>Амниотическая жидкость (околоплодные воды) — жидкость, находящаяся внутри плодных оболочек и окружающая плод во время беременности</span><br/></span></aterm> не попадает в желудок, поэтому он отличается малыми размерами.</div>
+<div style="text-align: justify; ">
+	 </div>
+</div>
+</div>
+</section>
+<section class="page-section" data-section-name="ETIOLOGY">
+<h2 class="page-section__title" id="etiology">
+        Этиология и патогенез    </h2>
+<div class="container">
+<div class="row page-section__row">
+<div style="text-align: justify; ">
+<br/>
+	Этиология трахеопищеводных аномалий остается неясной. В 5% случаев атрезия пищевода встречается при хромосомных болезнях. <br/>
+	Развитие данного порока связано с нарушениями <aterm term="1">органогенеза<span class="term-description" style="display: none;"><span>Органогенез — последний этап эмбрионального индивидуального развития</span><br/></span></aterm> на ранних стадиях внутриутробного развития.<br/>
+	Трахея и пищевод возникают из одного зачатка - головного конца передней кишки. При этом первоначально трахея широко сообщается с пищеводом, а их разделение происходит на 4-5 неделе <aterm term="1">эмбриогенеза<span class="term-description" style="display: none;"><span>Эмбриогенез - (embryogenesis; эмбрион + греч. genesis происхождение, развитие)</span><br/></span></aterm>. Возникновение атрезии пищевода возможно при несоответствии направления и скорости роста трахеи и пищевода в сроки с 3-й по 6-ю неделю гестации.<br/>
+<br/>
+<strong>Патогенез </strong></div>
+<div style="text-align: justify; ">
+	Для любой формы атрезии пищевода характерно уменьшенное количество нервной ткани в сплетении Ауэрбаха, в верхнем и нижнем сегментах пищевода. Дефицит нервной ткани более выражен в дистальном сегменте пищевода.<br/>
+	Атрезия пищевода сопровождается нарушением активности перистальтики сегментов пищевода, которое сохраняется и после операции. Данное осложнение менее выражено при изолированном <aterm term="1">ТПС<span class="term-description" style="display: none;"><span>ТПС - трахеопищеводный свищ</span><br/></span></aterm> без атрезии пищевода. Это обусловлено тем, что в этом случае воздух из раздутого желудка свободно эвакуируется через пищевод. </div>
+</div>
+</div>
+</section>
+<section class="page-section" data-section-name="EPIDEMIOLOGY">
+<h2 class="page-section__title" id="epidemiology">
+        Эпидемиология    </h2>
+<div class="container">
+<div class="row page-section__row">
+<div style="text-align: justify; ">
+<br/>
+	Частота развития полной врожденной непроходимости пищевода составляет 1 случай на 3000 новорожденных (Ашкрафт К.У., Холдер Т.М., 1996). Это составляет 9,5 <i>% </i>всех пороков,<i> </i>требующих хирургической коррекции,  или 13, 5 <i>% </i>больных с пороками развития пищеварительного тракта (В. М. Державин и А. А. Булетова (1965).<br/>
+	У 40% больных атрезия пищевода сочетается с другими пороками развития. В 5% случаев атрезия пищевода встречается при хромосомных болезнях. Частота заболевания не зависит от пола. <br/>
+	За период 1999-2007 г.г. в США было зарегистрировано 75 смертельных случаев, когда атрезия пищевода без свища была указана в качестве основной причины смерти.</div>
+</div>
+</div>
+</section>
+<section class="page-section" data-index="4">
+<h2 class="page-section__title" id="clinical">
+        Клиническая картина    </h2>
+<div class="container">
+<section class="row page-field" data-field-name="ANTIPRAXIA">
+<h3 class="page-field__title text-left" id="antipraxia">
+                    Cимптомы, течение                </h3>
+<div class="page-field__data">
+<div style="text-align: justify; ">
+<br/>
+	Признаки атрезии пищевода проявляются сразу после рождения. У ребенка наблюдаются срыгивание при кормлении малыми дозами, ложная <aterm term="1">гиперсаливация<span class="term-description" style="display: none;"><span>Гиперсаливация - увеличенное выделение слюны пониженной вязкости.</span><br/></span></aterm>, выделение пенистой жидкости со слизью изо рта и носа.<br/>
+	Новорожденные с атрезией пищевода в основной массе случаев рождаются недоношенными, маловесными. </div>
+</div>
+</section>
+</div>
+</section>
+<section class="page-section" data-section-name="DIAGNOSTICS">
+<h2 class="page-section__title" id="diagnostics">
+        Диагностика    </h2>
+<div class="container">
+<div class="row page-section__row">
+<div style="text-align: justify; ">
+<br/>
+	Атрезию пищевода можно заподозрить <aterm term="1">антенатально<span class="term-description" style="display: none;"><span>Антенатальный - прилагательное, характеризующее структуры и процессы, происходящие до момента рождения.</span><br/></span></aterm> по результатам УЗИ при обнаружении многоводия у матери и отсутствии визуализации желудка у плода. Основанием для более тщательного поиска признаков атрезии пищевода является наличие компонентов VACTERL-комбинации пороков у плода или новорожденного.</div>
+<div style="text-align: justify; ">
+	Для диагностики атрезий пищевода применяется проба Элефанта: при зондировании пищевода мягким катетером и рентгенографии с контрастным веществом отмечают, что резиновый катетер, доходя до места препятствия, встречает сопротивление. Обнаружив это, в катетер шприцом вводят воздух, который при наличии атрезии пищевода с шумом выходит  через рот, а при попытке дальнейшего проведения катетера он перегибается и концом выходит через рот.</div>
+<div style="text-align: justify; ">
+	 </div>
+<div style="text-align: justify; ">
+<strong>Инструментальная диагностика</strong><br/>
+<br/>
+	Рентгенологическое исследование позволяет подтвердить диагноз. Сначала делается обзорный снимок грудной клетки и органов брюшной полости.  Затем проводится контрастное исследование пищевода в вертикальном положении пациента с целью предупреждения аспирации контрастного вещества. <br/>
+<br/>
+	С целью уточнения характера атрезии вводят небольшое количество (до 2 мл) йодолипола или водорастворимого контрастного веществав в пищевод с помощью катетера, избегая при этом попадания его в глотку и последующей аспирации в дыхательные пути. Заполненный контрастным веществом проксимальный отрезок пищевода имеет сходство с дивертикулом, но в отличие от него, при атрезии пищевода контрастное вещество не поступает в нижележащие отделы пищевода. При этом в желудке и кишечнике отсутствует газ. </div>
+<div style="text-align: justify; ">
+<br/>
+<br/>
+	 </div>
+</div>
+</div>
+</section>
+<section class="page-section" data-section-name="LABORATORYDIAGNOSTICS">
+<h2 class="page-section__title" id="laboratorydiagnostics">
+        Лабораторная диагностика    </h2>
+<div class="container">
+<div class="row page-section__row">
+<div style="text-align: justify; ">
+<br/>
+<aterm term="1">Патогномоничных<span class="term-description" style="display: none;"><span>Патогномоничный - характерный для данной болезни (о признаке).</span><br/></span></aterm> лабораторных признаков атрезии пищевода нет. <br/>
+<br/>
+<strong>Обязательные исследования: </strong>общий анализ крови, гематокрит.<br/>
+<br/>
+<strong>Дополнительные исследования: </strong>биохимический анализ крови (кислотно-основное состояние, общий белок, глюкоза, АлАТ, АсАТ, креатинин, мочевина).</div>
+</div>
+</div>
+</section>
+<section class="page-section" data-section-name="DIFFERENTIALDIAGNOSIS">
+<h2 class="page-section__title" id="differentialdiagnosis">
+        Дифференциальный диагноз    </h2>
+<div class="container">
+<div class="row page-section__row">
+<div>
+	 <br/>
+	Согласно рекомендацим American College of Radiology (ACR) по обследованию младенцев до трех месяцев при рвоте, срыгивания и <aterm term="1">регургитация</aterm> в первые несколько кормлений не являются редкостью (пилороспазм, эзофагоспазм). Но, при атрезии пищевода срыгивания отмечаются сразу же и при весьма малом объеме кормления. </div><div>
+	Атрезию пищевода следует дифференцировать от атрезии двенадцатиперстной кишки и других аномалий пищеварительного тракта, заворота кишечника, сепсиса. При этих состояниях рвота, как правило, содержит примесь желчи (которую стоит отличать от молозива) и наблюдается ряд других пантогномоничных симптомов.</div>
+</div>
+</div>
+</section>
+<section class="page-section" data-section-name="SEQUELAE">
+<h2 class="page-section__title" id="sequelae">
+        Осложнения    </h2>
+<div class="container">
+<div class="row page-section__row">
+<br/>
+Вследствие атрезии пищевода развивается резкое похудание новорожденного, наступает угроза голодной смерти.<br/>
+Серьезную опасность представляют пневмонии, обусловленные аспирацией пищи, слизи или слюны. С каждым днем риск развития аспирационной пневмонии существенно возрастает, что диктует необходимость скорейшего обнаружения атрезии пищевода. Однако нередко правильный диагноз устанавливается лишь спустя несколько дней с момента рождения ребенка, что значительно снижает эффективность лечения.
+                    </div>
+</div>
+</section>
+<section class="page-section" data-section-name="THERAPY">
+<h2 class="page-section__title" id="therapy">
+        Лечение    </h2>
+<div class="container">
+<div class="row page-section__row">
+<div>
+<br/>
+	Необходимо экстренное хиругическое лечение.<br/><br/><strong>Медикаментозное лечение</strong><br/>
+	Предоперационная подготовка начинается в родильном доме и включает аспирацию содержимого ротоглотки и носоглотки, полное исключение кормления ребенка через рот и прочее.<br/><br/><strong>Хирургическое лечение</strong><br/>
+	Метод оперативного вмешательства выбирается с учетом формы атрезии пищевода и состояния пациента (Баиров Г.А., 1956).<br/>
+	Если <aterm term="1">диастаз</aterm> между сегментами пищевода не превышает 1,5-2 см, то накладывают прямой <aterm term="1">анастомоз</aterm>. При большом диастазе сегментов накладывают шейную эзофагостому и гастростому. В возрасте от 2 до 12 месяцев проводится второй этап операции - пластика пищевода толстокишечным трансплантантом.</div><br/>
+</div>
+</div>
+</section>
+<section class="page-section" data-section-name="PROGNOSIS">
+<h2 class="page-section__title" id="prognosis">
+        Прогноз    </h2>
+<div class="container">
+<div class="row page-section__row">
+<div style="text-align: justify; ">
+<div>
+<br/>
+		Без хирургической коррекции атрезия пищевода  приводит к летальному исходу вследствие нарушений питания и водно-солевого обмена, аспирационной пневмонии.</div>
+<div>
+		 </div>
+	Отдаленные результаты лечения атрезии пищевода и <aterm term="1">ТПС<span class="term-description" style="display: none;"><span>ТПС - трахеопищеводный свищ</span><br/></span></aterm> преимущественно хорошие. На исход оперативного вмешательства оказывают влияние степень доношенности ребенка, наличие дистрофии, аспирационной пневмонии и сопутствующей патологии. Последствиями операции могут быть снижение двигательной активности пищевода, <aterm term="1">ГЭР<span class="term-description" style="display: none;"><span>ГЭР - гастроэзофагеальный рефлюкс</span><br/><img class="tooltip-term__img" data-link="https://diseases.medelement.com/upload/21441763743e4c828947bee3dc064df4.jpg" src="/images/tooltip/image.svg" title="Открыть изображение"/><a class="tooltip-term__more" href="https://diseases.medelement.com/index.php/disease/view/NDU4Nw%3D%3D/0" target="_blank" title="Подробнее о ГЭР">Подробно</a></span></aterm>.</div>
+<br/>
+</div>
+</div>
+</section>
+<section class="page-section" data-section-name="HOSPITALIZATION">
+<h2 class="page-section__title" id="hospitalization">
+        Госпитализация    </h2>
+<div class="container">
+<div class="row page-section__row">
+<br/>
+Лечение больных с атрезией пищевода проводят исключительно в стационарных условиях.
+                    </div>
+</div>
+</section>
+<section class="page-section" data-index="12">
+<h2 class="page-section__title" id="information">
+        Информация    </h2>
+<div class="container">
+<section class="row page-field" data-field-name="LISTOFREFERENCES">
+<h3 class="page-field__title text-left" id="listofreferences">
+                    Источники и литература                </h3>
+<div class="page-field__data">
+<ol id="AdditionalListSources" type="I">
+<li level="1">
+<span>Детская гастроэнтерология: руководство для врачей /под ред. проф. Шабалова Н.П., 2011</span>
+<ol type="1">
+<li level="2">стр.250</li>
+</ol>
+</li>
+<li level="1">
+<span>Ивашкин В.Т., Лапина Т.Л. Гастроэнтерология. Национальное руководство. Научно-практическое издание, 2008   </span>
+<ol type="1">
+</ol>
+</li>
+<li level="1">
+<span>Исаков Ю.Ф., Степанов Э.А., Красовская Т.В. Абдоминальная хирургия у детей, руководство, Медицина, 1988</span>
+<ol type="1">
+</ol>
+</li>
+<li level="1">
+<span>МакНелли Питер Р. Секреты гастроэнтерологии/ перевод с англ. под редакцией проф. Апросиной З.Г., Бином, 2005</span>
+<ol type="1">
+</ol>
+</li>
+<li level="1">
+<span>ACR Appropriateness Criteria® vomiting in infants up to 3 months of age [online publication], Reston (VA): American College of Radiology (ACR), 2011</span>
+<ol type="1">
+</ol>
+</li>
+<li level="1">
+<span>wikipedia.org (википедия)</span>
+<ol type="1">
+<li level="2">http://ru.wikipedia.org/wiki/Атрезия_пищевода</li>
+</ol>
+</li>
+</ol> </div>
+</section>
+</div>
+</section>
+<section class="page-section" data-section-name="ATTENTION">
+<h2 class="page-section__title" id="attention">
+        Внимание!    </h2>
+<div class="container">
+<div class="row page-section__row">
+<!--noindex-->
+<label class="attention-self-treatment-list__caption">Если вы не являетесь медицинским специалистом:</label>
+<ul class="attention-self-treatment-list">
+<li>
+        Занимаясь самолечением, вы можете нанести непоправимый вред своему здоровью.
+         
+    </li>
+<li>
+        Информация, размещенная на сайте MedElement, не может и не должна заменять очную консультацию врача.
+        Обязательно
+        обращайтесь в медицинские учреждения при наличии каких-либо заболеваний или беспокоящих вас симптомов.
+         
+    </li>
+<li>
+        Выбор лекарственных средств и их дозировки, должен быть оговорен со специалистом. Только врач может
+        назначить
+        нужное лекарство и его дозировку с учетом заболевания и состояния организма больного.
+         
+    </li>
+<li>
+        Сайт MedElement является исключительно информационно-справочным ресурсом. Информация, размещенная на данном
+        сайте, не должна использоваться для самовольного изменения предписаний врача.
+         
+    </li>
+<li>
+        Редакция MedElement не несет ответственности за какой-либо ущерб здоровью или материальный ущерб, возникший
+        в
+        результате использования данного сайта.
+    </li>
+</ul>
+<!--/noindex-->
+</div>
+</div>
+</section>
+</main>

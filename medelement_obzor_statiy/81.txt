@@ -1,0 +1,349 @@
+<main id="main">
+<section class="page-information disease-information">
+<div class="container">
+<h1 class="page-information__name disease-information__name">
+            Дивертикул пищевода приобретенный (K22.5)        </h1>
+<div class="disease-information__alternate-name">
+<label>Также: </label>
+                дивертикул Ценкера            </div>
+<div class="disease-information__version-name">
+<p class="lead text-muted">
+                
+                Версия: Справочник заболеваний MedElement                </p>
+</div>
+<div class="disease-information__categories-mkb">
+<label>Категории МКБ: </label>
+                Дивертикул пищевода приобретенный (K22.5)            </div>
+<div class="disease-information__sections-medicine">
+<label>Разделы медицины: </label>
+                Гастроэнтерология            </div>
+</div>
+</section>
+<section class="page-section" data-index="0">
+<h2 class="page-section__title" id="general_information">
+        Общая информация    </h2>
+<div class="container">
+<div class="page-links-actions">
+<ul>
+<li class="page-links-actions__item page-links-actions__item--print" data-ga-event-action="Клик по ссылке: Версия для печати" data-ga-event-category="Links actions" data-ga-event-label="" data-send-ga-event="">
+<a href="javascript:window.print()">Версия для печати
+                    <svg class="svg-icon svg-icon-printer" height="18" version="1.1" viewbox="0 0 24 24" width="18" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<path d="M18,3H6V7H18M19,12A1,1 0 0,1 18,11A1,1 0 0,1 19,10A1,1 0 0,1 20,11A1,1 0 0,1 19,12M16,19H8V14H16M19,8H5A3,3 0 0,0 2,11V17H6V21H18V17H22V11A3,3 0 0,0 19,8Z"></path>
+</svg>
+</a>
+</li>
+</ul>
+</div>
+<section class="row page-field" data-field-name="SHORTDESCRIPTION">
+<h3 class="page-field__title text-left" id="shortdescription">
+                    Краткое описание                </h3>
+<div class="page-field__data">
+<div style="text-align: justify;">
+<br/>
+<strong>Дивертикул пищевода приобретенный</strong> - это стойкое мешковидное выпячивание стенки пищевода, сообщающееся с его просветом. <span style="text-align: justify; ">Такое выпячивание может нарушать функцию глотания и продвижения пищи в пищеводе. В полости выпячивания может задерживаться и накапливаться пища, а также возможно возникновение воспалительных процессов.</span></div>
+<p style="text-align: justify;">
+<img alt="Дивертикул пищевода" height-fact="768" id="preview_image" src="https://diseases.medelement.com/upload/2203a6547ff18d9bda35bb2fe2a282a9.jpg" style="width: 350px; height: 263px; border-width: 0px; border-style: solid; margin-left: 0px; margin-top: 0px; float: none;" title="Дивертикул пищевода" width-fact="1024"/><br/>
+<br/>
+	Различают истинные и ложные дивертикулы пищевода.</p>
+<p style="text-align: justify;">
+<br/>
+<strong>Истинный дивертикул</strong> представляет собой выпячивание, стенки которого образованы всеми слоями пищеводной стенки – слизистым, мышечным и наружной оболочкой.</p>
+<p style="text-align: justify;">
+<br/>
+<strong>Ложный дивертикул</strong> – это выпячивание слизистой оболочки через дефект в мышечном слое стенки пищевода. Стенка такого выпячивания состоит только из слизистой и наружной оболочки.<br/>
+<br/>
+	Также, выделяют <strong>дивертикул Ценкера</strong> - глоточно-пищеводный дивертикул, который локализуется на задней стенке глотки и пищевода.<br/>
+<br/>
+<img alt="Дивертикул Ценкера" height-fact="600" id="preview_image" src="https://diseases.medelement.com/upload/dc43cb50ea7ec2d15af65adf57041e9f.jpg" style="width: 350px; height: 263px; border-width: 0px; border-style: solid; margin-left: 0px; margin-top: 0px; float: none;" title="Дивертикул Ценкера" width-fact="800"/></p>
+</div>
+</section>
+</div>
+</section>
+<section class="page-section" data-section-name="CLASSIFICATION">
+<h2 class="page-section__title" id="classification">
+        Классификация    </h2>
+<div class="container">
+<div class="row page-section__row">
+<div style="text-align: justify;">
+<br/>
+<br/>
+<strong>По локализации:</strong><br/>
+	- глоточно-пищеводные (Ценкера);<br/>
+	- эпибронхиальные (бифуркационные, среднепищеводные);<br/>
+	- наддиафрагмальные (эпифренальные);<br/>
+	- абдоминальные (поддиафрагмальные);<br/>
+<br/>
+	Наиболее частая локализация - шейный отдел пищевода (у 70% пациентов), уровень <aterm term="1">бифуркации<span class="term-description" style="display: none;"><span>Бифуркация - разделение трубчатого органа на две ветви, приблизительно одинакового калибра, например бифуркация трахеи, бифуркация аорты.</span><br/></span></aterm> трахеи (20%) и наддиафрагмальный отдел пищевода (10%). <br/>
+<br/>
+<strong>По механизму развития:</strong><br/>
+	- пульсионные;<br/>
+	- тракционные;<br/>
+	- пульсионно-тракционные;<br/>
+<br/>
+	Бифуркационные дивертикулы относят к тракционным, остальные - к пульсионным.<br/>
+<br/>
+<strong>По типу:</strong><br/>
+	- истинный дивертикул;<br/>
+	- ложный дивертикул.</div>
+</div>
+</div>
+</section>
+<section class="page-section" data-section-name="ETIOLOGY">
+<h2 class="page-section__title" id="etiology">
+        Этиология и патогенез    </h2>
+<div class="container">
+<div class="row page-section__row">
+<div style="text-align: justify; ">
+<br/>
+	Этиология различна в зависимости от типа дивертикула.<br/>
+<br/>
+<strong>Дивертикулы грудной части пищевода, </strong>как правило, имеют врожденный характер (врожденная слабость мышечной оболочки пищеводной стенки).<br/>
+<br/>
+<strong>Приобретенные</strong> развиваются в результате <aterm term="1">медиастинита<span class="term-description" style="display: none;"><span>Медиастинит - воспаление клетчатки средостения<span class="term-description" style="display: none;"><span>Средостение - часть грудной полости, расположенная между правым и левым плевральными мешками, ограниченная спереди грудиной, сзади грудным отделом позвоночника, снизу диафрагмой, сверху верхней апертурой грудной клетки.</span><br/></span>.</span><br/></span></aterm>, <aterm term="1">лимфаденопатии<span class="term-description" style="display: none;"><span>Лимфаденопатия - состояние, проявляющееся увеличением лимфатических узлов лимфатической системы. </span><br/></span></aterm> (при туберкулезе легких или гистоплазмозе).<br/>
+<br/>
+<strong>Дивертикулы абдоминальной части пищевода</strong> являются последствиями длительного пептического эзофагита, стриктур. Кроме того, причинами могут быть хирургическая травма пищевода, ахалазия кардии, эзофагоспазм.<br/>
+<br/>
+<strong>Пульсионные дивертикулы</strong> образуются вследствие нарушения моторики пищевода с возникновением <aterm term="1">спастических<span class="term-description" style="display: none;"><span>Спастический - возникающий во время спазмов или напоминающий по своему проявлению спазм.</span><br/></span></aterm> сокращений, вызывающих повышение внутрипищеводного давления и выбухание стенки пищевода в наиболее слабых местах (часто выше органического или функционального сужения).<br/>
+<br/>
+	Наличие соединительнотканных сращений стенки пищевода с окружающими органами (чаще с воспаленными лимфатическими узлами <aterm term="1">средостения<span class="term-description" style="display: none;"><span>Средостение - часть грудной полости, расположенная между правым и левым плевральными мешками, ограниченная спереди грудиной, сзади грудным отделом позвоночника, снизу диафрагмой, сверху верхней апертурой грудной клетки.</span><br/></span></aterm>) обуславливает смещение и растяжение пищеводной стенки в сторону пораженного органа с образованием <strong>тракционных дивертикулов</strong>.<br/>
+<br/>
+	Во многих случаях эти механизмы действуют одновременно.<br/>
+	 </div>
+</div>
+</div>
+</section>
+<section class="page-section" data-section-name="EPIDEMIOLOGY">
+<h2 class="page-section__title" id="epidemiology">
+        Эпидемиология    </h2>
+<div class="container">
+<div class="row page-section__row">
+<p>Пол: Все</p>
+<p>
+        Возраст: преимущественно от 50 до 75 лет </p>
+<p>Признак распространенности: Редко</p>
+<p>Соотношение полов(м/ж): 2</p>
+<br/>
+<div style="text-align: justify;">
+	Рентгенологические исследования выявляют дивертикулы у 2% обследуемых.<br/>
+	Дивертикулы пищевода приобретенные составляют около 40% всех дивертикулов пищеварительного тракта. Могут развиваться в любом месте пищевода. В примерно 90% случаев представляют собой одиночные выпячивания, в 10% имеют множественную локализацию.<br/>
+	Обнаруживаются чаще в возрасте старше 50 лет (дивертикул Ценкера, вероятно, развивается в процессе старения), у лиц, страдающих другими заболеваниями органов пищеварения (язвенная болезнь, желчнокаменная болезнь и прочие). Среди больных преобладают мужчины.</div>
+<br/>
+</div>
+</div>
+</section>
+<section class="page-section" data-index="4">
+<h2 class="page-section__title" id="clinical">
+        Клиническая картина    </h2>
+<div class="container">
+<section class="row page-field" data-field-name="THESIS">
+<h3 class="page-field__title text-left" id="thesis">
+                    Клинические критерии диагностики                </h3>
+<div class="page-field__data">
+                    
+                    дисфагия, регургитация, неприятный запах изо рта, тошнота, гиперсаливация, боли в грудной клетке, кашель, тошнота                </div>
+</section>
+<section class="row page-field" data-field-name="ANTIPRAXIA">
+<h3 class="page-field__title text-left" id="antipraxia">
+                    Cимптомы, течение                </h3>
+<div class="page-field__data">
+<div style="text-align: justify;">
+<br/>
+	Клиническая картина зависит от локализации дивертикула.<br/>
+<br/>
+	Наиболее часто клинически <aterm term="1">манифестируют<span class="term-description" style="display: none;"><span>Манифестация болезни - развитие выраженных клинических проявлений болезни после ее бессимптомного или стертого течения.</span><br/></span></aterm> дивертикулы Ценкера (в том числе небольших размеров). При употреблении твердой и жидкой пищи у больных возникает <aterm term="1">дисфагия<span class="term-description" style="display: none;"><span>Дисфагия - общее название расстройств глотания</span><br/></span>. С</aterm>копление остатков пищи в дивертикуле приводит к <aterm term="1">регургитации<span class="term-description" style="display: none;"><span>Регургитация - перемещение содержимого полого органа в направлении, противоположном физиологическому в результате сокращения его мышц.</span><br/></span></aterm> непереваренной пищи (иногда даже съеденной несколько дней назад), непрятному запаху изо рта. При пробуждении больной нередко обнаруживает остатки пищи и слизь на подушке.<br/>
+	Больных также беспокоят першение, ощущения царапанья в горле и инородного тела в глотке, сухой кашель, <aterm term="1">гиперсаливация<span class="term-description" style="display: none;"><span>Гиперсаливация - увеличенное выделение слюны пониженной вязкости.</span><br/></span></aterm>, тошнота, изменение тембра голоса, "феномен блокады" после еды (проявляется покраснением лица, ощущением нехватки воздуха, головокружением и обмороком, исчезающим после рвоты).<br/>
+<br/>
+	Бифуркационные дивертикулы и эпифренальные дивертикулы небольших размеров (до 2 см) обычно клинически не проявляются.<br/>
+	При больших размерах появляются <aterm term="1">дисфагия<span class="term-description" style="display: none;"><span>Дисфагия - общее название расстройств глотания</span><br/></span></aterm>, боли за грудиной или в спине, срыгивание непереваренной пищей, <aterm term="1">аэрофагия<span class="term-description" style="display: none;"><span>Аэрофагия - заглатывание избыточного количества воздуха с последующим его отрыгиванием; наблюдается при неправильном приеме пищи (например, при быстрой еде), при некоторых заболеваниях пищеварительного аппарата, при неврозах.</span><br/></span></aterm>, тошнота, ночной кашель.<br/>
+	Клинические признаки бифуркационных дивертикулов провоцируются пробой Вальсальвы (напряжение мышц брюшного пресса после максимального вдоха).<br/>
+<br/>
+	При дивертикулах нижней трети пищевода к клинической картине присоединяются рефлекторная одышка, бронхоспазм, сердцебиение, боли в области сердца без изменений ЭКГ, которые связаны с раздражением блуждающего нерва и сдавлением пищевода со стороны его передней стенки.</div>
+</div>
+</section>
+</div>
+</section>
+<section class="page-section" data-section-name="DIAGNOSTICS">
+<h2 class="page-section__title" id="diagnostics">
+        Диагностика    </h2>
+<div class="container">
+<div class="row page-section__row">
+<div style="text-align: justify; ">
+<br/>
+<strong>Физикальный осмотр</strong><br/>
+	У больных с большим дивертикулом Ценкера при отведении головы назад обнаруживается выпячивание мягкой консистенции на шее, уменьшающееся при надавливании.</div>
+<div style="text-align: justify; ">
+	При других дивертикулах физикальное исследование неинформативно.<br/>
+<br/>
+<strong>Рентгенологическое контрастное исследование</strong> - основной метод, позволяющий определить наличие дивертикула, его размеры, длительность задержки в нем бария, моторные нарушения пищевода, наличие осложнений.<br/>
+<br/>
+<strong>Обзорная рентгенография и компьютерная томография органов грудной клетки</strong> при наличии дивертикулов больших размеров выявляет заполненные воздухом и жидкостью <aterm term="1">стриктуры<span class="term-description" style="display: none;"><span>Стриктура -  резкое сужение просвета какого-либо трубчатого органа вследствие патологических изменений его стенок</span><br/></span></aterm>, сообщающиеся с пищеводом.<br/>
+<br/>
+<strong>Эндоскопическое исследование</strong> применяют с большой осторожностью, так как существует большой риск <aterm term="1">перфорации<span class="term-description" style="display: none;"><span>Перфорация - возникновение сквозного дефекта в стенке полого органа.</span><br/></span></aterm> дивертикула (особенно при локализации в шейном отделе пищевода).<br/>
+<br/>
+	Для более точного определения моторных растройств пищевода в ряде случаев выполняют <strong>пищеводную манометрию.</strong></div>
+</div>
+</div>
+</section>
+<section class="page-section" data-section-name="LABORATORYDIAGNOSTICS">
+<h2 class="page-section__title" id="laboratorydiagnostics">
+        Лабораторная диагностика    </h2>
+<div class="container">
+<div class="row page-section__row">
+<div style="text-align: justify;">
+<br/>
+	Критериев лабораторной диагностики нет. Анализы используются для выявления причины и осложнений заболевания.<br/>
+<br/>
+<strong>Обязательные исследования: </strong>общий анализ крови.<br/>
+<br/>
+<strong>Дополнительные исследования </strong>(проводятся для выявления осложнений и дифференциальной диагностики с другими заболеваниями): биохимический анализ крови (общий белок, альбумин, сиаловые кислоты, С-реактивный белок, АлАТ, АсАТ, амилаза, ЩФ).<br/>
+	 </div>
+</div>
+</div>
+</section>
+<section class="page-section" data-section-name="DIFFERENTIALDIAGNOSIS">
+<h2 class="page-section__title" id="differentialdiagnosis">
+        Дифференциальный диагноз    </h2>
+<div class="container">
+<div class="row page-section__row">
+<div>
+<br/>
+	Дифференцируют с эзофагоспазмом, ГЭРБ, околопищеводной грыжей, пищеводными стриктурами, раком пищевода, ахалазией кардии, нагноившимися кистами средостения, ишемической болезнью сердца, стенокардией.</div><br/>
+</div>
+</div>
+</section>
+<section class="page-section" data-section-name="SEQUELAE">
+<h2 class="page-section__title" id="sequelae">
+        Осложнения    </h2>
+<div class="container">
+<div class="row page-section__row">
+<div style="text-align: justify; ">
+<br/>
+	При осложненном течении развиваются <aterm term="1">дивертикулит<span class="term-description" style="display: none;"><span>Дивертикулит -  воспаление дивертикула, вызываемое обычно застоем его содержимого.</span><br/></span></aterm>, перфорация, кровотечение, нагноение, стеноз пищевода, свищи (при тракционных дивертикулах), <aterm term="1">малигнизация<span class="term-description" style="display: none;"><span>Малигнизация - приобретение клетками нормальной или патологически измененной ткани (например, доброкачественной опухоли) свойств клеток злокачественной опухоли.</span><br/></span></aterm>, асфиксия.<br/>
+	 </div>
+</div>
+</div>
+</section>
+<section class="page-section" data-section-name="THERAPY">
+<h2 class="page-section__title" id="therapy">
+        Лечение    </h2>
+<div class="container">
+<div class="row page-section__row">
+<div>
+<br/>
+	Беcсимптомные или малосимптомные дивертикулы лечения не требуют. При крупных рекомендуется механически, химически и термически щадящая диета, а также мероприятия, направленные на улучшение опорожнения дивертикула: питье воды после еды, натуживание, промывание полости дивертикула слабыми растворами антисептиков.<br/><br/><strong>Хирургическое лечение </strong>показано при больших дивертикулах, склонных к развитию осложнений, а также при дивертикулите, перфорации пищевода, кровотечении, наличии эзофагобронхиальных или эзофаготрахеальных свищей, <aterm term="1">полипозе</aterm>, малигнизации.<br/><br/>
+	Более часто оперируются дивертикулы Ценкера. При их хирургическом лечении операцией выбора считается дивертикулэктомия с крикофорингеальной миотомией.<br/>
+	При наддиафрагмальных дивертикулах дивертикулэктомия дополняется продольной миотомией или миотомией нижнего сфинктера (по результатам эзофаготономанометрии) , поскольку часто имеются  нарушения двигательной функции пищевода.<br/><br/>
+	В последнее время развиваются и совершенствуются эндоскопические методики лечения дивертикулов пищевода.<br/><br/><strong>Медикаментозное лечение.</strong> Проводят лечение осложнений - эзофагита и прочих. Назначают антибактериальные средства, секретолитики, антациды, прокинетики.<br/>
+	 </div>
+</div>
+</div>
+</section>
+<section class="page-section" data-section-name="PROGNOSIS">
+<h2 class="page-section__title" id="prognosis">
+        Прогноз    </h2>
+<div class="container">
+<div class="row page-section__row">
+<div style="text-align: justify;">
+<br/>
+	Прогноз благоприятный. Между 1999-2007 было 668 смертельных случаев в Соединенных Штатах, где код K22.5 был указан в качестве основной причины смерти.</div>
+</div>
+</div>
+</section>
+<section class="page-section" data-section-name="HOSPITALIZATION">
+<h2 class="page-section__title" id="hospitalization">
+        Госпитализация    </h2>
+<div class="container">
+<div class="row page-section__row">
+<br/>
+Лечение больных с осложненными дивертикулами пищевода проводят в стационаре.
+                    </div>
+</div>
+</section>
+<section class="page-section" data-section-name="PROPHYLAXIS">
+<h2 class="page-section__title" id="prophylaxis">
+        Профилактика    </h2>
+<div class="container">
+<div class="row page-section__row">
+<div style="text-align: justify; ">
+<br/>
+	Профилактика приобретенных дивертикулов заключается в своевременном адекватном лечении заболеваний верхнего отдела пищеварительного тракта.</div>
+</div>
+</div>
+</section>
+<section class="page-section" data-index="13">
+<h2 class="page-section__title" id="information">
+        Информация    </h2>
+<div class="container">
+<section class="row page-field" data-field-name="LISTOFREFERENCES">
+<h3 class="page-field__title text-left" id="listofreferences">
+                    Источники и литература                </h3>
+<div class="page-field__data">
+<ol id="AdditionalListSources" type="I">
+<li level="1">
+<span> Гастроэнтерология. Справочник /под.ред. Барановского А.Ю., 2011</span>
+<ol type="1">
+<li level="2">стр 143-146</li>
+</ol>
+</li>
+<li level="1">
+<span>Детская гастроэнтерология: руководство для врачей /под ред. проф. Шабалова Н.П., 2011</span>
+<ol type="1">
+<li level="2">стр.288-289</li>
+</ol>
+</li>
+<li level="1">
+<span>eurodoctor.ru</span>
+<ol type="1">
+<li level="2">http://gastroenterology.eurodoctor.ru/esophageal_diverticulum/</li>
+</ol>
+</li>
+<li level="1">
+<span>http://diseases.academic.ru</span>
+<ol type="1">
+<li level="2">http://diseases.academic.ru/353/ДИВЕРТИКУЛЫ_ПИЩЕВОДА</li>
+</ol>
+</li>
+</ol> </div>
+</section>
+</div>
+</section>
+<section class="page-section" data-section-name="ATTENTION">
+<h2 class="page-section__title" id="attention">
+        Внимание!    </h2>
+<div class="container">
+<div class="row page-section__row">
+<!--noindex-->
+<label class="attention-self-treatment-list__caption">Если вы не являетесь медицинским специалистом:</label>
+<ul class="attention-self-treatment-list">
+<li>
+        Занимаясь самолечением, вы можете нанести непоправимый вред своему здоровью.
+         
+    </li>
+<li>
+        Информация, размещенная на сайте MedElement, не может и не должна заменять очную консультацию врача.
+        Обязательно
+        обращайтесь в медицинские учреждения при наличии каких-либо заболеваний или беспокоящих вас симптомов.
+         
+    </li>
+<li>
+        Выбор лекарственных средств и их дозировки, должен быть оговорен со специалистом. Только врач может
+        назначить
+        нужное лекарство и его дозировку с учетом заболевания и состояния организма больного.
+         
+    </li>
+<li>
+        Сайт MedElement является исключительно информационно-справочным ресурсом. Информация, размещенная на данном
+        сайте, не должна использоваться для самовольного изменения предписаний врача.
+         
+    </li>
+<li>
+        Редакция MedElement не несет ответственности за какой-либо ущерб здоровью или материальный ущерб, возникший
+        в
+        результате использования данного сайта.
+    </li>
+</ul>
+<!--/noindex-->
+</div>
+</div>
+</section>
+</main>

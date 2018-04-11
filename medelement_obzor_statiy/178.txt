@@ -1,0 +1,1051 @@
+<main id="main">
+<section class="page-information disease-information">
+<div class="container">
+<h1 class="page-information__name disease-information__name">
+            Острый аппендицит с перитонитом (K35.2)        </h1>
+<div class="disease-information__version-name">
+<p class="lead text-muted">
+                
+                Версия: Справочник заболеваний MedElement                </p>
+</div>
+<div class="disease-information__categories-mkb">
+<label>Категории МКБ: </label>
+                Острый аппендицит с перитонитом (K35.2)            </div>
+<div class="disease-information__sections-medicine">
+<label>Разделы медицины: </label>
+                Гастроэнтерология            </div>
+</div>
+</section>
+<section class="page-section" data-index="0">
+<h2 class="page-section__title" id="general_information">
+        Общая информация    </h2>
+<div class="container">
+<div class="page-links-actions">
+<ul>
+<li class="page-links-actions__item page-links-actions__item--print" data-ga-event-action="Клик по ссылке: Версия для печати" data-ga-event-category="Links actions" data-ga-event-label="" data-send-ga-event="">
+<a href="javascript:window.print()">Версия для печати
+                    <svg class="svg-icon svg-icon-printer" height="18" version="1.1" viewbox="0 0 24 24" width="18" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<path d="M18,3H6V7H18M19,12A1,1 0 0,1 18,11A1,1 0 0,1 19,10A1,1 0 0,1 20,11A1,1 0 0,1 19,12M16,19H8V14H16M19,8H5A3,3 0 0,0 2,11V17H6V21H18V17H22V11A3,3 0 0,0 19,8Z"></path>
+</svg>
+</a>
+</li>
+</ul>
+</div>
+<section class="row page-field" data-field-name="SHORTDESCRIPTION">
+<h3 class="page-field__title text-left" id="shortdescription">
+                    Краткое описание                </h3>
+<div class="page-field__data">
+<div style="text-align: justify;">
+<br/>
+<strong>Перитонит</strong> - воспаление брюшины, развивающееся вследствие воздействия инфекционного агента после попадания его в свободную брюшную полость. Является наиболее грозным осложнением острого аппендицита, возникающим в основном после его перфорации. См. также "<a href="https://diseases.medelement.com/index.php/disease/view/NDc2OA%253D%253D/fDB8" target="_blank">Острый перитонит</a>" - K65.0.</div>
+<div style="text-align: justify;">
+<br/>
+<br/>
+<strong>Примечание</strong><br/>
+<br/>
+	В данную подрубрику <strong>включены:</strong><br/>
+	- острый аппендицит с прободением;<br/>
+	- острый аппендицит с перитонитом (разлитым);</div>
+<div style="text-align: justify;">
+	- острый аппендицит с разрывом.</div>
+<div style="text-align: justify;">
+<br/>
+	Из данной подрубрики<strong> исключены:</strong><br/>
+	- острый аппендицит <span style="font-family: Arial, Helvetica, sans-serif; line-height: 14.399999618530273px;">с локализованным перитонитом с или без разрыва или перфорации;</span><br style="margin: 0px; padding: 0px; font-family: Arial, Helvetica, sans-serif; line-height: 14.399999618530273px;"/>
+<span style="font-family: Arial, Helvetica, sans-serif; line-height: 14.399999618530273px;">- </span>острый аппендицит <span style="font-family: Arial, Helvetica, sans-serif; line-height: 14.399999618530273px;">с перитонеальным абсцессом;</span></div>
+<div style="margin: 0px; padding: 0px; font-family: Arial, Helvetica, sans-serif; line-height: 14.399999618530273px; text-align: justify;">
+	- <span style="font-family: Arial, Verdana, sans-serif;">о</span><span style="font-family: Arial, Verdana, sans-serif;">стрый аппендицит </span><span style="line-height: 14.399999618530273px;">с абсцессом червеобразного отростка.</span></div>
+</div>
+</section>
+<section class="row page-field" data-field-name="NUMBERDAYSFLOW">
+<h3 class="page-field__title text-left" id="numberdaysflow">
+                    Период протекания                </h3>
+<div class="page-field__data">
+<br/>
+<label>Описание:</label>
+<p></p><div>
+	Распространение воспаления на значительную часть брюшины происходит на 3-4 сутки и ранее. </div>
+</div>
+</section>
+</div>
+</section>
+<section class="page-section" data-section-name="ETIOLOGY">
+<h2 class="page-section__title" id="etiology">
+        Этиология и патогенез    </h2>
+<div class="container">
+<div class="row page-section__row">
+<div style="text-align: justify;">
+<br/>
+	Острый аппендицит с генерализованным перитонитом возникает в результате перфорации отростка и распространения инфекции на брюшную полость. Эндотоксины грамотрицательных бактерий приводят к высвобождению цитокинов, которые индуцируют клеточные и гуморальные каскадные реакции, вызывающие повреждение клеток, септический шок и синдром полиорганной недостаточности.<br/>
+	Согласно имеющимся данным, бактериальный перитонит связан с разнообразными и разобщенными вариантами цитокинового ответа. Показана связь более высоких уровней определенных цитокинов (к примеру, фактора некроза опухоли-альфа, интерлейкина-6) с худшими прогностическими результатами, а также с вторичной (неконтролируемой) активацией системного воспалительного каскада.</div>
+<p style="text-align: justify;">
+<br/>
+<strong>Процессы, влияющие на развитие перитонита:</strong><br/>
+<br/>
+	1. Выпадение фибрина в экссудате. Является важной частью иммунной защиты, поскольку фибринные комплексы могут поглотить и адсорбировать большое количество бактерий. В результате системное распространение внутрибрюшинной инфекции может замедлиться, что уменьшает раннюю смертность от сепсиса. Однако одновременно с этим в фибринных комплексах бактерии, защищенные от механизмов иммунной защиты, могут размножаться, что приводит к развитию оставшейся инфекции и процессов абсцедирования.<br/>
+	Таким образом, выпадение фибрина в конечном итоге может приводить как к  локализации процесса, так и к развитию инфекции. </p>
+<p style="text-align: justify;">
+<br/>
+	2.<strong> </strong>Степень перитонеального бактериального загрязнения.  В настоящее время средний уровень обсеменения при разлитом перитоните оценивают как 8х10<sup>8 </sup>КОЕ/мл. Высокая степень обсемененности может истощать иммунную систему защиты.<br/>
+<br/>
+	3. Вирулентность. Бактериальные факторы вирулентности (способность к образованию капсулы, факультативно-анаэробный рост, возможность адгезии, продукция  янтарной кислоты) мешают фагоцитозу бактерий нейтрофилами и опосредованному клеточному ответу. В результате инфекция сохраняется и формируются абсцессы. Синергия между определенными бактериями и грибками может также играть важную роль в ослаблении иммунной защиты хозяина.  </p>
+<p style="text-align: justify;">
+<br/>
+	4. Наличие энтерококков в качестве возбудителя.<br/>
+<br/>
+	5. Наличие микробных и микробно-грибковых ассоциаций в качестве возбудителя.<br/>
+	 </p>
+</div>
+</div>
+</section>
+<section class="page-section" data-section-name="EPIDEMIOLOGY">
+<h2 class="page-section__title" id="epidemiology">
+        Эпидемиология    </h2>
+<div class="container">
+<div class="row page-section__row">
+<p>Признак распространенности: Распространено</p>
+<br/>
+<div style="text-align: justify;">
+	Распространенность данной формы осложнения весьма вариабельна. В среднем, если частота всех осложнений при остром аппендиците составляет 5-9%, генерализованный перитонит встречается в 1-2% случаев. </div>
+</div>
+</div>
+</section>
+<section class="page-section" data-section-name="FACTORSANDRISKGROUPS">
+<h2 class="page-section__title" id="factorsandriskgroups">
+        Факторы и группы риска    </h2>
+<div class="container">
+<div class="row page-section__row">
+<br/>
+- пожилой возраст;<br/>
+- позднее вмешательство;<br/>
+- хирургические ошибки;<br/>
+- <aterm term="1">иммуносупрессия<span class="term-description" style="display: none;"><span>Иммуносупрессия -  генетически детерминированная или вызванная внешним воздействием потеря способности иммунной системы организма к иммунному ответу на тот или иной антиген.</span><br/></span></aterm>.
+                    </div>
+</div>
+</section>
+<section class="page-section" data-index="4">
+<h2 class="page-section__title" id="clinical">
+        Клиническая картина    </h2>
+<div class="container">
+<section class="row page-field" data-field-name="THESIS">
+<h3 class="page-field__title text-left" id="thesis">
+                    Клинические критерии диагностики                </h3>
+<div class="page-field__data">
+                    
+                    лихорадка, вздутие живота, задержка стула, задержка газов, артериальная гипотензия, тахикардия, доскообразное напряжение мышц живота, симптомы раздражения брюшины, разлитая боль в животе, рвота, тошнота, серый цвет кожи, заостренные черты лица, спутанность сознания, сухой язык                </div>
+</section>
+<section class="row page-field" data-field-name="ANTIPRAXIA">
+<h3 class="page-field__title text-left" id="antipraxia">
+                    Cимптомы, течение                </h3>
+<div class="page-field__data">
+<div style="text-align: justify;">
+	 </div>
+<div style="text-align: justify;">
+<strong>Боли</strong>.<strong> </strong>При остром аппендиците с генерализованным перитонитом болезненность вначале локализуется в правой подвзодшной области, затем быстро распространяется по всему животу.<br/>
+	Напряжение передней брюшной стенки сменяется вздутием живота с <aterm term="1">парезом<span class="term-description" style="display: none;"><span>Парез - уменьшение силы и/или амплитуды произвольных движений, обусловленное нарушением иннервации (обеспечения нервами и связи с центральной нервной системой) соответствующих мышц</span><br/></span></aterm> кишечника. Данное проявление отличает начальные стадии перитонита при остром аппендиците от перитонита при <aterm term="1">перфорации<span class="term-description" style="display: none;"><span>Перфорация - возникновение сквозного дефекта в стенке полого органа.</span><br/></span></aterm> полого органа, когда с самого начала наблюдается доскообразное напряжение живота.</div>
+<div style="text-align: justify;">
+<br/>
+<strong><aterm term="1">Симптом Щеткина-Блюмберга<span class="term-description" style="display: none;"><span>Симптом Щёткина-Блюмберга - резкое усиление боли в животе при быстром снятии пальпирующей руки с передней брюшной стенки после надавливания</span><br/></span></aterm> </strong>выражен во всех отделах живота, но постепенно его выраженность ослабевает.<br/>
+	При аускультации живота кишечные шумы не выслушиваются. Отмечается задержка газов и стула. </div>
+<div style="text-align: justify;">
+<br/>
+	Больной беспокоен, в терминальных стадиях сознание может быть спутанным. Черты лица заострены, кожа приобретает серо-зеленый оттенок (лицо Гиппократа). Температура тела повышается до 39-40<sup>о</sup> С, пульс резко учащается до 120 и более ударов в минуту. По мере прогрессирования перитонита артериальное давление  и температура постепенно снижаются.</div>
+</div>
+</section>
+</div>
+</section>
+<section class="page-section" data-section-name="DIAGNOSTICS">
+<h2 class="page-section__title" id="diagnostics">
+        Диагностика    </h2>
+<div class="container">
+<div class="row page-section__row">
+<div style="text-align: justify;">
+<br/>
+	Диагноз перитонита выставляется в основном клинически и подтверждается интраоперационно.<br/>
+	УЗИ затруднено вследствие вздутия петель кишечника.<br/>
+	Рентгенография выявляет признаки динамического пареза кишечника.<br/>
+	Диагностическая лапароскопия  приводит, как правило, только к потере времени. </div>
+</div>
+</div>
+</section>
+<section class="page-section" data-section-name="LABORATORYDIAGNOSTICS">
+<h2 class="page-section__title" id="laboratorydiagnostics">
+        Лабораторная диагностика    </h2>
+<div class="container">
+<div class="row page-section__row">
+<div style="text-align: justify;">
+<br/>
+	Изменения лабораторных показателей различаются в зависимости от возраста пациента, <aterm term="1">преморбидного фона<span class="term-description" style="display: none;"><span>Преморбидный фон - предшествующее и способствующее развитию болезни состояние организма</span><br/></span></aterm>, распространенности перитонита и многих других факторов.<br/>
+	В целом изменения характеризуются общевоспалительными явлениями, гиповолемией, гипопротеинемией, нарушениями электролитного баланса и свертываемости. Иногда эти изменения (например, гипопротеинемия, электролитный дисбаланс) маскируются гемоконцентрацией и выявляются только после адекватного восполнения <aterm term="1">ОЦК<span class="term-description" style="display: none;"><span>ОЦК -  объем циркулирующей крови</span><br/></span></aterm>. <br/>
+<br/>
+	При развитии полиорганной недостаточности и сепсиса отмечаются изменения ферментов и гормонов крови, выраженная анемия и повышение уровня остаточного азота в сыворотке, токсическая зернистость нейтрофилов.<br/>
+	 </div>
+</div>
+</div>
+</section>
+<section class="page-section" data-section-name="DIFFERENTIALDIAGNOSIS">
+<h2 class="page-section__title" id="differentialdiagnosis">
+        Дифференциальный диагноз    </h2>
+<div class="container">
+<div class="row page-section__row">
+<div>
+<br/>
+	Следует дифференцировать со <strong>следующими заболеваниями</strong>:<br/>
+	- острые разлитые перитониты другой этиологии (например, при перфорации полых органов);<br/>
+	- инфекционные заболевания;<br/>
+	- мезентериальный тромбоз;<br/>
+	- брыжеечный лимфаденит;<br/>
+	- острый панкреатит;<br/>
+	- острый гнойный пиелонефрит;<br/>
+	- острый холецистит;<br/>
+	- системный васкулит.<br/>
+	 </div>
+</div>
+</div>
+</section>
+<section class="page-section" data-section-name="SEQUELAE">
+<h2 class="page-section__title" id="sequelae">
+        Осложнения    </h2>
+<div class="container">
+<div class="row page-section__row">
+<br/>
+- инфицирование или расхождение краев послеоперационной раны;<br/>
+- кишечные свищи;<br/>
+- абдоминальный компартмент-синдром;<br/>
+- сепсис;<br/>
+- <aterm term="1">ДВС-синдром<span class="term-description" style="display: none;"><span>Коагулопатия потребления (ДВС-синдром) - нарушенная свертываемость крови по причине массивного освобождения из тканей тромбопластических веществ</span><br/></span></aterm>;<br/>
+- острая почечная недостаточность;<br/>
+- энтеральная недостаточность (синдром <aterm term="1">мальабсорбции<span class="term-description" style="display: none;"><span>Синдром мальабсорбции (мальабсорбция) - сочетание гиповитаминоза, анемии и гипопротеинемии, обусловленное нарушением всасывания в тонкой кишке</span><br/></span></aterm>);<br/>
+- полиорганная недостаточность;<br/>
+- острый респираторный дистресс-синдром (СОПЛ, ОРДС).<br/>
+<br/>
+</div>
+</div>
+</section>
+<section class="page-section" data-section-name="THERAPY">
+<h2 class="page-section__title" id="therapy">
+        Лечение    </h2>
+<div class="container">
+<div class="row page-section__row">
+<p>
+	 </p><p>
+<strong>Общие принципы лечения перитонитов:</strong></p><p>
+	1. Контроль источника инфекции.<br/>
+	2. Уничтожение бактерий и токсинов.<br/>
+	3. Поддержание функций систем и органов.<br/>
+	4. Управление воспалительным процессом.<br/><br/><strong>Методы лечения</strong></p><p>
+<br/>
+	1.<strong> Хирургические:</strong><br/>
+	-  <aterm term="1">лапаротомия</aterm>, раннее удаление или изоляция источника перитонита;<br/>
+	- интра- и послеоперационная санация брюшной полости;<br/>
+	- <aterm term="1">декомпрессия</aterm> тонкой кишки.</p><p>
+<br/>
+	2.<strong> Общие: </strong><br/>
+	- массивная системная антибиотикотерапия направленного действия;<br/>
+	- коррекция нарушений <aterm term="1">гомеостаза</aterm> (интенсивная терапия с респираторной поддержкой, поддержанием гемодинамики, контролем и замещением функции почек);<br/>
+	- <aterm term="1">экстракорпоральная детоксикация</aterm>;<br/>
+	- адекватная нутритивная и метаболическая поддержка;<br/>
+	- модуляция противовоспалительного ответа.</p><div>
+<div>
+<br/><strong>Общий подход</strong></div>
+<div id="content_aw2aab6b6b1aa">
+<p>
+			Ранний контроль септического источника является обязательным и может быть достигнут путем оперативного хирургического лечения.<br/><br/>
+			Объем оперативного вмешательства зависит от этиологии, распространенности процесса, возраста пациента и прочих факторов и устанавливается иногда только интраоперационно. </p>
+<p>
+<br/><strong>Общие этапы операции:</strong></p>
+<div>
+			1. Оперативный доступ.</div>
+<div>
+			2. Новокаиновая блокада рефлексогенных зон.</div>
+<div>
+			3. Устранение или надежная изоляция источника перитонита.</div>
+<div>
+			4. Санация брюшной полости.</div>
+<div>
+			5. Декомпрессия кишечника.</div>
+<div>
+			6. Дренирование брюшной полости.</div>
+<div>
+			7. Ушивание лапаротомной раны.</div>
+</div>
+</div><br/><div>
+<p>
+		Лечение перитонита и внутрибрюшного сепсиса всегда начинается с коррекции электролитных нарушений и нарушений коагуляции с эмпирическим назначением парентеральных антибиотиков широкого спектра.</p>
+</div><div>
+	Инфузионная терапия для коррекции <aterm term="1">ОЦК</aterm> должна быть проведена немедленно. Прессорных агентов следует избегать. Инфузионная терапия требует частого мониторинга артериального давления, пульса, мочи, газов крови, гемоглобина и гематокрита, электролитов, <aterm term="1">КЩС</aterm> и функции почек.</div><div id="content_aw2aab6b6b1aa">
+<div>
+<br/><br/><strong>Системная антибиотикотерапия</strong><br/><br/><strong>Первичный перитонит</strong><br/><br/>
+		Препараты выбора: цефуроксим + аминогликозиды II-III поколения.</div>
+<p>
+<br/>
+		Альтернативные схемы: <br/>
+		- аминогликозиды II-III поколения + ванкомицин + метронидазол; <br/>
+		- цефалоспорины III поколения + аминогликозиды II-III поколения + метронидазол; <br/>
+		- тикарциллин/клавуланат или пиперациллин/тазобактам; <br/>
+		- цефепим + метронидазол.</p>
+<p>
+		При выделении грибов рода Candida: флуконазол или амфотерицин В.</p>
+</div><br/><p>
+<strong>Вторичный перитонит</strong> (кроме послеоперационного)</p><p>
+<br/>
+	Препараты выбора: <br/>
+	- ампициллин + аминогликозиды II-III поколения + метронидазол; <br/>
+	- аминогликозиды II-III поколения + линкозамиды; <br/>
+	- цефалоспорины III-IV поколения + метронидазол; <br/>
+	- тикарциллин/клавуланат (или пиперациллин/тазобактам) + аминогликозид; <br/>
+	- цефоперазон/сульбактам.</p><p>
+<br/>
+	Альтернативные препараты: <br/>
+	- карбапенемы; <br/>
+	- фторхинолоны + метронидазол.</p><p>
+<br/><strong>Послеоперационный перитонит</strong></p><p>
+<br/>
+	Препараты выбора:<br/>
+	- цефепим + метронидазол; <br/>
+	- амикацин (или нетилмицин) + метронидазол; <br/>
+	- тикарциллин/клавуланат или пиперациллин/тазобактам; <br/>
+	- цефоперазон/сульбактам.</p><p>
+<br/>
+	Альтернативные препараты:<br/>
+	- фторхинолоны + метронидазол; <br/>
+	- тикарциллин/клавуланат (или пиперациллин/тазобактам) + аминогликозиды II-III поколения.</p><p>
+	 </p><p>
+<strong>Инфицированные формы <aterm term="1">панкреонекроза</aterm>, панкреатогенный абсцесс или перитонит</strong></p><p>
+<br/>
+	Препараты выбора: <br/>
+	- карбапенемы; <br/>
+	- цефепим + метронидазол.</p><p>
+<br/>
+	Альтернативные препараты:<br/>
+	- фторхинолоны (особенно пефлоксацин) + метронидазол;<br/>
+	- тикарциллин/клавуланат или пиперациллин/тазобактам.</p><p>
+	 </p><p>
+<strong>Третичный перитонит</strong></p><p>
+<br/>
+	Препараты выбора: <br/>
+	- карбапенемы; <br/>
+	- фторхинолоны + аминогликозиды II-III поколения + метронидазол; <br/>
+	- цефепим+ метронидазол; <br/>
+	- цефоперазон/сульбактам;<br/>
+	- альтернативная схема: азтреонам + линкозамиды;<br/>
+	- при выделении метициллинорезистентных стафилококков (MRSA) дополнительно - гликопептид, линезолид или рифампицин.</p><p>
+<br/><strong>Длительность.</strong> Антибиотикотерапия проводится до полного регресса локальной и системной симптоматики воспалительного процесса. Иногда (например, при инфицированном панкреонекрозе и его осложнениях) антибиотикотерапия может продолжаться 3-4 недели.</p><p>
+<br/><strong>Пути введения. </strong>В случае распространенного перитонита и при гнойно-септических осложнениях <aterm term="1">панкреонекроза </aterm>(инфицированный панкреонекроз, панкреатогенный абсцесс или перитонит) парентеральное введение антимикробных препаратов целесообразно сочетать с пероральной селективной <aterm term="1">деконтаминацией</aterm> желудочно-кишечного тракта (см. выше).</p><p>
+<br/>
+	При <strong>интраабдоминальном кандидозе</strong> отмечается высокая летальность (до 70%) несмотря на проведение фунгицидной терапии.<br/>
+	Факторы риска развития внутрибрюшного и инвазивного кандидоза:<br/>
+	- несостоятельность <aterm term="1">анастомозов</aterm> желудочно-кишечного тракта;<br/>
+	- деструктивный панкреатит.</p><p>
+	При наличии любого из этих факторов в профилактических целях возможно применение флуконазола.<br/>
+	 </p>
+</div>
+</div>
+</section>
+<section class="page-section" data-section-name="PROGNOSIS">
+<h2 class="page-section__title" id="prognosis">
+        Прогноз    </h2>
+<div class="container">
+<div class="row page-section__row">
+<div>
+<br/>
+	Прогноз при перитонитах зависит от многих факторов и является чрезвычайно затруднительным в индивидуальном плане.  Поэтому расчет используется на практике только в плане группового прогноза.<br/>
+	Для расчета используются несколько шкал:<br/>
+	- APACHE II-III;<br/>
+	- SAPS;<br/>
+	- SOFA;<br/>
+	- MODS;<br/>
+	- MPI;<br/>
+	- TRISS.<br/>
+	Некоторые из перечисленных шкал приведены ниже.<br/><br/><strong>APACHE и SAPS </strong> целесообразно использовать для оценки тяжести пациентов и динамики процесса.<br/><br/><strong>SOFA и  MODS </strong>применяют для динамической оценки тяжести полиорганной дисфункции и эффективности лечебного процесса.<br/><br/><strong>MPI </strong>используется для интраоперационной оценки поражения брюшины и органов брюшной полости.</div><br/><br/><div>
+<strong>Шкала экстренной оценки физиологических функций</strong><strong> APACHE II </strong><br/>
+	 </div><div>
+<div>
+<div class="table-responsive"><table border="1" cellpadding="1" cellspacing="1"><tbody><tr><td>
+<span><span><strong>Параметр</strong></span></span></td>
+<td>
+<span><span><strong>+4</strong></span></span></td>
+<td>
+<span><span><strong>+3</strong></span></span></td>
+<td>
+<span><span><strong>+2</strong></span></span></td>
+<td>
+<span><span><strong>+1</strong></span></span></td>
+<td>
+<span><span><strong>0</strong></span></span></td>
+<td>
+<span><span><strong>+1</strong></span></span></td>
+<td>
+<span><span><strong>+2</strong></span></span></td>
+<td>
+<span><span><strong>+3</strong></span></span></td>
+</tr><tr><td>
+<div>
+<span><span>Ректальная температура, °С</span></span></div>
+</td>
+<td>
+<span><span>&gt;=41</span></span></td>
+<td>
+<span><span>39-40,9</span></span></td>
+<td>
+<span><span>-</span></span></td>
+<td>
+<span><span>38,5-38,9</span></span></td>
+<td>
+<span><span>36,0-38,4</span></span></td>
+<td>
+<span><span>34,0-35,9</span></span></td>
+<td>
+<span><span>32,0-33,9</span></span></td>
+<td>
+<span><span>30,0-31,9</span></span></td>
+</tr><tr><td>
+<div>
+<span><span>Среднее АД, мм рт.ст.</span></span></div>
+</td>
+<td>
+<span><span>&gt;=160</span></span></td>
+<td>
+<span><span>130-159  </span></span></td>
+<td>
+<span><span>110-129</span></span></td>
+<td>
+<span><span>-</span></span></td>
+<td>
+<span><span>70-109</span></span></td>
+<td>
+<span><span>-</span></span></td>
+<td>
+<span><span>50-69</span></span></td>
+<td>
+<span><span>-</span></span></td>
+</tr><tr><td>
+<span><span>Частота сердечных <br/>
+						сокращений, уд./мин.</span></span></td>
+<td>
+<span><span>&gt;=180</span></span></td>
+<td>
+<span><span>140-179</span></span></td>
+<td>
+<span><span>110-139</span></span></td>
+<td>
+<span><span>-</span></span></td>
+<td>
+<span><span>70-109</span></span></td>
+<td>
+<span><span>-</span></span></td>
+<td>
+<span><span>55-69</span></span></td>
+<td>
+<span><span>40-54</span></span></td>
+</tr><tr><td>
+<div>
+<span><span>Частота дыхания, <br/>
+							число движений в мин.</span></span></div>
+</td>
+<td>
+<span><span>&gt;=50</span></span></td>
+<td>
+<span><span>35-49</span></span></td>
+<td>
+<span><span>-</span></span></td>
+<td>
+<span><span>25-34</span></span></td>
+<td>
+<span><span>12-24</span></span></td>
+<td>
+<span><span>10-11</span></span></td>
+<td>
+<span><span>6-9</span></span></td>
+<td>
+<span><span>-</span></span></td>
+</tr><tr><td>
+<span><span>A-aDO при FiO<sub>2</sub> -0,5</span></span></td>
+<td>
+<span><span>&gt;=500</span></span></td>
+<td>
+<span><span>350-499</span></span></td>
+<td>
+<span><span>200-349</span></span></td>
+<td>
+<span><span>-</span></span></td>
+<td>
+<span><span>&lt;200</span></span></td>
+<td>
+<span><span>-</span></span></td>
+<td>
+<span><span>-</span></span></td>
+<td>
+<span><span>-</span></span></td>
+</tr><tr><td>
+<span><span>A-aDO при FiO<sub>2</sub> &lt;0,5</span></span></td>
+<td>
+<span><span>-</span></span></td>
+<td>
+<span><span>-</span></span></td>
+<td>
+<span><span>-</span></span></td>
+<td>
+<span><span>-</span></span></td>
+<td>
+<span><span>&lt;70</span></span></td>
+<td>
+<span><span>61-70</span></span></td>
+<td>
+<span><span>-</span></span></td>
+<td>
+<span><span>55-60</span></span></td>
+</tr><tr><td>
+<span><span>pH</span></span></td>
+<td>
+<span><span>&gt;=7,7</span></span></td>
+<td>
+<span><span>7,6-7,69</span></span></td>
+<td>
+<span><span>-</span></span></td>
+<td>
+<span><span>7,5-7,59</span></span></td>
+<td>
+<span><span>7,33- 7,49</span></span></td>
+<td>
+<span><span>-</span></span></td>
+<td>
+<span><span>7,25-7,32</span></span></td>
+<td>
+<span><span>7,15-7,24</span></span></td>
+</tr><tr><td>
+<span><span>Na<sup>+</sup></span></span></td>
+<td>
+<span><span>&gt;=180</span></span></td>
+<td>
+<span><span>160-179</span></span></td>
+<td>
+<span><span>155-159</span></span></td>
+<td>
+<span><span>150-154</span></span></td>
+<td>
+<span><span>130-149</span></span></td>
+<td>
+<span><span>-</span></span></td>
+<td>
+<span><span>120-129</span></span></td>
+<td>
+<span><span>111-119</span></span></td>
+</tr><tr><td>
+<span><span>K<sup>+</sup></span></span></td>
+<td>
+<span><span>&gt;=7</span></span></td>
+<td>
+<span><span>6,0-6,9</span></span></td>
+<td>
+<span><span>-</span></span></td>
+<td>
+<span><span>5,5-5,9</span></span></td>
+<td>
+<span><span>3,5-5,4</span></span></td>
+<td>
+<span><span>3,0-3,4</span></span></td>
+<td>
+<span><span>2,5-2,9</span></span></td>
+<td>
+<span><span>-</span></span></td>
+</tr><tr><td>
+<span><span>Креатинин, мг/мл</span></span></td>
+<td>
+<span><span>&gt;=3,5</span></span></td>
+<td>
+<span><span>2,0-3,4</span></span></td>
+<td>
+<span><span>1,5-1,9</span></span></td>
+<td>
+<span><span>-</span></span></td>
+<td>
+<span><span>0,6-1,4</span></span></td>
+<td>
+<span><span>-</span></span></td>
+<td>
+<span><span>&lt;0,6</span></span></td>
+<td>
+<span><span>-</span></span></td>
+</tr><tr><td>
+<span><span>Гематокрит, %</span></span></td>
+<td>
+<span><span>&gt;=60</span></span></td>
+<td>
+<span><span>-</span></span></td>
+<td>
+<span><span>50,0-59,9</span></span></td>
+<td>
+<span><span>46-49,9</span></span></td>
+<td>
+<span><span>30,0-45,9</span></span></td>
+<td>
+<span><span>-</span></span></td>
+<td>
+<span><span>20,0-29,9</span></span></td>
+<td>
+<span><span>-</span></span></td>
+</tr><tr><td>
+<span><span>Лейкоциты, 10<sup>9</sup>/л</span></span></td>
+<td>
+<span><span>&gt;=40</span></span></td>
+<td>
+<span><span>-</span></span></td>
+<td>
+<span><span>20,0-39,9</span></span></td>
+<td>
+<span><span>15,0-19,9</span></span></td>
+<td>
+<span><span>3,0-14,9</span></span></td>
+<td>
+<span><span>-</span></span></td>
+<td>
+<span><span>1,0-2,9</span></span></td>
+<td>
+<span><span>-</span></span></td>
+</tr><tr><td>
+<div>
+<span><span>Сознание по шкале Глазго</span></span></div>
+</td>
+<td>
+<span><span>-</span></span></td>
+<td>
+<span><span>-</span></span></td>
+<td>
+<span><span>-</span></span></td>
+<td>
+<span><span>-</span></span></td>
+<td>
+<span><span>15</span></span></td>
+<td>
+<span><span>14</span></span></td>
+<td>
+<span><span>13</span></span></td>
+<td>
+<span><span>12</span></span></td>
+</tr></tbody></table></div><p>
+			A-aDО<sub>2</sub> - альвеолярно-артериальное различие парциального напряжения кислорода.<br/>
+			FiО<sub>2</sub> - содержание кислорода во вдыхаемом воздухе.<br/>
+			Среднее артериальное давление высчитывают по формуле <strong>АД<sub>сист</sub>х 0,42 + АД<sub>диаст</sub> х 0,58 </strong>или по формуле<strong> АД<sub>сист</sub>+ (2хАД<sub>диаст</sub>) + 3</strong>.<br/>
+			 </p>
+</div>
+<div>
+<strong>Шкала нарушения сознания Глазго</strong><br/>
+		 </div>
+</div><div>
+<div class="table-responsive"><table border="1" cellpadding="1" cellspacing="1"><tbody><tr><td>
+<span><span><strong>Реакция</strong></span></span></td>
+<td>
+<span><span><strong>Показатель</strong></span></span></td>
+<td>
+<span><span><strong>Баллы</strong></span></span></td>
+</tr><tr><td>
+<span><span>Словесная</span></span></td>
+<td>
+<span><span>Ориентирован</span></span></td>
+<td>
+<span><span>5</span></span></td>
+</tr><tr><td>
+					 </td>
+<td>
+<span><span>Заторможен</span></span></td>
+<td>
+<span><span>4</span></span></td>
+</tr><tr><td>
+					 </td>
+<td>
+<span><span>Ответ невпопад</span></span></td>
+<td>
+<span><span>6</span></span></td>
+</tr><tr><td>
+					 </td>
+<td>
+<span><span>Невнятные звуки</span></span></td>
+<td>
+<span><span>2</span></span></td>
+</tr><tr><td>
+					 </td>
+<td>
+<span><span>Ответа нет</span></span></td>
+<td>
+<span><span>1</span></span></td>
+</tr><tr><td>
+<span><span>Двигательная</span></span></td>
+<td>
+<span><span>Выполняет команды</span></span></td>
+<td>
+<span><span>5</span></span></td>
+</tr><tr><td>
+					 </td>
+<td>
+<span><span>Указывает локализацию боли</span></span></td>
+<td>
+<span><span>4</span></span></td>
+</tr><tr><td>
+					 </td>
+<td>
+<span><span>Сгибательная реакция на боль</span></span></td>
+<td>
+<span><span>3</span></span></td>
+</tr><tr><td>
+					 </td>
+<td>
+<span><span>Подкорковые движения</span></span></td>
+<td>
+<span><span>2</span></span></td>
+</tr><tr><td>
+					 </td>
+<td>
+<span><span>Разгибательная реакция на боль</span></span></td>
+<td>
+<span><span>1</span></span></td>
+</tr><tr><td>
+<span><span>Глаз</span></span></td>
+<td>
+<span><span>Спонтанная</span></span></td>
+<td>
+<span><span>4</span></span></td>
+</tr><tr><td>
+					 </td>
+<td>
+<span><span>На голос</span></span></td>
+<td>
+<span><span>3</span></span></td>
+</tr><tr><td>
+					 </td>
+<td>
+<span><span>На боль</span></span></td>
+<td>
+<span><span>2</span></span></td>
+</tr><tr><td>
+					 </td>
+<td>
+<span><span>Нет</span></span></td>
+<td>
+<span><span>1</span></span></td>
+</tr></tbody></table></div><br/><br/><strong>Оценка тяжести состояния больного по APACHE II (с учетом возраста)</strong><br/><br/><div class="table-responsive"><table border="1" cellpadding="1" cellspacing="1"><tbody><tr><td>
+<span><span><strong>Возраст, лет</strong></span></span></td>
+<td>
+<span><span><strong>Баллы</strong></span></span></td>
+</tr><tr><td>
+<span><span>Менее 44</span></span></td>
+<td>
+<span><span>0</span></span></td>
+</tr><tr><td>
+<span><span>45-54</span></span></td>
+<td>
+<span><span>2</span></span></td>
+</tr><tr><td>
+<span><span>55-64</span></span></td>
+<td>
+<span><span>3</span></span></td>
+</tr><tr><td>
+<span><span>65-74</span></span></td>
+<td>
+<span><span>5</span></span></td>
+</tr><tr><td>
+<span><span>Более 75</span></span></td>
+<td>
+<span><span>6</span></span></td>
+</tr></tbody></table></div><br/><br/><strong> Оценка тяжести состояния больного острым панкреатитом APACHE II (Шкала хронической патологии)</strong><br/><br/><div class="table-responsive"><table border="1" cellpadding="1" cellspacing="1"><tbody><tr><td>
+<div>
+<span><span><strong>Органная недостаточность или иммунодефицитный статус, предшествовавшие настоящему поступлению</strong></span></span></div>
+</td>
+<td>
+<span><span><strong>Баллы</strong></span></span></td>
+</tr><tr><td>
+<div>
+<span><span><strong>Иммунодефицит:</strong></span></span></div>
+<div>
+<span><span>- терапия, снижающая местный иммунный ответ (иммуносупрессивная химиотерапия, лучевая терапия, длительное применение стероидов, особенно в высоких дозах); <br/>
+						- заболевания, сопровождаемые снижением иммунного ответа (лейкоз, злокачественная лимфома, СПИД)</span></span></div>
+</td>
+<td>
+<span><span>1</span></span></td>
+</tr><tr><td>
+<div>
+<span><span><strong>Нарушения функций печени:</strong></span></span></div>
+<div>
+<span><span>- гистологически подтвержденный цирроз печени;<br/>
+						- портальная гипертензия;<br/>
+						- эпизоды кровотечения, обусловленные портальной гипертензией;<br/>
+						- эпизоды печеночной недостаточности;<br/>
+						- энцефалопатии или комы в анамнезе</span></span></div>
+</td>
+<td>
+<span><span>1</span></span></td>
+</tr><tr><td>
+<span><span><strong>Сердечная недостаточность</strong> IV класса (NYHA*)</span></span></td>
+<td>
+<span><span>1</span></span></td>
+</tr><tr><td>
+<div>
+<span><span><strong>Дыхательная недостаточность:</strong></span></span></div>
+<div>
+<span><span>- значительное ограничение физической активности, обусловленное хроническим рестриктивным, обструктивным или сосудистым поражением легких;<br/>
+						- документированные хроническая гипоксия, гиперкапния, вторичная полицитемия, тяжелая легочная гипертензия; зависимость от респиратора</span></span></div>
+</td>
+<td>
+<span><span>1</span></span></td>
+</tr><tr><td>
+<span><span>Хронический гемодиализ</span></span></td>
+<td>
+<span><span>1</span></span></td>
+</tr><tr><td>
+<span><span>Консервативное лечение</span></span></td>
+<td>
+<span><span>5</span></span></td>
+</tr><tr><td>
+<span><span>Оперативное лечение в экстренном порядке</span></span></td>
+<td>
+<span><span>5</span></span></td>
+</tr><tr><td>
+<span><span>Оперативное лечение в плановом порядке</span></span></td>
+<td>
+<span><span>2</span></span></td>
+</tr></tbody></table></div>
+	* NYHA - Нью-Йоркская кардиологическая ассоциация.
+	<p>
+<br/><strong>Система динамической оценки тяжести состояния пациента APACHE II </strong>включает:<br/>
+		- частоту сердечных сокращений;<br/>
+		- среднее артериальное давление;<br/>
+		- частоту дыхания;<br/>
+		- температуру тела;<br/>
+		- гематокрит;<br/>
+		- содержание лейкоцитов;<br/>
+		- концентрацию натрия, калия, креатинина, или НС0<sub>3</sub>-, рО<sub>2</sub> , рН.<br/><br/>
+		Система APACHE II обладает высокой прогностической значимостью, однако имеет и очевидные ограничения - параметры, необходимые для анализа, можно получить лишь в учреждениях, оборудованных новейшим оборудованием для диагностики и динамического мониторинга за больным.<br/><br/>
+		Оценка по шкале APACHE II складывается из суммы баллов по шкалам экстренной оценки физиологических функций, возраста, хронической патологии. Динамическая ежедневная оценка тяжести состояния больного с использованием этой шкалы позволяет объективно и дифференцировано обосновать вид комплексного лечения пациентов.<br/><br/><span><strong>Клиническая характеристика абдоминального сепсиса </strong>(Клиника факультетской</span><span> хирургии РГМУ 1999-2005,  Гельфанд </span><span>Б.Р.</span><span> и др.)</span></p>
+<p>
+		 </p>
+<div class="table-responsive"><table border="1" cellpadding="1" cellspacing="1"><tbody><tr><td>
+<strong><span><span>Клинический синдром</span></span></strong></td>
+<td>
+<strong><span><span>APACHE II</span></span></strong></td>
+<td>
+<strong><span><span>MODS</span></span></strong></td>
+<td>
+<strong><span><span>Летальность</span></span></strong></td>
+</tr><tr><td>
+<span><span>Синдром системной воспалительной реакции 3 </span></span></td>
+<td>
+<span><span>9,3 ± 3,3</span></span></td>
+<td>
+<span><span>4,3 ± 0,4</span></span></td>
+<td>
+<span><span> 13,3%</span></span></td>
+</tr><tr><td>
+<span><span>Синдром системной воспалительной реакции 4</span></span></td>
+<td>
+<span><span>13,6 ± 2,8</span></span></td>
+<td>
+<span><span>6,3 ± 1,2</span></span></td>
+<td>
+<span><span> 31,6 %</span></span></td>
+</tr><tr><td>
+<span><span>Тяжелый сепсис</span></span></td>
+<td>
+<span><span>18,4 ± 2,1</span></span></td>
+<td>
+<span><span>9,1 ± 1,6</span></span></td>
+<td>
+<span><span> 37,8%</span></span></td>
+</tr><tr><td>
+<span><span>Септический шок</span></span></td>
+<td>
+<span><span>21,2 ± 2,5</span></span></td>
+<td>
+<span><span>8,7 ± 1,9</span></span></td>
+<td>
+<span><span> 61,7%</span></span></td>
+</tr></tbody></table></div><span>Примечание. Летальность при третичных перитонитах  достигает 60-70% </span>
+<p>
+<br/>
+		Шкала APACHE II высокоспецифична (90%) в отношении прогноза благоприятного исхода, но менее чувствительна (50-70%) относительно прогноза летального исхода. Эта система более приемлема для прогноза исхода и сравнительного анализа состояния групп больных, а не отдельных пациентов. Поэтому считают, что шкала APACHE II не рекомендована для прогностической оценки у конкретного пациента и не может быть основой для принятия решения в ежедневной клинической практике.<br/>
+		 </p>
+<div class="table-responsive"><table border="1" cellpadding="1" cellspacing="1"><caption>
+<span><strong>Мангеймский индекс перитонита  MPI  </strong>(M.Linder et al. 1992)</span><br/>
+			 </caption>
+<tbody><tr><td>
+<span><span><strong> Фактор риска</strong></span></span></td>
+<td>
+<span><span><strong>Оценка тяжести (баллы)</strong></span></span></td>
+</tr><tr><td>
+<span><span>Возраст старше 50 лет</span></span></td>
+<td>
+<span><span> 5</span></span></td>
+</tr><tr><td>
+<span><span> Женский пол</span></span></td>
+<td>
+<span><span> 5</span></span></td>
+</tr><tr><td>
+<span><span>Наличие органной недостаточности </span></span></td>
+<td>
+<span><span> 7</span></span></td>
+</tr><tr><td>
+<span><span> Наличие злокачественной опухоли</span></span></td>
+<td>
+<span><span> 4</span></span></td>
+</tr><tr><td>
+<span><span> Продолжительность перитонита более 24 часов</span></span></td>
+<td>
+<span><span> 4</span></span></td>
+</tr><tr><td>
+<span><span> Толстая кишка как источник перитонита</span></span></td>
+<td>
+<span><span> 4</span></span></td>
+</tr><tr><td>
+<span><span> Перитонит диффузный </span></span></td>
+<td>
+<span><span> 6</span></span></td>
+</tr><tr><td>
+<span><span> Экссудат (только один ответ):<br/>
+					- прозрачный<br/>
+					- мутно-гнилостный<br/>
+					- калово-гнилостный</span></span></td>
+<td>
+<span><span> <br/>
+					 0<br/>
+					 6<br/>
+					 12</span></span></td>
+</tr></tbody></table></div><div class="table-responsive"><table border="1" cellpadding="1" cellspacing="1"><caption>
+<br/>
+			 </caption>
+<caption>
+<span><span><strong>Мангеймский индекс перитонита MPI - групповой прогноз</strong></span></span><br/>
+			 </caption>
+<tbody><tr><td>
+<strong><span><span> Значение MPI</span></span></strong></td>
+<td>
+<strong><span><span> Летальность %</span></span></strong></td>
+</tr><tr><td>
+<span><span> &lt; 21 балла</span></span></td>
+<td>
+<span><span> 2,3%</span></span></td>
+</tr><tr><td>
+<span><span> 21-29 баллов</span></span></td>
+<td>
+<span><span> 22,3%</span></span></td>
+</tr><tr><td>
+<span><span>&gt; 29 баллов</span></span></td>
+<td>
+<span><span> 59,1%</span></span></td>
+</tr></tbody></table></div></div><br/>
+</div>
+</div>
+</section>
+<section class="page-section" data-section-name="HOSPITALIZATION">
+<h2 class="page-section__title" id="hospitalization">
+        Госпитализация    </h2>
+<div class="container">
+<div class="row page-section__row">
+<br/>
+В экстренном порядке в отделение хирургии или в отделение интенсивной терапии (по согласованию с хирургом).
+                    </div>
+</div>
+</section>
+<section class="page-section" data-section-name="PROPHYLAXIS">
+<h2 class="page-section__title" id="prophylaxis">
+        Профилактика    </h2>
+<div class="container">
+<div class="row page-section__row">
+<br/>
+Своевременное выявление и лечение острого неосложненного аппендицита.
+                    </div>
+</div>
+</section>
+<section class="page-section" data-index="13">
+<h2 class="page-section__title" id="information">
+        Информация    </h2>
+<div class="container">
+<section class="row page-field" data-field-name="LISTOFREFERENCES">
+<h3 class="page-field__title text-left" id="listofreferences">
+                    Источники и литература                </h3>
+<div class="page-field__data">
+<ol id="AdditionalListSources" type="I">
+<li level="1">
+<span>"NORD guide to rare disorders"  by National Organization for Rare Disorders, 2002</span>
+<ol type="1">
+</ol>
+</li>
+<li level="1">
+<span>Клиническая хирургия: национальное руководство, в 3 т. /под ред.
+Савельева B.C., Кириенко А.И.,М.: ГЭОТАР-Медиа, 2009</span>
+<ol type="1">
+</ol>
+</li>
+<li level="1">
+<span>Общая и неотложная хирургия. Руководство/ ред. Патерсон-Браун С., пер. с англ. под ред. Гостищева В.К., М: ГЭОТАР-Медиа, 2010</span>
+<ol type="1">
+</ol>
+</li>
+<li level="1">
+<span>Рэфтери Э. Хирургия. Справочник/под общ.редакцией Луцевича О.И., Пушкаря Д.Ю., Медпресс-информ, 2006</span>
+<ol type="1">
+</ol>
+</li>
+<li level="1">
+<span> "Mesenteric Panniculitis – What does it mean?" Dr Narelle Vujcich MBBS FRANZCR ARGANZ, March 2013</span>
+<ol type="1">
+</ol>
+</li>
+<li level="1">
+<span>"Мезентериальный панникулит (обзор литературы и собственные наблюдения)" Лукьянченко А.Б., Долгушин Б.И., Стилиди И.С., Медведева Б.М., журнал "Медицинская визуализация", №4, 2005</span>
+<ol type="1">
+</ol>
+</li>
+<li level="1">
+<span>http://www.cityfirm.ru/</span>
+<ol type="1">
+<li level="2">Словарь-справочник по хирургии </li>
+</ol>
+</li>
+<li level="1">
+<span>ehealthwall.com</span>
+<ol type="1">
+</ol>
+</li>
+</ol> </div>
+</section>
+</div>
+</section>
+<section class="page-section" data-section-name="ATTENTION">
+<h2 class="page-section__title" id="attention">
+        Внимание!    </h2>
+<div class="container">
+<div class="row page-section__row">
+<!--noindex-->
+<label class="attention-self-treatment-list__caption">Если вы не являетесь медицинским специалистом:</label>
+<ul class="attention-self-treatment-list">
+<li>
+        Занимаясь самолечением, вы можете нанести непоправимый вред своему здоровью.
+         
+    </li>
+<li>
+        Информация, размещенная на сайте MedElement, не может и не должна заменять очную консультацию врача.
+        Обязательно
+        обращайтесь в медицинские учреждения при наличии каких-либо заболеваний или беспокоящих вас симптомов.
+         
+    </li>
+<li>
+        Выбор лекарственных средств и их дозировки, должен быть оговорен со специалистом. Только врач может
+        назначить
+        нужное лекарство и его дозировку с учетом заболевания и состояния организма больного.
+         
+    </li>
+<li>
+        Сайт MedElement является исключительно информационно-справочным ресурсом. Информация, размещенная на данном
+        сайте, не должна использоваться для самовольного изменения предписаний врача.
+         
+    </li>
+<li>
+        Редакция MedElement не несет ответственности за какой-либо ущерб здоровью или материальный ущерб, возникший
+        в
+        результате использования данного сайта.
+    </li>
+</ul>
+<!--/noindex-->
+</div>
+</div>
+</section>
+</main>

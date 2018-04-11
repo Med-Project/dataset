@@ -1,0 +1,333 @@
+<main id="main">
+<section class="page-information disease-information">
+<div class="container">
+<h1 class="page-information__name disease-information__name">
+            Другой хронический тиреоидит (E06.5)        </h1>
+<div class="disease-information__alternate-name">
+<label>Также: </label>
+                Фиброзный тиреоидит, зоб Риделя, фиброзно-инвазивный тиреоидит, деревянистый зоб, хронический склерозирующий тиреоидит.            </div>
+<div class="disease-information__version-name">
+<p class="lead text-muted">
+                
+                Версия: Справочник заболеваний MedElement                </p>
+</div>
+<div class="disease-information__categories-mkb">
+<label>Категории МКБ: </label>
+                Другой хронический тиреоидит (E06.5)            </div>
+<div class="disease-information__sections-medicine">
+<label>Разделы медицины: </label>
+                Эндокринология            </div>
+</div>
+</section>
+<section class="page-section" data-index="0">
+<h2 class="page-section__title" id="general_information">
+        Общая информация    </h2>
+<div class="container">
+<div class="page-links-actions">
+<ul>
+<li class="page-links-actions__item page-links-actions__item--print" data-ga-event-action="Клик по ссылке: Версия для печати" data-ga-event-category="Links actions" data-ga-event-label="" data-send-ga-event="">
+<a href="javascript:window.print()">Версия для печати
+                    <svg class="svg-icon svg-icon-printer" height="18" version="1.1" viewbox="0 0 24 24" width="18" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<path d="M18,3H6V7H18M19,12A1,1 0 0,1 18,11A1,1 0 0,1 19,10A1,1 0 0,1 20,11A1,1 0 0,1 19,12M16,19H8V14H16M19,8H5A3,3 0 0,0 2,11V17H6V21H18V17H22V11A3,3 0 0,0 19,8Z"></path>
+</svg>
+</a>
+</li>
+</ul>
+</div>
+<section class="row page-field" data-field-name="SHORTDESCRIPTION">
+<h3 class="page-field__title text-left" id="shortdescription">
+                    Краткое описание                </h3>
+<div class="page-field__data">
+<div style="text-align: justify;">
+<br/>
+	Данный вид тиреоидита характеризуется диффузным увеличением щитовидной железы (ЩЖ), нормальная структура которой замещается фиброзной тканью с небольшой <aterm term="1">инфильтрацией<span class="term-description" style="display: none;"><span>Инфильтрация -  проникновение в ткани и накопление в них несвойственных им клеточных элементов, жидкостей и (или) химических веществ.</span><br/></span></aterm> лимфоцитами и плазматическими клетками.<br/>
+<br/>
+	Это заболевание впервые было описано швейцарским хирургом Риделем в 1896 года. В некоторых литературных источниках оно встречается под следующими названиями: зоб Риделя, фиброзно-инвазивный тиреоидит, деревянистый зоб, хронический склерозирующий тиреоидит. Наиболее известное  название -  <strong>фиброзный тиреоидит.</strong><br/>
+<br/>
+	Встречается реже, чем аутоиммунный тиреоидит, в возрасте 23-78 лет, хотя большинство случаев приходится на 40-60 лет. Зоб, развивающийся в этом случае, отличается необычной плотностью (каменный или деревянный зоб) и может захватывать одну или обе доли ЩЖ. В патологический процесс вовлекаются не только <aterm term="1">строма<span class="term-description" style="display: none;"><span>Строма - соединительнотканная опорная структура органа или опухоли</span><br/></span></aterm> ЩЖ, но и ее капсула, а также окружающие ткани (мышцы, нервы, сосуды).<br/>
+<br/>
+	Основными предъявляемыми жалобами являются: нарушение глотания, дыхания, кашель, иногда <aterm term="1">афония<span class="term-description" style="display: none;"><span>Афония - отсутствие звучности голоса при сохранности шепотной речи</span><br/></span></aterm>, увеличение зоба. Заболевание прогрессирует годами, приводя к <aterm term="1">гипотиреозу<span class="term-description" style="display: none;"><span>Гипотиреоз -  синдром недостаточности щитовидной железы, характеризующийся нервно-психическими расстройствами, отеками лица, конечностей и туловища, брадикардией</span><br/></span></aterm>. В некоторых случаях возможно появление судорог, как результата распространения фиброзного процесса на околощитовидные железы, и развитие <aterm term="1">гипопаратиреоза<span class="term-description" style="display: none;"><span>Гипопаратиреоз -  синдром недостаточности функции околощитовидных желез, характеризующийся судорогами, нервными и психическими расстройствами, снижением содержания кальция в крови</span><br/></span></aterm>.<br/>
+	Лечение в большинстве случаев хирургическое. Показаны гормоны ЩЖ, даже при отсутствии признаков гипотиреоза; препараты кальция и витамина D при явлениях гипoпаратиреоза.</div>
+</div>
+</section>
+</div>
+</section>
+<section class="page-section" data-section-name="ETIOLOGY">
+<h2 class="page-section__title" id="etiology">
+        Этиология и патогенез    </h2>
+<div class="container">
+<div class="row page-section__row">
+<div style="text-align: justify;">
+<br/>
+	Этиология и патогенез до конца не выяснены. Предположение, что фиброзный тиреоидит является последующей стадией аутоиммунного тиреоидита, не разделяют многие исследователи. Однако,  описаны случаи сочетания фиброзного тиреоидита с  аутоиммунным тиреоидитом и диффузным токсическим зобом. По данным I.D.Hay (1985), у 45% больных фиброзным тиреоидитом выявляют антитела к антигенам щитовидной железы,  что  свидетельствует о возможности участия определенных аутоиммунных механизмов.</div>
+</div>
+</div>
+</section>
+<section class="page-section" data-section-name="EPIDEMIOLOGY">
+<h2 class="page-section__title" id="epidemiology">
+        Эпидемиология    </h2>
+<div class="container">
+<div class="row page-section__row">
+<div style="text-align: justify;">
+<br/>
+	Очень редкая форма тиреоидита. По данным клиники Мейо (США), на 42 000 операций на щитовидной железе отмечено всего 0,05% случаев зоба (1,06 на 100 000 населения). Заболевание чаще наблюдается у женщин, чем у мужчин (соотношение 1:2 - 1:4), в возрасте  старше 50 лет. </div>
+</div>
+</div>
+</section>
+<section class="page-section" data-section-name="FACTORSANDRISKGROUPS">
+<h2 class="page-section__title" id="factorsandriskgroups">
+        Факторы и группы риска    </h2>
+<div class="container">
+<div class="row page-section__row">
+<div>
+	 </div>
+<div>
+	- люди, болевшие диффузным токсическим зобом;<br/>
+	- больные аутоиммунным тиреоидитом;</div>
+<div>
+	- больные с любой формой эндемического зоба;</div>
+<div>
+	- перенесшие операцию на щитовидной железе;</div>
+<div>
+	- больные с сахарным диабетом;</div>
+<div>
+	- люди, страдающие аллергическими и аутоиммунными заболеваниями;</div>
+<div>
+	- женщины старше 50 лет;<br/>
+	- люди, имеющие наследственную предрасположенность.</div>
+</div>
+</div>
+</section>
+<section class="page-section" data-index="4">
+<h2 class="page-section__title" id="clinical">
+        Клиническая картина    </h2>
+<div class="container">
+<section class="row page-field" data-field-name="ANTIPRAXIA">
+<h3 class="page-field__title text-left" id="antipraxia">
+                    Cимптомы, течение                </h3>
+<div class="page-field__data">
+<div style="text-align: justify;">
+<br/>
+	Заболевание обычно имеет постепенное начало. Субъективные жалобы отсутствуют, однако, в ряде случаев больных беспокоит чувство "кома" и давления в области щитовидной железы.<br/>
+	Последующее увеличение размеров зоба и прирастание к соседним органам (гортань, пищевод, сосуды, нервы) обуславливает возникновение следующих проявлений:<br/>
+	- затруднение дыхания;<br/>
+	- боль при глотании;<br/>
+	- сухой кашель;<br/>
+	- осиплость голоса вплоть до <aterm term="1">афонии<span class="term-description" style="display: none;"><span>Афония - отсутствие звучности голоса при сохранности шепотной речи</span><br/></span></aterm>;<br/>
+	- расстройства кровообращения.<br/>
+<br/>
+	Щитовидная железа обычно увеличена; при пальпации безболезненна, деревянистой плотности, с гладкой поверхностью. Подвижность щитовидной железы ограничена или полностью утрачена вследствие спаек с окружающими тканями. Кожа над щитовидной железой не спаяна с ней, легко берется в складку. Лимфатические узлы не увеличены. Температура тела не повышена. В некоторых случаях увеличение зоба может сопровождаться усиливающимися явлениями гипотиреоза. Значительно реже фиксируются судороги, как результат распространения фиброзного процесса на околощитовидные железы, и развитие гипопаратиреоза.</div>
+</div>
+</section>
+</div>
+</section>
+<section class="page-section" data-section-name="DIAGNOSTICS">
+<h2 class="page-section__title" id="diagnostics">
+        Диагностика    </h2>
+<div class="container">
+<div class="row page-section__row">
+<div>
+<br/>
+<strong>Сканограмма: </strong>холодные узлы.</div>
+<div style="text-align: justify;">
+<br/>
+<strong>Пункционная биопсия: </strong>участки фиброза с  элементами лимфоцитарной инфильтрации. В связи возникающей  трудностью при  взятии пункционного материала (значительная плотность щитовидной железы) и затруднением интерпретации полученных данных (схожая гистологическая картина с раком щитовидной железы) целесообразно проводить открытую биопсию и взятия <aterm term="1">ad oculos<span class="term-description" style="display: none;"><span>Ad oculos (лат.) — наглядно, воочию</span><br/></span></aterm> определенного количества ткани для гистологического исследования.</div>
+<div style="text-align: justify;">
+<br/>
+<strong>Рентгенодиагностика. </strong>При рентгенологическом исследовании часто выявляется смещение или сужение пищевода или трахеи.</div>
+</div>
+</div>
+</section>
+<section class="page-section" data-section-name="LABORATORYDIAGNOSTICS">
+<h2 class="page-section__title" id="laboratorydiagnostics">
+        Лабораторная диагностика    </h2>
+<div class="container">
+<div class="row page-section__row">
+<br/>
+<strong>Лабораторные данные: </strong>изменений периферической крови нет; иногда наблюдается увеличение СОЭ.  <br/>
+<br/>
+<strong>Показатели основного обмена</strong> в пределах нормы или несколько снижены.<br/>
+<br/>
+<strong>Гормоны щитовидной железы:  </strong>уровень св.Т<sub>3 </sub>и Т<sub>4  </sub>в норме или понижен.<br/>
+<br/>
+<strong>Антитела к антигенам щитовидной железы: </strong> не обнаруживают или обнаруживают  в низком титре.<br/>
+</div>
+</div>
+</section>
+<section class="page-section" data-section-name="DIFFERENTIALDIAGNOSIS">
+<h2 class="page-section__title" id="differentialdiagnosis">
+        Дифференциальный диагноз    </h2>
+<div class="container">
+<div class="row page-section__row">
+<div>
+<br/>
+	Дифференциальную диагностику проводят с аутоиммунным тиреоидитом и раком щитовидной железы.<br/>
+	О наличии аутоиммунного тиреоидита свидетельствуют умеренная плотность щитовидной железы, подвижность ее при пальпации, а также повышение титра циркулирующих антитиреоидных антител (АТ-ТПО, АТ-ТГ). </div><div>
+	Исключить рак щитовидной железы можно только после гистологического исследования пораженной доли щитовидной железы.</div>
+</div>
+</div>
+</section>
+<section class="page-section" data-section-name="SEQUELAE">
+<h2 class="page-section__title" id="sequelae">
+        Осложнения    </h2>
+<div class="container">
+<div class="row page-section__row">
+<br/>
+- <aterm term="1">гипотиреоз<span class="term-description" style="display: none;"><span>Гипотиреоз -  синдром недостаточности щитовидной железы, характеризующийся нервно-психическими расстройствами, отеками лица, конечностей и туловища, брадикардией</span><br/></span></aterm> в исходе заболевания;<br/>
+- компрессионный синдром (осиплость голоса, затруднение глотания, дыхания).
+                    </div>
+</div>
+</section>
+<section class="page-section" data-section-name="THERAPY">
+<h2 class="page-section__title" id="therapy">
+        Лечение    </h2>
+<div class="container">
+<div class="row page-section__row">
+<div>
+<br/>
+	При фиброзном тиреоидите лечение хирургическое. Проводится полная резекция щитовидной железы с максимальным иссечением фиброзной ткани и сращений.<br/>
+	В последующем  назначается заместительная гормональная терапия тиреоидными гормонами.<br/>
+	Назначение гормонов щитовидной железы показано даже при отсутствии клинических симптомов гипотиреоза.<br/>
+	Препараты кальция и витамина D  - при явлениях гипопаратиреоза.</div>
+</div>
+</div>
+</section>
+<section class="page-section" data-section-name="PROGNOSIS">
+<h2 class="page-section__title" id="prognosis">
+        Прогноз    </h2>
+<div class="container">
+<div class="row page-section__row">
+<div style="text-align: justify;">
+<br/>
+	Для фиброзного тиреоидита характерно длительное прогрессирующее течение с развитием гипотиреоза и компрессионных явлений. После хирургического лечения прогноз благоприятный.</div>
+</div>
+</div>
+</section>
+<section class="page-section" data-section-name="HOSPITALIZATION">
+<h2 class="page-section__title" id="hospitalization">
+        Госпитализация    </h2>
+<div class="container">
+<div class="row page-section__row">
+<div>
+<br/>
+	Госпитализация показана по поводу хирургического лечения компрессионного синдрома, от 7 до 14 дней - в зависимости  от объема планируемой операции. Срок стационарного обследования и лечения по поводу развившегося гипотиреоза зависит от степени тяжести последнего.</div>
+</div>
+</div>
+</section>
+<section class="page-section" data-section-name="PROPHYLAXIS">
+<h2 class="page-section__title" id="prophylaxis">
+        Профилактика    </h2>
+<div class="container">
+<div class="row page-section__row">
+<br/>
+Первичная профилактика отсутствует.
+                    </div>
+</div>
+</section>
+<section class="page-section" data-index="13">
+<h2 class="page-section__title" id="information">
+        Информация    </h2>
+<div class="container">
+<section class="row page-field" data-field-name="LISTOFREFERENCES">
+<h3 class="page-field__title text-left" id="listofreferences">
+                    Источники и литература                </h3>
+<div class="page-field__data">
+<ol id="AdditionalListSources" type="I">
+<li level="1">
+<span></span>
+<ol type="1">
+</ol>
+</li>
+<li level="1">
+<span>Braverman L. Diseases of the thyroid. - Humana Press, 2003</span>
+<ol type="1">
+</ol>
+</li>
+<li level="1">
+<span>Балаболкин М.И., Клебанова Е.М., Креминская В.М. Дифференциальная диагностика и лечение эндокринных заболеваний. Руководство, М., 2002</span>
+<ol type="1">
+<li level="2">стр. 270-271</li>
+</ol>
+</li>
+<li level="1">
+<span>Дедов И.И, Мельниченко Г.А. Эндокринология. Национальное руководство, 2012. </span>
+<ol type="1">
+</ol>
+</li>
+<li level="1">
+<span>Дедов И.И., Мельниченко Г.А., Андреева В.Н. Рациональная фармакотерапия заболеваний эндокринной системы и нарушений обмена веществ. Руководство для практикующих врачей, М., 2006</span>
+<ol type="1">
+</ol>
+</li>
+<li level="1">
+<span>Дедов И.И., Мельниченко Г.А., Пронин В.С. Клиника и диагностика эндокринных нарушений. Учебно-методическое пособие, М., 2005</span>
+<ol type="1">
+</ol>
+</li>
+<li level="1">
+<span>Дедов И.И., Мельниченко Г.А., Фадеев В.В. Эндокринология. Учебник для ВУЗов, М., 2007</span>
+<ol type="1">
+<li level="2">стр. 142-143</li>
+</ol>
+</li>
+<li level="1">
+<span>Ефимов А.С, Боднар П.Н., Зелинский Б.А. Эндокринология, К,1983</span>
+<ol type="1">
+<li level="2">стр. 143</li>
+</ol>
+</li>
+<li level="1">
+<span>Старкова Н.Т. Руководство по клинической эндокринологии, СПб, 1996 </span>
+<ol type="1">
+<li level="2">стр. 169</li>
+</ol>
+</li>
+<li level="1">
+<span>Харрисон Т.Р. Внутренние болезни. Книга 9.Эндокринология. Патология костной ткани. Нарушение минерального обмена. М.:Медицина,1997</span>
+<ol type="1">
+</ol>
+</li>
+</ol> </div>
+</section>
+</div>
+</section>
+<section class="page-section" data-section-name="ATTENTION">
+<h2 class="page-section__title" id="attention">
+        Внимание!    </h2>
+<div class="container">
+<div class="row page-section__row">
+<!--noindex-->
+<label class="attention-self-treatment-list__caption">Если вы не являетесь медицинским специалистом:</label>
+<ul class="attention-self-treatment-list">
+<li>
+        Занимаясь самолечением, вы можете нанести непоправимый вред своему здоровью.
+         
+    </li>
+<li>
+        Информация, размещенная на сайте MedElement, не может и не должна заменять очную консультацию врача.
+        Обязательно
+        обращайтесь в медицинские учреждения при наличии каких-либо заболеваний или беспокоящих вас симптомов.
+         
+    </li>
+<li>
+        Выбор лекарственных средств и их дозировки, должен быть оговорен со специалистом. Только врач может
+        назначить
+        нужное лекарство и его дозировку с учетом заболевания и состояния организма больного.
+         
+    </li>
+<li>
+        Сайт MedElement является исключительно информационно-справочным ресурсом. Информация, размещенная на данном
+        сайте, не должна использоваться для самовольного изменения предписаний врача.
+         
+    </li>
+<li>
+        Редакция MedElement не несет ответственности за какой-либо ущерб здоровью или материальный ущерб, возникший
+        в
+        результате использования данного сайта.
+    </li>
+</ul>
+<!--/noindex-->
+</div>
+</div>
+</section>
+</main>

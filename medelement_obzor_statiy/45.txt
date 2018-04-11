@@ -1,0 +1,229 @@
+<main id="main">
+<section class="page-information disease-information">
+<div class="container">
+<h1 class="page-information__name disease-information__name">
+            Врожденный стеноз и стриктура желчных протоков (Q44.3)        </h1>
+<div class="disease-information__version-name">
+<p class="lead text-muted">
+                
+                Версия: Справочник заболеваний MedElement                </p>
+</div>
+<div class="disease-information__categories-mkb">
+<label>Категории МКБ: </label>
+                Врожденный стеноз и стриктура желчных протоков (Q44.3)            </div>
+<div class="disease-information__sections-medicine">
+<label>Разделы медицины: </label>
+                Врожденные заболевания, Гастроэнтерология            </div>
+</div>
+</section>
+<section class="page-section" data-index="0">
+<h2 class="page-section__title" id="general_information">
+        Общая информация    </h2>
+<div class="container">
+<div class="page-links-actions">
+<ul>
+<li class="page-links-actions__item page-links-actions__item--print" data-ga-event-action="Клик по ссылке: Версия для печати" data-ga-event-category="Links actions" data-ga-event-label="" data-send-ga-event="">
+<a href="javascript:window.print()">Версия для печати
+                    <svg class="svg-icon svg-icon-printer" height="18" version="1.1" viewbox="0 0 24 24" width="18" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<path d="M18,3H6V7H18M19,12A1,1 0 0,1 18,11A1,1 0 0,1 19,10A1,1 0 0,1 20,11A1,1 0 0,1 19,12M16,19H8V14H16M19,8H5A3,3 0 0,0 2,11V17H6V21H18V17H22V11A3,3 0 0,0 19,8Z"></path>
+</svg>
+</a>
+</li>
+</ul>
+</div>
+<section class="row page-field" data-field-name="SHORTDESCRIPTION">
+<h3 class="page-field__title text-left" id="shortdescription">
+                    Краткое описание                </h3>
+<div class="page-field__data">
+<br/>
+<strong>Врожденный (идиопатический) <aterm term="1">стеноз<span class="term-description" style="display: none;"><span>Стеноз - сужение трубчатого органа или его наружного отверстия.</span><br/></span></aterm> и <aterm term="1">стриктура<span class="term-description" style="display: none;"><span>Стриктура -  резкое сужение просвета какого-либо трубчатого органа вследствие патологических изменений его стенок</span><br/></span></aterm> желчных </strong><strong>протоков</strong> </div>
+</section>
+</div>
+</section>
+<section class="page-section" data-section-name="CLASSIFICATION">
+<h2 class="page-section__title" id="classification">
+        Классификация    </h2>
+<div class="container">
+<div class="row page-section__row">
+<br/>
+По локализации подразделяются на <strong>внепеченочные</strong> и <strong>внутрипеченочные</strong>.
+                    </div>
+</div>
+</section>
+<section class="page-section" data-section-name="ETIOLOGY">
+<h2 class="page-section__title" id="etiology">
+        Этиология и патогенез    </h2>
+<div class="container">
+<div class="row page-section__row">
+<br/>
+Внутрипечепочные желчные протоки узкие и их число уменьшено при <b>билиарной <aterm term="1">гипоплазии<span class="term-description" style="display: none;"><span>Гипоплазия -   остановка развития органа, его части или организма в целом в результате прекращения увеличения числа клеток.</span><br/></span></aterm></b>. Аномалия может осложниться <aterm term="1">холангитом<span class="term-description" style="display: none;"><span>Холангит - воспаление желчных протоков.</span><br/></span></aterm> и перидуктальным фиброзом. Распознавание осуществляется главным образом при холангиографии. Важно иметь в виду, что <aterm term="1">атрезия<span class="term-description" style="display: none;"><span>Атрезия — врождённое отсутствие или приобретенное заращение естественных отверстий и каналов в организме</span><br/></span></aterm> и гипоплазия желчных протоков примерно в 1/4 всех случаев сочетаются с агенезией или гипоплазией желчного пузыря.
+                    </div>
+</div>
+</section>
+<section class="page-section" data-section-name="EPIDEMIOLOGY">
+<h2 class="page-section__title" id="epidemiology">
+        Эпидемиология    </h2>
+<div class="container">
+<div class="row page-section__row">
+<br/>
+Встречаются редко. По некотором данным, описано менее двух десятков случаев изолированного врожденного стеноза.
+                    </div>
+</div>
+</section>
+<section class="page-section" data-index="4">
+<h2 class="page-section__title" id="clinical">
+        Клиническая картина    </h2>
+<div class="container">
+<section class="row page-field" data-field-name="ANTIPRAXIA">
+<h3 class="page-field__title text-left" id="antipraxia">
+                    Cимптомы, течение                </h3>
+<div class="page-field__data">
+<div style="text-align: justify; ">
+<br/>
+	В основе клиники в зависимости от выраженности аномалии лежат явления <aterm term="1">холестаза<span class="term-description" style="display: none;"><span>Холестаз - нарушение продвижения желчи в виде застоя в желчных протоках и (или) проточках.</span><br/></span></aterm> с развитием <aterm term="1">билиарного<span class="term-description" style="display: none;"><span>Билиарный - содержащий желчь.</span><br/></span></aterm> цирроза. Стриктуры могут сопровождаться расширением просвета над местом сужения различной степени (кисты, холедохоцеле и т.д.).</div>
+</div>
+</section>
+</div>
+</section>
+<section class="page-section" data-section-name="DIAGNOSTICS">
+<h2 class="page-section__title" id="diagnostics">
+        Диагностика    </h2>
+<div class="container">
+<div class="row page-section__row">
+<div style="text-align: justify; ">
+<br/>
+	Золотым стандартом диагностики считается <strong>гепатобилиарная сцинтиграфия  </strong>99mTC - HIDA (DISIDA).<br/>
+	Обзорная рентгенография малоинформативна.  Результаты холеграфии, как правило, неубедительны. Поэтому решающее значение придают <strong>лапароскопии, </strong>п<strong>рицельной биопсии печени</strong> и, если это удается, <strong>лапароскопической холангиографии</strong>.<br/>
+	Альтернативой является лишь оперативное вмешательство с иптраоперационной холангиографией.<br/>
+	Результаты УЗИ зачастую сомнительны. Окончательный диагноз в сомнительных случаях  дает биопсия.</div>
+</div>
+</div>
+</section>
+<section class="page-section" data-section-name="LABORATORYDIAGNOSTICS">
+<h2 class="page-section__title" id="laboratorydiagnostics">
+        Лабораторная диагностика    </h2>
+<div class="container">
+<div class="row page-section__row">
+<br/>
+Биохимические исследования позволяют выявить нарушение билирубинового обмена по типу холестаза: гипербилирубинемия (связаная фракция).<br/>
+По мере нарастания печеночной недостаточности может нарастать и концентрация свободного билирубина.<br/>
+Гипопротеинемия выявляется после 3-4 месяца. Протромбиновый индекс снижается. Ферменты увеличиваются. Нарастает концентрация холестерина.<br/>
+Как показывает коллективный опыт хирургов, диагностическая ценность лабораторных показателей на ранних стадиях заболевания невысока.
+                    </div>
+</div>
+</section>
+<section class="page-section" data-section-name="DIFFERENTIALDIAGNOSIS">
+<h2 class="page-section__title" id="differentialdiagnosis">
+        Дифференциальный диагноз    </h2>
+<div class="container">
+<div class="row page-section__row">
+<br/><span>Следует дифференцировать со следующими состояниями:</span><br/><span>- другие пороки развития с холестазом (атрезия желчевыводящих путей);</span><br/><span>- холецистит;</span><br/><span>- гепатиты;</span><br/><span>- физиологическая желтуха новорожденых;</span><br/><span>- с</span><span>епсис;</span><br/><span>- цитомегалия;</span><br/><span>- токсоплазмоз;</span><br/><span>- киста общего желчного протока;</span><br/><span>- синдром Ротора и Криглера-Найяра;</span><br/><span>- синдром Алажиля;</span><br/><span>- гемолитические анемии;<br/>
+- синдром густой желчи новорожденных (сладж синдром). </span>
+</div>
+</div>
+</section>
+<section class="page-section" data-section-name="SEQUELAE">
+<h2 class="page-section__title" id="sequelae">
+        Осложнения    </h2>
+<div class="container">
+<div class="row page-section__row">
+            
+            
+            
+             <br/>
+Холелитиаз (желчнокаменная болезнь), билиарный цирроз, печеночная кома.
+                    </div>
+</div>
+</section>
+<section class="page-section" data-section-name="THERAPY">
+<h2 class="page-section__title" id="therapy">
+        Лечение    </h2>
+<div class="container">
+<div class="row page-section__row">
+<br/>
+Хирургическое.
+                            
+
+
+
+
+
+                       </div>
+</div>
+</section>
+<section class="page-section" data-section-name="PROGNOSIS">
+<h2 class="page-section__title" id="prognosis">
+        Прогноз    </h2>
+<div class="container">
+<div class="row page-section__row">
+<br/><p>
+Зависит от степени нарушения пассажа желчи.<br/>
+При внепеченочных стриктурах прогноз более благоприятен. <br/><font><font>В период </font></font>1999-2007 в США было зарегистрировано 2 смертельных случая , где Q44.3  была указана в качестве основной причины смерти.</p>
+</div>
+</div>
+</section>
+<section class="page-section" data-index="11">
+<h2 class="page-section__title" id="information">
+        Информация    </h2>
+<div class="container">
+<section class="row page-field" data-field-name="LISTOFREFERENCES">
+<h3 class="page-field__title text-left" id="listofreferences">
+                    Источники и литература                </h3>
+<div class="page-field__data">
+<ol id="AdditionalListSources" type="I">
+<li level="1">
+<span>Детская гастроэнтерология: руководство для врачей /под ред. проф. Шабалова Н.П., 2011</span>
+<ol type="1">
+<li level="2">стр.352</li>
+</ol>
+</li>
+<li level="1">
+<span>"Isolated congenital stenoses of the extrahepatic bile ducts. Review of the literature apropos of a new case" (aticle in French), Varlet F, Peret M, Germouty I, Duverne C, Coupris L., "Chir Pediatr", 1989:30(2)
+</span>
+<ol type="1">
+</ol>
+</li>
+</ol> </div>
+</section>
+</div>
+</section>
+<section class="page-section" data-section-name="ATTENTION">
+<h2 class="page-section__title" id="attention">
+        Внимание!    </h2>
+<div class="container">
+<div class="row page-section__row">
+<!--noindex-->
+<label class="attention-self-treatment-list__caption">Если вы не являетесь медицинским специалистом:</label>
+<ul class="attention-self-treatment-list">
+<li>
+        Занимаясь самолечением, вы можете нанести непоправимый вред своему здоровью.
+         
+    </li>
+<li>
+        Информация, размещенная на сайте MedElement, не может и не должна заменять очную консультацию врача.
+        Обязательно
+        обращайтесь в медицинские учреждения при наличии каких-либо заболеваний или беспокоящих вас симптомов.
+         
+    </li>
+<li>
+        Выбор лекарственных средств и их дозировки, должен быть оговорен со специалистом. Только врач может
+        назначить
+        нужное лекарство и его дозировку с учетом заболевания и состояния организма больного.
+         
+    </li>
+<li>
+        Сайт MedElement является исключительно информационно-справочным ресурсом. Информация, размещенная на данном
+        сайте, не должна использоваться для самовольного изменения предписаний врача.
+         
+    </li>
+<li>
+        Редакция MedElement не несет ответственности за какой-либо ущерб здоровью или материальный ущерб, возникший
+        в
+        результате использования данного сайта.
+    </li>
+</ul>
+<!--/noindex-->
+</div>
+</div>
+</section>
+</main>

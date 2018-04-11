@@ -1,0 +1,255 @@
+<main id="main">
+<section class="page-information disease-information">
+<div class="container">
+<h1 class="page-information__name disease-information__name">
+            Врожденные стеноз и стриктура пищевода (Q39.3)        </h1>
+<div class="disease-information__version-name">
+<p class="lead text-muted">
+                
+                Версия: Справочник заболеваний MedElement                </p>
+</div>
+<div class="disease-information__categories-mkb">
+<label>Категории МКБ: </label>
+                Врожденные стеноз и стриктура пищевода (Q39.3)            </div>
+<div class="disease-information__sections-medicine">
+<label>Разделы медицины: </label>
+                Врожденные заболевания, Гастроэнтерология            </div>
+</div>
+</section>
+<section class="page-section" data-index="0">
+<h2 class="page-section__title" id="general_information">
+        Общая информация    </h2>
+<div class="container">
+<div class="page-links-actions">
+<ul>
+<li class="page-links-actions__item page-links-actions__item--print" data-ga-event-action="Клик по ссылке: Версия для печати" data-ga-event-category="Links actions" data-ga-event-label="" data-send-ga-event="">
+<a href="javascript:window.print()">Версия для печати
+                    <svg class="svg-icon svg-icon-printer" height="18" version="1.1" viewbox="0 0 24 24" width="18" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<path d="M18,3H6V7H18M19,12A1,1 0 0,1 18,11A1,1 0 0,1 19,10A1,1 0 0,1 20,11A1,1 0 0,1 19,12M16,19H8V14H16M19,8H5A3,3 0 0,0 2,11V17H6V21H18V17H22V11A3,3 0 0,0 19,8Z"></path>
+</svg>
+</a>
+</li>
+</ul>
+</div>
+<section class="row page-field" data-field-name="SHORTDESCRIPTION">
+<h3 class="page-field__title text-left" id="shortdescription">
+                    Краткое описание                </h3>
+<div class="page-field__data">
+<br/>
+<strong>Врожденный <aterm term="1">стеноз<span class="term-description" style="display: none;"><span>Стеноз - сужение трубчатого органа или его наружного отверстия.</span><br/></span></aterm> пищевода</strong> представляет собой сужение пищевода с участием всех слоев стенки органа; он характеризуется <aterm term="1">гипертрофией<span class="term-description" style="display: none;"><span>Гипертрофия - разрастание какого-либо органа, его части или ткани в результате размножения клеток и увеличения их объема</span><br/></span></aterm> мышечной оболочки, наличием мембраны, образованной слизистой оболочкой, хрящевыми включениями в стенке пищевода, а также сдавлением пищевода извне аномально расположенными кровеносными сосудами ( нр. disphagia lusoria).                </div>
+</section>
+</div>
+</section>
+<section class="page-section" data-section-name="CLASSIFICATION">
+<h2 class="page-section__title" id="classification">
+        Классификация    </h2>
+<div class="container">
+<div class="row page-section__row">
+<br/>
+<strong>Различают четыре формы врожденного стеноза:</strong><br/>
+<br/>
+<strong>- </strong>мембранозный стеноз, вызванный наличием перепончатой перегородки с отверстием;<br/>
+<strong>- </strong>сегментарный стеноз, вызванный фиброзно-мышечным утолщением стенки пищевода;<br/>
+<strong>- </strong>комбинация мембранозного и сегментарного стенозов;<br/>
+<strong>- </strong>трахеобронхиальные остатки в строме, сужающие дистальный отдел пищевода.<br/>
+<br/>
+</div>
+</div>
+</section>
+<section class="page-section" data-section-name="EPIDEMIOLOGY">
+<h2 class="page-section__title" id="epidemiology">
+        Эпидемиология    </h2>
+<div class="container">
+<div class="row page-section__row">
+<br/>
+<div style="text-align: justify; ">
+	Врожденный стеноз пищевода составляет 3-5% от общего числа аномалий пищевода и 10% от общего числа стенозов пищевода.<br/>
+	Частота врожденного стеноза в популяции - 1:20 000 - 1:30 000 новорожденных.</div>
+</div>
+</div>
+</section>
+<section class="page-section" data-index="3">
+<h2 class="page-section__title" id="clinical">
+        Клиническая картина    </h2>
+<div class="container">
+<section class="row page-field" data-field-name="ANTIPRAXIA">
+<h3 class="page-field__title text-left" id="antipraxia">
+                    Cимптомы, течение                </h3>
+<div class="page-field__data">
+<br/>
+<div style="text-align: justify; ">
+	Признаки врожденного стеноза пищевода проявляются сразу после рождения.<br/>
+<br/>
+<strong>Основные симптомы:</strong><br/>
+	- <aterm term="1">гиперсаливация<span class="term-description" style="display: none;"><span>Гиперсаливация - увеличенное выделение слюны пониженной вязкости.</span><br/></span></aterm>; <br/>
+	- выделение пенистой жидкости со слизью изо рта и носа;<br/>
+	- приступообразный кашель;<br/>
+	- цианоз;<br/>
+	- обильные срыгивание и рвота;<br/>
+	- признаки дыхательной недостаточности.<br/>
+<br/>
+	У больных с врожденным стенозом пищевода нередко возникает аспирационная пневмония. Незначительный стеноз клинически проявляется при кормлении ребенка густой пищей. Впервые подозрение на наличие стеноза пищевода может появиться при острой закупорке суженной части органа куском пищи. В последующем, с прогрессированием супрастенотического расширения, пища задерживается в пищеводе в течение длительного времени, изо рта ребенка появляется гнилостный запах. Кровянистое окрашивание рвотных масс свидетельствует о развитии эрозивного или эрозивно-язвенного <aterm term="1">эзофагита<span class="term-description" style="display: none;"><span>Эзофагит - воспаление слизистой оболочки пищевода.</span><br/><a class="tooltip-term__more" href="https://diseases.medelement.com/index.php/disease/view/NDU4NA%3D%3D/0" target="_blank" title="Подробнее о эзофагита">Подробно</a></span></aterm>.</div>
+</div>
+</section>
+</div>
+</section>
+<section class="page-section" data-section-name="DIAGNOSTICS">
+<h2 class="page-section__title" id="diagnostics">
+        Диагностика    </h2>
+<div class="container">
+<div class="row page-section__row">
+<br/>
+<div style="text-align: justify; ">
+	Диагноз врожденного стеноза пищевода предполагают при наличии описанных выше характерных клинических симптомов и на основании результатов дополнительных методов исследования. Врожденный стеноз трудно диагностируется и нередко проходит под диагнозом пептического стеноза, выявляемого необычно рано  - до 1,5-летнего возраста, что мало характерно.</div>
+<div style="text-align: justify; ">
+<strong>Инструментальная диагностика</strong>: рентгеноконтрастное исследование пищевода и желудка, фиброэзофагоскопия.</div>
+</div>
+</div>
+</section>
+<section class="page-section" data-section-name="LABORATORYDIAGNOSTICS">
+<h2 class="page-section__title" id="laboratorydiagnostics">
+        Лабораторная диагностика    </h2>
+<div class="container">
+<div class="row page-section__row">
+<br/>
+Патогномоничных лабораторных признаков нет.
+<div style="text-align: justify; ">
+<br/>
+<strong>Обязательные исследования: </strong>общий анализ крови, гематокрит.<br/>
+<br/>
+<strong>Дополнительные исследования: </strong>биохимический анализ крови (кислотно-основное состояние, общий белок, глюкоза, АлАТ, АсАТ, креатинин, мочевина).</div>
+<br/>
+</div>
+</div>
+</section>
+<section class="page-section" data-section-name="DIFFERENTIALDIAGNOSIS">
+<h2 class="page-section__title" id="differentialdiagnosis">
+        Дифференциальный диагноз    </h2>
+<div class="container">
+<div class="row page-section__row">
+<div>
+	 </div><div>
+	Врожденный стеноз дифференцируют с атрезией пищевода.<br/>
+	Наиболее часто возникает необходимость дифференциации врожденного стеноза с его приобретенными формами: пептической стриктурой пищевода, осложняющей <aterm term="1">рефлюкс-эзофагит</aterm>, рубцовыми сужениями после травм пищевода или стенозом, вызванным экстраэзофагеальными причинами.<br/>
+	Мембранозный стеноз может сопровождать синдром Палмера-Вильсона, локальную <aterm term="1">метаплазию</aterm> эпителия терминальных отделов пищевода по типу желудочного.</div>
+</div>
+</div>
+</section>
+<section class="page-section" data-section-name="SEQUELAE">
+<h2 class="page-section__title" id="sequelae">
+        Осложнения    </h2>
+<div class="container">
+<div class="row page-section__row">
+<br/>
+Возможные осложнения: <aterm term="1">гипотрофия<span class="term-description" style="display: none;"><span>Гипотрофия -  расстройство питания, характеризующееся различной степенью дефицита массы тела</span><br/></span></aterm>, нарушения водно-солевого обмена, аспирационные пневмонии (редко).<br/>
+При перепонках пищевода увеличивается риск развития плоскоклеточного рака гортанной части глотки и верхней трети пищевода. Степень риска точно не установлена. 
+                    </div>
+</div>
+</section>
+<section class="page-section" data-section-name="THERAPY">
+<h2 class="page-section__title" id="therapy">
+        Лечение    </h2>
+<div class="container">
+<div class="row page-section__row">
+<br/><strong>Немедикаментозное лечение</strong><div>
+	Соблюдение режима питания: прием жидой и полужидкой пищи небольшими порциями каждые 3-4 часа. Положение тела пациента во время еды вертикальное или полувертикальное.</div><br/><strong>Медикаментозное лечение</strong><br/><div>
+	Назначаются спазмолитики, антациды, антисекреторные средства, репаранты в случае развития вторичного воспаления слизистой оболочки в месте сужения пищевода.</div><br/><strong>Хирургическое лечение</strong><div>
+	Осуществляются попытки <aterm term="1">бужирования</aterm> пищевода, но, хотя врожденные <aterm term="1">стриктуры пищевода</aterm> обычно небольшие по протяженности, они не поддаются повторным бужированиям. Операция представляет собой рассечение или иссечение участка стеноза, кишечную эзофагопластику. При мембранозных формах стеноза возможно иссечение мембраны через эзофагоскоп.</div><br/>
+</div>
+</div>
+</section>
+<section class="page-section" data-section-name="PROGNOSIS">
+<h2 class="page-section__title" id="prognosis">
+        Прогноз    </h2>
+<div class="container">
+<div class="row page-section__row">
+<br/>
+<div style="text-align: justify; ">
+	Хирургическое лечение дает хорошие отдаленные результаты. После операции могут возникать снижение двигательной активности пищевода, <aterm term="1">ГЭР<span class="term-description" style="display: none;"><span>ГЭР - гастроэзофагеальный рефлюкс</span><br/><img class="tooltip-term__img" data-link="https://diseases.medelement.com/upload/21441763743e4c828947bee3dc064df4.jpg" src="/images/tooltip/image.svg" title="Открыть изображение"/><a class="tooltip-term__more" href="https://diseases.medelement.com/index.php/disease/view/NDU4Nw%3D%3D/0" target="_blank" title="Подробнее о ГЭР">Подробно</a></span></aterm>, стриктуры.</div>
+</div>
+</div>
+</section>
+<section class="page-section" data-section-name="HOSPITALIZATION">
+<h2 class="page-section__title" id="hospitalization">
+        Госпитализация    </h2>
+<div class="container">
+<div class="row page-section__row">
+<br/><div>
+	Лечение больных с врожденным стенозом пищевода проводят исключительно в условиях стационара.</div>
+</div>
+</div>
+</section>
+<section class="page-section" data-index="11">
+<h2 class="page-section__title" id="information">
+        Информация    </h2>
+<div class="container">
+<section class="row page-field" data-field-name="LISTOFREFERENCES">
+<h3 class="page-field__title text-left" id="listofreferences">
+                    Источники и литература                </h3>
+<div class="page-field__data">
+<ol id="AdditionalListSources" type="I">
+<li level="1">
+<span>Детская гастроэнтерология: руководство для врачей /под ред. проф. Шабалова Н.П., 2011</span>
+<ol type="1">
+<li level="2">стр.253-255</li>
+</ol>
+</li>
+<li level="1">
+<span>Ивашкин В.Т., Лапина Т.Л. Гастроэнтерология. Национальное руководство. Научно-практическое издание, 2008   </span>
+<ol type="1">
+</ol>
+</li>
+<li level="1">
+<span>Исаков Ю.Ф., Степанов Э.А., Красовская Т.В. Абдоминальная хирургия у детей, руководство, Медицина, 1988</span>
+<ol type="1">
+</ol>
+</li>
+<li level="1">
+<span>МакНелли Питер Р. Секреты гастроэнтерологии/ перевод с англ. под редакцией проф. Апросиной З.Г., Бином, 2005</span>
+<ol type="1">
+</ol>
+</li>
+</ol> </div>
+</section>
+</div>
+</section>
+<section class="page-section" data-section-name="ATTENTION">
+<h2 class="page-section__title" id="attention">
+        Внимание!    </h2>
+<div class="container">
+<div class="row page-section__row">
+<!--noindex-->
+<label class="attention-self-treatment-list__caption">Если вы не являетесь медицинским специалистом:</label>
+<ul class="attention-self-treatment-list">
+<li>
+        Занимаясь самолечением, вы можете нанести непоправимый вред своему здоровью.
+         
+    </li>
+<li>
+        Информация, размещенная на сайте MedElement, не может и не должна заменять очную консультацию врача.
+        Обязательно
+        обращайтесь в медицинские учреждения при наличии каких-либо заболеваний или беспокоящих вас симптомов.
+         
+    </li>
+<li>
+        Выбор лекарственных средств и их дозировки, должен быть оговорен со специалистом. Только врач может
+        назначить
+        нужное лекарство и его дозировку с учетом заболевания и состояния организма больного.
+         
+    </li>
+<li>
+        Сайт MedElement является исключительно информационно-справочным ресурсом. Информация, размещенная на данном
+        сайте, не должна использоваться для самовольного изменения предписаний врача.
+         
+    </li>
+<li>
+        Редакция MedElement не несет ответственности за какой-либо ущерб здоровью или материальный ущерб, возникший
+        в
+        результате использования данного сайта.
+    </li>
+</ul>
+<!--/noindex-->
+</div>
+</div>
+</section>
+</main>

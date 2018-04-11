@@ -1,0 +1,390 @@
+<main id="main">
+<section class="page-information disease-information">
+<div class="container">
+<h1 class="page-information__name disease-information__name">
+            Сальмонеллезный энтерит (A02.0)        </h1>
+<div class="disease-information__alternate-name">
+<label>Также: </label>
+                сальмонеллез, Salmonellosis, Salmonella enteritis            </div>
+<div class="disease-information__version-name">
+<p class="lead text-muted">
+                
+                Версия: Справочник заболеваний MedElement                </p>
+</div>
+<div class="disease-information__categories-mkb">
+<label>Категории МКБ: </label>
+                Сальмонеллезный энтерит (A02.0)            </div>
+<div class="disease-information__sections-medicine">
+<label>Разделы медицины: </label>
+                Инфекционные и паразитарные болезни            </div>
+</div>
+</section>
+<section class="page-section" data-index="0">
+<h2 class="page-section__title" id="general_information">
+        Общая информация    </h2>
+<div class="container">
+<div class="page-links-actions">
+<ul>
+<li class="page-links-actions__item page-links-actions__item--print" data-ga-event-action="Клик по ссылке: Версия для печати" data-ga-event-category="Links actions" data-ga-event-label="" data-send-ga-event="">
+<a href="javascript:window.print()">Версия для печати
+                    <svg class="svg-icon svg-icon-printer" height="18" version="1.1" viewbox="0 0 24 24" width="18" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<path d="M18,3H6V7H18M19,12A1,1 0 0,1 18,11A1,1 0 0,1 19,10A1,1 0 0,1 20,11A1,1 0 0,1 19,12M16,19H8V14H16M19,8H5A3,3 0 0,0 2,11V17H6V21H18V17H22V11A3,3 0 0,0 19,8Z"></path>
+</svg>
+</a>
+</li>
+</ul>
+</div>
+<section class="row page-field" data-field-name="SHORTDESCRIPTION">
+<h3 class="page-field__title text-left" id="shortdescription">
+                    Краткое описание                </h3>
+<div class="page-field__data">
+<div style="text-align: justify;">
+<br/>
+<strong>Сальмонеллезный <aterm term="1">энтерит<span class="term-description" style="display: none;"><span>Энтерит - воспаление слизистой оболочки тонкой кишки.</span><br/></span></aterm> </strong>(гастроинтестинальная форма сальмонеллеза) - это острая кишечная зоонозная инфекция, вызываемая многочисленными бактериями из рода сальмонелл, характеризующаяся преимущественным поражением желудочно-кишечного тракта.</div>
+</div>
+</section>
+<section class="row page-field" data-field-name="NUMBERDAYSFLOW">
+<h3 class="page-field__title text-left" id="numberdaysflow">
+                    Период протекания                </h3>
+<div class="page-field__data">
+<p><span>Минимальный инкубационный период (дней): </span>
+        не указан</p>
+<p><span>Максимальный инкубационный период (дней): </span>
+        2</p>
+<br/>
+<br/>
+<label>Описание:</label>
+<p></p><div>
+	Инкубационный период при сальмонеллезе в среднем составляет 12-24 часа. Иногда он укорачивается до 6 часов или удлиняется до 2 дней.</div>
+</div>
+</section>
+</div>
+</section>
+<section class="page-section" data-section-name="CLASSIFICATION">
+<h2 class="page-section__title" id="classification">
+        Классификация    </h2>
+<div class="container">
+<div class="row page-section__row">
+<div style="text-align: justify;">
+<br/>
+	Выделяют следующие формы и варианты течения инфекции:</div>
+<div style="text-align: justify;">
+	- гастритический вариант;<br/>
+	- гастроэнтеритический вариант;<br/>
+	- гастроэнтероколитический вариант.</div>
+</div>
+</div>
+</section>
+<section class="page-section" data-section-name="ETIOLOGY">
+<h2 class="page-section__title" id="etiology">
+        Этиология и патогенез    </h2>
+<div class="container">
+<div class="row page-section__row">
+<div style="text-align: justify;">
+<br/>
+	Возбудители сальмонеллеза относятся к роду Salmonella, семейству кишечных бактерий Enterobacteriaceae. </div>
+<div style="text-align: justify;">
+	Сальмонеллы способны продуцировать <aterm term="1">экзотоксины<span class="term-description" style="display: none;"><span>Экзотоксины — вещества, вырабатываемые грамположительными бактериями и выделяемые ими в окружающую среду. Оказывают токсическое действие на организм человека. Обычно экзотоксины являются неустойчивыми, быстро теряют свою активность под действием тепла, света и химических веществ. Именно действием экзотоксина обусловлена клиника многих инфекционных заболеваний</span><br/></span></aterm>. Среди них – энтеротоксины (термолабильный и термостабильный), усиливающие секрецию жидкости и солей в просвет кишки, и цитотоксин, который нарушает белковосинтетические процессы в клетках слизистой оболочки кишечника и воздействует на цитомембраны.</div>
+<div style="text-align: justify;">
+	При разрушении бактерий выделяется эндотоксин, обусловливающий развитие интоксикационного синдрома.</div>
+<div>
+<div style="text-align: justify;">
+<br/>
+		При попадании в желудочно-кишечный тракт сальмонеллы преодолевают эпителиальный барьер тонкого отдела кишечника и проникают в толщу тканей, где захватываются макрофагами. Внутри макрофагов бактерии не только размножаются, но и частично погибают, освобождая при этом эндотоксин, который поражает нервно-сосудистый аппарат кишечника и повышает проницаемость клеточных мембран. В результате сальмонеллы распространяются по лимфатическим путям и проникают в мезентериальные лимфатические узлы.</div>
+<div style="text-align: justify;">
+		Помимо местного действия, эндотоксин оказывает влияние на развитие симптомов общей интоксикации организма. В этой стадии инфекционный процесс приобретает локализованную (гастроинтестинальную) форму и может завершиться. Возбудитель может поступать в кровь даже при локализованных формах инфекции, однако <aterm term="1">бактериемия<span class="term-description" style="display: none;"><span>Бактериемия - наличие бактерий в циркулирующей крови; часто возникает при инфекционных болезнях в результате проникновения возбудителей в кровь через естественные барьеры макроорганизма</span><br/></span></aterm> при этом бывает кратковременной.</div>
+<div>
+<div style="text-align: justify;">
+<br/>
+			Повышение секреции жидкости в кишечнике возникает вследствие того, что сальмонеллезный энтеротоксин активирует аденилциклазу и гуанилциклазу энтероцитов с последующим нарастанием внутриклеточной концентрации биологически активных веществ (цАМФ, цГМФ и др.). Это влечет за собой поступление в просвет кишечника большого количества жидкости, калия, натрия и хлоридов.<br/>
+			У больных появляются рвота и понос, развиваются симптомы дегидратации и деминерализации организма, в сыворотке крови снижается уровень натрия, хлоридов и калия. В результате дегидратации возникает гипоксия тканей с нарушением клеточного метаболизма. В сочетании с электролитными изменениями это способствует развитию <aterm term="1">ацидоза<span class="term-description" style="display: none;"><span>Ацидоз - форма нарушения кислотно-щелочного равновесия в организме, характеризующаяся сдвигом соотношения между анионами кислот и катионами оснований в сторону увеличения анионов</span><br/></span></aterm>.<br/>
+			В тяжелых случаях наблюдаются <aterm term="1">олигурия<span class="term-description" style="display: none;"><span>Олигурия - выделение очень малого по сравнению с нормой количества мочи.</span><br/></span></aterm> и <aterm term="1">азотемия<span class="term-description" style="display: none;"><span>Азотемия - избыточное содержание в крови азотсодержащих продуктов белкового обмена</span><br/></span></aterm>. Данные патологические явления наиболее выражены при развитии дегидратационного (чаще), инфекционно-токсического и смешанного шоков.</div>
+</div>
+</div>
+</div>
+</div>
+</section>
+<section class="page-section" data-section-name="EPIDEMIOLOGY">
+<h2 class="page-section__title" id="epidemiology">
+        Эпидемиология    </h2>
+<div class="container">
+<div class="row page-section__row">
+<div style="text-align: justify;">
+<br/>
+	Источником инфекции могут являться животные и люди, при этом роль животных в эпидемиологии является основной.<br/>
+	У животных сальмонеллез  встречается в форме клинически выраженного заболевания и бактериовыделительства. Эпидемиологическую опасность представляет инфицирование крупного рогатого скота, свиней, овец, лошадей, собак, кошек, домовых грызунов. Значительное место в эпидемиологии сальмонеллеза занимают птицы. Сальмонеллы обнаруживают в яйцах, мясе и внутренних органах птиц.</div>
+<div style="text-align: justify;">
+<br/>
+	Механизм передачи возбудителей – фекально-оральный. Основной путь передачи инфекции – пищевой. <br/>
+<br/>
+	Сальмонеллез встречается в течение всего года, но чаще - в летние месяцы, что можно объяснить ухудшением условий хранения пищевых продуктов. Наблюдается как спорадическая, так и групповая заболеваемость этой инфекцией. </div>
+</div>
+</div>
+</section>
+<section class="page-section" data-section-name="FACTORSANDRISKGROUPS">
+<h2 class="page-section__title" id="factorsandriskgroups">
+        Факторы и группы риска    </h2>
+<div class="container">
+<div class="row page-section__row">
+<div style="text-align: justify;">
+<br/>
+<span style="text-align: justify;">- дети в возрасте до 1 года;<br/>
+	- лица с различными видами иммунодефицита.</span></div>
+</div>
+</div>
+</section>
+<section class="page-section" data-index="5">
+<h2 class="page-section__title" id="clinical">
+        Клиническая картина    </h2>
+<div class="container">
+<section class="row page-field" data-field-name="ANTIPRAXIA">
+<h3 class="page-field__title text-left" id="antipraxia">
+                    Cимптомы, течение                </h3>
+<div class="page-field__data">
+<div style="text-align: justify;">
+<br/>
+<strong>Сальмонеллезный гастрит -</strong> встречается редко. Клинические проявления:<br/>
+	- умеренные явления интоксикации;<br/>
+	- боли в эпигастральной области;<br/>
+	- тошнота;<br/>
+	- повторная рвота;<br/>
+	- поноса при этом варианте течения болезни не бывает.<br/>
+<br/>
+<strong>Гастроэнтеритический вариант</strong> является наиболее частым клиническим вариантом сальмонеллезной инфекции. Характеризуется острым началом с появлением симптомов интоксикации и признаков поражения желудочно-кишечного тракта. Проявления достигают максимального развития в течение нескольких часов.<br/>
+	Во многих случаях отмечаются тошнота и рвота - чаще повторная, а не однократная, обильная, иногда неукротимая.<br/>
+	Стул жидкий, обильный, в основном сохраняет каловый характер, зловонный, пенистый, коричневого, темно-зеленого или желтого цвета. В некоторых случаях испражнения теряют каловый характер и могут напоминать рисовый отвар.<br/>
+	Живот, как правило, умеренно вздут. При пальпации отмечается болезненность в <aterm term="1">эпигастрии<span class="term-description" style="display: none;"><span>Эпигастрий - область живота, ограниченная сверху диафрагмой, снизу горизонтальной плоскостью, проходящей через прямую, соединяющую наиболее низкие точки десятых ребер.</span><br/></span></aterm>, вокруг пупка, в илеоцекальной области; могут выявляться урчание, "переливание" в области петель тонкой кишки.</div>
+<div style="text-align: justify;">
+<br/>
+<strong>Гастроэнтероколитический вариант</strong> может иметь сходное с гастроэнтеритом начало, но далее в клинической картине все более отчетливо наблюдается симптомокомплекс <aterm term="1">колита<span class="term-description" style="display: none;"><span>Колит - воспаление слизистой оболочки толстой кишки</span><br/></span></aterm>. В данном случае сальмонеллез по своему течению напоминает острую дизентерию.<br/>
+<br/>
+	Начало заболевания острое - поднимается температуры тела и появляются симптомы интоксикации. С первых дней болезни стул частый, жидкий, с примесью слизи и иногда крови. Могут отмечаться <aterm term="1">тенезмы<span class="term-description" style="display: none;"><span>Тенезмы - ложные болезненные позывы к дефекации, например при проктите, дизентерии</span><br/></span></aterm> и ложные позывы.<br/>
+	При ректороманоскопии у больных обнаруживаются воспалительные изменения различной интенсивности: катаральные, катарально-геморрагические, катарально-эрозивные.<br/>
+<br/>
+	Лихорадка при гастроинтестинальной форме сальмонеллеза может быть постоянной, реже - ремиттирующей или интермиттирующей. В некоторых случаях заболевание протекает при нормальной или субнормальной температуре.<br/>
+<br/>
+	В патологический процесс часто вовлекается поджелудочная железа. Повышается активность амилазы в крови и моче. Иногда появляются клинические симптомы <aterm term="1">панкреатита<span class="term-description" style="display: none;"><span>Панкреатит - воспаление поджелудочной железы</span><br/></span></aterm>.</div>
+</div>
+</section>
+</div>
+</section>
+<section class="page-section" data-section-name="DIAGNOSTICS">
+<h2 class="page-section__title" id="diagnostics">
+        Диагностика    </h2>
+<div class="container">
+<div class="row page-section__row">
+<br/>
+<span style="text-align: justify;">При гастроинтестинальной форме сальмонеллеза</span><strong style="text-align: justify;"> картина периферической крови</strong><span style="text-align: justify;"> различна:</span><br style="text-align: justify;"/>
+<span style="text-align: justify;">- при большой потере жидкости развивается сгущение крови, возможен эритроцитоз;</span><br style="text-align: justify;"/>
+<span style="text-align: justify;">- иногда развивается симптоматическая тромбоцитопения;</span><br style="text-align: justify;"/>
+<span style="text-align: justify;">- количество лейкоцитов может быть различным – нормальным, сниженным, но чаще повышенным, особенно при тяжелом течении сальмонеллеза; обычно наблюдается умеренный лейкоцитоз, редко превышающий 20*10</span><sup style="text-align: justify;">9</sup><span style="text-align: justify;">/л;</span><br style="text-align: justify;"/>
+<span style="text-align: justify;">- выявляется сдвиг лейкоцитарной формулы влево;</span><br style="text-align: justify;"/>
+<span style="text-align: justify;">- СОЭ в пределах нормы или несколько увеличена.</span><br style="text-align: justify;"/>
+<br style="text-align: justify;"/>
+<span style="text-align: justify;">В разгар болезни возможны нарушения водно-солевого обмена, приводящие к дегидратации и деминерализации организма. В самых тяжелых случаях наблюдаются сдвиги в кислотно-основном балансе.</span>
+</div>
+</div>
+</section>
+<section class="page-section" data-section-name="LABORATORYDIAGNOSTICS">
+<h2 class="page-section__title" id="laboratorydiagnostics">
+        Лабораторная диагностика    </h2>
+<div class="container">
+<div class="row page-section__row">
+<div style="text-align: justify;">
+<br/>
+	Ввиду полиморфизма клинических проявлений сальмонеллеза, лабораторное обследование больных является важным моментом в диагностике заболевания.<br/>
+<br/>
+<strong>Бактериологические методы </strong>применяются для исследования рвотных масс промывных вод желудка, испражнений, дуоденального содержимого.</div>
+<div style="text-align: justify;">
+<br/>
+<strong>Серологические методы </strong>(используются на 7-8-й день болезни):<br/>
+	1. Реакция агглютинации (РА) - считается положительной при разведении сыворотки не менее чем 1:200. Особенно важное диагностическое значение имеет нарастание титра антител в динамике заболевания.<br/>
+	2. Реакция непрямой гемагглютинации (РНГА) - применяются более часто. РНГА более чувствительна, по сравнению с РА, и дает положительные результаты с 5-го дня болезни. За диагностический принимают титр антител в РНГА 1:200.<br/>
+	3. Методы обнаружения антигенов сальмонелл в крови: агрегат-гемагглютинации и иммуноферментный.</div>
+</div>
+</div>
+</section>
+<section class="page-section" data-section-name="DIFFERENTIALDIAGNOSIS">
+<h2 class="page-section__title" id="differentialdiagnosis">
+        Дифференциальный диагноз    </h2>
+<div class="container">
+<div class="row page-section__row">
+<div>
+<br/>
+	Наиболее часто гастроинтестинальную форму приходится дифференцировать от других <strong>острых кишечных инфекций</strong> - дизентерии, пищевых токсикоинфекций, <aterm term="1">эшерихиозов</aterm>, холеры.</div><div>
+<br/>
+	Нередко возникает необходимость дифференцировать эту форму от <strong>острых хирургических заболеваний</strong> – острого аппендицита, панкреатита, холецистита, тромбоза мезентериальных сосудов и острой гинекологической патологии – внематочной беременности и <aterm term="1">аднексита</aterm>.</div><div>
+<br/>
+	Также проводится дифференциация с <strong>терапевтическими патологиями</strong> - инфарктом, обострениями хронического гастрита, энтероколита, язвенной болезни.<br/><br/>
+	Встречаются затруднения также при дифференциальной диагностике гастроинтестинальной формы сальмонеллеза и <strong>отравлений</strong> неорганическими ядами, ядохимикатами, грибами, некоторыми растениями.</div>
+</div>
+</div>
+</section>
+<section class="page-section" data-section-name="SEQUELAE">
+<h2 class="page-section__title" id="sequelae">
+        Осложнения    </h2>
+<div class="container">
+<div class="row page-section__row">
+<div style="text-align: justify;">
+<br/>
+	Возможные <strong>осложнения при гастроинтестинальной форме сальмонеллеза:</strong><br/>
+	- развитие сосудистого коллапса;<br/>
+	- гиповолемический шок;<br/>
+	- острая сердечная и почечная недостаточность.</div>
+<div>
+<div style="text-align: justify;">
+<br/>
+<strong>Септические осложнения </strong>у больных сальмонеллезом:<br/>
+		- гнойный артрит;<br/>
+		- <aterm term="1">остеомиелит<span class="term-description" style="display: none;"><span>Остеомиелит - воспаление костного мозга, обычно распространяющееся на компактное и губчатое вещество кости и надкостницу</span><br/></span></aterm>;<br/>
+		- <aterm term="1">эндокардит<span class="term-description" style="display: none;"><span>Эндокардит - воспаление эндокарда, чаще с поражением клапанов, приводящим к развитию пороков сердца</span><br/></span></aterm>;<br/>
+		- абсцесс мозга, селезенки, печени и почек;<br/>
+		- <aterm term="1">менингит<span class="term-description" style="display: none;"><span>Менингит - воспаление оболочек головного и (или) спинного мозга; проявляется менингеальным синдромом (сочетание упорных диффузных головных болей, обычно сопровождаемых тошнотой и рвотой, с общей кожной гиперестезией и повышенной чувствительностью к световым и звуковым раздражителям)</span><br/></span></aterm>;<br/>
+		- <aterm term="1">перитонит<span class="term-description" style="display: none;"><span>Перитонит - воспаление брюшины.</span><br/></span></aterm>;<br/>
+		- аппендицит.<br/>
+<br/>
+		Помимо этого, могут возникнуть пневмонии, восходящая инфекция мочевыводящих путей (циститы, пиелиты), токсико-инфекционный шок ("Сальмонеллезная септицемия" - A02.1, "Локализованная сальмонеллезная инфекция" -  A02.2+).</div>
+<div style="text-align: justify;">
+<br/>
+		При всех клинических формах заболевания возможно развитие рецидивов.</div>
+</div>
+</div>
+</div>
+</section>
+<section class="page-section" data-section-name="THERAPY">
+<h2 class="page-section__title" id="therapy">
+        Лечение    </h2>
+<div class="container">
+<div class="row page-section__row">
+<div>
+<br/>
+	В настоящее время отсутствуют достаточно эффективные химиотерапевтические препараты (в том числе, антибиотики) для лечения гастроинтестинальной формы сальмонеллезной инфекции.<br/><br/><strong>Главные направления патогенетической терапии</strong> при сальмонеллезе: </div><div>
+	- дезинтоксикация;<br/>
+	- нормализация водно-электролитного обмена;<br/>
+	- борьба с <aterm term="1">гипоксемией</aterm>, гипоксией, метаболическим ацидозом;</div><div>
+	- поддержание на физиологическом уровне <aterm term="1">гемодинамики</aterm>, а также функций сердечно-сосудистой системы и почек.</div>
+</div>
+</div>
+</section>
+<section class="page-section" data-section-name="PROGNOSIS">
+<h2 class="page-section__title" id="prognosis">
+        Прогноз    </h2>
+<div class="container">
+<div class="row page-section__row">
+<div>
+<br/>
+	При гастроинтестинальной форме сальмонеллеза прогноз благоприятный, особенно в случаях ранней диагностики и правильного лечения.</div>
+</div>
+</div>
+</section>
+<section class="page-section" data-section-name="HOSPITALIZATION">
+<h2 class="page-section__title" id="hospitalization">
+        Госпитализация    </h2>
+<div class="container">
+<div class="row page-section__row">
+<div>
+<br/>
+	Больных госпитализируют по клиническим и эпидемиологическим показаниям.</div><div>
+	Переболевших выписывают после клинического выздоровления и отрицательных контрольных бактериологических исследований испражнений.</div>
+</div>
+</div>
+</section>
+<section class="page-section" data-section-name="PROPHYLAXIS">
+<h2 class="page-section__title" id="prophylaxis">
+        Профилактика    </h2>
+<div class="container">
+<div class="row page-section__row">
+<div style="text-align: justify;">
+<br/>
+	Ветеринарно-санитарные мероприятия: <br/>
+	- предупреждение распространения сальмонеллеза среди домашних млекопитающих и птиц;<br/>
+	- организация санитарного режима на мясокомбинатах и молочных предприятиях. <br/>
+<br/>
+	Цель санитарно-гигиенических мероприятий – предупреждение обсеменения сальмонеллами пищевых продуктов при их обработке, транспортировке и продаже.<br/>
+	В профилактике сальмонеллеза большое значение имеет правильная кулинарная и оптимальная термическая обработка пищевых продуктов.</div>
+<div style="text-align: justify;">
+<br/>
+	Противоэпидемические мероприятия направлены на предупреждение распространения заболевания в коллективе. При возникновении спорадических заболеваний и эпидемических вспышек необходимо выявление путей передачи инфекции.</div>
+</div>
+</div>
+</section>
+<section class="page-section" data-index="14">
+<h2 class="page-section__title" id="information">
+        Информация    </h2>
+<div class="container">
+<section class="row page-field" data-field-name="LISTOFREFERENCES">
+<h3 class="page-field__title text-left" id="listofreferences">
+                    Источники и литература                </h3>
+<div class="page-field__data">
+<ol id="AdditionalListSources" type="I">
+<li level="1">
+<span>"Pathogenesis of enteric Salmonella infections" Grassl GA, Finlay BB, Curr Opin Gastroenterol, Jan 2008</span>
+<ol type="1">
+</ol>
+</li>
+<li level="1">
+<span>"Preliminary FoodNet data on the incidence of infection with pathogens transmitted commonly through food -10 states 2007" Centers for Disease Control and Prevention, MMWR Morb Mortal Wkly Rep. Apr 11, 2008</span>
+<ol type="1">
+</ol>
+</li>
+<li level="1">
+<span>"Сальмонеллез – вопросы и ответы?" Михаель/ Сб. докладов VI Междунар. вет. конгресса по птицеводству,М., 2010</span>
+<ol type="1">
+</ol>
+</li>
+<li level="1">
+<span>http://emedicine.medscape.com</span>
+<ol type="1">
+<li level="2">http://emedicine.medscape.com/article/228174-overview - "Salmonellosis"  Alena Klochko, MD</li>
+</ol>
+</li>
+<li level="1">
+<span>http://www.nlm.nih.gov</span>
+<ol type="1">
+<li level="2"> http://www.nlm.nih.gov/medlineplus/salmonellainfections.html -  </li>
+</ol>
+</li>
+</ol> </div>
+</section>
+</div>
+</section>
+<section class="page-section" data-section-name="ATTENTION">
+<h2 class="page-section__title" id="attention">
+        Внимание!    </h2>
+<div class="container">
+<div class="row page-section__row">
+<!--noindex-->
+<label class="attention-self-treatment-list__caption">Если вы не являетесь медицинским специалистом:</label>
+<ul class="attention-self-treatment-list">
+<li>
+        Занимаясь самолечением, вы можете нанести непоправимый вред своему здоровью.
+         
+    </li>
+<li>
+        Информация, размещенная на сайте MedElement, не может и не должна заменять очную консультацию врача.
+        Обязательно
+        обращайтесь в медицинские учреждения при наличии каких-либо заболеваний или беспокоящих вас симптомов.
+         
+    </li>
+<li>
+        Выбор лекарственных средств и их дозировки, должен быть оговорен со специалистом. Только врач может
+        назначить
+        нужное лекарство и его дозировку с учетом заболевания и состояния организма больного.
+         
+    </li>
+<li>
+        Сайт MedElement является исключительно информационно-справочным ресурсом. Информация, размещенная на данном
+        сайте, не должна использоваться для самовольного изменения предписаний врача.
+         
+    </li>
+<li>
+        Редакция MedElement не несет ответственности за какой-либо ущерб здоровью или материальный ущерб, возникший
+        в
+        результате использования данного сайта.
+    </li>
+</ul>
+<!--/noindex-->
+</div>
+</div>
+</section>
+</main>

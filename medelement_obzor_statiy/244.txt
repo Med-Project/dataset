@@ -1,0 +1,291 @@
+<main id="main">
+<section class="page-information disease-information">
+<div class="container">
+<h1 class="page-information__name disease-information__name">
+            Ревматическая лихорадка без упоминания о вовлечении сердца (I00)        </h1>
+<div class="disease-information__version-name">
+<p class="lead text-muted">
+                
+                Версия: Справочник заболеваний MedElement                </p>
+</div>
+<div class="disease-information__categories-mkb">
+<label>Категории МКБ: </label>
+                Ревматическая лихорадка без упоминания о вовлечении сердца (I00)            </div>
+<div class="disease-information__sections-medicine">
+<label>Разделы медицины: </label>
+                Кардиология            </div>
+</div>
+</section>
+<section class="page-section" data-index="0">
+<h2 class="page-section__title" id="general_information">
+        Общая информация    </h2>
+<div class="container">
+<div class="page-links-actions">
+<ul>
+<li class="page-links-actions__item page-links-actions__item--print" data-ga-event-action="Клик по ссылке: Версия для печати" data-ga-event-category="Links actions" data-ga-event-label="" data-send-ga-event="">
+<a href="javascript:window.print()">Версия для печати
+                    <svg class="svg-icon svg-icon-printer" height="18" version="1.1" viewbox="0 0 24 24" width="18" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<path d="M18,3H6V7H18M19,12A1,1 0 0,1 18,11A1,1 0 0,1 19,10A1,1 0 0,1 20,11A1,1 0 0,1 19,12M16,19H8V14H16M19,8H5A3,3 0 0,0 2,11V17H6V21H18V17H22V11A3,3 0 0,0 19,8Z"></path>
+</svg>
+</a>
+</li>
+</ul>
+</div>
+<section class="row page-field" data-field-name="SHORTDESCRIPTION">
+<h3 class="page-field__title text-left" id="shortdescription">
+                    Краткое описание                </h3>
+<div class="page-field__data">
+<br/>
+Артрит ревматический острый и подострый.                </div>
+</section>
+</div>
+</section>
+<section class="page-section" data-section-name="ETIOLOGY">
+<h2 class="page-section__title" id="etiology">
+        Этиология и патогенез    </h2>
+<div class="container">
+<div class="row page-section__row">
+<div style="text-align: justify; ">
+<br/>
+<strong>Этиологическим фактором </strong>выступает В-гемолитический стрептококк группы А. Для развития заболевания также необходима наследственная предрас­положенность (DR21, DR4, антитела HLA; аллоантиген В-лимфоцитов D8/17).<br/>
+<br/>
+<strong>В патогенезе условно выделяются два периода:</strong><br/>
+	1. Не­посредственное повреждающее и токсическое действие на организм, оказываемое персистирующими стрептококками и их антигенами.</div>
+<div style="text-align: justify; ">
+	2. Развитие иммунного воспаления в соединительной ткани организма с преимущественным вовлечением в процесс сердца и сосудов в результате запуска механизма синтеза аутоантител.</div>
+</div>
+</div>
+</section>
+<section class="page-section" data-section-name="EPIDEMIOLOGY">
+<h2 class="page-section__title" id="epidemiology">
+        Эпидемиология    </h2>
+<div class="container">
+<div class="row page-section__row">
+<br/>
+Чаще всего поражение суставов сочетается с <aterm term="1">ревмокардитом<span class="term-description" style="display: none;"><span>Ревмокардит -  воспаление всех или отдельных слоев стенки сердца при ревматизме </span><br/></span></aterm>, но у 15% больных может протекать и изолированно.
+                    </div>
+</div>
+</section>
+<section class="page-section" data-index="3">
+<h2 class="page-section__title" id="clinical">
+        Клиническая картина    </h2>
+<div class="container">
+<section class="row page-field" data-field-name="ANTIPRAXIA">
+<h3 class="page-field__title text-left" id="antipraxia">
+                    Cимптомы, течение                </h3>
+<div class="page-field__data">
+<div style="text-align: justify;">
+<br/>
+<strong>Ревматический полиартит характеризуется следующими основными признаками:</strong><br/>
+<br/>
+	1. Имеет острое начало.<br/>
+	2. Сопровождается лихорадкой.<br/>
+	3. Боли в суставах достаточно сильно выражены, но кратковременны. Отмечается нарушение функции суставов за счет поражения <aterm term="1">периартикулярных тканей<span class="term-description" style="display: none;"><span>Периартикулярные ткани - окружающие сустав мышцы, межмышечные соединительнотканные образования (перегородки, прослойки рыхлой соединительной ткани), слизистые сумки</span><br/></span></aterm> и <aterm term="1">синовита<span class="term-description" style="display: none;"><span>Синовит - воспаление синовиальной оболочки (внутренний слой суставной сумки или костно-фиброзного канала) не распространяющееся на остальные ткани и элементы сустава</span><br/></span></aterm>, что объективно проявляется припухлостью и ограничением объема движений в пораженном суставе, а также локальной гиперемией и гипертермией, но деформация суставов отсутствует.<br/>
+	4. Обычно поражаются крупные и средние суставы, чаще всего  коленные, голеностопные, локтевые и лучезапястные. Мелкие суставы кистей рук, стоп, шеи поражаются гораздо реже.<br/>
+	5. Симметричность поражения.<br/>
+	6. Летучесть суставного синдрома.<br/>
+	7. Быстрое обратное развитие патологического процесса (на фоне противовоспалительной терапии боли исчезают в течение нескольких дней или даже часов). Артрит, в отличие от кардита, полностью излечим и не приводит к функциональным или патологическим последствиям.<br/>
+	8. Доброкачественное течение.</div>
+</div>
+</section>
+</div>
+</section>
+<section class="page-section" data-section-name="DIAGNOSTICS">
+<h2 class="page-section__title" id="diagnostics">
+        Диагностика    </h2>
+<div class="container">
+<div class="row page-section__row">
+<br/>
+Рентгенография сустава чаще всего неинформативна, изредка можно обнаружить небольшой <aterm term="1">выпот<span class="term-description" style="display: none;"><span>Выпот - скопление жидкости (экссудата или транссудата) в серозной полости.</span><br/></span></aterm>.
+                    </div>
+</div>
+</section>
+<section class="page-section" data-section-name="LABORATORYDIAGNOSTICS">
+<h2 class="page-section__title" id="laboratorydiagnostics">
+        Лабораторная диагностика    </h2>
+<div class="container">
+<div class="row page-section__row">
+<br/>
+Синовиальная жидкость стерильна, обнаруживается лейкоцитоз и большое количество белка.
+                    </div>
+</div>
+</section>
+<section class="page-section" data-section-name="DIFFERENTIALDIAGNOSIS">
+<h2 class="page-section__title" id="differentialdiagnosis">
+        Дифференциальный диагноз    </h2>
+<div class="container">
+<div class="row page-section__row">
+<div>
+<br/>
+	При отсутствии симптомов <aterm term="1">кардита</aterm> ревматический полиартрит необходимо дифференцировать с рядом заболеваний, при которых суставной синдром является основным клиническим проявлением:<br/><br/>
+	 - реактивные артриты;<br/>
+	- ревматоидный артрит;<br/>
+	- ювенильный ревматоидный артрит;<br/>
+	- синдром Стилла;<br/>
+	- интермиттирующий гидрартроз;<br/>
+	- системная красная волчанка;<br/>
+	- анкилозирующий спондилоартрит;<br/>
+	- геморрагический васкулит;<br/>
+	- болезнь Лайма;<br/>
+	- сывороточная болезнь.<br/><br/>
+	Также дифференциальная диагностика проводится с <strong>постстрептококковым артритом</strong>. Для него характерно упорное длительное течение (от 6 недель до 12 месяцев), немигрирующий характер и частые рецидивы. Нередко в процесс вовлекаются мелкие суставы, а также поражаются периартикулярные ткани с развитием <aterm term="1">тендинитов</aterm>, фасциитов. Протекает без кaрдита. Плохо поддается терапии НПВС и салицилатами.<br/><br/>
+	Осуществление дифференциальной диагностики ревматического полиартрита становится более легким при появлении больших критериев острой ревматической лихорадки (кардит, <aterm term="1">хорея</aterm>), в особенности подкрепленных доказательствами предшествовавшей стрептококковой инфекции либо присоединением клинических и лабораторных синдромов других заболеваний. </div><h3>
+	 </h3>
+</div>
+</div>
+</section>
+<section class="page-section" data-section-name="SEQUELAE">
+<h2 class="page-section__title" id="sequelae">
+        Осложнения    </h2>
+<div class="container">
+<div class="row page-section__row">
+<br/>
+В редких случаях у взрослых можно наблюдать персистирующее течение, ведущее к развитию <strong>синдрома Жакку </strong>(безболезненная деформация кистей рук с <aterm term="1">ульнарной девиацией<span class="term-description" style="display: none;"><span>Ульнарная девиация - пальцы отклоняются в локтевую сторону в пястно-фаланговых суставах</span><br/></span></aterm> без воспалительных явлений в суставах и без нарушения функций сустава).
+                    </div>
+</div>
+</section>
+<section class="page-section" data-section-name="THERAPY">
+<h2 class="page-section__title" id="therapy">
+        Лечение    </h2>
+<div class="container">
+<div class="row page-section__row">
+<div>
+<br/>
+	Лечение ревматического артрита основано на <strong>назначении НПВС</strong>. При использовании препаратов данной группы, симптомы артрита, как правило, купируются в течение первых 12 часов. В случае отсутствия эффекта, ревматическая природа артрита представляется сомнительной. НПВС назначаются курсом 4-6 недель, отменяются постепенно.<br/>
+	Учитывая стрептококковую этиологию заболевания, показана <strong>антибактериальная терапия</strong> в течение 10-14 дней. Наиболее часто используются полусинтетические пенициллины (ампициллин, амоксициллин, ампиокс, карбенициллин, аугментин). Затем больной переводится на лечение бициллином-5, который назначается 1 раз в месяц.<br/>
+	Если у пациента присутствует аллергическая реакция на пенициллины, либо отсутствует чувствительность выделенного из зева стрептококка к пенициллинам, в качестве альтернативы применяются макролиды (эритромицин, рокситромицин, сумамед) и цефалоспорины (цефалексин, цефазолин и др.).</div><div>
+	Антибактериальные препараты назначаются в обычных возрастных дозах.</div>
+</div>
+</div>
+</section>
+<section class="page-section" data-section-name="PROGNOSIS">
+<h2 class="page-section__title" id="prognosis">
+        Прогноз    </h2>
+<div class="container">
+<div class="row page-section__row">
+<div style="text-align: justify;">
+<br/>
+	Как правило, длительность воспаления в каждом пораженном суставе составляет не более 1-2 недель, а полностью артрит проходит в течение месяца, даже при отсутствии лечения.</div>
+</div>
+</div>
+</section>
+<section class="page-section" data-section-name="HOSPITALIZATION">
+<h2 class="page-section__title" id="hospitalization">
+        Госпитализация    </h2>
+<div class="container">
+<div class="row page-section__row">
+<br/>
+Всем пациентам с острой ревматической лихорадкой вне зависимости от ее клинических проявлений показана госпитализация.
+                    </div>
+</div>
+</section>
+<section class="page-section" data-section-name="PROPHYLAXIS">
+<h2 class="page-section__title" id="prophylaxis">
+        Профилактика    </h2>
+<div class="container">
+<div class="row page-section__row">
+<div style="text-align: justify; ">
+<br/>
+<strong>Первичная профилактика</strong> - раннее и активное лечение стрептококкового тонзиллита и фарингита. В качестве препаратов выбора используются антибиотики пенициллинового ряда.<br/>
+<br/>
+<strong>Вторичная профилактика</strong> направлена на предотвращение рецидивов ревматической лихорадки путем предупреждения повторной стрептококковой инфекции. Наиболее эффективно непрерывное круглого­дичное ежемесячное введение внутримышечно 1 500 000 ЕД бициллина-5. Больным, которые перенесли ревматический полиартрит и не имеют признаков поражения клапанов сердца, бициллинопрофилактика проводится на протяжении 3 лет.</div>
+</div>
+</div>
+</section>
+<section class="page-section" data-index="12">
+<h2 class="page-section__title" id="information">
+        Информация    </h2>
+<div class="container">
+<section class="row page-field" data-field-name="LISTOFREFERENCES">
+<h3 class="page-field__title text-left" id="listofreferences">
+                    Источники и литература                </h3>
+<div class="page-field__data">
+<ol id="AdditionalListSources" type="I">
+<li level="1">
+<span> Насонов Е.Л. Противовоспалительная терапия ревматических заболеваний, «М-СИТИ», М., 1996</span>
+<ol type="1">
+</ol>
+</li>
+<li level="1">
+<span>Кардиология. Национальное руководство /под редакцией  Беленкова Ю.Н., Оганова Р.Г., 2007</span>
+<ol type="1">
+<li level="2">стр. 1086-1099</li>
+</ol>
+</li>
+<li level="1">
+<span>Клинические рекомендации. Ревматология /под редакцией Насонова Е.Л., М.:ГЭОТАР-Медиа, 2008</span>
+<ol type="1">
+</ol>
+</li>
+<li level="1">
+<span>Насонова В.А., Астапенко М.Г. Клиническая ревматология. М.,1965</span>
+<ol type="1">
+<li level="2">стр. 589</li>
+</ol>
+</li>
+<li level="1">
+<span>Ревматические болезни /под ред. Насоновой В.А., Бунчука Н.В.- М., Медицина, 1997</span>
+<ol type="1">
+<li level="2">стр. 520</li>
+</ol>
+</li>
+<li level="1">
+<span>Ревматические болезни: номенклатура, классификация, стандарты диагностики и лечения /под ред. Коваленко В.Н., Шубы Н.М., К., 2002</span>
+<ol type="1">
+</ol>
+</li>
+<li level="1">
+<span>Ревматология. Национальное руководство /под редакцией  Насонова Е.Л., Насоновой В.А., 2008</span>
+<ol type="1">
+<li level="2">стр. 400-419</li>
+</ol>
+</li>
+<li level="1">
+<span>"Острая ревматическая лихорадка на рубеже веков" Белов Б. С., "Русский медицинский журнал", 1999, Т.7. № 18., с.694-698</span>
+<ol type="1">
+</ol>
+</li>
+</ol> </div>
+</section>
+</div>
+</section>
+<section class="page-section" data-section-name="ATTENTION">
+<h2 class="page-section__title" id="attention">
+        Внимание!    </h2>
+<div class="container">
+<div class="row page-section__row">
+<!--noindex-->
+<label class="attention-self-treatment-list__caption">Если вы не являетесь медицинским специалистом:</label>
+<ul class="attention-self-treatment-list">
+<li>
+        Занимаясь самолечением, вы можете нанести непоправимый вред своему здоровью.
+         
+    </li>
+<li>
+        Информация, размещенная на сайте MedElement, не может и не должна заменять очную консультацию врача.
+        Обязательно
+        обращайтесь в медицинские учреждения при наличии каких-либо заболеваний или беспокоящих вас симптомов.
+         
+    </li>
+<li>
+        Выбор лекарственных средств и их дозировки, должен быть оговорен со специалистом. Только врач может
+        назначить
+        нужное лекарство и его дозировку с учетом заболевания и состояния организма больного.
+         
+    </li>
+<li>
+        Сайт MedElement является исключительно информационно-справочным ресурсом. Информация, размещенная на данном
+        сайте, не должна использоваться для самовольного изменения предписаний врача.
+         
+    </li>
+<li>
+        Редакция MedElement не несет ответственности за какой-либо ущерб здоровью или материальный ущерб, возникший
+        в
+        результате использования данного сайта.
+    </li>
+</ul>
+<!--/noindex-->
+</div>
+</div>
+</section>
+</main>

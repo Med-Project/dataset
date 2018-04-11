@@ -1,0 +1,341 @@
+<main id="main">
+<section class="page-information disease-information">
+<div class="container">
+<h1 class="page-information__name disease-information__name">
+            Другие болезни языка. Глоссоптоз (K14.8)        </h1>
+<div class="disease-information__alternate-name">
+<label>Также: </label>
+                Glossoptosis            </div>
+<div class="disease-information__version-name">
+<p class="lead text-muted">
+                
+                Версия: Справочник заболеваний MedElement                </p>
+</div>
+<div class="disease-information__categories-mkb">
+<label>Категории МКБ: </label>
+                Другие болезни языка (K14.8)            </div>
+<div class="disease-information__sections-medicine">
+<label>Разделы медицины: </label>
+                Гастроэнтерология, Стоматология            </div>
+</div>
+</section>
+<section class="page-section" data-index="0">
+<h2 class="page-section__title" id="general_information">
+        Общая информация    </h2>
+<div class="container">
+<div class="page-links-actions">
+<ul>
+<li class="page-links-actions__item page-links-actions__item--print" data-ga-event-action="Клик по ссылке: Версия для печати" data-ga-event-category="Links actions" data-ga-event-label="" data-send-ga-event="">
+<a href="javascript:window.print()">Версия для печати
+                    <svg class="svg-icon svg-icon-printer" height="18" version="1.1" viewbox="0 0 24 24" width="18" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<path d="M18,3H6V7H18M19,12A1,1 0 0,1 18,11A1,1 0 0,1 19,10A1,1 0 0,1 20,11A1,1 0 0,1 19,12M16,19H8V14H16M19,8H5A3,3 0 0,0 2,11V17H6V21H18V17H22V11A3,3 0 0,0 19,8Z"></path>
+</svg>
+</a>
+</li>
+</ul>
+</div>
+<section class="row page-field" data-field-name="SHORTDESCRIPTION">
+<h3 class="page-field__title text-left" id="shortdescription">
+                    Краткое описание                </h3>
+<div class="page-field__data">
+<div style="text-align: justify;">
+<br/>
+<strong>Глоссоптоз</strong> - недоразвитие и западение языка (в более узком понимании - только западение языка). Иногда сочетается с атрофией языка, вызванной денервацией.<br/>
+<br/>
+<br/>
+<strong style="margin: 0px; padding: 0px; color: rgb(35, 31, 32); font-family: Arial, Helvetica, sans-serif; line-height: 14.399999618530273px;">Примечания</strong><br/>
+	 </div>
+<div style="text-align: justify;">
+	Из данной подрубрики <strong>исключены:</strong></div>
+<div style="text-align: justify;">
+	- "Другие болезни губ и слизистой оболочки полости рта" - K13 </div>
+<div style="text-align: justify;">
+	- "<a href="https://diseases.medelement.com/disease/view/NDU3NA%253D%253D/fDB8" target="_blank">Глоссит</a>" - К14.0 </div>
+<div style="text-align: justify;">
+	- "Врожденная макроглоссия" - Q38.2  </div>
+<div style="text-align: justify;">
+	- "Другие врожденные аномалии языка" - Q38.3 </div>
+<div style="text-align: justify;">
+<br/>
+	В данную подрубрику <strong>включен</strong>: глоссоптоз.<br/>
+	Следующие клинические состояния также относятся к данному коду K14.8  и описаны под этим же кодом, но в других карточках для удобства диагностики:</div>
+<div style="text-align: justify;">
+	- <a href="https://diseases.medelement.com/disease/view/MTM2Mzc%253D/fDB8" target="_blank">фестончатый язык</a>;<br/>
+	-<a href="https://diseases.medelement.com/disease/view/NDU4MQ%253D%253D/fDB8" target="_blank"> гипертрофия языка, широкий язык, глоссоцеле</a>;<br/>
+	- <a href="https://diseases.medelement.com/disease/view/MTM2Mzg%253D/fDB8" target="_blank">атрофия языка</a>.</div>
+<div style="text-align: justify;">
+	 </div>
+<div style="text-align: justify;">
+	Все описанные выше клинические состояния, как правило, являются осложнениями какой-либо патологии. Таким образом, код данной подрубрики должен использоваться как осложнение какого-либо основного заболевания либо как код сопутствующей патологии. Код может быть использован как код основного заболевания только в случае предварительного диагноза. </div>
+</div>
+</section>
+</div>
+</section>
+<section class="page-section" data-section-name="ETIOLOGY">
+<h2 class="page-section__title" id="etiology">
+        Этиология и патогенез    </h2>
+<div class="container">
+<div class="row page-section__row">
+<div style="text-align: justify;">
+<br/>
+	Этиология глоссоптоза различна. Чаще всего в качестве<strong> основных причин</strong> выступают:<br/>
+	- <aterm term="1">синдром Пьера Робена<span class="term-description" style="display: none;"><span>Синдром Пьера Робена - сочетание врожденной гипоплазии нижней челюсти с недоразвитием и западением языка и расщеплением нёба, вызывающее затруднения глотания и дыхания</span><br/></span></aterm>;<br/>
+	-  синдром Дауна;<br/>
+	-  <aterm term="1">синдром Стиклера<span class="term-description" style="display: none;"><span>Синдром Стиклера - комплекс наследственных аномалий суставов и глаз у человека (врожденная близорукость и впоследствии часто слепота, тугоухость, иногда - смещение позвонков и др.); наследуется по аутосомно-доминантному типу, локус AOM расположен на участке q14 хромосомы 12</span><br/></span></aterm>;<br/>
+	-  <aterm term="1">синдром Рубинштейна-Тэйби<span class="term-description" style="display: none;"><span>Синдром Рубинштейна-Тэйби - наследственное заболевание человека, характеризующееся умственной отсталостью, задержкой роста, своеобразными изменениями черт лица; наследуется по аутосомно-рецессивному типу, локус синдрома RTS расположен на участке p13.3 хромосомы 16</span><br/></span></aterm>;<br/>
+	-  различные синдромы, связанные с нарушением формирования лицевого скелета и сопровождающиеся микрогнатией и ретрогнатией (<aterm term="1">синдром Смита-Лемли-Опитца<span class="term-description" style="display: none;"><span>Синдром Смита-Лемли-Опитца - наследственное заболевание человека, характеризующееся умственной отсталостью, комплексом черепно-лицевых аномалий, синдактилией и (или) шестипалостью, пороками сердца, катарактой и др. симптомами. Предполагается участие метаболитов стероидов в патогенезе синдрома; наследуется по аутосомно-рецессивному типу, локус SLOS расположен на участке q32 хромосомы 7</span><br/></span></aterm>, <aterm term="1">синдром Гольденхара<span class="term-description" style="display: none;"><span>Синдром Гольденхара - наследственное заболевание человека, характеризующееся комплексным поражением глаз, уха и позвоночника, отмечается асимметрия лица из-за одностороннего недоразвития нижней челюсти, срастание позвонков и кифозы, умственная отсталость и другое. Наследуется по аутосомно-рецессивному типу, локус GHS расположен на коротком плече хромосомы 7</span><br/></span></aterm>, <aterm term="1">синдром Тричера-Коллинза<span class="term-description" style="display: none;"><span>Синдром Тричера-Коллинза - наследственное заболевание человека, характеризующееся гипоплазией лицевых костей (в частности, нижней челюсти), глухотой и др. симптомами. Передается по аутосомно-доминантному типу, локус TCS расположен на участке q31.3-q33.3 хромосомы 5</span><br/></span></aterm>);<br/>
+	- нарушение иннервации языка при различных неврологических расстройствах;<br/>
+	- изолированная ретрогнатия.<br/>
+<br/>
+	Гипоплазия нижней челюсти приводит к патологической ретрогнатии и уменьшению объема ротовой полости. Вследствие этого возникает псевдомакроглоссия, ведущая к смещению языка в сторону задней стенки глотки (глоссоптоз).<br/>
+<img alt="Глоссоптоз" height-fact="768" id="preview_image" src="https://diseases.medelement.com/upload/e517df2272481f8258592bf35a53e9ee.jpg" style="width: 350px; height: 263px; border-width: 0px; border-style: solid; margin-left: 0px; margin-top: 0px; float: none;" title="Глоссоптоз" width-fact="1024"/><br/>
+<img alt="Глоссоптоз" height-fact="768" id="preview_image" src="https://diseases.medelement.com/upload/5f365cb007fe33eacdd5c6929c3b57ca.jpg" style="width: 350px; height: 263px; border-width: 0px; border-style: solid; margin-left: 0px; margin-top: 0px; float: none;" title="Глоссоптоз" width-fact="1024"/><br/>
+	Следует отличать истинный глоссоптоз от глоссоптоза при макроглоссии, когда отодвигание языка назад и его западение является следствием его больших размеров, а не малых размеров ротовой полости и ретрогнатии. Врожденные синдромы и неврологические нарушения кодируются в соответствующих подрубриках как основное заболевание. </div>
+<br/>
+</div>
+</div>
+</section>
+<section class="page-section" data-section-name="EPIDEMIOLOGY">
+<h2 class="page-section__title" id="epidemiology">
+        Эпидемиология    </h2>
+<div class="container">
+<div class="row page-section__row">
+<p>Пол: Все</p>
+<p>
+        Возраст: дети</p>
+<p>Признак распространенности: Редко</p>
+<br/>
+<div style="text-align: justify;">
+	Глоссоптоз встречается редко, в основном у детей раннего возраста. Меньшая распространенность среди взрослых вызвана своевременной коррекцией в детском возрасте и высокой смертностью в детском возрасте по причине множественных аномалий.</div>
+</div>
+</div>
+</section>
+<section class="page-section" data-section-name="FACTORSANDRISKGROUPS">
+<h2 class="page-section__title" id="factorsandriskgroups">
+        Факторы и группы риска    </h2>
+<div class="container">
+<div class="row page-section__row">
+<br/>
+- нарушение размеров и соотношения челюстей;<br/>
+- поражения подъязычного нерва (иногда в сочетании поражением блуждающего нерва) различного генеза.
+                    </div>
+</div>
+</section>
+<section class="page-section" data-index="4">
+<h2 class="page-section__title" id="clinical">
+        Клиническая картина    </h2>
+<div class="container">
+<section class="row page-field" data-field-name="THESIS">
+<h3 class="page-field__title text-left" id="thesis">
+                    Клинические критерии диагностики                </h3>
+<div class="page-field__data">
+                    
+                    ночное апноэ; затруднение дыхания; дисфагия; ретрогнатия; микрогнатия; деформация костей лицевого скелета.                </div>
+</section>
+<section class="row page-field" data-field-name="ANTIPRAXIA">
+<h3 class="page-field__title text-left" id="antipraxia">
+                    Cимптомы, течение                </h3>
+<div class="page-field__data">
+<div style="text-align: justify;">
+<br/>
+<strong>Основной признак </strong>глоссоптоза - нарушение дыхания, особенно во время сна. Дыхательная недостаточность у младенцев может может быть значительной и наблюдаться даже при бодрствовании.<br/>
+	В некоторых случаях описываются пренатальный дефицит массы тела и задержка психомоторного развития. Возможны нарушения глотания.</div>
+<div style="text-align: justify;">
+<br/>
+	Наряду с глоссоптозом отмечаются другие деформации, например, лица, позвоночника, конечностей, ребер, челюстей (<aterm term="1">микрогнатия<span class="term-description" style="display: none;"><span>Микрогнатия - аномалия развития: малые размеры верхней челюсти</span><br/></span></aterm>, <aterm term="1">ретрогнатия<span class="term-description" style="display: none;"><span>Ретрогнатия - аномалия развития; сдвиг верхней челюсти кзади при ее нормальных размерах</span><br/></span></aterm>). Выявляются патологии сердца, легких, глаз, органов слуха и другие специфические признаки генетически обусловленных заболеваний. </div>
+</div>
+</section>
+</div>
+</section>
+<section class="page-section" data-section-name="DIAGNOSTICS">
+<h2 class="page-section__title" id="diagnostics">
+        Диагностика    </h2>
+<div class="container">
+<div class="row page-section__row">
+<div style="text-align: justify;">
+<br/>
+	Глоссоптоз чаще всего является следствием врожденных аномалий развития. Пациенты должны пройти комплексное обследование, включающее все возможные методы.<br/>
+	При изолированной ретрогнатии показаны рентгенологические методы исследования.  Показана видеофлуороскопия области шеи в различных положениях. <br/>
+	У всех пациентов с синдромом ночного апноэ, у которых в состоянии бодрствования не имеется нарушений дыхания, следует подозревать глоссоптоз. Полезно мониторирование SpO<sub>2</sub> во время сна. </div>
+</div>
+</div>
+</section>
+<section class="page-section" data-section-name="DIFFERENTIALDIAGNOSIS">
+<h2 class="page-section__title" id="differentialdiagnosis">
+        Дифференциальный диагноз    </h2>
+<div class="container">
+<div class="row page-section__row">
+<br/>
+- отек языка с затруднением дыхания вследствие других причин (например, глоссит);<br/>
+- другие причины апноэ;<br/>
+- дисфагия другой этиологии (например, поражения пищевода).<br/>
+<br/>
+</div>
+</div>
+</section>
+<section class="page-section" data-section-name="SEQUELAE">
+<h2 class="page-section__title" id="sequelae">
+        Осложнения    </h2>
+<div class="container">
+<div class="row page-section__row">
+<br/>
+- затрудненное дыхание;<br/>
+- <aterm term="1">гипотрофия<span class="term-description" style="display: none;"><span>Гипотрофия -  расстройство питания, характеризующееся различной степенью дефицита массы тела</span><br/></span></aterm>;<br/>
+- синдром ночного <aterm term="1">апноэ<span class="term-description" style="display: none;"><span>Апноэ - временная остановка дыхания</span><br/></span></aterm>;<br/>
+- нарушения речи;<br/>
+- аспирация у младенцев;<br/>
+- <aterm term="1">дисфагия<span class="term-description" style="display: none;"><span>Дисфагия - общее название расстройств глотания</span><br/></span></aterm>.<br/>
+<br/>
+</div>
+</div>
+</section>
+<section class="page-section" data-section-name="THERAPY">
+<h2 class="page-section__title" id="therapy">
+        Лечение    </h2>
+<div class="container">
+<div class="row page-section__row">
+<div>
+<br/>
+	Лечение зависит от вида аномалии, которая привела к развитию глоссоптоза.</div><div>
+	Например, лечение детей с синдромом Пьера Робена поэтапное  и длительное, сочетающее консервативные (позиционная терапия, коррекция кормления, терапия сопутствующей патологии) и хирургические методы (трахеостомия, ураностафилопластика и компрессионно-дистракционный остеосинтез). К неотложным мероприятиям относится введение носового воздуховода и отмена грудного кормления.</div><div>
+	 </div>
+</div>
+</div>
+</section>
+<section class="page-section" data-section-name="PROGNOSIS">
+<h2 class="page-section__title" id="prognosis">
+        Прогноз    </h2>
+<div class="container">
+<div class="row page-section__row">
+<div style="text-align: justify;">
+<br/>
+	Прогноз зависит от тяжести основной патологии и своевременности коррекции выявленных нарушений. В целом прогноз достаточно неопределенный.  Некоторые дети после хирургической коррекции развиваются нормально, а другие могут потребовать дальнейшего вмешательства на нижней челюсти  для достижения приемлемого профиля лица. Правильный уход опытными хирургами в хороших центрах значительно улучшает прогноз для этих детей. </div>
+</div>
+</div>
+</section>
+<section class="page-section" data-section-name="HOSPITALIZATION">
+<h2 class="page-section__title" id="hospitalization">
+        Госпитализация    </h2>
+<div class="container">
+<div class="row page-section__row">
+<div>
+<br/>
+	Показана госпитализация в экстренном порядке при нарушениях дыхания и развитии осложнений. Госпитализация в плановом порядке осуществляется для хирургической коррекции.</div>
+</div>
+</div>
+</section>
+<section class="page-section" data-section-name="PROPHYLAXIS">
+<h2 class="page-section__title" id="prophylaxis">
+        Профилактика    </h2>
+<div class="container">
+<div class="row page-section__row">
+<div style="text-align: justify;">
+<br/>
+	Первичная профилактика не разработана. Вторичная профилактика сводится к предупреждению аспирации и апноэ.</div>
+</div>
+</div>
+</section>
+<section class="page-section" data-index="12">
+<h2 class="page-section__title" id="information">
+        Информация    </h2>
+<div class="container">
+<section class="row page-field" data-field-name="LISTOFREFERENCES">
+<h3 class="page-field__title text-left" id="listofreferences">
+                    Источники и литература                </h3>
+<div class="page-field__data">
+<ol id="AdditionalListSources" type="I">
+<li level="1">
+<span>"Effects of surgical reduction of the tongue" Ueyama Y, Mano T, Nishiyama A, Br J Oral Maxillofac Surg, №37(6), 1999</span>
+<ol type="1">
+</ol>
+</li>
+<li level="1">
+<span>"Epidemiologic survey of tongue lesions and analysis of the etiologic factors involved" Voros-Balog T, Dombi C, Vincze N, Banoczy J., Fogorvosi Szemle journal, №92(5), 1999</span>
+<ol type="1">
+</ol>
+</li>
+<li level="1">
+<span>"Glossoptosis (posterior displacement of the tongue) during sleep: a frequent cause of sleep apnea in pediatric patients referred for dynamic sleep fluoroscopy" Donnelly LF, Strife JL, Myer CM, Am J Roentgenol., №175(6), 2000 </span>
+<ol type="1">
+</ol>
+</li>
+<li level="1">
+<span>"Glossoptosis-apnea syndrome in infancy" Cozzi F, Pierro A., Pediatrics, №75(5), 1985</span>
+<ol type="1">
+</ol>
+</li>
+<li level="1">
+<span>"Hypoglossal nerve palsy" Ivan WC Tsui, David PN Chan, Hong Kong Med J, vol. 15, №3, 2009 
+</span>
+<ol type="1">
+</ol>
+</li>
+<li level="1">
+<span>"Mandibular distraction osteogenesis for pediatric airway management" Miloro M., J Oral Maxillofac Surg., №68(7), 2010</span>
+<ol type="1">
+</ol>
+</li>
+<li level="1">
+<span>"Myasthenia gravis - a rare presentation with tongue atrophy and fasciculation" J. Burch, C. Warren-Gash, V. Ingham, M. Patel, D. Bennett, K. R. Chaudhuri, Age and Ageing  journal, №35, 2006</span>
+<ol type="1">
+</ol>
+</li>
+<li level="1">
+<span>"Oral mucosal lesions in a representative cross-sectional study of aging Germans" Reichart PA, Community Dent Oral Epidemiol., №28(5), 2000 </span>
+<ol type="1">
+</ol>
+</li>
+<li level="1">
+<span>"Surgical correction of the enlarged tongue" Taher A., The Internet Journal of Head and Neck Surgery, vol.3, №1, 2008</span>
+<ol type="1">
+</ol>
+</li>
+<li level="1">
+<span>"Секвенция Пьера Робена - ранний диагностический признак синдрома Стиклера (клинический случай)" Музычина А.А., Малеева И.А., "Медико-соціальні проблеми сім’ї", т.17, №3-4, 2012</span>
+<ol type="1">
+</ol>
+</li>
+</ol> </div>
+</section>
+</div>
+</section>
+<section class="page-section" data-section-name="ATTENTION">
+<h2 class="page-section__title" id="attention">
+        Внимание!    </h2>
+<div class="container">
+<div class="row page-section__row">
+<!--noindex-->
+<label class="attention-self-treatment-list__caption">Если вы не являетесь медицинским специалистом:</label>
+<ul class="attention-self-treatment-list">
+<li>
+        Занимаясь самолечением, вы можете нанести непоправимый вред своему здоровью.
+         
+    </li>
+<li>
+        Информация, размещенная на сайте MedElement, не может и не должна заменять очную консультацию врача.
+        Обязательно
+        обращайтесь в медицинские учреждения при наличии каких-либо заболеваний или беспокоящих вас симптомов.
+         
+    </li>
+<li>
+        Выбор лекарственных средств и их дозировки, должен быть оговорен со специалистом. Только врач может
+        назначить
+        нужное лекарство и его дозировку с учетом заболевания и состояния организма больного.
+         
+    </li>
+<li>
+        Сайт MedElement является исключительно информационно-справочным ресурсом. Информация, размещенная на данном
+        сайте, не должна использоваться для самовольного изменения предписаний врача.
+         
+    </li>
+<li>
+        Редакция MedElement не несет ответственности за какой-либо ущерб здоровью или материальный ущерб, возникший
+        в
+        результате использования данного сайта.
+    </li>
+</ul>
+<!--/noindex-->
+</div>
+</div>
+</section>
+</main>

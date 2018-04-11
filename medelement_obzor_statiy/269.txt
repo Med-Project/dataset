@@ -1,0 +1,400 @@
+<main id="main">
+<section class="page-information disease-information">
+<div class="container">
+<h1 class="page-information__name disease-information__name">
+            Срединный ромбовидный глоссит (K14.2)        </h1>
+<div class="disease-information__alternate-name">
+<label>Также: </label>
+                median rhomboid glossitis, glossitis rhombica, persistent tuberculum impar            </div>
+<div class="disease-information__version-name">
+<p class="lead text-muted">
+                
+                Версия: Справочник заболеваний MedElement                </p>
+</div>
+<div class="disease-information__categories-mkb">
+<label>Категории МКБ: </label>
+                Срединный ромбовидный глоссит (K14.2)            </div>
+<div class="disease-information__sections-medicine">
+<label>Разделы медицины: </label>
+                Гастроэнтерология, Стоматология            </div>
+</div>
+</section>
+<section class="page-section" data-index="0">
+<h2 class="page-section__title" id="general_information">
+        Общая информация    </h2>
+<div class="container">
+<div class="page-links-actions">
+<ul>
+<li class="page-links-actions__item page-links-actions__item--print" data-ga-event-action="Клик по ссылке: Версия для печати" data-ga-event-category="Links actions" data-ga-event-label="" data-send-ga-event="">
+<a href="javascript:window.print()">Версия для печати
+                    <svg class="svg-icon svg-icon-printer" height="18" version="1.1" viewbox="0 0 24 24" width="18" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<path d="M18,3H6V7H18M19,12A1,1 0 0,1 18,11A1,1 0 0,1 19,10A1,1 0 0,1 20,11A1,1 0 0,1 19,12M16,19H8V14H16M19,8H5A3,3 0 0,0 2,11V17H6V21H18V17H22V11A3,3 0 0,0 19,8Z"></path>
+</svg>
+</a>
+</li>
+</ul>
+</div>
+<section class="row page-field" data-field-name="SHORTDESCRIPTION">
+<h3 class="page-field__title text-left" id="shortdescription">
+                    Краткое описание                </h3>
+<div class="page-field__data">
+<div style="text-align: justify;">
+<br/>
+<strong>Ромбовидный глоссит</strong> (ромбовидный язык) - хроническое воспаление участка слизистой оболочки <aterm term="1">дистальной<span class="term-description" style="display: none;"><span>дистальный - (лат. distalis) - расположенный дальше от центра или срединной линии </span><br/></span></aterm> трети языка (ромбовидной формы).<br/>
+<br/>
+<br/>
+<strong>Примечание.</strong> Следует использовать дополнительные коды в случае установления этиологии, например:<br/>
+	- злоупотребление алкоголем и зависимость (F10. -);</div>
+<div style="text-align: justify;">
+	- воздействие табачного дыма (Z77.22);</div>
+<div style="text-align: justify;">
+	- личный анамнез курения табака (Z87.891);</div>
+<div style="text-align: justify;">
+	- профессиональный контакт с табачным дымом (Z57.31);</div>
+<div style="text-align: justify;">
+	- табачная зависимость (F17. -);</div>
+<div style="text-align: justify;">
+	- употребление табака (Z72.0).</div>
+</div>
+</section>
+</div>
+</section>
+<section class="page-section" data-section-name="CLASSIFICATION">
+<h2 class="page-section__title" id="classification">
+        Классификация    </h2>
+<div class="container">
+<div class="row page-section__row">
+<div>
+<br/>
+	Клинические формы очага при срединном ромбовидном глоссите:<br/>
+	- плоская;<br/>
+	- бугристая;<br/>
+	- папилломатозная.</div>
+</div>
+</div>
+</section>
+<section class="page-section" data-section-name="ETIOLOGY">
+<h2 class="page-section__title" id="etiology">
+        Этиология и патогенез    </h2>
+<div class="container">
+<div class="row page-section__row">
+<div>
+<div style="text-align: justify;">
+<br/>
+		Ромбовидный глоссит относят к врожденным заболеваниям, возникающим вследствие <aterm term="1">гетеротопии<span class="term-description" style="display: none;"><span>Гетеротопия - возникновение в процессе эмбриогенеза той или иной структуры (органа, ткани) на необычном месте</span><br/></span></aterm> эпителия пищеварительного тракта на спинку языка или расположения долек щитовидной железы в корне языка, что может стать фоном для развития ромбовидного глоссита. Установлено ухудшение кровоснабжения спинки языка по сравнению с боковыми поверхностями.</div>
+<div style="text-align: justify;">
+<br/>
+<strong>Микроскопическое исследование</strong> очагов ромбовидного глоссита:<br/>
+<br/>
+		1. При плоской форме:<br/>
+		- утолщение эпителия за счет клеток шиповидного слоя;<br/>
+		- слабо выраженный <aterm term="1">акантоз<span class="term-description" style="display: none;"><span>Акантоз - утолщение эпидермиса и эпителия слизистых оболочек с удлинением межсосочковых отростков</span><br/></span></aterm>;<br/>
+		- под эпителием - инфильтрат, содержащий лимфоциты и незначительное количество гистиоцитарных клеток.<br/>
+<br/>
+		2. При бугорковой и папилломатозной форме:<br/>
+		- более выраженный <aterm term="1">акантоз<span class="term-description" style="display: none;"><span>Акантоз - утолщение эпидермиса и эпителия слизистых оболочек с удлинением межсосочковых отростков</span><br/></span></aterm> и <aterm term="1">гиперкератоз<span class="term-description" style="display: none;"><span>Гиперкератоз - чрезмерное утолщение рогового слоя эпидермиса</span><br/></span></aterm>;<br/>
+		- <aterm term="1">пролиферация<span class="term-description" style="display: none;"><span>Пролиферация - увеличение числа клеток какой-либо ткани вследствие их размножения</span><br/></span></aterm> соединительной ткани;<br/>
+		- инфильтрат собственно слизистого слоя по клеточному составу соответствует хроническому воспалению;<br/>
+		- значительное увеличение <aterm term="1">клеток Лангерганса<span class="term-description" style="display: none;"><span>Клетка Лангерганса (эпидермоцит белый отростчатый) - отростчатая клетка базального слоя эпидермиса, снабженная отростками и по форме похожая на меланоцит; предположительно является дегенерирующей формой шиповатого эпидермоцита</span><br/></span></aterm>.<br/>
+<br/>
+<strong>Морфологическая картина</strong> ромбовидного глоссита остается без изменений на протяжении многих лет. При длительном и постоянном раздражении, а также снижении резистентности организма бугорковая и гиперпластическая формы глоссита могут прогрессировать, иногда - приводить к злокачественному перерождению.<br/>
+		 </div>
+</div>
+<div style="text-align: justify;">
+	При <strong>микробиологическом исследовании </strong>выявляют нарушение биоценоза в очаге поражения при явном преобладании условно-патогенной микрофлоры (Candida,Actinomyces).<br/>
+	 </div>
+</div>
+</div>
+</section>
+<section class="page-section" data-section-name="EPIDEMIOLOGY">
+<h2 class="page-section__title" id="epidemiology">
+        Эпидемиология    </h2>
+<div class="container">
+<div class="row page-section__row">
+<p>Пол: Все</p>
+<p>
+        Возраст: взрослый</p>
+<p>Признак распространенности: Распространено</p>
+<p>Соотношение полов(м/ж): 5</p>
+<br/>
+<div>
+	Ромбовидный глоссит выявляют случайно у пациентов в возрасте 30-50 лет, практически всегда у мужчин-курильщиков, у женщин-курильщиц наблюдают редко.</div>
+</div>
+</div>
+</section>
+<section class="page-section" data-section-name="FACTORSANDRISKGROUPS">
+<h2 class="page-section__title" id="factorsandriskgroups">
+        Факторы и группы риска    </h2>
+<div class="container">
+<div class="row page-section__row">
+<div>
+<br/>
+<strong>Факторы, способные провоцировать развитие заболевания:</strong></div>
+<div>
+	- грибковая микрофлора (грибы рода Candida albicans часто выявляют в соскобах с пораженной поверхности в эпителиальном слое);</div>
+<div>
+	- курение;</div>
+<div>
+	- гиповитаминоз С;</div>
+<div>
+	- заболевания пищеварительной системы.</div>
+</div>
+</div>
+</section>
+<section class="page-section" data-index="5">
+<h2 class="page-section__title" id="clinical">
+        Клиническая картина    </h2>
+<div class="container">
+<section class="row page-field" data-field-name="THESIS">
+<h3 class="page-field__title text-left" id="thesis">
+                    Клинические критерии диагностики                </h3>
+<div class="page-field__data">
+                    
+                    дискомфорт связанный с приемом пищи; жжение, пощипывание при приеме пищи; ощущения инородного тела; очаг поражения ромбовидной или лентовидной формы; плотный болезненный очаг                </div>
+</section>
+<section class="row page-field" data-field-name="ANTIPRAXIA">
+<h3 class="page-field__title text-left" id="antipraxia">
+                    Cимптомы, течение                </h3>
+<div class="page-field__data">
+<div style="text-align: justify;">
+<br/>
+	При ромбовидном глоссите общее состояние не страдает. Заболевание годами может протекать бессимптомно.<br/>
+<br/>
+<strong>Жалобы: </strong>дискомфорт, иногда жжение, пощипывание после воздействия раздражающей пищи. </div>
+<div style="text-align: justify;">
+<br/>
+<strong>При осмотре </strong>спинки языка обнаруживают очаг воспаления по средней линии спинки языка.<br/>
+	Очаг имеет гладкую или бугристую поверхность; может быть овальной, ромбовидной или лентовидной конфигурации.  Ширина - 0,5-2 см, длина - 1,5-5 см. </div>
+<div>
+<div style="text-align: justify;">
+		При всех формах ромбовидного глоссита очаг, как правило, расположен по средней линии языка впереди желобоватых сосочков.<br/>
+		Как правило, выявляется единичный очаг, в редких случаях отмечаются 2-3 небольших очага, расположенных вдоль средней линии языка.<br/>
+<br/>
+<strong>Очаг плоской формы:</strong><br/>
+		- нитевидные сосочки полностью или частично отсутствуют, в связи с чем очаг выглядит немного запавшим;<br/>
+		- розового или ярко-красного цвета с четкими границами;<br/>
+		- при пальпации - безболезненный.</div>
+<div>
+<div style="text-align: justify;">
+<br/>
+<strong>Очаг бугристой формы:</strong><br/>
+			- гладкий, на поверхности отсутствуют нитевидные сосочки;<br/>
+			- складки четко выражены - очаг по виду напоминает мостовую;<br/>
+			- на поверхности бугорков иногда выявляют участки ороговения эпителия; остальная часть слизистой оболочки очага, как правило, гиперемирована и имеет цианотичный оттенок.</div>
+<div style="text-align: justify;">
+<br/>
+<strong>Очаг папилломатозной формы:</strong><br/>
+			- в результате гиперплазии тканей очаг возвышается над спинкой языка;<br/>
+			-  папилломатозные разрастания имеют широкое основание и уплощенные вершины;<br/>
+			- беловато-розовый цвет;<br/>
+			- при пальпации очаг плотный и безболезненный очаг;<br/>
+			-  пациенты могут предъявлять жалобы на ощущение инородного тела;<br/>
+			- обострение воспалительного процесса может вызывать появление эрозий на поверхности участка поражения, прием пищи и пальпация становятся болезненными. </div>
+</div>
+</div>
+<div style="text-align: justify;">
+<br/>
+<span style="font-family: Arial; text-align: justify;">Поднижнечелюстные лимфатические узлы при плоской и других формах ромбовидного глоссита не пальпируются</span><i style="font-family: Arial; text-align: justify;">.</i><br/>
+<br/>
+<img alt="Ромбовидный глоссит" height-fact="237" id="preview_image" src="https://diseases.medelement.com/upload/ada0a800c261fc7e24acf269e4ebfb9e.jpg" style="width: 500px; height: 182px; border-width: 0px; border-style: solid; margin-left: 0px; margin-top: 0px; float: none;" title="Ромбовидный глоссит" width-fact="653"/>  </div>
+</div>
+</section>
+</div>
+</section>
+<section class="page-section" data-section-name="DIAGNOSTICS">
+<h2 class="page-section__title" id="diagnostics">
+        Диагностика    </h2>
+<div class="container">
+<div class="row page-section__row">
+<div style="text-align: justify;">
+<br/>
+	В типичных случаях ромбовидного глоссита диагноз выставляется на основании анамнеза (факторы риска) и данных осмотра. В редких сомнительных случаях показана биопсия. <br/>
+	Цифровая фотография должна использоваться для документирования поражения и оценки динамики будущих изменений, а также для оказания помощи в диагностике. Изображения применяются для сравнения роста или уменьшения очага (-ов) поражения и изменения их цвета. </div>
+</div>
+</div>
+</section>
+<section class="page-section" data-section-name="LABORATORYDIAGNOSTICS">
+<h2 class="page-section__title" id="laboratorydiagnostics">
+        Лабораторная диагностика    </h2>
+<div class="container">
+<div class="row page-section__row">
+<br/>
+Не существует специфических лабораторных тестов, способных поддержать или опровергнуть диагноз.<br/>
+В сомнительных случаях, в плане дифференциальной диагностики, полезны бактериологические методы исследования.<br/>
+В упорных случаях или при изъязвлении дополнительно проводятся тесты на СПИД.
+                    </div>
+</div>
+</section>
+<section class="page-section" data-section-name="DIFFERENTIALDIAGNOSIS">
+<h2 class="page-section__title" id="differentialdiagnosis">
+        Дифференциальный диагноз    </h2>
+<div class="container">
+<div class="row page-section__row">
+<div>
+<br/>
+	Все формы ромбовидного глоссита необходимо дифференцировать с кандидозом.<br/><br/>
+	Плоскую форму дифференцируют со следующими заболеваниями:<br/>
+	- десквамативный глоссит (географический язык);<br/>
+	- изменения слизистой оболочки языка при гиповитаминозах;<br/><br/>
+	Бугристую и папилломатозную формы дифференцируют с:<br/>
+	- проявлениями на слизистой оболочке рта при туберкулезе, сифилисе;<br/>
+	- <aterm term="1">папилломатозом</aterm>;<br/>
+	- злокачественными новообразованиями.<br/>
+	 </div>
+</div>
+</div>
+</section>
+<section class="page-section" data-section-name="SEQUELAE">
+<h2 class="page-section__title" id="sequelae">
+        Осложнения    </h2>
+<div class="container">
+<div class="row page-section__row">
+<div style="text-align: justify;">
+<br/>
+	В 25-30% случаев у больных с ромбовидным глосситом выявляют симптомы хронического кандидоза слизистых оболочек и кожи.<br/>
+	Описаны единичные случаи злокачественного перерождения ромбовидного глоссита.</div>
+<div style="text-align: justify;">
+	 </div>
+</div>
+</div>
+</section>
+<section class="page-section" data-section-name="THERAPY">
+<h2 class="page-section__title" id="therapy">
+        Лечение    </h2>
+<div class="container">
+<div class="row page-section__row">
+<div>
+<br/>
+	Лечение при всех формах ромбовидного глоссита включает:<br/>
+	- отказ от курения;<br/>
+	- санацию полости рта;<br/>
+	- тщательное соблюдение гигиены полости рта (замена зубной щетки для избежания повторной инфекции; при наличии зубных протезов, их следует обрабатывать противогрибковыми агентами);<br/>
+	- оценку всех систем с возможным направлением к врачу общего профиля или узким специалистам.<br/><br/><strong>При обнаружении гриба Candida </strong>(у большинства пациентов заболевание ассоциировано именно с кандидозом) проводят противокандидозное лечение. <br/>
+	Стандартные противогрибковые средства:<br/>
+	- нистатин;<br/>
+	- клотримазол;<br/>
+	- флуконазол;<br/>
+	- кетоконазол. <br/>
+	Поскольку кандидозные гифы внедряются в ткани, некоторые специалисты считают применение системных противогрибковых средств более эффективным.<br/><br/>
+	Большинство специалистов считают применение противогрибковых средств эмпирической терапией первой линии - до получения результатов бактериологических исследований. Визуальные проявления заболевания в ходе лечения могут не уменьшаться, что не должно быть поводом для отказа от завершения курса.<br/>
+	 </div><div>
+	При папилломатозной форме со значительной <aterm term="1">гиперплазией</aterm> рекомендуется хирургическое иссечение ткани в пределах очага поражения или криодеструкция. В послеоперационном периоде для предупреждения осложнений необходима обработка полости рта антисептиками.</div><div>
+	 </div>
+</div>
+</div>
+</section>
+<section class="page-section" data-section-name="PROGNOSIS">
+<h2 class="page-section__title" id="prognosis">
+        Прогноз    </h2>
+<div class="container">
+<div class="row page-section__row">
+<br/>
+Прогноз благоприятен. <span style="font-family: Arial; text-align: justify;">Описаны единичные случаи озлокачествления ромбовидного глоссита.</span>
+</div>
+</div>
+</section>
+<section class="page-section" data-section-name="HOSPITALIZATION">
+<h2 class="page-section__title" id="hospitalization">
+        Госпитализация    </h2>
+<div class="container">
+<div class="row page-section__row">
+<br/>
+Госпитализация при ромбовидном глоссите, как правило, не требуется. Криохирургическое вмешательство также может быть осуществлено амбулаторно.
+                    </div>
+</div>
+</section>
+<section class="page-section" data-section-name="PROPHYLAXIS">
+<h2 class="page-section__title" id="prophylaxis">
+        Профилактика    </h2>
+<div class="container">
+<div class="row page-section__row">
+<br/>
+1. Отказ от курения.<br/>
+2. Соблюдение гигиены полости рта.
+                    </div>
+</div>
+</section>
+<section class="page-section" data-index="14">
+<h2 class="page-section__title" id="information">
+        Информация    </h2>
+<div class="container">
+<section class="row page-field" data-field-name="LISTOFREFERENCES">
+<h3 class="page-field__title text-left" id="listofreferences">
+                    Источники и литература                </h3>
+<div class="page-field__data">
+<ol id="AdditionalListSources" type="I">
+<li level="1">
+<span>Brad W. Neville Oral &amp; Maxillofacial Pathology. Secjnd edition, V.B. Saunders Company, 2002</span>
+<ol type="1">
+</ol>
+</li>
+<li level="1">
+<span>Терапевтическая стоматология: национальное руководство /под ред. Дмитриевой Л.А., Масимовского Ю.М., М. : ГЭОТАР-Медиа, 2009</span>
+<ol type="1">
+</ol>
+</li>
+<li level="1">
+<span>"Benign Migratory Glossitis: A Review" Hooda A., Rathee M., Gulia J., Yadav S, "The Internet Journal of Family Practice", Vol.9, №2, 2009</span>
+<ol type="1">
+</ol>
+</li>
+<li level="1">
+<span>"Common Tongue Conditions in Primary Care" Brian V. Reamy, Richard Derby and Christopher W. Bunt, American Family Physician journal, №81(5), mar 2010 </span>
+<ol type="1">
+</ol>
+</li>
+<li level="1">
+<span>"Median rhomboid glossitis"  Nancy Burkhart, "Registered Dental Hygienist magazine"</span>
+<ol type="1">
+<li level="2">http://www.rdhmag.com</li>
+</ol>
+</li>
+<li level="1">
+<span>"Median rhomboid glossitis-change of inflammation origin or developmental anomaly?", Nowak K, Szyfter W., "Otolaryngol Pol." journal, № 59 (6), 2005</span>
+<ol type="1">
+</ol>
+</li>
+</ol> </div>
+</section>
+</div>
+</section>
+<section class="page-section" data-section-name="ATTENTION">
+<h2 class="page-section__title" id="attention">
+        Внимание!    </h2>
+<div class="container">
+<div class="row page-section__row">
+<!--noindex-->
+<label class="attention-self-treatment-list__caption">Если вы не являетесь медицинским специалистом:</label>
+<ul class="attention-self-treatment-list">
+<li>
+        Занимаясь самолечением, вы можете нанести непоправимый вред своему здоровью.
+         
+    </li>
+<li>
+        Информация, размещенная на сайте MedElement, не может и не должна заменять очную консультацию врача.
+        Обязательно
+        обращайтесь в медицинские учреждения при наличии каких-либо заболеваний или беспокоящих вас симптомов.
+         
+    </li>
+<li>
+        Выбор лекарственных средств и их дозировки, должен быть оговорен со специалистом. Только врач может
+        назначить
+        нужное лекарство и его дозировку с учетом заболевания и состояния организма больного.
+         
+    </li>
+<li>
+        Сайт MedElement является исключительно информационно-справочным ресурсом. Информация, размещенная на данном
+        сайте, не должна использоваться для самовольного изменения предписаний врача.
+         
+    </li>
+<li>
+        Редакция MedElement не несет ответственности за какой-либо ущерб здоровью или материальный ущерб, возникший
+        в
+        результате использования данного сайта.
+    </li>
+</ul>
+<!--/noindex-->
+</div>
+</div>
+</section>
+</main>

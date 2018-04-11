@@ -1,0 +1,333 @@
+<main id="main">
+<section class="page-information disease-information">
+<div class="container">
+<h1 class="page-information__name disease-information__name">
+            Атрезия желчных протоков (Q44.2)        </h1>
+<div class="disease-information__alternate-name">
+<label>Также: </label>
+                билиарная атрезия            </div>
+<div class="disease-information__version-name">
+<p class="lead text-muted">
+                
+                Версия: Справочник заболеваний MedElement                </p>
+</div>
+<div class="disease-information__categories-mkb">
+<label>Категории МКБ: </label>
+                Атрезия желчных протоков (Q44.2)            </div>
+<div class="disease-information__sections-medicine">
+<label>Разделы медицины: </label>
+                Врожденные заболевания, Гастроэнтерология            </div>
+</div>
+</section>
+<section class="page-section" data-index="0">
+<h2 class="page-section__title" id="general_information">
+        Общая информация    </h2>
+<div class="container">
+<div class="page-links-actions">
+<ul>
+<li class="page-links-actions__item page-links-actions__item--print" data-ga-event-action="Клик по ссылке: Версия для печати" data-ga-event-category="Links actions" data-ga-event-label="" data-send-ga-event="">
+<a href="javascript:window.print()">Версия для печати
+                    <svg class="svg-icon svg-icon-printer" height="18" version="1.1" viewbox="0 0 24 24" width="18" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<path d="M18,3H6V7H18M19,12A1,1 0 0,1 18,11A1,1 0 0,1 19,10A1,1 0 0,1 20,11A1,1 0 0,1 19,12M16,19H8V14H16M19,8H5A3,3 0 0,0 2,11V17H6V21H18V17H22V11A3,3 0 0,0 19,8Z"></path>
+</svg>
+</a>
+</li>
+</ul>
+</div>
+<section class="row page-field" data-field-name="SHORTDESCRIPTION">
+<h3 class="page-field__title text-left" id="shortdescription">
+                    Краткое описание                </h3>
+<div class="page-field__data">
+<div style="text-align: justify; ">
+<br/>
+<strong><aterm term="1">Атрезия<span class="term-description" style="display: none;"><span>Атрезия — врождённое отсутствие или приобретенное заращение естественных отверстий и каналов в организме</span><br/></span></aterm> вне- и внутрипеченочных желчных протоков</strong> является пороком, без <aterm term="1">корригирования<span class="term-description" style="display: none;"><span>Корригировать - син. корректировать, исправлять</span><br/></span></aterm> которого дети быстро погибают. <span style="color: rgb(35, 31, 32); font-family: Arial, Helvetica, sans-serif; line-height: 18px;">Основным клиническим признаком является прогрессивно нарастающая желтуха, которая появляется с первых дней жизни ребенка, иногда на 2-4-й неделе после рождения.</span></div>
+</div>
+</section>
+</div>
+</section>
+<section class="page-section" data-section-name="CLASSIFICATION">
+<h2 class="page-section__title" id="classification">
+        Классификация    </h2>
+<div class="container">
+<div class="row page-section__row">
+<div>
+<br/>
+<strong>Классификация атрезий желчных протоков по Samaguchi</strong></div>
+<div>
+	 </div>
+<div>
+<strong>Расположение места обструкции:</strong></div>
+<div>
+	-<strong>Тип I - </strong>общий желчный проток;</div>
+<div>
+	-<strong>Тип II - </strong>печеночный проток;</div>
+<div>
+	-<strong>Тип III - </strong>внутрипеченочные протоки.</div>
+<div>
+	 </div>
+<div>
+<strong>Состояние общего желчного протока:</strong></div>
+<div>
+	- неизменен;</div>
+<div>
+	- в виде фиброзного тяжа;</div>
+<div>
+	- <aterm term="1">аплазия<span class="term-description" style="display: none;"><span>Аплазия (агенезия) - общее название аномалий развития, при которых отсутствует часть тела, орган или его часть, участок какой-либо ткани.</span><br/></span></aterm>;</div>
+<div>
+	- другие изменения.</div>
+<div>
+	 </div>
+<div>
+<strong>Классификация Kasai на основании возможности хирургической коррекции порока</strong></div>
+<div>
+	 </div>
+<div>
+<strong>1. Коррегируемый тип:</strong><br/>
+	- <strong>атрезия общего желчного протока</strong> - в случае непроходимости его дистального отдела, проксимальные отделы <aterm term="1">билиарной системы<span class="term-description" style="display: none;"><span>Билиарная система - включает желчные протоки и желчный пузырь.</span><br/></span></aterm> расширены, желчный пузырь сохранен.</div>
+<div>
+	- <strong>атрезия общего печеночного протока</strong> -  общий желчный проток непроходим или отсутсвует.</div>
+<div>
+<br/>
+<strong>2. Некоррегируемый тип - </strong>полное отсутсвие протоков в воротах печени. Они либо полностью заменены фиброзной тканью, либо имеют капиллярный просвет, либо в воротах печени отсутсвуют и сами протоки и фиброзная ткань.</div>
+<div>
+<br/>
+<strong>3. Истинная внутрипеченочная атрезия желчных ходов - </strong>встречается крайне редко. </div>
+</div>
+</div>
+</section>
+<section class="page-section" data-section-name="ETIOLOGY">
+<h2 class="page-section__title" id="etiology">
+        Этиология и патогенез    </h2>
+<div class="container">
+<div class="row page-section__row">
+<div>
+<br/>
+	Причины билиарной атрезии полностью не выяснены. Имеются гипотезы о  нарушении внутриутробного развития желчных путей вследствие локальной ишемии, имунного ответа на внутриутобную инфекцию. <br/>
+	 </div>
+</div>
+</div>
+</section>
+<section class="page-section" data-section-name="EPIDEMIOLOGY">
+<h2 class="page-section__title" id="epidemiology">
+        Эпидемиология    </h2>
+<div class="container">
+<div class="row page-section__row">
+<div style="text-align: justify; ">
+<br/>
+	Встречается в среднем у одного новорожденного на 20-30 тыс. родов и в 30% случаев данный порок сочетается с другими аномалиями развития. </div>
+</div>
+</div>
+</section>
+<section class="page-section" data-index="4">
+<h2 class="page-section__title" id="clinical">
+        Клиническая картина    </h2>
+<div class="container">
+<section class="row page-field" data-field-name="ANTIPRAXIA">
+<h3 class="page-field__title text-left" id="antipraxia">
+                    Cимптомы, течение                </h3>
+<div class="page-field__data">
+<div style="text-align: justify; ">
+<br/>
+	Основной клинический признак - прогрессивно нарастающая желтуха, которая появляется с первых дней жизни, иногда на 2-4-й неделе после рождения.<br/>
+	Кожа, склеры и слизистые оболочки приоретают серовато-зеленый оттенок, на пике желтухи их цвет становится шафрановым (жёлто-оранжевый с коричневым оттенком).<br/>
+	Стул на 2-3-й день становится ахоличным (светлым, возможно белым). В дальнейшем <aterm term="1">ахолия<span class="term-description" style="display: none;"><span>Ахолия -  отсутствие или уменьшение поступления желчи в кишечник.</span><br/></span></aterm> может носить перемежающийся характер, связанный с диффузией билирубина из кровеносных сосудов в кишечник. Кал иногда может иметь светло-лимонный цвет из-за выделения незначительного количества желчных пигментов железами кишечника или жизнедеятельности кишечной микрофлоры.<br/>
+	Печень постепенно увеличивается в размере, приобретает плотную консистенцию, ее край становится заостренным. Параллельно или несколько позднее наблюдается увеличение селезенки.<br/>
+<br/>
+	Появляются следуцющие признаки портальной <aterm term="1">гипертензии<span class="term-description" style="display: none;"><span>Гипертензия - повышенное гидростатическое давление в сосудах, полых органах или в полостях организма</span><br/></span></aterm>:<br/>
+	- расширение вен на передней брюшной стенке;<br/>
+	- асцит;<br/>
+	- кровотечения из варикозно расширенных вен пищевода, желудка.<br/>
+<br/>
+	В случае, когда развивается <aterm term="1">парез кишечника<span class="term-description" style="display: none;"><span>Парез кишечника - нарушение моторной функции кишечника вплоть до полной атонии (отсутствие мышечного тонуса).</span><br/></span></aterm>, происходит увеличение размеров живота, появляются метеоризм, рвота, понос, <aterm term="1">гипотрофия<span class="term-description" style="display: none;"><span>Гипотрофия -  расстройство питания, характеризующееся различной степенью дефицита массы тела</span><br/></span></aterm>, беспокойство.<br/>
+	К 4-5-му месяцу жизни у ребенка возникают печеночной недостаточности, которая приводит к его гибели на 8-10-м месяце жизни.<br/>
+	 </div>
+</div>
+</section>
+</div>
+</section>
+<section class="page-section" data-section-name="DIAGNOSTICS">
+<h2 class="page-section__title" id="diagnostics">
+        Диагностика    </h2>
+<div class="container">
+<div class="row page-section__row">
+<p style="font-family: Arial, Helvetica, sans-serif; ">
+<br/>
+<span style="text-align: justify; ">Обычные снимки позволяют отметить только  общее увеличение печени и селезенки. Данные </span><strong style="text-align: justify; "><aterm term="1">КТ</aterm></strong><span style="text-align: justify; "> позволяют определить расширение внутрипеченочных протоков, которое доказывает отсутствие их </span><aterm style="text-align: justify; " term="1">атрезии</aterm><span style="text-align: justify; ">; в этих случаях необходимо осуществлять дифференциальную диагностику между атрезией внепеченочных протоков и их закупоркой желчным песком. Другие причины желтухи новорожденного можно не принимать во внимание.</span></p>
+<p style="font-family: Arial, Helvetica, sans-serif; ">
+	Поскольку результаты холеграфии, как правило, неубедительны, решающее значение придают <strong>лапароскопии, прицельной биопсии печени </strong>и, если это удается, <strong>лапароскопической холангиографии</strong>.<br/>
+	Альтернативой данным методам является только оперативное вмешательство с интраоперационной холангиографией.<br/>
+	Широко используется <b>гепатобилиарная сцинтиграфия </b>HIDA (99mTC)-DISIDA, чувствительность и специфичность которой значительно превышают УЗИ.</p>
+<p>
+	 </p>
+<p>
+	 </p>
+<p>
+	 </p>
+</div>
+</div>
+</section>
+<section class="page-section" data-section-name="LABORATORYDIAGNOSTICS">
+<h2 class="page-section__title" id="laboratorydiagnostics">
+        Лабораторная диагностика    </h2>
+<div class="container">
+<div class="row page-section__row">
+<br/>
+Атрезия желчных протоков соответсвует признакам холестаза или механической желтухи. <br/>
+В крови снижается уровень гемоглобина, эритроцитов, лейкоцитов, тромбоцитов, протромбина и фибриногена.<br/>
+Повышается содержание прямого, а со временем и непрямого билирубина, щелочной фосфатазы. Активность трансаминаз в течение длительного времени  остается нормальной.<br/>
+В анализе мочи выявляются желчные пигменты при отсутствии уробилина.<br/>
+При прогрессировании заболевания нарушаются все виды обмена.
+                    </div>
+</div>
+</section>
+<section class="page-section" data-section-name="DIFFERENTIALDIAGNOSIS">
+<h2 class="page-section__title" id="differentialdiagnosis">
+        Дифференциальный диагноз    </h2>
+<div class="container">
+<div class="row page-section__row">
+<div>
+<br/>
+	Атрезию желчных протоков дифференцируют со следующими состояниями:<br/><br/>
+	- физиологическая желтухи новорожденных,;<br/>
+	- синдром сгущения желчи;<br/>
+	- фетальный гепатит;<br/>
+	- сепсис;<br/>
+	- цитомегалия;<br/>
+	- токсоплазмоз;<br/>
+	- киста общего желчного протока;<br/>
+	- синдром Ротора и Криглера-Найяра;<br/>
+	- синдром Алажиля;<br/>
+	- гемолитические анемии. <br/>
+	 </div>
+</div>
+</div>
+</section>
+<section class="page-section" data-section-name="SEQUELAE">
+<h2 class="page-section__title" id="sequelae">
+        Осложнения    </h2>
+<div class="container">
+<div class="row page-section__row">
+<br/>
+Печеночная кома.
+                    </div>
+</div>
+</section>
+<section class="page-section" data-section-name="THERAPY">
+<h2 class="page-section__title" id="therapy">
+        Лечение    </h2>
+<div class="container">
+<div class="row page-section__row">
+<div>
+<br/><strong>Хирургическое лечение с проведением реконструктивных вмешательств</strong><br/><br/>
+	Основной целью хирургической коррекции атрезии желчных протоков является восстановление поступления желчи в кишечник с помощью билиодигестивных <aterm term="1">анастомозов</aterm>. Вид анастомоза выбирается в зависимости от уровня атрезии.<br/><br/><strong>Варианты операций при корригируемом типе атрезии:</strong><br/>
+	1. При достаточном диаметре наружных желчных протоков выполняют анастомоз с двенадцатиперстной или тощей кишкой.<br/>
+	2. При атрезии дистального отдела общего желчного протока проводятся холедоходуоденостомия, холецистодуоденостомия.<br/>
+	3. При непроходимости дистального участка общего печеночного протока выполняют прямой анастомоз с двенадцатиперстной кишкой.<br/>
+	4. При невозможности мобилизации двенадцатиперстной кишки производят гепатикоэнтеростомию с У-образной петлей тощей кишки по Ру, при атрезии на уровне долевых участков - портоэнтеростомию с петлей по Ру.</div><div>
+<br/><strong>Операции при некорригируемом типе атрезии:</strong><br/>
+	1.Гепатогастро- и дуоденостомия по Баирову.<br/>
+	2. Портоэнтеростомия по Касаи.<br/>
+	3. Радикальным способом спасения ребенка при атрезии внутрипеченочных желчных ходов в настоящее время является ортотопическая трансплантация печени. <br/>
+	Все виды оперативного вмешательста должны быть выполнены в как можно более ранние сроки, в течение максимум 2-3 месяцев после рождения.</div>
+</div>
+</div>
+</section>
+<section class="page-section" data-section-name="PROGNOSIS">
+<h2 class="page-section__title" id="prognosis">
+        Прогноз    </h2>
+<div class="container">
+<div class="row page-section__row">
+<br/>
+Неблагоприятен. Смертность превышает 50%.
+                    </div>
+</div>
+</section>
+<section class="page-section" data-section-name="HOSPITALIZATION">
+<h2 class="page-section__title" id="hospitalization">
+        Госпитализация    </h2>
+<div class="container">
+<div class="row page-section__row">
+<br/>
+В хирургическое отделение.
+                    </div>
+</div>
+</section>
+<section class="page-section" data-index="12">
+<h2 class="page-section__title" id="information">
+        Информация    </h2>
+<div class="container">
+<section class="row page-field" data-field-name="LISTOFREFERENCES">
+<h3 class="page-field__title text-left" id="listofreferences">
+                    Источники и литература                </h3>
+<div class="page-field__data">
+<ol id="AdditionalListSources" type="I">
+<li level="1">
+<span>Акопян В. Г. Хирургическая гепатология детского возраста: руководство для врачей, М.:Медицина, 1982.</span>
+<ol type="1">
+</ol>
+</li>
+<li level="1">
+<span>Детская гастроэнтерология: руководство для врачей /под ред. проф. Шабалова Н.П., 2011</span>
+<ol type="1">
+<li level="2">стр.352</li>
+</ol>
+</li>
+<li level="1">
+<span>"Alagille Syndrome Arteriohepatic Dysplasia, Syndromic Bile Duct Paucity. Includes: JAG1-Related Alagille Syndrome, NOTCH2-Related Alagille Syndrome" Nancy B Spinner, Anne L Hutchinson, Ian D Krantz, and Binita M Kamath, MBBChir MRCP.</span>
+<ol type="1">
+</ol>
+</li>
+<li level="1">
+<span>"Синдром Алажиля: многопорочный ансамбль" Нагорная Н.В., Бордюгова Е.В.,  Дубовая А.В., Смирнова Т.В., журнал «Здоровье ребенка», 4(13) 2008</span>
+<ol type="1">
+</ol>
+</li>
+<li level="1">
+<span>http://www.cincinnatichildrens.org/health/b/biliary/</span>
+<ol type="1">
+</ol>
+</li>
+</ol> </div>
+</section>
+</div>
+</section>
+<section class="page-section" data-section-name="ATTENTION">
+<h2 class="page-section__title" id="attention">
+        Внимание!    </h2>
+<div class="container">
+<div class="row page-section__row">
+<!--noindex-->
+<label class="attention-self-treatment-list__caption">Если вы не являетесь медицинским специалистом:</label>
+<ul class="attention-self-treatment-list">
+<li>
+        Занимаясь самолечением, вы можете нанести непоправимый вред своему здоровью.
+         
+    </li>
+<li>
+        Информация, размещенная на сайте MedElement, не может и не должна заменять очную консультацию врача.
+        Обязательно
+        обращайтесь в медицинские учреждения при наличии каких-либо заболеваний или беспокоящих вас симптомов.
+         
+    </li>
+<li>
+        Выбор лекарственных средств и их дозировки, должен быть оговорен со специалистом. Только врач может
+        назначить
+        нужное лекарство и его дозировку с учетом заболевания и состояния организма больного.
+         
+    </li>
+<li>
+        Сайт MedElement является исключительно информационно-справочным ресурсом. Информация, размещенная на данном
+        сайте, не должна использоваться для самовольного изменения предписаний врача.
+         
+    </li>
+<li>
+        Редакция MedElement не несет ответственности за какой-либо ущерб здоровью или материальный ущерб, возникший
+        в
+        результате использования данного сайта.
+    </li>
+</ul>
+<!--/noindex-->
+</div>
+</div>
+</section>
+</main>

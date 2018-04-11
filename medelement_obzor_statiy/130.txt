@@ -1,0 +1,285 @@
+<main id="main">
+<section class="page-information disease-information">
+<div class="container">
+<h1 class="page-information__name disease-information__name">
+            Инородное тело в пищеводе (T18.1)        </h1>
+<div class="disease-information__version-name">
+<p class="lead text-muted">
+                
+                Версия: Справочник заболеваний MedElement                </p>
+</div>
+<div class="disease-information__categories-mkb">
+<label>Категории МКБ: </label>
+                Инородное тело в пищеводе (T18.1)            </div>
+<div class="disease-information__sections-medicine">
+<label>Разделы медицины: </label>
+                Гастроэнтерология            </div>
+</div>
+</section>
+<section class="page-section" data-index="0">
+<h2 class="page-section__title" id="general_information">
+        Общая информация    </h2>
+<div class="container">
+<div class="page-links-actions">
+<ul>
+<li class="page-links-actions__item page-links-actions__item--print" data-ga-event-action="Клик по ссылке: Версия для печати" data-ga-event-category="Links actions" data-ga-event-label="" data-send-ga-event="">
+<a href="javascript:window.print()">Версия для печати
+                    <svg class="svg-icon svg-icon-printer" height="18" version="1.1" viewbox="0 0 24 24" width="18" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<path d="M18,3H6V7H18M19,12A1,1 0 0,1 18,11A1,1 0 0,1 19,10A1,1 0 0,1 20,11A1,1 0 0,1 19,12M16,19H8V14H16M19,8H5A3,3 0 0,0 2,11V17H6V21H18V17H22V11A3,3 0 0,0 19,8Z"></path>
+</svg>
+</a>
+</li>
+</ul>
+</div>
+<section class="row page-field" data-field-name="SHORTDESCRIPTION">
+<h3 class="page-field__title text-left" id="shortdescription">
+                    Краткое описание                </h3>
+<div class="page-field__data">
+<div style="text-align: justify; ">
+<br/>
+<strong>Инородные тела в пищеводе </strong>- это задержавшиеся в нем куски пищи или проглоченные предметы, не используемые в пищу.</div>
+<br/>
+</div>
+</section>
+<section class="row page-field" data-field-name="NUMBERDAYSFLOW">
+<h3 class="page-field__title text-left" id="numberdaysflow">
+                    Период протекания                </h3>
+<div class="page-field__data">
+<p><span>Минимальный период протекания (дней): </span>
+        не указан</p>
+<p><span>Максимальный период протекания (дней): </span>
+        180</p>
+<br/>
+<label>Описание:</label>
+<p></p><div>
+	Самый продолжительный описанный срок нахождения инородного тела в пищеводе составил 6 месяцев.</div>
+</div>
+</section>
+</div>
+</section>
+<section class="page-section" data-section-name="ETIOLOGY">
+<h2 class="page-section__title" id="etiology">
+        Этиология и патогенез    </h2>
+<div class="container">
+<div class="row page-section__row">
+<br/>
+<div style="text-align: justify; ">
+	Попадание инородного тела в пищевод часто происходит у маленьких детей. Проглоченными могут быть самые различные мелкие предметы, нередко дети проглатывают кусочек кости рыбы или курицы. Зачастую родители не знают о произошедшем.</div>
+<br/>
+<span style="text-align: justify; ">Острые инородные тела чаще застревают в начальном отделе пищевода. Крупные инородные тела с относительно гладкой поверхностью (монеты, пуговицы и др.), часто застревают на уровне <aterm term="1">бифуркации<span class="term-description" style="display: none;"><span>Бифуркация - разделение трубчатого органа на две ветви, приблизительно одинакового калибра, например бифуркация трахеи, бифуркация аорты.</span><br/></span></aterm> трахеи или над <aterm term="1">кардией<span class="term-description" style="display: none;"><span>Кардиальный отдел пищевода (кардия) - сфинктер (круговая мышца), разделяющий пищевод и желудок.</span><br/></span></aterm>.<br/>
+Острое инородное тело может перфорировать стенку пищевода, что обуславливает развитие гнойного <aterm term="1">медиастинита<span class="term-description" style="display: none;"><span>Медиастинит - воспаление клетчатки средостения.</span><br/></span></aterm>, профузного кровотечения из крупных сосудов.<br/>
+Плотное инородное тело может образовать </span><span style="text-align: justify; ">вызывающий тяжелые осложнения </span><span style="text-align: justify; ">пролежень (Василенко В.Х., 1976).<br/>
+Очень серьезные последствия имеет проглатывание батареек - повреждения пищевода в этих случаях возникают в результате некроза его стенки (вследствие давления), химического ожога щелочью и воздействия электрического тока. В литературе описаны два случая <aterm term="1">пенетрации<span class="term-description" style="display: none;"><span>Пенетрация - осложнение язвенной болезни в виде распространения инфильтративно-деструктивного процесса (проникновение с разрушением) из желудка или двенадцатиперстной кишки в толщу соседнего органа - печени, поджелудочной железы, сальника</span><br/></span></aterm> батарейки из пищевода в аорту (Ашкрафт К.У., Холдер Т.М., 1996).</span>
+</div>
+</div>
+</section>
+<section class="page-section" data-section-name="EPIDEMIOLOGY">
+<h2 class="page-section__title" id="epidemiology">
+        Эпидемиология    </h2>
+<div class="container">
+<div class="row page-section__row">
+<div style="text-align: justify; ">
+<br/>
+	По данным некоторых авторов, инородные тела в пищеводе составляют 2/3 от всех случаев, тогда как инородные тела в дыхательных путях – 1/3, причем данные ситуации немного более распространены среди мальчиков, чем среди девочек.</div>
+</div>
+</div>
+</section>
+<section class="page-section" data-section-name="FACTORSANDRISKGROUPS">
+<h2 class="page-section__title" id="factorsandriskgroups">
+        Факторы и группы риска    </h2>
+<div class="container">
+<div class="row page-section__row">
+<div style="text-align: justify; ">
+<br/>
+	Среди детей инородные тела в пищеводе встречаются наиболее часто встречаются в возрасте от 6 месяцев до 3 лет, когда дети по недосмотру родителей берут в рот мелкие предметы и во время игры вдыхают или проглатывают их.</div>
+<div style="text-align: justify; ">
+	Инородные тела в пищеводе обнаруживаются у 17% детей с различными заболеваниями пищевода.</div>
+</div>
+</div>
+</section>
+<section class="page-section" data-index="4">
+<h2 class="page-section__title" id="clinical">
+        Клиническая картина    </h2>
+<div class="container">
+<section class="row page-field" data-field-name="ANTIPRAXIA">
+<h3 class="page-field__title text-left" id="antipraxia">
+                    Cимптомы, течение                </h3>
+<div class="page-field__data">
+<br/>
+<div>
+<span style="text-align: justify; ">При попадании инородного тела в пищевод, клиника развивается остро. У детей появляются боль, обильное слюнотечение, </span><aterm style="text-align: justify; " term="1">стридор</aterm><span style="text-align: justify; ">, проглатывание пищи затруднено или невозможно.</span><br style="text-align: justify; "/>
+<span style="text-align: justify; ">В случае, когда попадание инородного тела в пищевод произошло незаметно для взрослых, то следует обратиться к врачу при наличии следующих симптомов: </span><span style="text-align: justify; ">кашель, аспирационная пневмония, </span><span style="text-align: justify; ">температура, симптомы перфорации пищевода или </span><aterm term="1">ТПС<span class="term-description" style="display: none;"><span>ТПС - трахеопищеводный свищ</span><br/></span></aterm><span style="text-align: justify; ">.</span></div>
+<div style="text-align: start;">
+	При повреждениях пищевода рентгенологически неконтрастными инородными телами с острыми краями существует риск поздней постановки диагноза, когда появляются симптомы <aterm term="1">стеноза<span class="term-description" style="display: none;"><span>Стеноз - сужение трубчатого органа или его наружного отверстия.</span><br/></span></aterm> пищевода.</div>
+</div>
+</section>
+</div>
+</section>
+<section class="page-section" data-section-name="DIAGNOSTICS">
+<h2 class="page-section__title" id="diagnostics">
+        Диагностика    </h2>
+<div class="container">
+<div class="row page-section__row">
+<br/>
+<strong>Инструментальная диагностика</strong>
+<div style="text-align: justify; ">
+<br/>
+<strong>Обязательные исследования:</strong><br/>
+	- обзорная рентгенограмма грудной клетки и живота для выявления эмфиземы, газа в <aterm term="1">средостении<span class="term-description" style="display: none;"><span>Средостение - часть грудной полости, расположенная между правым и левым плевральными мешками, ограниченная спереди грудиной, сзади грудным отделом позвоночника, снизу диафрагмой, сверху верхней апертурой грудной клетки.</span><br/></span></aterm> и брюшной полости;<br/>
+	- экстренное эндоскопическое исследование пищевода;<br/>
+	- экстренное рентгеноконтрастное исследование пищевода и желудка.</div>
+<div style="text-align: justify; ">
+<br/>
+<strong>Дополнительные исследования: </strong><br/>
+	- бронхоскопия;<br/>
+	- рентгенография органов грудной клетки.</div>
+<div style="text-align: justify; ">
+	 </div>
+</div>
+</div>
+</section>
+<section class="page-section" data-section-name="LABORATORYDIAGNOSTICS">
+<h2 class="page-section__title" id="laboratorydiagnostics">
+        Лабораторная диагностика    </h2>
+<div class="container">
+<div class="row page-section__row">
+<br/>
+<div style="text-align: justify; ">
+<strong>Лабораторная диагностика: </strong>общий анализ крови с определением ретикулоцитов, общий анализ мочи.</div>
+</div>
+</div>
+</section>
+<section class="page-section" data-section-name="DIFFERENTIALDIAGNOSIS">
+<h2 class="page-section__title" id="differentialdiagnosis">
+        Дифференциальный диагноз    </h2>
+<div class="container">
+<div class="row page-section__row">
+<br/><div>
+	Следует дифференцировать с инородными телами в дыхательных путях.</div>
+</div>
+</div>
+</section>
+<section class="page-section" data-section-name="SEQUELAE">
+<h2 class="page-section__title" id="sequelae">
+        Осложнения    </h2>
+<div class="container">
+<div class="row page-section__row">
+<div style="text-align: justify; ">
+<br/>
+	Инородные тела в пищеводе могут вызывать следующие осложнения:<br/>
+	- перфорация пищевода;<br/>
+	- <aterm term="1">флегмона<span class="term-description" style="display: none;"><span>Флегмона - острое, четко не отграниченное гнойное воспаление клетчатки.</span><br/></span></aterm> шеи;<br/>
+	- гнойный медиастинит;<br/>
+	- кровотечение;<br/>
+	- <aterm term="1">эзофагит<span class="term-description" style="display: none;"><span>Эзофагит - воспаление слизистой оболочки пищевода.</span><br/><a class="tooltip-term__more" href="https://diseases.medelement.com/index.php/disease/view/NDU4NA%3D%3D/0" target="_blank" title="Подробнее о эзофагит">Подробно</a></span></aterm>;<br/>
+	- пищеводно-трахеальный свищ;<br/>
+	- экстрапищеводная миграция;<br/>
+	- абсцесс стенки пищевода;<br/>
+	- дыхательные расстройства при сдавлении мембранозной части трахеи;<br/>
+	- травматическое повреждение аорты.</div>
+</div>
+</div>
+</section>
+<section class="page-section" data-section-name="THERAPY">
+<h2 class="page-section__title" id="therapy">
+        Лечение    </h2>
+<div class="container">
+<div class="row page-section__row">
+<br/><strong>Хирургическое лечение</strong><div>
+	Необходимо экстренное удаление плотных и острых инородных тел в пищеводе эндоскопическим методом на фоне внутривенного наркоза и интубации трахеи.</div>
+</div>
+</div>
+</section>
+<section class="page-section" data-section-name="PROGNOSIS">
+<h2 class="page-section__title" id="prognosis">
+        Прогноз    </h2>
+<div class="container">
+<div class="row page-section__row">
+<br/>
+<div style="text-align: justify; ">
+	Прогноз зависит от того, насколько своевременно обнаружено инородное тела, характера тела (форма, размер), а также от возраста ребенка и наличия осложнений.</div>
+</div>
+</div>
+</section>
+<section class="page-section" data-section-name="HOSPITALIZATION">
+<h2 class="page-section__title" id="hospitalization">
+        Госпитализация    </h2>
+<div class="container">
+<div class="row page-section__row">
+<br/><div>
+	Показания к госпитализации:</div><div>
+	- <aterm term="1">обтурация</aterm> пищевода мягкими инородными телами (большими кусками пищи), которые удаляются в стационаре в плановом порядке;<br/>
+	- развитие осложнений (повреждения пищевода, <aterm term="1">медиастинит</aterm>, кровотечение, абсцессы, свищи).</div>
+</div>
+</div>
+</section>
+<section class="page-section" data-index="12">
+<h2 class="page-section__title" id="information">
+        Информация    </h2>
+<div class="container">
+<section class="row page-field" data-field-name="LISTOFREFERENCES">
+<h3 class="page-field__title text-left" id="listofreferences">
+                    Источники и литература                </h3>
+<div class="page-field__data">
+<ol id="AdditionalListSources" type="I">
+<li level="1">
+<span>Детская гастроэнтерология: руководство для врачей /под ред. проф. Шабалова Н.П., 2011</span>
+<ol type="1">
+<li level="2">стр.281-283</li>
+</ol>
+</li>
+<li level="1">
+<span>МакНелли Питер Р. Секреты гастроэнтерологии/ перевод с англ. под редакцией проф. Апросиной З.Г., Бином, 2005</span>
+<ol type="1">
+</ol>
+</li>
+<li level="1">
+<span>Обыденнова Р.В., Веровский В.А., Полюдов С.А., Гуз В.И., Мызин А.В., Михопулос А.М. Осложнения инородных тел пищевода у детей, Российский вестник детской хирургии, анестезиологии и реаниматологии. 2011. № 1. </span>
+<ol type="1">
+<li level="2">стр.65-70</li>
+</ol>
+</li>
+</ol> </div>
+</section>
+</div>
+</section>
+<section class="page-section" data-section-name="ATTENTION">
+<h2 class="page-section__title" id="attention">
+        Внимание!    </h2>
+<div class="container">
+<div class="row page-section__row">
+<!--noindex-->
+<label class="attention-self-treatment-list__caption">Если вы не являетесь медицинским специалистом:</label>
+<ul class="attention-self-treatment-list">
+<li>
+        Занимаясь самолечением, вы можете нанести непоправимый вред своему здоровью.
+         
+    </li>
+<li>
+        Информация, размещенная на сайте MedElement, не может и не должна заменять очную консультацию врача.
+        Обязательно
+        обращайтесь в медицинские учреждения при наличии каких-либо заболеваний или беспокоящих вас симптомов.
+         
+    </li>
+<li>
+        Выбор лекарственных средств и их дозировки, должен быть оговорен со специалистом. Только врач может
+        назначить
+        нужное лекарство и его дозировку с учетом заболевания и состояния организма больного.
+         
+    </li>
+<li>
+        Сайт MedElement является исключительно информационно-справочным ресурсом. Информация, размещенная на данном
+        сайте, не должна использоваться для самовольного изменения предписаний врача.
+         
+    </li>
+<li>
+        Редакция MedElement не несет ответственности за какой-либо ущерб здоровью или материальный ущерб, возникший
+        в
+        результате использования данного сайта.
+    </li>
+</ul>
+<!--/noindex-->
+</div>
+</div>
+</section>
+</main>

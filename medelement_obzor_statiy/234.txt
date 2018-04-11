@@ -1,0 +1,399 @@
+<main id="main">
+<section class="page-information disease-information">
+<div class="container">
+<h1 class="page-information__name disease-information__name">
+            Прикусывание щеки и губ (K13.1)        </h1>
+<div class="disease-information__alternate-name">
+<label>Также: </label>
+                morsicatio buccarum,  morsicatio labiorum, сheek and lip biting, linea alba            </div>
+<div class="disease-information__version-name">
+<p class="lead text-muted">
+                
+                Версия: Справочник заболеваний MedElement                </p>
+</div>
+<div class="disease-information__categories-mkb">
+<label>Категории МКБ: </label>
+                Прикусывание щеки и губ (K13.1)            </div>
+<div class="disease-information__sections-medicine">
+<label>Разделы медицины: </label>
+                Гастроэнтерология, Стоматология            </div>
+</div>
+</section>
+<section class="page-section" data-index="0">
+<h2 class="page-section__title" id="general_information">
+        Общая информация    </h2>
+<div class="container">
+<div class="page-links-actions">
+<ul>
+<li class="page-links-actions__item page-links-actions__item--print" data-ga-event-action="Клик по ссылке: Версия для печати" data-ga-event-category="Links actions" data-ga-event-label="" data-send-ga-event="">
+<a href="javascript:window.print()">Версия для печати
+                    <svg class="svg-icon svg-icon-printer" height="18" version="1.1" viewbox="0 0 24 24" width="18" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<path d="M18,3H6V7H18M19,12A1,1 0 0,1 18,11A1,1 0 0,1 19,10A1,1 0 0,1 20,11A1,1 0 0,1 19,12M16,19H8V14H16M19,8H5A3,3 0 0,0 2,11V17H6V21H18V17H22V11A3,3 0 0,0 19,8Z"></path>
+</svg>
+</a>
+</li>
+</ul>
+</div>
+<section class="row page-field" data-field-name="SHORTDESCRIPTION">
+<h3 class="page-field__title text-left" id="shortdescription">
+                    Краткое описание                </h3>
+<div class="page-field__data">
+<div style="text-align: justify;">
+<br/>
+<strong>Прикусывание щеки и губ</strong> - разновидность самоиндуцированной хронической механической травмы слизистой оболочки щек и губ, возникающей при воздействии зубов и/или протезов вследствие множества причин.<br/>
+<br/>
+<br/>
+<strong>Примечания</strong><br/>
+<br/>
+	Из данной подрубрики <strong>исключены:</strong><br/>
+	- Гингивит и болезни пародонта - K05. -</div>
+<div style="text-align: justify;">
+	- Другие изменения десны и беззубого альвеолярного края - K06.- </div>
+<div style="text-align: justify;">
+	- Стоматит и родственные поражения - K12.- </div>
+<div style="text-align: justify;">
+	- Болезни языка - K14.- </div>
+<div style="text-align: justify;">
+<br/>
+	При необходимости для уточнения причины возможно использование следующих кодов:<br/>
+	- Психические и поведенческие расстройства, вызванные употреблением алкоголя - F10.- </div>
+<div style="text-align: justify;">
+	- Психические и поведенческие расстройства, вызванные употреблением табака - F17.- </div>
+<div style="text-align: justify;">
+	- Прочие коды, указывающие на употребление алкоголя, употребление или контакт с табаком (табачным дымом)<br/>
+	- Невротическое расстройство неуточненное - F48.9 </div>
+<div style="text-align: justify;">
+	- Реакция на тяжелый стресс и нарушения адаптации - F43.- </div>
+</div>
+</section>
+</div>
+</section>
+<section class="page-section" data-section-name="CLASSIFICATION">
+<h2 class="page-section__title" id="classification">
+        Классификация    </h2>
+<div class="container">
+<div class="row page-section__row">
+<div style="text-align: justify;">
+<br/>
+	Единая классификация отсутствует.<br/>
+	Рекомендуется пользоваться общими клиническими параметрами описания, включающими локализацию, распространенность, количество, размер и форму патоморфологических изменений, а также фазу течения заболевания (обострение, ремиссия) и наличие осложнений.</div>
+</div>
+</div>
+</section>
+<section class="page-section" data-section-name="ETIOLOGY">
+<h2 class="page-section__title" id="etiology">
+        Этиология и патогенез    </h2>
+<div class="container">
+<div class="row page-section__row">
+<div style="text-align: justify;">
+<br/>
+<strong>Прикусывание щеки</strong><br/>
+	Наиболее частые причины:<br/>
+	- анатомо-морфологические особенности строения зубочелюстной системы (неправильный прикус - зубы, расположенные вне зубного ряда; расширение верхней и нижней зубных дуг, буккальный или лингвальный перекрестный прикус);</div>
+<div style="text-align: justify;">
+	- острые бугры жевательных зубов;</div>
+<div style="text-align: justify;">
+	- острые края кариозных и разрушенных зубов;</div>
+<div style="text-align: justify;">
+	- некачественно поставленные пломбы;</div>
+<div style="text-align: justify;">
+	- неправильно изготовленные протезы;</div>
+<div style="text-align: justify;">
+	- вредная привычка, проявляющаяся при нервном напряжении;<br/>
+	- психические расстройства (вопрос об определении таких расстройств как обсессивно-компульсивных обсуждается);<br/>
+	- наследственная сенсорная и автономная нейропатия (<aterm term="1">синдром Райли-Дея<span class="term-description" style="display: none;"><span>Синдром Райли-Дея - наследственный синдром: сочетание гиперсаливации, пониженного слезоотделения, эритемы, психической лабильности, гипорефлексии и пониженной болевой чувствительности; наследуется по аутосомно-рецессивному типу</span><br/></span></aterm>);</div>
+<div style="text-align: justify;">
+	- дефицит  фермента гипоксантин-гуанин фосфорибозилтрансферазы (<aterm term="1">синдром Леша-Найхана<span class="term-description" style="display: none;"><span>Гиперурикемия (син. Леша-Найхана синдром) - наследственная болезнь обмена веществ, обусловленная дефицитом фермента гипоксантин-фосфорибозилтрансферазы (КФ 2.4.2.8), проявляющаяся умственной отсталостью, хореоатетозом, приступами агрессивного поведения с самоповреждением, повышенным содержанием мочевой кислоты в моче. Наследуется по аутосомно-рецессивному типу</span><br/></span></aterm>).</div>
+<div>
+<div style="text-align: justify;">
+<br/>
+<strong>Прикусывание губы </strong><br/>
+		Дополнительные  причины к причинам, указанным при прикусывании щеки:<br/>
+		- ортодонтическая патология (нарушения прикуса): <aterm term="1">протрузия<span class="term-description" style="display: none;"><span>Протрузия (в стоматологии) - 1) Выдвижение вперед нижней челюсти; 2) Аномалия прикуса, характеризующаяся расположением части зубов впереди остальных</span><br/></span></aterm> передних зубов, <aterm term="1">мезиальный прикус<span class="term-description" style="display: none;"><span>Мезиальный прикус - аномалия, характеризующаяся передним положением нижней челюсти</span><br/></span></aterm>, <aterm term="1">дистальный прикус<span class="term-description" style="display: none;"><span>Прогнатический прикус  (син. дистальный прикус) - прикус, при котором резцы и клыки верхней челюсти расположены впереди соответствующих зубов нижней челюсти</span><br/></span></aterm>;</div>
+<div style="text-align: justify;">
+		- нависающие края пломб;</div>
+<div style="text-align: justify;">
+		- элементы ортопедических конструкций.</div>
+<div style="text-align: justify;">
+<br/>
+		Процесс прикусывания аналогичен формированию костной мозоли на коже и относится к так называемым "оральным кератозам". Постоянное механическое раздражение стимулирует выработку чрезмерного количества кератина, с последующим изменением толщины и цвета участка пораженной слизистой оболочки.<br/>
+		Гистология выявляет неравномерную гиперплазию эпителия с очагами разрастания эпителиальных клеток в верхнем слое с фокальным пара- и гиперкератозом и базофильной инфильтрацией поверхностного слоя эпителия.  <br/>
+		При микроскопии и бактериологическом исследовании обнаруживают различные микроорганизмы (в основном стафилококк, стрептококк, значительно реже - кандиды). </div>
+</div>
+<br/>
+</div>
+</div>
+</section>
+<section class="page-section" data-section-name="EPIDEMIOLOGY">
+<h2 class="page-section__title" id="epidemiology">
+        Эпидемиология    </h2>
+<div class="container">
+<div class="row page-section__row">
+<p>Пол: Все</p>
+<p>
+        Возраст: преимущественно взрослый</p>
+<p>Признак распространенности: Очень распространено</p>
+<p>Соотношение полов(м/ж): 0.5</p>
+<br/>
+<div style="text-align: justify;">
+	Заболеваемость среди женщин приблизительно в два раза выше, чем у мужчин.<br/>
+	Приблизительно 60-75% пациентов  имеют  возраст старше 35 лет.<br/>
+	В целом распространенность существенно зависит от географии и составляет в среднем 2,2-5,5% во взрослой популяции, хотя отдельные популяционные исследования выявляют распространенность от 0,8-1,8% (США) до 7-8% (Испания, Индия).</div>
+</div>
+</div>
+</section>
+<section class="page-section" data-section-name="FACTORSANDRISKGROUPS">
+<h2 class="page-section__title" id="factorsandriskgroups">
+        Факторы и группы риска    </h2>
+<div class="container">
+<div class="row page-section__row">
+<br/>
+Группы риска соответствуют этиологии и включают:<br/>
+- нарушение прикуса;<br/>
+- протезирование зубов;<br/>
+- кариес;<br/>
+- лечение (пломбирование) зубов;<br/>
+- пирсинг.<br/>
+<br/>
+</div>
+</div>
+</section>
+<section class="page-section" data-index="5">
+<h2 class="page-section__title" id="clinical">
+        Клиническая картина    </h2>
+<div class="container">
+<section class="row page-field" data-field-name="THESIS">
+<h3 class="page-field__title text-left" id="thesis">
+                    Клинические критерии диагностики                </h3>
+<div class="page-field__data">
+                    
+                    изменение психологического статуса; нарушение прикуса; наличие пломб; наличие протезов; боль; жжение; дискомфорт; белые пятна; белые полосы; белые чешуйки; симметричное поражение; слущивание слизистой; отек губ; отек щек; шероховатость места поражения; мелкие эрозии слизистой
+                </div>
+</section>
+<section class="row page-field" data-field-name="ANTIPRAXIA">
+<h3 class="page-field__title text-left" id="antipraxia">
+                    Cимптомы, течение                </h3>
+<div class="page-field__data">
+<div style="text-align: justify;">
+<br/>
+<strong>Анамнез</strong>. При прикусывании щеки и губ в анамнезе имеются данные о соответствующей привычке. Имеется связь с манипуляциями в полости рта, протезированием, для младенцев - с усиленным, затрудненным сосанием.<br/>
+	Прикусывание губ может быть привычкой, облегчающей дискомфорт при височно-челюстном расстройстве или <aterm term="1">глоссодинии<span class="term-description" style="display: none;"><span>Глоссодиния - парестезия в виде ощущений жжения, пощипывания, зуда в языке и ощущения сухости во рту; наблюдается при болезнях органов желудочно-кишечного тракта, некоторых поражениях нервной системы и др.</span><br/><a class="tooltip-term__more" href="https://diseases.medelement.com/disease/view/NDU4MA%3D%3D/fDF8Mnw%3D" target="_blank" title="Подробнее о глоссодинии">Подробно</a></span></aterm>.<br/>
+<br/>
+<strong>Жалобы.</strong> Большинство пациентов может не предъявлять никаких жалоб. У пациентов с агрессивной привычкой кусать щеки и губы могут присутствовать жалобы на боль, жжение или отек.<br/>
+	Больные могут отмечать ощущения утолщения или шероховатости места поражения. Слущивание слизистой с пораженных участков заставляет некоторых пациентов часто сплевывать, зубами или языком  механически удалять фрагменты измененной слизистой. </div>
+<div style="text-align: justify;">
+<br/>
+<strong>При обследовании </strong>полости рта выявляется воспаленная слизистая оболочка с неровной поверхностью. Пораженный участок выглядит как пятно или бляшка с рваными, мохнатыми краями. Иногда на слизистой отмечаются мелкие поверхностные эрозии, чередующиеся с белыми чешуйками.  Наиболее часто такие изменения характерны для слизистой по линии смыкания зубов (так называемая "linea alba"). <br/>
+	Осмотр губ позволяет выявить отечную и гиперемированную слизистую, причем чаще страдает нижняя губа. Очаги поражения, как правило, симметричны.<br/>
+<br/>
+	Сделать вывод о наличии <aterm term="1">гиперкератоза<span class="term-description" style="display: none;"><span>Гиперкератоз - чрезмерное утолщение рогового слоя эпидермиса</span><br/></span></aterm> позволяет отсутствие изменений очага поражения при протирании его сухой стерильной салфеткой. <br/>
+<br/>
+	У ряда пациентов отмечаются изменения психологического статуса.<br/>
+<br/>
+<img alt="Прикусывание щеки и губ" height-fact="224" id="preview_image" src="https://diseases.medelement.com/upload/4b888752a8c3d6f373325c2ebe32e2d4.jpg" title="Прикусывание щеки и губ" width-fact="536"/></div>
+</div>
+</section>
+</div>
+</section>
+<section class="page-section" data-section-name="DIAGNOSTICS">
+<h2 class="page-section__title" id="diagnostics">
+        Диагностика    </h2>
+<div class="container">
+<div class="row page-section__row">
+<div style="text-align: justify;">
+<br/>
+	Диагноз прикусывания щеки и губ, как правило, ставится клинически.<br/>
+<br/>
+	1. <strong>Биопсия </strong>показана в нетипичных случаях, а также в случаях, резистентных к проводимой терапии в течение более 1-3 недель.<br/>
+	При обработке биоптата обязательным является использование PAS (с целью выявления грибковых поражений).<br/>
+	Наиболее приемлемым считается забор биоптата с помощью иссечения ткани. Браш-биопсия и эксфолиативная биопсия не являются достаточно подходящими методами.<br/>
+<br/>
+	2. Для дифференциальной диагностики могут применяться некоторые оптические приборы, позволяющие осматривать и фотографировать слизистую с большим увеличением. В данных приборах используются различные принципы предварительной диагностики раковых и иных поражений слизистой оболочки полости рта. Зачастую участок слизистой требует предварительной обработки некоторыми реактивами (например, уксусной кислотой).</div>
+</div>
+</div>
+</section>
+<section class="page-section" data-section-name="LABORATORYDIAGNOSTICS">
+<h2 class="page-section__title" id="laboratorydiagnostics">
+        Лабораторная диагностика    </h2>
+<div class="container">
+<div class="row page-section__row">
+<div style="text-align: justify;">
+<br/>
+	Не существует никаких специфических тестов, подтверждающих или опровергающих диагноз.<br/>
+	Полезным является бактериологическое исследование слизистой в связи с высокой степенью колонизации поврежденной слизистой стафилококком, стрептококком и кандидой.</div>
+</div>
+</div>
+</section>
+<section class="page-section" data-section-name="DIFFERENTIALDIAGNOSIS">
+<h2 class="page-section__title" id="differentialdiagnosis">
+        Дифференциальный диагноз    </h2>
+<div class="container">
+<div class="row page-section__row">
+<div>
+<br/>
+	Прикусывание щеки и губ дифференцируют со следующими заболеваниями и состояниями:<br/>
+	1. Механические травмы иной этиологии (например, неправильная чистка зубов).<br/>
+	2. Химические и термические ожоги губ.<br/>
+	3. Туберкулез слизистой. Туберкулезная язвы имеют подрытые края, отмечается резкая болезненность при пальпации, а также определяются мелкие желтые точки (зерна Треля).<br/>
+	4. Рак. Язвы, наблюдающиеся при раке, имеют плотное основание и плотные края; элементы поражения могут быть слегка болезненны. Такие язвы не заживают достаточно долго (более 2-3 недель).<br/>
+	5. Контактный стоматит.<br/>
+	6. Лейкоплакия.<br/>
+	7. Кандидозные поражения полости рта.<br/>
+	8. Стоматиты, связанные с курением.<br/>
+	9. Врожденный дискератоз.<br/>
+	10. Красный плоский лишай.<br/><br/>
+	Клинические особенности механического гиперкератоза в сравнении с другими белесыми поражениями слизистой губ:<br/>
+	1. Возникающие пятна и бляшки описываются как "грубые, лохматые, часто шелушащиеся".<br/>
+	2. Поражение губ, как правило, двустороннее. Очаги располагаются в части слизистой, которая может соприкасаться с зубами. <br/>
+	При пролиферативной лейкоплакии также может отмечаться двустороннее поражение (иногда - симметричное), однако лейкоплакия будет часто затрагивать области, которые не имеют контакта с зубами (например, десны).<br/>
+	 </div>
+</div>
+</div>
+</section>
+<section class="page-section" data-section-name="SEQUELAE">
+<h2 class="page-section__title" id="sequelae">
+        Осложнения    </h2>
+<div class="container">
+<div class="row page-section__row">
+<div style="text-align: justify;">
+<br/>
+	Прикусывание щеки и губ имеет доброкачественное течение.<br/>
+	К осложнениям относятся образование декубитальных язв и их инфицирование с развитием стоматита.<br/>
+	Риск развития <aterm term="1">лейкоплакии<span class="term-description" style="display: none;"><span>Лейкоплакия - дистрофическое изменение слизистой оболочки, сопровождающееся в той или иной степени ороговением эпителия; относится к предраку</span><br/></span></aterm> обсуждается и пока не имеет хорошей доказательной базы. <br/>
+	 </div>
+</div>
+</div>
+</section>
+<section class="page-section" data-section-name="THERAPY">
+<h2 class="page-section__title" id="therapy">
+        Лечение    </h2>
+<div class="container">
+<div class="row page-section__row">
+<div>
+<br/><strong>Диета.</strong> Никакой специальной диеты не требуется, если состояние зубов и отсутствие боли позволяет пережевывать достаточно грубую пищу. Разумные ограничения включают в себя отказ от раздражающих компонентов и чрезмерно грубых видов пищи, которые способны усилить болевые ощущения и/или дискомфорт во время жевания.<br/><br/>
+	Самым главным мероприятием терапии является<strong> установление и ликвидация травматического фактора:</strong><br/>
+	- исправление прикуса;<br/>
+	- коррекция новых зубных протезов или замена старых;<br/>
+	- замена пломб;<br/>
+	- пришлифовка режущих краев зубов, травмирующих слизистую.<br/><br/>
+	Определенное значение имеет изготовление и установка акриловых протезов (каппы), которые покрывают зубы и защищают слизистую щек от травмы. Как минимум их ношение показано во время сна, когда пациент не контролирует движение челюстей.<br/><br/>
+	Не существует однозначных доказательств эффективности методов психологической коррекции в лечении прикусывания щек и губ, однако несколько работ показывают их эффективность в течение 3 месяцев при лечении подобных состояний. <br/><br/>
+	В случае бактериологического подтверждения колонизации поврежденных участков показаны местные антисептики.</div>
+</div>
+</div>
+</section>
+<section class="page-section" data-section-name="PROGNOSIS">
+<h2 class="page-section__title" id="prognosis">
+        Прогноз    </h2>
+<div class="container">
+<div class="row page-section__row">
+<div style="text-align: justify;">
+<br/>
+	Прогноз благоприятный. Изменения исчезают или уменьшаются в течение 1-3 недель от начала полноценной терапии. В случае отсутствия динамики показан комплекс мероприятий по исключению злокачественного новообразования (биопсия) или других причин <aterm term="1">паракератоза<span class="term-description" style="display: none;"><span>Паракератоз - нарушение процесса ороговения клеток эпидермиса, характеризующееся наличием в роговом слое клеток, содержащих ядра, и отсутствием зернистого слоя</span><br/></span></aterm> и изъязвления (например, инфекция, СПИД).</div>
+</div>
+</div>
+</section>
+<section class="page-section" data-section-name="HOSPITALIZATION">
+<h2 class="page-section__title" id="hospitalization">
+        Госпитализация    </h2>
+<div class="container">
+<div class="row page-section__row">
+<br/>
+Госпитализация не требуется. 
+                    </div>
+</div>
+</section>
+<section class="page-section" data-section-name="PROPHYLAXIS">
+<h2 class="page-section__title" id="prophylaxis">
+        Профилактика    </h2>
+<div class="container">
+<div class="row page-section__row">
+<br/>
+Избавление от  привычек покусывания губ или щек.
+                    </div>
+</div>
+</section>
+<section class="page-section" data-index="14">
+<h2 class="page-section__title" id="information">
+        Информация    </h2>
+<div class="container">
+<section class="row page-field" data-field-name="LISTOFREFERENCES">
+<h3 class="page-field__title text-left" id="listofreferences">
+                    Источники и литература                </h3>
+<div class="page-field__data">
+<ol id="AdditionalListSources" type="I">
+<li level="1">
+<span>"Morsicatio buccarum et labiorum (excessive cheek and lip biting)" Glass LF, Maize JC, The American Journal of Dermatopathology, №13(3), 1991</span>
+<ol type="1">
+</ol>
+</li>
+<li level="1">
+<span>"Oral Frictional Hyperkeratosis" Catherine M Flaitz, Chief Editor: William D James, 2012</span>
+<ol type="1">
+<li level="2">http://emedicine.medscape.com -  </li>
+</ol>
+</li>
+<li level="1">
+<span>"Oral frictional hyperkeratosis (morsicatio buccarum): an entity to be considered in the differential diagnosis of white oral mucosal lesions" Cam K, Santoro A, Lee JB, Skinmed journal, №10(2), 2012 </span>
+<ol type="1">
+</ol>
+</li>
+<li level="1">
+<span>"Three cases of "morsicatio labiorum" Kang HS, Lee HE, Ro YS, Lee CW., Annals of Dermatology journal, №24(4), 2012</span>
+<ol type="1">
+</ol>
+</li>
+<li level="1">
+<span>http://o-stom.ru</span>
+<ol type="1">
+</ol>
+</li>
+<li level="1">
+<span>wikipedia.org (википедия)</span>
+<ol type="1">
+</ol>
+</li>
+</ol> </div>
+</section>
+</div>
+</section>
+<section class="page-section" data-section-name="ATTENTION">
+<h2 class="page-section__title" id="attention">
+        Внимание!    </h2>
+<div class="container">
+<div class="row page-section__row">
+<!--noindex-->
+<label class="attention-self-treatment-list__caption">Если вы не являетесь медицинским специалистом:</label>
+<ul class="attention-self-treatment-list">
+<li>
+        Занимаясь самолечением, вы можете нанести непоправимый вред своему здоровью.
+         
+    </li>
+<li>
+        Информация, размещенная на сайте MedElement, не может и не должна заменять очную консультацию врача.
+        Обязательно
+        обращайтесь в медицинские учреждения при наличии каких-либо заболеваний или беспокоящих вас симптомов.
+         
+    </li>
+<li>
+        Выбор лекарственных средств и их дозировки, должен быть оговорен со специалистом. Только врач может
+        назначить
+        нужное лекарство и его дозировку с учетом заболевания и состояния организма больного.
+         
+    </li>
+<li>
+        Сайт MedElement является исключительно информационно-справочным ресурсом. Информация, размещенная на данном
+        сайте, не должна использоваться для самовольного изменения предписаний врача.
+         
+    </li>
+<li>
+        Редакция MedElement не несет ответственности за какой-либо ущерб здоровью или материальный ущерб, возникший
+        в
+        результате использования данного сайта.
+    </li>
+</ul>
+<!--/noindex-->
+</div>
+</div>
+</section>
+</main>

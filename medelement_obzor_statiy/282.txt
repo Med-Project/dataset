@@ -1,0 +1,289 @@
+<main id="main">
+<section class="page-information disease-information">
+<div class="container">
+<h1 class="page-information__name disease-information__name">
+            Удвоение пищевода (Q39.8)        </h1>
+<div class="disease-information__version-name">
+<p class="lead text-muted">
+                
+                Версия: Справочник заболеваний MedElement                </p>
+</div>
+<div class="disease-information__categories-mkb">
+<label>Категории МКБ: </label>
+                Другие врожденные аномалии пищевода (Q39.8)            </div>
+<div class="disease-information__sections-medicine">
+<label>Разделы медицины: </label>
+                Врожденные заболевания, Гастроэнтерология            </div>
+</div>
+</section>
+<section class="page-section" data-index="0">
+<h2 class="page-section__title" id="general_information">
+        Общая информация    </h2>
+<div class="container">
+<div class="page-links-actions">
+<ul>
+<li class="page-links-actions__item page-links-actions__item--print" data-ga-event-action="Клик по ссылке: Версия для печати" data-ga-event-category="Links actions" data-ga-event-label="" data-send-ga-event="">
+<a href="javascript:window.print()">Версия для печати
+                    <svg class="svg-icon svg-icon-printer" height="18" version="1.1" viewbox="0 0 24 24" width="18" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<path d="M18,3H6V7H18M19,12A1,1 0 0,1 18,11A1,1 0 0,1 19,10A1,1 0 0,1 20,11A1,1 0 0,1 19,12M16,19H8V14H16M19,8H5A3,3 0 0,0 2,11V17H6V21H18V17H22V11A3,3 0 0,0 19,8Z"></path>
+</svg>
+</a>
+</li>
+</ul>
+</div>
+<section class="row page-field" data-field-name="SHORTDESCRIPTION">
+<h3 class="page-field__title text-left" id="shortdescription">
+                    Краткое описание                </h3>
+<div class="page-field__data">
+<div style="text-align: justify; ">
+<br/>
+<strong>Удвоение пищевода</strong> представляет собой сферические и <aterm term="1">тубулярные<span class="term-description" style="display: none;"><span>Тубулярный - относящийся к трубке, имеющий форму трубки.</span><br/></span></aterm> образования вдоль его стенок.</div>
+</div>
+</section>
+</div>
+</section>
+<section class="page-section" data-section-name="CLASSIFICATION">
+<h2 class="page-section__title" id="classification">
+        Классификация    </h2>
+<div class="container">
+<div class="row page-section__row">
+<div style="text-align: justify; ">
+	 <br/>
+	Выделяются следующие типы:</div>
+<div>
+<br/>
+	- <strong>аномальная диэзофагия</strong> - наличие двух функционирующих пищеводов;</div>
+<div style="text-align: justify; ">
+<br/>
+	- <strong>эзофагеальная дупликатура</strong> (удвоение пищевода) - это расщепление стенки пищевода с образованием в ней дополнительной полости.</div>
+<div style="text-align: justify; ">
+<br/>
+	Описаны различные виды <strong>полного</strong> (удвоенный пищевод) и <strong>частичного</strong>  удвоения пищевода (энтерогенные кисты, врожденные дивертикулы и прочие, которые могут сообщаться с основной полостью пищевода или существовать изолированно). </div>
+<p style="text-align: justify; ">
+	Существует  <strong>4 разновидности удвоения пищевода</strong> (Зернов Н.Г., 1988):<br/>
+	- кистозное;<br/>
+	- дивертикулообразное;<br/>
+	- трубчатое;<br/>
+	- сегментарное - <aterm term="1">интрамуральное<span class="term-description" style="display: none;"><span>Интрамуральный - внутристеночный, локализующийся в стенке полого органа или полости.</span><br/></span></aterm>.</p>
+<p style="text-align: justify; ">
+<strong>Трубчатое удвоение пищевода подразделяется на три формы </strong>(по классификации Григовича И.Н, 1982):<br/>
+<br/>
+	1. Полное трубчатое удвоение пищевода на всем протяжении сообщающееся с полостью желудка в сочетании с удвоением желудка.<br/>
+	2. Трубчатое удвоение пищевода, переходящее через диафрагму в брюшную полость, и соединяющееся с начальным отделом тонкой кишки.<br/>
+	3. Трубчатое удвоение пищевода без сообщения с полостью желудка,  заканчивающееся, как правило, слепо, не достигая уровня диафрагмы. Является наиболее редким. </p>
+</div>
+</div>
+</section>
+<section class="page-section" data-section-name="ETIOLOGY">
+<h2 class="page-section__title" id="etiology">
+        Этиология и патогенез    </h2>
+<div class="container">
+<div class="row page-section__row">
+<div style="text-align: justify; ">
+<br/>
+	Существуют предположения, что данная аномалия пищевода возникает либо в результате нарушений реканализации ЖКТ в раннем эмбриональном периоде (Griboski J., 1975), либо из-за несращения позвоночного столба.</div>
+<div style="text-align: justify; ">
+<br/>
+<strong>Патоморфология</strong></div>
+<div style="text-align: justify; ">
+	Удвоения пищевода отмечаются в заднем <aterm term="1">средостении<span class="term-description" style="display: none;"><span>Средостение - часть грудной полости, расположенная между правым и левым плевральными мешками, ограниченная спереди грудиной, сзади грудным отделом позвоночника, снизу диафрагмой, сверху верхней апертурой грудной клетки.</span><br/></span></aterm>, чаще справа, могут симулировать легочную кисту. Удвоенный пищевод имеет наружные стенки, образованные мышечными слоями (продольными и циркулярными) и внутренние стенки, выстланные слизистой оболочкой желудка, которая выделяет соляную кислоту и пепсин. Киста заполнена прозрачной или окрашенной кровью жидкостью. Часто наблюдаются эрозии, <aterm term="1">эзофагит<span class="term-description" style="display: none;"><span>Эзофагит - воспаление слизистой оболочки пищевода.</span><br/><a class="tooltip-term__more" href="https://diseases.medelement.com/index.php/disease/view/NDU4NA%3D%3D/0" target="_blank" title="Подробнее о эзофагит">Подробно</a></span></aterm>.</div>
+</div>
+</div>
+</section>
+<section class="page-section" data-section-name="EPIDEMIOLOGY">
+<h2 class="page-section__title" id="epidemiology">
+        Эпидемиология    </h2>
+<div class="container">
+<div class="row page-section__row">
+<div>
+<br/>
+<aterm term="1">Интраторакальные<span class="term-description" style="display: none;"><span>Интраторакальный - расположенный в полости грудной клетки. </span><br/></span></aterm> удвоения пищевода составляют по разным данным 15-19% всех удвоений ЖКТ и менее 1% из всех пороков развития пищевода. Данная аномалия может сочетаться с <aterm term="1">мальформациями<span class="term-description" style="display: none;"><span>Мальформация - аномалия развития, повлекшая за собой грубые изменения строения и функции органа или ткани.</span><br/></span></aterm> позвоночного столба.</div>
+</div>
+</div>
+</section>
+<section class="page-section" data-index="4">
+<h2 class="page-section__title" id="clinical">
+        Клиническая картина    </h2>
+<div class="container">
+<section class="row page-field" data-field-name="ANTIPRAXIA">
+<h3 class="page-field__title text-left" id="antipraxia">
+                    Cимптомы, течение                </h3>
+<div class="page-field__data">
+<div style="text-align: justify; ">
+<br/>
+<strong>Основные симптомы</strong>, отмечающиеся с рождения:<br/>
+	- цианоз;<br/>
+	- диспноэ (одышка);<br/>
+	- кашель;<br/>
+	- инспираторный <aterm term="1">стридор<span class="term-description" style="display: none;"><span>Стридор - свистящий шум, возникающий главным образом во время вдоха, обусловленный резким сужением просвета гортани, трахеи или бронхов.</span><br/></span></aterm>;<br/>
+	- рвота из-за сдавления трахеи или пищевода снаружи;<br/>
+<br/>
+	При удвоении пищевода в верхней его части на шее больного можно прощупать мягкую флюктуирующую массу. Редкими осложнениями удвоения пищевода являются легочные и желудочные кровоточения, анемия, разрыв кисты с развитием тяжелого респираторного дистресса.</div>
+</div>
+</section>
+</div>
+</section>
+<section class="page-section" data-section-name="DIAGNOSTICS">
+<h2 class="page-section__title" id="diagnostics">
+        Диагностика    </h2>
+<div class="container">
+<div class="row page-section__row">
+<div style="text-align: justify; ">
+<br/>
+	Удвоение пищевода трудно выявляется и в подавляющем большинстве случаев становится интраоперационной находкой. В связи с этим присутствует большой процент летальных случаев среди больных. <br/>
+<br/>
+<strong>Инструментальная диагностика</strong></div>
+<div style="text-align: justify; ">
+<br/>
+	Для подтверждения диагноза проводится <strong>рентгенологическое исследование</strong> пищевода в двух проекциях. Рентгенологическая картина зависит от наличия или отсутствия сообщения между полостями, а также их размеров. Основная полость пищевода обычно несколько деформирована и сужена. Бариевая взвесь проникает в удвоенную часть и долго в ней задерживается. <br/>
+	Когда добавочная полость изолирована, рентгенологическая картина идентична картине, наблюдаемой при других объемных доброкачественных процессах,  которые располагаются внутристеночно (например, при лейомиоме).<br/>
+	Когда киста располагается на уровне дуги аорты или над ней, она хорошо видна на прицельных и послойных снимках этой области в виде интенсивной тени округлой или овальной формы на фоне заднего средостения с четкими наружными контурами.<br/>
+<br/>
+	Однако, рентгенологическая диагностика не всегда бывает информативной, осорбенно в период новорожденности из-за отсутствия сообщения между удвоенным и истинным пищеводами или же при малом диаметре соустья между ними. </div>
+<div style="text-align: justify; ">
+	Нередко рентгенологически выявляют пороки развития позвоночника.</div>
+<div style="text-align: justify; ">
+<strong>Эндоскопическое исследование </strong>также не всегда бывает информативным, поскольку складка слизистой оболочки пищевода может прикрывать вход в удвоенную полость.</div>
+</div>
+</div>
+</section>
+<section class="page-section" data-section-name="LABORATORYDIAGNOSTICS">
+<h2 class="page-section__title" id="laboratorydiagnostics">
+        Лабораторная диагностика    </h2>
+<div class="container">
+<div class="row page-section__row">
+<div style="text-align: justify; ">
+<br/>
+	Патогномоничных лабораторных признаков нет.</div>
+</div>
+</div>
+</section>
+<section class="page-section" data-section-name="DIFFERENTIALDIAGNOSIS">
+<h2 class="page-section__title" id="differentialdiagnosis">
+        Дифференциальный диагноз    </h2>
+<div class="container">
+<div class="row page-section__row">
+<div>
+<br/>
+	Удвоения пищевода следует дифференцировать от опухолей самого пищевода, опухолей и кист средостения, сдавления пищевода увеличенными лимфатическими узлами, атипично расположенными сосудами и других состояний. К примеру, необходимо исключение нейробластомы, тимомы, абсцесса, тератомы, бронхогенной кисты.</div>
+</div>
+</div>
+</section>
+<section class="page-section" data-section-name="SEQUELAE">
+<h2 class="page-section__title" id="sequelae">
+        Осложнения    </h2>
+<div class="container">
+<div class="row page-section__row">
+<br/>
+<span style="font-family: Arial, Helvetica, sans-serif; ">Возможно появление кровотечений при изъязвлении слизистой оболочки добавочной полости, сообщающейся с основной. Отмечаются нагноение с развитием <aterm term="1">медиастинита<span class="term-description" style="display: none;"><span>Медиастинит - воспаление клетчатки средостения.</span><br/></span></aterm>, <aterm term="1">пневмоторакса<span class="term-description" style="display: none;"><span>Пневмоторакс - наличие воздуха или газа в плевральной полости.</span><br/></span></aterm>.</span>
+</div>
+</div>
+</section>
+<section class="page-section" data-section-name="THERAPY">
+<h2 class="page-section__title" id="therapy">
+        Лечение    </h2>
+<div class="container">
+<div class="row page-section__row">
+<br/>
+Оперативное удаление удвоения.
+                            
+
+
+
+
+
+                       </div>
+</div>
+</section>
+<section class="page-section" data-section-name="PROGNOSIS">
+<h2 class="page-section__title" id="prognosis">
+        Прогноз    </h2>
+<div class="container">
+<div class="row page-section__row">
+<div>
+<br/>
+	При трубчатом удвоении пищевода летальный исход регистрируется в 50 % случаев (по данным Григовича И.Н., 1982).<br/>
+	При других формах удвоения пищевода смертность значительно ниже и наблюдаются преимущественно хорошие отдаленные результаты хирургического лечения удвоения.</div>
+</div>
+</div>
+</section>
+<section class="page-section" data-section-name="HOSPITALIZATION">
+<h2 class="page-section__title" id="hospitalization">
+        Госпитализация    </h2>
+<div class="container">
+<div class="row page-section__row">
+<div>
+<br/>
+	Лечение исключительно в стационарных условиях.</div>
+</div>
+</div>
+</section>
+<section class="page-section" data-index="12">
+<h2 class="page-section__title" id="information">
+        Информация    </h2>
+<div class="container">
+<section class="row page-field" data-field-name="LISTOFREFERENCES">
+<h3 class="page-field__title text-left" id="listofreferences">
+                    Источники и литература                </h3>
+<div class="page-field__data">
+<ol id="AdditionalListSources" type="I">
+<li level="1">
+<span>Детская гастроэнтерология: руководство для врачей /под ред. проф. Шабалова Н.П., 2011</span>
+<ol type="1">
+<li level="2">стр.256-257</li>
+</ol>
+</li>
+<li level="1">
+<span>Исаков Ю.Ф., Степанов Э.А., Красовская Т.В. Абдоминальная хирургия у детей, руководство, Медицина, 1988</span>
+<ol type="1">
+</ol>
+</li>
+<li level="1">
+<span>МакНелли Питер Р. Секреты гастроэнтерологии/ перевод с англ. под редакцией проф. Апросиной З.Г., Бином, 2005</span>
+<ol type="1">
+</ol>
+</li>
+</ol> </div>
+</section>
+</div>
+</section>
+<section class="page-section" data-section-name="ATTENTION">
+<h2 class="page-section__title" id="attention">
+        Внимание!    </h2>
+<div class="container">
+<div class="row page-section__row">
+<!--noindex-->
+<label class="attention-self-treatment-list__caption">Если вы не являетесь медицинским специалистом:</label>
+<ul class="attention-self-treatment-list">
+<li>
+        Занимаясь самолечением, вы можете нанести непоправимый вред своему здоровью.
+         
+    </li>
+<li>
+        Информация, размещенная на сайте MedElement, не может и не должна заменять очную консультацию врача.
+        Обязательно
+        обращайтесь в медицинские учреждения при наличии каких-либо заболеваний или беспокоящих вас симптомов.
+         
+    </li>
+<li>
+        Выбор лекарственных средств и их дозировки, должен быть оговорен со специалистом. Только врач может
+        назначить
+        нужное лекарство и его дозировку с учетом заболевания и состояния организма больного.
+         
+    </li>
+<li>
+        Сайт MedElement является исключительно информационно-справочным ресурсом. Информация, размещенная на данном
+        сайте, не должна использоваться для самовольного изменения предписаний врача.
+         
+    </li>
+<li>
+        Редакция MedElement не несет ответственности за какой-либо ущерб здоровью или материальный ущерб, возникший
+        в
+        результате использования данного сайта.
+    </li>
+</ul>
+<!--/noindex-->
+</div>
+</div>
+</section>
+</main>

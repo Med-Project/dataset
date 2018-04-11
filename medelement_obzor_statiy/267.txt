@@ -1,0 +1,356 @@
+<main id="main">
+<section class="page-information disease-information">
+<div class="container">
+<h1 class="page-information__name disease-information__name">
+            Спазм анального сфинктера (K59.4)        </h1>
+<div class="disease-information__alternate-name">
+<label>Также: </label>
+                Proctalgia fugax            </div>
+<div class="disease-information__version-name">
+<p class="lead text-muted">
+                
+                Версия: Справочник заболеваний MedElement                </p>
+</div>
+<div class="disease-information__categories-mkb">
+<label>Категории МКБ: </label>
+                Спазм анального сфинктера (K59.4)            </div>
+<div class="disease-information__sections-medicine">
+<label>Разделы медицины: </label>
+                Гастроэнтерология            </div>
+</div>
+</section>
+<section class="page-section" data-index="0">
+<h2 class="page-section__title" id="general_information">
+        Общая информация    </h2>
+<div class="container">
+<div class="page-links-actions">
+<ul>
+<li class="page-links-actions__item page-links-actions__item--print" data-ga-event-action="Клик по ссылке: Версия для печати" data-ga-event-category="Links actions" data-ga-event-label="" data-send-ga-event="">
+<a href="javascript:window.print()">Версия для печати
+                    <svg class="svg-icon svg-icon-printer" height="18" version="1.1" viewbox="0 0 24 24" width="18" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<path d="M18,3H6V7H18M19,12A1,1 0 0,1 18,11A1,1 0 0,1 19,10A1,1 0 0,1 20,11A1,1 0 0,1 19,12M16,19H8V14H16M19,8H5A3,3 0 0,0 2,11V17H6V21H18V17H22V11A3,3 0 0,0 19,8Z"></path>
+</svg>
+</a>
+</li>
+</ul>
+</div>
+<section class="row page-field" data-field-name="SHORTDESCRIPTION">
+<h3 class="page-field__title text-left" id="shortdescription">
+                    Краткое описание                </h3>
+<div class="page-field__data">
+<div style="text-align: justify;">
+<br/>
+<strong>Спазм  анального сфинктера</strong> - патологическое внезапное сокращение  мышц внутреннего сфинктера, сопровождающееся острой внезапной болью.<br/>
+<br/>
+	Является самостоятельной нозологической единицей (разновидностью функциональных расстройств желудочно-кишечного тракта), классифицированной согласно Римским критериям III  в подгруппе F2b как "Proctalgia Fugax" (пер. с лат. - "мимолетная ректальная боль").<br/>
+<br/>
+<br/>
+<strong>Примечания</strong><br/>
+<br/>
+	1. Следует различать Proctalgia Fugax от хронической прокталгии (боли в прямой кишке), классифицированной как F2 и подразделяющейся, в свою очередь, на:<br/>
+	- F2a1 - Levator Ani Syndrome или синдром леватора (-ов) (синдром леваторной мышцы, синдром m. levator ani, леваторный синдром) ;<br/>
+	- F2a2 - неопределенная функциональная аноректальная боль.<br/>
+	Следует также учитывать, что у ряда пациентов симптомы Proctalgia Fugax (мимолетной прокталгии) могут со временем перетекать в хроническую прокталгию. <br/>
+<br/>
+	2. Следует различать спазм анального сфинктера как самостоятельное функциональное заболевание прямой кишки и как симптом, свидетельствующий об иной, зачастую органической, патологии (например, трещина заднего прохода или геморрой). </div>
+</div>
+</section>
+</div>
+</section>
+<section class="page-section" data-section-name="ETIOLOGY">
+<h2 class="page-section__title" id="etiology">
+        Этиология и патогенез    </h2>
+<div class="container">
+<div class="row page-section__row">
+<br/>
+Этиология и патогенез спазма анального сфинктера достоверно неизвестны.<br/>
+<br/>
+Предполагаются в качестве причин и механизмов:<br/>
+- спонтанные пароксизмальные судорожные сокращения гладких мышц;<br/>
+- наследуемая гипертрофия внутреннего анального сфинктера;<br/>
+- стресс;<br/>
+- психологические особенности индивидуума (тревожность, ипохондрия). <br/>
+<br/>
+</div>
+</div>
+</section>
+<section class="page-section" data-section-name="EPIDEMIOLOGY">
+<h2 class="page-section__title" id="epidemiology">
+        Эпидемиология    </h2>
+<div class="container">
+<div class="row page-section__row">
+<p>Пол: Все</p>
+<p>
+        Возраст: преимущественно молодой</p>
+<p>Признак распространенности: Распространено</p>
+<p>Соотношение полов(м/ж): 1</p>
+<br/>
+<div style="text-align: justify;">
+<strong>Распространенность. </strong>В связи с тем, что только 17-20% больных сообщают о симптомах болезни врачам, истинная распространенность заболевания в популяции неизвестна. Оценки колеблются в пределах 4-18% и, по мнению ряда исследователей, консолидируются в диапазоне 7-8%.<br/>
+<br/>
+<strong>Пол</strong>. Не выявлено существенных различий. Отдельные исследования отмечают небольшое превалирование пациентов женского пола. Это может быть связано с неточностью диагностики.<br/>
+<br/>
+<strong>Возраст.</strong> Заболевание редко манифестирует до наступления половой зрелости. Наибольшая распространенность, по данным некоторых исследований, отмечается в возрасте около 45 лет. По данным других исследований, средний возраст пациентов - около 51 года. Описан случай манифестации заболевания в 61 год. <br/>
+<br/>
+<strong>География.</strong> Не выявлено никаких различий. Возможно это связано с отсутствием эпидемиологических исследований в развивающихся странах.<br/>
+<br/>
+<strong>Раса. </strong>Не выявлено различий. </div>
+</div>
+</div>
+</section>
+<section class="page-section" data-section-name="FACTORSANDRISKGROUPS">
+<h2 class="page-section__title" id="factorsandriskgroups">
+        Факторы и группы риска    </h2>
+<div class="container">
+<div class="row page-section__row">
+<div style="text-align: justify;">
+<br/>
+	Факторы риска возникновения спазма анального сфинктера определены только предварительно. Чаще всего мимолетные аноректальные боли не ассоциируются ни с какими стойкими отклонениями. <br/>
+<br/>
+<strong>Вероятные факторы:</strong><br/>
+	- возможно сочетание с синдромом раздраженного кишечника;<br/>
+	- стресс;<br/>
+	- психологические личностные особенности (мнительность, тревожность, перфекционизм, ипохондрия).</div>
+</div>
+</div>
+</section>
+<section class="page-section" data-index="4">
+<h2 class="page-section__title" id="clinical">
+        Клиническая картина    </h2>
+<div class="container">
+<section class="row page-field" data-field-name="THESIS">
+<h3 class="page-field__title text-left" id="thesis">
+                    Клинические критерии диагностики                </h3>
+<div class="page-field__data">
+                    
+                    приступ острой боли в анусе длительностью не более 20 минут; отсутствие болей в анусе и/или прямой кишке в межприступный период; продолжительность симптомов не менее 3 месяцев                </div>
+</section>
+<section class="row page-field" data-field-name="ANTIPRAXIA">
+<h3 class="page-field__title text-left" id="antipraxia">
+                    Cимптомы, течение                </h3>
+<div class="page-field__data">
+<div style="text-align: justify;">
+<br/>
+	Спазм анального сфинктера проявляется внезапным<strong> приступом острой боли</strong> в области прямой кишки. Пациенты описывают боль как острую, кинжальную, спастическую, иногда как жгучую. У ряда пациентов боль сопровождается позывом к дефекации или чувством переполнения прямой кишки.<br/>
+<br/>
+	Длительность боли составляет не менее 3 секунд, но не более нескольких минут. Обычно пациенты описывают длительность боли как "не более/около одной минуты".<br/>
+<br/>
+	От трети до половины пациентов испытывают приступы боли только ночью, около трети - преимущественно днем, оставшиеся - в различное время суток. <br/>
+	В промежутках между приступами какие-либо болевые ощущения или расстройства отсутствуют.<br/>
+<br/>
+	У 51% пациентов средняя частота приступов составляет не более 5 за год. Отдельные авторы описывают среднюю частоту приступов в группе пациентов как 13 случаев за год.<br/>
+<br/>
+	Согласно некоторым наблюдениям, у мужчин спазм анального сфинктера может быть спровоцирован оргазмом или сам вызывать эрекцию, вероятно вследствие стимуляции отделов вегетативной нервной системы. Однако достоверность этих наблюдений сомнительна в плане соответствия диагноза функциональной мимолетной ректальной боли соответствующим Римским критериям III.  <br/>
+<br/>
+<strong>Критерии диагностики заболевания</strong> включают:</div>
+<div style="text-align: justify;">
+	1. Повторяющиеся эпизоды боли, локализующейся в анусе или нижней части прямой кишки.</div>
+<div style="text-align: justify;">
+	2. Эпизоды боли длятся от нескольких секунд до минут.</div>
+<div style="text-align: justify;">
+	3. Аноректальная боль между приступами отсутствует.<br/>
+<br/>
+	У ряда пациентов со временем клиника трансформируется или перекрывается признаками хронической <aterm term="1">прокталгии</aterm>, что характеризуется увеличением длительности приступов боли до 20 минут и более.<br/>
+<br/>
+	Физикальное исследование не выявляет никаких отклонений.<br/>
+	Ректальное исследование не выявляет болезненности при надавливании на заднюю часть лобково-прямокишечной мышцы, что является важной частью дифференциальной диагностики с так называемым "леваторным синдромом" (хроническая прокталгия).<br/>
+	 </div>
+</div>
+</section>
+</div>
+</section>
+<section class="page-section" data-section-name="DIAGNOSTICS">
+<h2 class="page-section__title" id="diagnostics">
+        Диагностика    </h2>
+<div class="container">
+<div class="row page-section__row">
+<div style="text-align: justify;">
+<br/>
+	Диагноз спазма анального сфинктера ставится методом исключения. <br/>
+	Никакой из методов исследования не выявляет патологии, которая прямо или косвенно может быть  причиной аноректальной боли.<br/>
+<br/>
+<strong>Рекомендуемые инструментальные методы:</strong><br/>
+	1. <aterm term="1">Колоноскопия<span class="term-description" style="display: none;"><span>Колоноскопия -  метод исследования внутренней поверхности толстой кишки, основанный на ее осмотре с помощью колоноскопа.</span><br/></span></aterm>.<br/>
+	2. УЗИ органов малого таза.<br/>
+	3. <aterm term="1">МРТ<span class="term-description" style="display: none;"><span>МРТ - магнитно-резонансная томография</span><br/></span></aterm>.<br/>
+	4. Аноректальная <aterm term="1">манометрия<span class="term-description" style="display: none;"><span>Манометрия - измерение давления внутри имеющихся в теле человека органов</span><br/></span></aterm>.<br/>
+	5. <aterm term="1">Проктография<span class="term-description" style="display: none;"><span>Дефекография (или эвакуаторная проктография) — рентгенографическое исследование процесса дефекации. Дает возможность точно определить, страдает ли пациент запором или недержанием кала</span><br/></span></aterm>.</div>
+</div>
+</div>
+</section>
+<section class="page-section" data-section-name="LABORATORYDIAGNOSTICS">
+<h2 class="page-section__title" id="laboratorydiagnostics">
+        Лабораторная диагностика    </h2>
+<div class="container">
+<div class="row page-section__row">
+<br/>
+Нет никаких специфических лабораторных показателей, свидетельствующих в пользу или против диагноза спазма анального сфинктера.<br/>
+<br/>
+</div>
+</div>
+</section>
+<section class="page-section" data-section-name="DIFFERENTIALDIAGNOSIS">
+<h2 class="page-section__title" id="differentialdiagnosis">
+        Дифференциальный диагноз    </h2>
+<div class="container">
+<div class="row page-section__row">
+<div>
+<br/>
+	Спазм анального сфинктера дифференцируется с любой патологией, способной вызвать аноректальную боль.<br/><br/><strong>Наиболее частые причины:</strong><br/>
+	1. Хроническая прокталгия (леваторный синдром, неспецифическая функциональная аноректальная боль). Длительность боли составляет более 20 минут. Хронический характер боли. Пальпация мышцы, приподнимающей задний проход, при ректальном исследовании вызывает болезненность. <br/>
+	2. Хронический простатит.<br/>
+	3. Трещина заднего прохода.<br/>
+	4.  Геморрой.<br/>
+	5. Колоректальный рак.<br/>
+	6. Запор.<br/>
+	7. Травма прямой кишки или промежности.<br/>
+	8. Проктоколит неинфекционный (болезнь Крона, неспецифический язвенный колит и другие).<br/>
+	9. Гинекологические заболевания органов малого таза (для женщин).<br/>
+	10. Синдром хронической тазовой боли.<br/>
+	11. Спаечная болезнь органов малого таза.<br/>
+	12. Психические отклонения.<br/>
+	13. Синдром раздраженного кишечника<br/>
+	14. Периректальный абсцесс или свищ; Hidradenitis Suppurativa.<br/>
+	15. Проктит (особенно при гонококковой / хламидийной инфекции).<br/>
+	16. Ректальные инородные тела.<br/>
+	17. Зуд анальный.<br/>
+	18. Дивертикулярная болезнь.<br/>
+	19. Выпадение прямой кишки.<br/>
+	20. Кокцигодиния (невралгические боли в области копчика).<br/>
+	21. Остроконечные кондиломы (бородавки аногенитальные).<br/>
+	22. Карцинома яичка.<br/>
+	23. Цистит.<br/>
+	24. Наследственная миопатия анального сфинктера.<br/>
+	25. Двусторонняя окклюзия подвздошных артерий.</div><br/>
+</div>
+</div>
+</section>
+<section class="page-section" data-section-name="SEQUELAE">
+<h2 class="page-section__title" id="sequelae">
+        Осложнения    </h2>
+<div class="container">
+<div class="row page-section__row">
+<br/>
+Отсутствуют.
+                    </div>
+</div>
+</section>
+<section class="page-section" data-section-name="THERAPY">
+<h2 class="page-section__title" id="therapy">
+        Лечение    </h2>
+<div class="container">
+<div class="row page-section__row">
+<div>
+<br/>
+	У большинства пациентов, приступы боли при спазме анального сфинктера настолько короткие и редкие, что беседы с врачом и разъяснения безопасности заболевания, как правило, хватает для отказа от лекарственной терапии. <br/><br/>
+	Пациентам, которые имеют частые симптомы, может потребоваться лечение. Рандомизированное контролируемое исследование показало, что вдыхание сальбутамола (β-адренергические агонисты) было более эффективно, чем плацебо, для сокращения продолжительности эпизодов у тех пациентов, у которых эпизоды длились ≥ 20 минут. Согласно Римским критериям, симптомы спазма анального сфинктера у этих пациентов могут перекрываться с симптомами хронической прокталгии.<br/><br/>
+	Другие рекомендации включают в себя применение клонидина, амилнитратов, нитроглицерина, нифедипина, низких доз диазепама и даже психотропных препаратов (трициклических антидепрессантов), но практически без доказательств, подтверждающих их эффективность.<br/><br/>
+	Весьма сомнительными средствами терапии являются ботулинический токсин и теплые ванны, описанные в некоторых случаях как эффективные.<br/>
+	 </div>
+</div>
+</div>
+</section>
+<section class="page-section" data-section-name="PROGNOSIS">
+<h2 class="page-section__title" id="prognosis">
+        Прогноз    </h2>
+<div class="container">
+<div class="row page-section__row">
+<div style="text-align: justify;">
+<br/>
+	Прогноз хороший. Не выявлено повышения смертности или развития значимых заболеваний (колоректальный рак, колиты) у пациентов со спазмом анального сфинктера в анамнезе.</div>
+</div>
+</div>
+</section>
+<section class="page-section" data-section-name="HOSPITALIZATION">
+<h2 class="page-section__title" id="hospitalization">
+        Госпитализация    </h2>
+<div class="container">
+<div class="row page-section__row">
+<br/>
+Не требуется.
+                    </div>
+</div>
+</section>
+<section class="page-section" data-section-name="PROPHYLAXIS">
+<h2 class="page-section__title" id="prophylaxis">
+        Профилактика    </h2>
+<div class="container">
+<div class="row page-section__row">
+<br/>
+Не разработана.
+                    </div>
+</div>
+</section>
+<section class="page-section" data-index="13">
+<h2 class="page-section__title" id="information">
+        Информация    </h2>
+<div class="container">
+<section class="row page-field" data-field-name="LISTOFREFERENCES">
+<h3 class="page-field__title text-left" id="listofreferences">
+                    Источники и литература                </h3>
+<div class="page-field__data">
+<ol id="AdditionalListSources" type="I">
+<li level="1">
+<span>"Common anorectal conditions: Part I. Symptoms and complaints" Pfenninger JL, Zainea GG, "American Family Physician" journal, №63(12), 2001 </span>
+<ol type="1">
+</ol>
+</li>
+<li level="1">
+<span>"Functional Anorectal Disorders" Adil E. Bharucha, Arnold Wald, Paul Enck, Satish Rao, "Gastroenterology" journal, №5, apr 2006</span>
+<ol type="1">
+</ol>
+</li>
+<li level="1">
+<span>"Proctalgia fugax with dysthymia" Singh GP, Indian Journal of Psychiatry, №48(2), 2006 </span>
+<ol type="1">
+</ol>
+</li>
+<li level="1">
+<span>"Proctalgia fugax, an evidence-based management pathway" Jeyarajah S, Chow A, Ziprin P, Tilney H, Purkayastha S., "The International Journal of Colorectal Disease", №25(9), 2010 </span>
+<ol type="1">
+</ol>
+</li>
+</ol> </div>
+</section>
+</div>
+</section>
+<section class="page-section" data-section-name="ATTENTION">
+<h2 class="page-section__title" id="attention">
+        Внимание!    </h2>
+<div class="container">
+<div class="row page-section__row">
+<!--noindex-->
+<label class="attention-self-treatment-list__caption">Если вы не являетесь медицинским специалистом:</label>
+<ul class="attention-self-treatment-list">
+<li>
+        Занимаясь самолечением, вы можете нанести непоправимый вред своему здоровью.
+         
+    </li>
+<li>
+        Информация, размещенная на сайте MedElement, не может и не должна заменять очную консультацию врача.
+        Обязательно
+        обращайтесь в медицинские учреждения при наличии каких-либо заболеваний или беспокоящих вас симптомов.
+         
+    </li>
+<li>
+        Выбор лекарственных средств и их дозировки, должен быть оговорен со специалистом. Только врач может
+        назначить
+        нужное лекарство и его дозировку с учетом заболевания и состояния организма больного.
+         
+    </li>
+<li>
+        Сайт MedElement является исключительно информационно-справочным ресурсом. Информация, размещенная на данном
+        сайте, не должна использоваться для самовольного изменения предписаний врача.
+         
+    </li>
+<li>
+        Редакция MedElement не несет ответственности за какой-либо ущерб здоровью или материальный ущерб, возникший
+        в
+        результате использования данного сайта.
+    </li>
+</ul>
+<!--/noindex-->
+</div>
+</div>
+</section>
+</main>

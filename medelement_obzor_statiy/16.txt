@@ -1,0 +1,323 @@
+<main id="main">
+<section class="page-information disease-information">
+<div class="container">
+<h1 class="page-information__name disease-information__name">
+            Аппендикулярные камни (K38.1)        </h1>
+<div class="disease-information__alternate-name">
+<label>Также: </label>
+                каловый камень аппендикса (фекалит)            </div>
+<div class="disease-information__version-name">
+<p class="lead text-muted">
+                
+                Версия: Справочник заболеваний MedElement                </p>
+</div>
+<div class="disease-information__categories-mkb">
+<label>Категории МКБ: </label>
+                Аппендикулярные камни (K38.1)            </div>
+<div class="disease-information__sections-medicine">
+<label>Разделы медицины: </label>
+                Гастроэнтерология            </div>
+</div>
+</section>
+<section class="page-section" data-index="0">
+<h2 class="page-section__title" id="general_information">
+        Общая информация    </h2>
+<div class="container">
+<div class="page-links-actions">
+<ul>
+<li class="page-links-actions__item page-links-actions__item--print" data-ga-event-action="Клик по ссылке: Версия для печати" data-ga-event-category="Links actions" data-ga-event-label="" data-send-ga-event="">
+<a href="javascript:window.print()">Версия для печати
+                    <svg class="svg-icon svg-icon-printer" height="18" version="1.1" viewbox="0 0 24 24" width="18" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<path d="M18,3H6V7H18M19,12A1,1 0 0,1 18,11A1,1 0 0,1 19,10A1,1 0 0,1 20,11A1,1 0 0,1 19,12M16,19H8V14H16M19,8H5A3,3 0 0,0 2,11V17H6V21H18V17H22V11A3,3 0 0,0 19,8Z"></path>
+</svg>
+</a>
+</li>
+</ul>
+</div>
+<section class="row page-field" data-field-name="SHORTDESCRIPTION">
+<h3 class="page-field__title text-left" id="shortdescription">
+                    Краткое описание                </h3>
+<div class="page-field__data">
+<div>
+<br/>
+	Среди причин, вызывающих аппендицит, на первом месте стоит засорение червеобразного отростка посторонним телом, каковым является обычно затвердевший кал (каловый камень, копролит), <aterm term="1">импрегнированный</aterm> минеральными и желчными солями. </div><div>
+<img alt="Каловые камни аппендикса" height-fact="600" id="preview_image" src="https://diseases.medelement.com/upload/4af767da2c0724785baa45abd25bb592.jpg" style="width: 350px; height: 263px; border-width: 0px; border-style: solid; margin-left: 0px; margin-top: 0px; float: none;" title="Каловые камни аппендикса" width-fact="800"/></div><div>
+<span>От каловых камней </span><span>аппендикса </span><span>с</span><span>ледует отличать желчные камни, также изредка попадающие в аппендикс из слепой кишки, а также обызвествлённые инородные тела или скопления бария после рентгеноконтрастного исследования. </span></div>
+</div>
+</section>
+</div>
+</section>
+<section class="page-section" data-section-name="ETIOLOGY">
+<h2 class="page-section__title" id="etiology">
+        Этиология и патогенез    </h2>
+<div class="container">
+<div class="row page-section__row">
+<br/>
+<div style="text-align: justify;">
+	Мягкий кал часто проникает в червеобразный отросток через <aterm term="1">заслонку Герлаха<span class="term-description" style="display: none;"><span>Непостоянная небольшая Заслонка полулунной формы, образованная слизистой оболочкой слепой кишки, расположенная у устья червеобразного отростка (аппендикса); препятствует поступлению содержимого кишки в отросток.</span><br/></span></aterm>. Так как перистальтические движения отростка, способствующие опорожнению его содержимого, очень слабые, то крошки кала задерживаются в нем, высыхают из-за всасывания воды в аппендиксе и затвердевают. Затем эти крошки увеличиваются в размерах вследствие окутывания их слизью, выделяющейся из желез, и склеиваются друг с другом в каловый конгломерат. Каловый камень, увеличиваясь, закрывает собой просвет отростка, давит на его стенки. Вокруг него развивается ограниченное катаральное воспаление, от которого берет начало ряд последовательных тяжелых изменений (осложнений). </div>
+<div style="text-align: justify;">
+	 </div>
+<div style="text-align: justify;">
+	Некоторые авторы полагают, что каловые частицы не имеют самостоятельного значения, и камни образуются уже на почве имеющегося катарального воспаления отростка. По мере своего роста камни соприкасаются с больными стенками отростка и принимают активное участие в разрушении последних. Таким образом, заболевание стенок отростка вызывает образование камня, а растущий камень усугубляет болезненный процесс в стенках.<br/>
+	 </div>
+</div>
+</div>
+</section>
+<section class="page-section" data-section-name="EPIDEMIOLOGY">
+<h2 class="page-section__title" id="epidemiology">
+        Эпидемиология    </h2>
+<div class="container">
+<div class="row page-section__row">
+<p>Пол: Все</p>
+<p>
+        Возраст: преимущественно пожилой</p>
+<p>Признак распространенности: Распространено</p>
+<br/>
+<div>
+<span>Аппендикулярные камни встречаются преимущественно у зрелых и пожилых пациентов, что, возможно, связано с нарушением работы кишечника и склонностью к запорам.</span><br/>
+	Каловые камни присутствуют в 11-52% случаев при неосложненном аппендиците, в 65% случаев гангренозного аппендицита без перфорации и в 90% случаев перфоративного аппендицита. </div>
+</div>
+</div>
+</section>
+<section class="page-section" data-section-name="FACTORSANDRISKGROUPS">
+<h2 class="page-section__title" id="factorsandriskgroups">
+        Факторы и группы риска    </h2>
+<div class="container">
+<div class="row page-section__row">
+<div style="text-align: justify;">
+<br/>
+	- пожилой возраст;<br/>
+	- склонность к запорам;<br/>
+	- <aterm term="1">дивертикулез<span class="term-description" style="display: none;"><span>Дивертикулез - наличие множественных дивертикулов (выпячивание стенки полого органа, сообщающееся с его полостью); наблюдается чаще в желудочно-кишечном тракте</span><br/></span></aterm>;<br/>
+	- обезвоживание.</div>
+</div>
+</div>
+</section>
+<section class="page-section" data-index="4">
+<h2 class="page-section__title" id="clinical">
+        Клиническая картина    </h2>
+<div class="container">
+<section class="row page-field" data-field-name="THESIS">
+<h3 class="page-field__title text-left" id="thesis">
+                    Клинические критерии диагностики                </h3>
+<div class="page-field__data">
+                    
+                    тахикардия, лихорадка 37,5-38,5 С, обложенный язык, сухость во рту, ограничение подвижности, болезненность в животе при кашле, локальная болезненность и охранительные рефлексы в правой подвздошной области, напряжение мышц живота, эпизод диареи, тошнота, однократная рвота, диспепсия, дизурия, приведение ног к туловищу в лежачем положении, болезненность справа при ректальном обследовании                </div>
+</section>
+<section class="row page-field" data-field-name="ANTIPRAXIA">
+<h3 class="page-field__title text-left" id="antipraxia">
+                    Cимптомы, течение                </h3>
+<div class="page-field__data">
+<div style="text-align: justify;">
+<br/>
+<div>
+		Каловые камни аппендикса могут проявляться клинически довольно скудно, если не вызывают значимого воспаления или <aterm term="1">обтурации<span class="term-description" style="display: none;"><span>Обтурация - закрытие просвета полого органа, в том числе кровеносного или лимфатического сосуда, обусловливающее нарушение его проходимости.</span><br/></span></aterm> просвета отростка с развитием  инфекционного процесса. </div>
+<div>
+		В случае развития аппендицита его клиника не отличается от таковой при остром аппендиците (см. "<a href="https://diseases.medelement.com/index.php/disease/view/NDYzMg%253D%253D/fDd8MTl8" target="_blank">Острый аппендицит неуточненный</a>" - K35.9).<br/>
+<br/>
+		Так как каловые камни предрасполагают к развитию деструктивных форм аппендицита (перфорация, <aterm term="1">эмпиема<span class="term-description" style="display: none;"><span>Эмпиема - значительное скопление гноя в какой-либо полости тела или в полом органе</span><br/></span></aterm> отростка), клиника может меняться в сторону развития осложненных форм аппендицита см.:<br/>
+		- <a href="https://diseases.medelement.com/index.php/disease/view/NDYzMQ%253D%253D/fDd8MTl8" target="_blank">Острый аппендицит с перитонеальным абсцессом</a> - K35.1;<br/>
+		- <a href="https://diseases.medelement.com/index.php/disease/view/NDYzMA%253D%253D/fDd8MTl8" target="_blank">Острый аппендицит с генерализованным перитонитом</a> - K35.0.</div>
+<div>
+		 </div>
+<div>
+<strong>Наиболее частые симптомы:</strong><br/>
+		- характерная боль в правой подвздошной области;<br/>
+		- диспепсические и дизурические явления;<br/>
+		- нарушение функции кишечника;<br/>
+		- интоксикация;<br/>
+		- дегидратация;<br/>
+		- изменение общего состоянии больных;<br/>
+		- специфические симптомы раздражения брюшины. <br/>
+		 </div>
+<div>
+		В начале формирования, при небольших размерах, неполной <aterm term="1">обтурации<span class="term-description" style="display: none;"><span>Обтурация - закрытие просвета полого органа, в том числе кровеносного или лимфатического сосуда, обусловливающее нарушение его проходимости.</span><br/></span></aterm> просвета отростка и отсутствия гнойного воспаления клиника может быть стертой и заключаться только в эпизодических болях в правой подвздошной области в сочетании с задержкой стула и газов (кишечная колика).</div>
+<div>
+<br/>
+		У пожилых людей клиника может быть стертой даже в стадии развития острого деструктивного аппендицита.</div>
+</div>
+<br/>
+</div>
+</section>
+</div>
+</section>
+<section class="page-section" data-section-name="DIAGNOSTICS">
+<h2 class="page-section__title" id="diagnostics">
+        Диагностика    </h2>
+<div class="container">
+<div class="row page-section__row">
+<div style="text-align: justify;">
+<br/>
+<strong>1. Обзорная рентгенография</strong> иногда позволяет выявить тень камня в проекции слепой кишки.<br/>
+<br/>
+<strong>2. Рентгеноконтрастное исследование</strong> (двойное контрастирование с барием) позволяет выявить камень, обтурацию просвета отростка, но имеет ряд противопоказаний, связанных с возможной перфорацией отростка.<br/>
+<br/>
+<strong>3. КТ</strong> (с контрастированием или без) позволяет легко выявить камень и диагностировать аппендицит, а также провести дифференциальную диагностику с другими заболеваниями.<br/>
+<br/>
+<strong>4. УЗИ</strong> имеет высокую специфичность, но недостаточную чувствительность. Исследование часто бывает затруднено у тучных пациентов, при вздутии живота. <br/>
+<br/>
+	Зачастую каловые камни аппендикса выявляются случайно во время операции <aterm term="1">аппендэктомии<span class="term-description" style="display: none;"><span>Аппендэктомия - хирургическая операция удаления червеобразного отростка</span><br/></span></aterm>. Также случайно они могут обнаруживаться во время проведения КТ с целью обследования по другим поводам (малосимптомное течение вследствие малого размера и отсутствие бактериального воспаления).</div>
+</div>
+</div>
+</section>
+<section class="page-section" data-section-name="LABORATORYDIAGNOSTICS">
+<h2 class="page-section__title" id="laboratorydiagnostics">
+        Лабораторная диагностика    </h2>
+<div class="container">
+<div class="row page-section__row">
+<div style="text-align: justify;">
+<br/>
+	1. <strong>Общий анализ крови</strong>. У 70-90% пациентов с острым аппендицитом выявляется лейкоцитоз, уровень которого зависит от морфологической стадии заболевания, возраста пациента и других факторов. Лейкоцитоз имеет низкую специфичность в диагностике острого аппендицита, поскольку встречается и при других заболеваниях с симптомами "острого живота".<br/>
+	Необходимо иметь в виду, что у пожилых людей и лиц с иммунодефицитом в начальной стадии острого аппендицита возможно отсутствие изменений в периферической крови (лейкоцитоз, нейтрофилез, повышение СОЭ).</div>
+<div style="text-align: justify;">
+<br/>
+	2. <strong>Общий анализ мочи </strong>осуществляется с целью дифференциальной диагностики.<br/>
+	Согласно некоторым исследованиям, уровень 5-HIAA (5-гидроксииндолуксусная кислота, U-5-HIAA, 5-ОИУК) в моче может быть надежным маркером воспаления червеобразного отростка. При воспалении большое количество серотонина, продуцируемого клетками аппендикса, выделяется в кровь и превращается в 5-гидроксииндолуксусную кислоту, которая затем выделяется с мочой. <br/>
+	Значение 5-HIAA в 10 мкмоль/л принимается как точка отсечки. Чувствительность теста - 84%, специфичность - 88%. Положительные прогностические значения составляют 90%, отрицательные - 81%. Таким образом U-5-HIAA дает более высокую точность диагностики, чем у других обычных лабораторных тестов. При прогрессировании воспаления до некроза аппендикса, концентрация 5-HIAA уменьшается. Это снижение может быть предупреждением о перфорации червеобразного отростка.</div>
+<div style="text-align: justify;">
+<br/>
+	3. <strong>Биохимия </strong>проводится с целью дифференциальной диагностики.<br/>
+<br/>
+	4. <strong>Тесты на беременность</strong>, в частности, человеческий хорионический гонадотропин (HCG) обязательны. Положительный тест (беременность) не исключает возможности развития острого аппендицита.<br/>
+<br/>
+	У детей и молодых людей достаточно точным подтверждением диагноза острого аппендицита считается лабораторная триада: лейкоцитоз, нейтрофилез, повышение уровня С-реактивного белка. В группе пациентов старше 60 лет чувствительность и специфичность данной комбинации для подтверждения диагноза   снижаются.<br/>
+	 </div>
+</div>
+</div>
+</section>
+<section class="page-section" data-section-name="DIFFERENTIALDIAGNOSIS">
+<h2 class="page-section__title" id="differentialdiagnosis">
+        Дифференциальный диагноз    </h2>
+<div class="container">
+<div class="row page-section__row">
+<br/>
+</div>
+</div>
+</section>
+<section class="page-section" data-section-name="SEQUELAE">
+<h2 class="page-section__title" id="sequelae">
+        Осложнения    </h2>
+<div class="container">
+<div class="row page-section__row">
+<br/>
+</div>
+</div>
+</section>
+<section class="page-section" data-section-name="THERAPY">
+<h2 class="page-section__title" id="therapy">
+        Лечение    </h2>
+<div class="container">
+<div class="row page-section__row">
+<div>
+<br/>
+	Показано хирургическое лечение - <strong><aterm term="1">аппендэктомия</aterm></strong>.<br/>
+	Вследствие того, что каловые камни, как правило, приводят к деструктивным формам аппендицита и перфорации отростка, определенные споры возникают лишь о сроках вмешательства. По мнению некоторых авторов, операция может быть отстрочена на 8-12 часов и выполнена после массивной антибактериальной терапии в сочетании с другой консервативной терапией.<br/><br/>
+	Подробнее см.:<br/>
+	-  <a href="https://diseases.medelement.com/index.php/disease/view/NDYzMQ%253D%253D/fDEyfA%253D%253D" target="_blank">Острый аппендицит с перитонеальным абсцессом</a> - K35.1;<br/>
+	- <a href="https://diseases.medelement.com/index.php/disease/view/NDYzMA%253D%253D/fDEyfA%253D%253D" target="_blank">Острый аппендицит с генерализованным перитонитом</a> - K35.0.</div>
+</div>
+</div>
+</section>
+<section class="page-section" data-section-name="PROGNOSIS">
+<h2 class="page-section__title" id="prognosis">
+        Прогноз    </h2>
+<div class="container">
+<div class="row page-section__row">
+<div style="text-align: justify;">
+<br/>
+	Соответствует таковому при деструктивных формах аппендицита. Зависит от возраста, <aterm term="1">преморбидного фона<span class="term-description" style="display: none;"><span>Преморбидный фон - предшествующее и способствующее развитию болезни состояние организма</span><br/></span></aterm>, распространенности <aterm term="1">интраабдоминальной<span class="term-description" style="display: none;"><span>Интраабдоминальный - внутрибрюшной, расположенный или происходящий в брюшной полости</span><br/></span></aterm> инфекции.</div>
+</div>
+</div>
+</section>
+<section class="page-section" data-section-name="HOSPITALIZATION">
+<h2 class="page-section__title" id="hospitalization">
+        Госпитализация    </h2>
+<div class="container">
+<div class="row page-section__row">
+<div>
+<br/>
+	В хирургическое отделение. В случае развития клиники острого живота - в экстренном порядке. </div>
+</div>
+</div>
+</section>
+<section class="page-section" data-section-name="PROPHYLAXIS">
+<h2 class="page-section__title" id="prophylaxis">
+        Профилактика    </h2>
+<div class="container">
+<div class="row page-section__row">
+<div style="text-align: justify;">
+<br/>
+	Сводится к профилактике запоров.</div>
+</div>
+</div>
+</section>
+<section class="page-section" data-index="13">
+<h2 class="page-section__title" id="information">
+        Информация    </h2>
+<div class="container">
+<section class="row page-field" data-field-name="LISTOFREFERENCES">
+<h3 class="page-field__title text-left" id="listofreferences">
+                    Источники и литература                </h3>
+<div class="page-field__data">
+<ol id="AdditionalListSources" type="I">
+<li level="1">
+<span>Рэфтери Э. Хирургия. Справочник/под общ.редакцией Луцевича О.И., Пушкаря Д.Ю., Медпресс-информ, 2006</span>
+<ol type="1">
+</ol>
+</li>
+<li level="1">
+<span>"Ультразвуковая диагностика острого аппендицита"</span>
+<ol type="1">
+<li level="2">http://www.medicinform.net</li>
+</ol>
+</li>
+<li level="1">
+<span>"Червеобразный отросток"</span>
+<ol type="1">
+<li level="2">http://www.wikiznanie.ru</li>
+</ol>
+</li>
+</ol> </div>
+</section>
+</div>
+</section>
+<section class="page-section" data-section-name="ATTENTION">
+<h2 class="page-section__title" id="attention">
+        Внимание!    </h2>
+<div class="container">
+<div class="row page-section__row">
+<!--noindex-->
+<label class="attention-self-treatment-list__caption">Если вы не являетесь медицинским специалистом:</label>
+<ul class="attention-self-treatment-list">
+<li>
+        Занимаясь самолечением, вы можете нанести непоправимый вред своему здоровью.
+         
+    </li>
+<li>
+        Информация, размещенная на сайте MedElement, не может и не должна заменять очную консультацию врача.
+        Обязательно
+        обращайтесь в медицинские учреждения при наличии каких-либо заболеваний или беспокоящих вас симптомов.
+         
+    </li>
+<li>
+        Выбор лекарственных средств и их дозировки, должен быть оговорен со специалистом. Только врач может
+        назначить
+        нужное лекарство и его дозировку с учетом заболевания и состояния организма больного.
+         
+    </li>
+<li>
+        Сайт MedElement является исключительно информационно-справочным ресурсом. Информация, размещенная на данном
+        сайте, не должна использоваться для самовольного изменения предписаний врача.
+         
+    </li>
+<li>
+        Редакция MedElement не несет ответственности за какой-либо ущерб здоровью или материальный ущерб, возникший
+        в
+        результате использования данного сайта.
+    </li>
+</ul>
+<!--/noindex-->
+</div>
+</div>
+</section>
+</main>

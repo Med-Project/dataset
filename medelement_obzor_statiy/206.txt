@@ -1,0 +1,298 @@
+<main id="main">
+<section class="page-information disease-information">
+<div class="container">
+<h1 class="page-information__name disease-information__name">
+            Острый тиреоидит (E06.0)        </h1>
+<div class="disease-information__alternate-name">
+<label>Также: </label>
+                гнойный тиреоидит, острый гнойный тиреоидит            </div>
+<div class="disease-information__version-name">
+<p class="lead text-muted">
+                
+                Версия: Справочник заболеваний MedElement                </p>
+</div>
+<div class="disease-information__categories-mkb">
+<label>Категории МКБ: </label>
+                Острый тиреоидит (E06.0)            </div>
+<div class="disease-information__sections-medicine">
+<label>Разделы медицины: </label>
+                Эндокринология            </div>
+</div>
+</section>
+<section class="page-section" data-index="0">
+<h2 class="page-section__title" id="general_information">
+        Общая информация    </h2>
+<div class="container">
+<div class="page-links-actions">
+<ul>
+<li class="page-links-actions__item page-links-actions__item--print" data-ga-event-action="Клик по ссылке: Версия для печати" data-ga-event-category="Links actions" data-ga-event-label="" data-send-ga-event="">
+<a href="javascript:window.print()">Версия для печати
+                    <svg class="svg-icon svg-icon-printer" height="18" version="1.1" viewbox="0 0 24 24" width="18" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<path d="M18,3H6V7H18M19,12A1,1 0 0,1 18,11A1,1 0 0,1 19,10A1,1 0 0,1 20,11A1,1 0 0,1 19,12M16,19H8V14H16M19,8H5A3,3 0 0,0 2,11V17H6V21H18V17H22V11A3,3 0 0,0 19,8Z"></path>
+</svg>
+</a>
+</li>
+</ul>
+</div>
+<section class="row page-field" data-field-name="SHORTDESCRIPTION">
+<h3 class="page-field__title text-left" id="shortdescription">
+                    Краткое описание                </h3>
+<div class="page-field__data">
+<div style="text-align: justify;">
+<br/>
+<strong>Острый тиреоидит</strong> - это воспалительное заболевание щитовидной железы (ЩЖ), вызванное бактериальной инфекцией, чаще всего после перенесенного  острого тонзиллита, отита, синусита или пневмонии.  Инфицирование ЩЖ происходит  лимфатическим или гематогенным путями с последующим острым воспалением ЩЖ. Воспалительный процесс чаще всего захватывает только одну долю ЩЖ.<br/>
+<br/>
+<strong>Острый негнойный тиреоидит </strong>может быть вызван радиацией (радиационный) у больных, принимающих лечение большими дозами радиоактивного йода (например, по поводу диффузного токсического зоба) или после лучевой терапии, а также он может развиваться вследствие травмы и кровоизлияния в ЩЖ.</div>
+</div>
+</section>
+</div>
+</section>
+<section class="page-section" data-section-name="CLASSIFICATION">
+<h2 class="page-section__title" id="classification">
+        Классификация    </h2>
+<div class="container">
+<div class="row page-section__row">
+<br/>
+Острый тиреоидит (диффузный или очаговый) подразделяют  на <strong>гнойный</strong> и <strong>негнойный.</strong><br/>
+<br/>
+</div>
+</div>
+</section>
+<section class="page-section" data-section-name="ETIOLOGY">
+<h2 class="page-section__title" id="etiology">
+        Этиология и патогенез    </h2>
+<div class="container">
+<div class="row page-section__row">
+<div style="text-align: justify;">
+<br/>
+	Острый тиреоидит вызывается проникновением бактериальной инфекции, чаще всего золотистым стафилококком, <aterm term="1">пиогенным<span class="term-description" style="display: none;"><span>Пиогенный -  вызывающий образование гноя</span><br/></span></aterm> стрептококком, пневмококком.  По причине широкого применения антибиотиков  для лечения кокковых инфекций, эта форма тиреоидита очень редко встречается. Тем не менее после перенесенных пневмоний, острого тонзиллита. синусита, отита бактерии могут быть занесены в ЩЖ гематогенным  или лимфогенным путями, что вызывает ее воспаление.<br/>
+	Воспалительный процесс проходит все характерные стадии: <aterm term="1">пролиферации<span class="term-description" style="display: none;"><span>Пролиферация - увеличение числа клеток какой-либо ткани вследствие их размножения</span><br/></span></aterm>, <aterm term="1">экссудации<span class="term-description" style="display: none;"><span>Экссудация - процесс перемещения богатой белком жидкости из мелких вен и капилляров в окружающие ткани и полости организма; проявление воспаления.</span><br/></span></aterm>, <aterm term="1">альтерации<span class="term-description" style="display: none;"><span>Альтерация - изменение структуры клеток, тканей и органов, вызванное нарушением их жизнедеятельности</span><br/></span></aterm>. <br/>
+	Как правило, воспаление захватывает участок доли или всю долю целиком. Пиогенные изменения чаще имеют локальный характер и поражают преимущественно левую долю (очень редко всю железу). В некоторых случаях они могут спонтанно рассасываться или могут формировать абсцессы. При нагноении отмечается экспансивное разрушение ЩЖ и ее капсулы. В этом случает процесс распространяется по шее, вплоть до <aterm term="1">средостения<span class="term-description" style="display: none;"><span>Средостение - часть грудной полости, расположенная между правым и левым плевральными мешками, ограниченная спереди грудиной, сзади грудным отделом позвоночника, снизу диафрагмой, сверху верхней апертурой грудной клетки.</span><br/></span></aterm>.</div>
+</div>
+</div>
+</section>
+<section class="page-section" data-section-name="EPIDEMIOLOGY">
+<h2 class="page-section__title" id="epidemiology">
+        Эпидемиология    </h2>
+<div class="container">
+<div class="row page-section__row">
+<br/>
+Острый тиреоидит встречается крайне редко.
+                    </div>
+</div>
+</section>
+<section class="page-section" data-section-name="FACTORSANDRISKGROUPS">
+<h2 class="page-section__title" id="factorsandriskgroups">
+        Факторы и группы риска    </h2>
+<div class="container">
+<div class="row page-section__row">
+<div style="text-align: justify;">
+<br/>
+	1. <strong>Гнойный тиреоидит:</strong>  инфицирование ЩЖ  вследствие перенесенного острого отита, тонзиллита, пневмонии.<br/>
+<br/>
+	2. <strong>Негнойный тиреоидит:</strong> асептическое воспаление вследствие травмы,  кровоизлияния в ЩЖ после лучевой терапии, лечения большими дозами радиоактивного йода по поводу  диффузного токсического зоба.</div>
+</div>
+</div>
+</section>
+<section class="page-section" data-index="5">
+<h2 class="page-section__title" id="clinical">
+        Клиническая картина    </h2>
+<div class="container">
+<section class="row page-field" data-field-name="ANTIPRAXIA">
+<h3 class="page-field__title text-left" id="antipraxia">
+                    Cимптомы, течение                </h3>
+<div class="page-field__data">
+<div style="text-align: justify;">
+<br/>
+<strong>Острый гнойный тиреоидит</strong> характеризуется внезапным началом. Наблюдаются повышение температуры до 39-40 градусов<font size="1"> </font>С, появление озноба и тахикардии. Появляется боль в области ЩЖ (передней поверхности шеи), усиливающаяся при глотании, поворотах головы, часто с <aterm term="1">иррадиацией<span class="term-description" style="display: none;"><span>Иррадиация - распространение болевых ощущений за пределы пораженного участка или органа.</span><br/></span></aterm> в ухо, нижнюю (иногда верхнюю) челюсть.<br/>
+	При пальпации ЩЖ увеличена в объеме,  болезненна, в одной из долей присутствуют все <strong>признаки воспаления: </strong><br/>
+	- отечность;<br/>
+	- местное повышение температуры;<br/>
+	- болезненность;<br/>
+	- покраснение.<br/>
+	Через несколько дней после начала заболевания, при его естественном течении, в месте поражения появляется очаг <aterm term="1">флюктуации<span class="term-description" style="display: none;"><span>Флюктуация - колебания в полости, наполненной жидкостью (например, гноем, транссудатом), вызываемые толчком пальцами одной руки и ощущаемые пальцами другой руки при двуручной пальпации</span><br/></span></aterm>, гиперемия кожи с последующим вскрытием абсцесса наружу (формирование свищей  с прорывом содержимого на переднюю поверхность шеи) или в средостение, что приводит к развитию <aterm term="1">медиастинита<span class="term-description" style="display: none;"><span>Медиастинит - воспаление клетчатки средостения.</span><br/></span></aterm> и резкому ухудшению прогноза.<br/>
+<br/>
+	При <strong>остром негнойном тиреоидите </strong>появляются болезненность и чувство давления в области ЩЖ, клинические признаки <aterm term="1">тиреотоксикоза<span class="term-description" style="display: none;"><span>Тиреотоксикоз - патологическое состояние, обусловленное поступлением в организм чрезмерного количества гормонов щитовидной железы и характеризующееся повышением основного обмена, нарушениями функций нервной и сердечно-сосудистой систем.</span><br/></span></aterm> (тахикардия, потливость, эмоциональная <aterm term="1">лабильность<span class="term-description" style="display: none;"><span>Лабильность - функциональная подвижность, скорость протекания элементарных циклов возбуждения в нервной и мышечной тканях</span><br/></span></aterm>).</div>
+</div>
+</section>
+</div>
+</section>
+<section class="page-section" data-section-name="DIAGNOSTICS">
+<h2 class="page-section__title" id="diagnostics">
+        Диагностика    </h2>
+<div class="container">
+<div class="row page-section__row">
+<div style="text-align: justify;">
+<br/>
+<strong>Диагноз ставится на основании:</strong><br/>
+	- анамнестических данных (наличие первичного очага инфекции, травмы, радиационного фактора);<br/>
+	- быстрого нарастания температуры и болей с иррадиацией в ухо и челюсть;<br/>
+	- положительного эффекта от лечения антибиотиками;<br/>
+	- отсутствия нарушения функции ЩЖ.<br/>
+<br/>
+<strong>На УЗИ: </strong>в области поражения ЩЖ - зона со сниженной эхогенностью, при сканировании - "холодный узел" или участок с пониженным поглощением изотопа.<br/>
+<br/>
+	Дополнительную информацию можно получить путем тонкоигольной аспирационной биопсии с целью посева материала для выявления возбудителя и определения чувствительности содержимого  к антибиотикам.</div>
+</div>
+</div>
+</section>
+<section class="page-section" data-section-name="LABORATORYDIAGNOSTICS">
+<h2 class="page-section__title" id="laboratorydiagnostics">
+        Лабораторная диагностика    </h2>
+<div class="container">
+<div class="row page-section__row">
+<div style="text-align: justify;">
+<br/>
+<strong>Общий анализ крови:</strong> лейкоцитоз со сдвигом лейкоцитарной формулы влево, умеренное  повышение СОЭ до 20-30 мм/ч.</div>
+<div style="text-align: justify;">
+<br/>
+<strong>Гормоны ЩЖ:</strong> Т<sub>3</sub>, Т<sub>4</sub>, ТТГ, ат-ТГ, ат-ТПО - в норме.</div>
+</div>
+</div>
+</section>
+<section class="page-section" data-section-name="DIFFERENTIALDIAGNOSIS">
+<h2 class="page-section__title" id="differentialdiagnosis">
+        Дифференциальный диагноз    </h2>
+<div class="container">
+<div class="row page-section__row">
+<div>
+<br/>
+	- подострый тиреоидит;<br/>
+	- флегмона шеи;<br/>
+	- острые кровоизлияния в кисту ЩЖ;<br/>
+	- аденома и рак ЩЖ.</div>
+</div>
+</div>
+</section>
+<section class="page-section" data-section-name="SEQUELAE">
+<h2 class="page-section__title" id="sequelae">
+        Осложнения    </h2>
+<div class="container">
+<div class="row page-section__row">
+<div style="text-align: justify;">
+<br/>
+	- свищи;<br/>
+	- острый гнойный медиастинит;<br/>
+	- тромбоз близрасположенных вен;<br/>
+	- постлучевые тиреоидиты;<br/>
+	- компрессия органов средостения  при загрудинном расположении ЩЖ  вследствие ее воспаления.</div>
+</div>
+</div>
+</section>
+<section class="page-section" data-section-name="THERAPY">
+<h2 class="page-section__title" id="therapy">
+        Лечение    </h2>
+<div class="container">
+<div class="row page-section__row">
+<div>
+<br/><strong>Острый гнойный тиреоидит</strong><br/>
+	1. Антибактериальная терапия парентерально с учетом чувствительности выявленных возбудителей: амоксициклин/клавуланат в/в 1000 мг 3 р.\сут. - 5 суток или цефазолин в/в или в/м 1000 мг 3 р./сут. - 5 суток.<br/>
+	 </div><div>
+	2. Вскрытие и дренирование абсцесса.<br/><br/><strong>Острый негнойный тиреоидит</strong><br/>
+	1. Симптоматическая терапия ß-адреноблокаторами (пропроналол внутрь 20-40 мг 3-4 р./сут.) до ликвидации клиничсеких проявлений.<br/>
+	2. Анальгетики.<br/>
+	3. Нестероидные противовоспалительные препараты.</div>
+</div>
+</div>
+</section>
+<section class="page-section" data-section-name="PROGNOSIS">
+<h2 class="page-section__title" id="prognosis">
+        Прогноз    </h2>
+<div class="container">
+<div class="row page-section__row">
+<br/>
+При своевременной диагностике и адекватном лечении прогноз благоприятен. Крайне редко встречаются рецидивы острого тиреоидита, <aterm term="1">гипотиреоз<span class="term-description" style="display: none;"><span>Гипотиреоз -  синдром недостаточности щитовидной железы, характеризующийся нервно-психическими расстройствами, отеками лица, конечностей и туловища, брадикардией</span><br/></span></aterm>.
+                    </div>
+</div>
+</section>
+<section class="page-section" data-section-name="HOSPITALIZATION">
+<h2 class="page-section__title" id="hospitalization">
+        Госпитализация    </h2>
+<div class="container">
+<div class="row page-section__row">
+<br/>
+В течение 5-7 дней.
+                    </div>
+</div>
+</section>
+<section class="page-section" data-section-name="PROPHYLAXIS">
+<h2 class="page-section__title" id="prophylaxis">
+        Профилактика    </h2>
+<div class="container">
+<div class="row page-section__row">
+<br/>
+Первичная профилактика отсутствует.
+                    </div>
+</div>
+</section>
+<section class="page-section" data-index="14">
+<h2 class="page-section__title" id="information">
+        Информация    </h2>
+<div class="container">
+<section class="row page-field" data-field-name="LISTOFREFERENCES">
+<h3 class="page-field__title text-left" id="listofreferences">
+                    Источники и литература                </h3>
+<div class="page-field__data">
+<ol id="AdditionalListSources" type="I">
+<li level="1">
+<span>Балаболкин М.И., Клебанова Е.М., Креминская В.М. Дифференциальная диагностика и лечение эндокринных заболеваний. Руководство, М., 2002</span>
+<ol type="1">
+<li level="2">стр. 271-272</li>
+</ol>
+</li>
+<li level="1">
+<span>Дедов И.И, Мельниченко Г.А. Эндокринология. Национальное руководство, 2012. </span>
+<ol type="1">
+<li level="2">Том ХII, стр. 352-355</li>
+</ol>
+</li>
+<li level="1">
+<span>Старкова Н.Т. Руководство по клинической эндокринологии, СПб, 1996 </span>
+<ol type="1">
+<li level="2">стр.159-161</li>
+</ol>
+</li>
+</ol> </div>
+</section>
+</div>
+</section>
+<section class="page-section" data-section-name="ATTENTION">
+<h2 class="page-section__title" id="attention">
+        Внимание!    </h2>
+<div class="container">
+<div class="row page-section__row">
+<!--noindex-->
+<label class="attention-self-treatment-list__caption">Если вы не являетесь медицинским специалистом:</label>
+<ul class="attention-self-treatment-list">
+<li>
+        Занимаясь самолечением, вы можете нанести непоправимый вред своему здоровью.
+         
+    </li>
+<li>
+        Информация, размещенная на сайте MedElement, не может и не должна заменять очную консультацию врача.
+        Обязательно
+        обращайтесь в медицинские учреждения при наличии каких-либо заболеваний или беспокоящих вас симптомов.
+         
+    </li>
+<li>
+        Выбор лекарственных средств и их дозировки, должен быть оговорен со специалистом. Только врач может
+        назначить
+        нужное лекарство и его дозировку с учетом заболевания и состояния организма больного.
+         
+    </li>
+<li>
+        Сайт MedElement является исключительно информационно-справочным ресурсом. Информация, размещенная на данном
+        сайте, не должна использоваться для самовольного изменения предписаний врача.
+         
+    </li>
+<li>
+        Редакция MedElement не несет ответственности за какой-либо ущерб здоровью или материальный ущерб, возникший
+        в
+        результате использования данного сайта.
+    </li>
+</ul>
+<!--/noindex-->
+</div>
+</div>
+</section>
+</main>

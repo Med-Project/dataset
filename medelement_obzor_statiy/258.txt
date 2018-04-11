@@ -1,0 +1,318 @@
+<main id="main">
+<section class="page-information disease-information">
+<div class="container">
+<h1 class="page-information__name disease-information__name">
+            Синдром Барретта (K22.7)        </h1>
+<div class="disease-information__alternate-name">
+<label>Также: </label>
+                пищевод Барретта, язва Барретта, метаплазия Барретта, эндобрахиэзофагус            </div>
+<div class="disease-information__version-name">
+<p class="lead text-muted">
+                
+                Версия: Справочник заболеваний MedElement                </p>
+</div>
+<div class="disease-information__categories-mkb">
+<label>Категории МКБ: </label>
+                Синдром барретта (K22.7)            </div>
+<div class="disease-information__sections-medicine">
+<label>Разделы медицины: </label>
+                Гастроэнтерология            </div>
+</div>
+</section>
+<section class="page-section" data-index="0">
+<h2 class="page-section__title" id="general_information">
+        Общая информация    </h2>
+<div class="container">
+<div class="page-links-actions">
+<ul>
+<li class="page-links-actions__item page-links-actions__item--print" data-ga-event-action="Клик по ссылке: Версия для печати" data-ga-event-category="Links actions" data-ga-event-label="" data-send-ga-event="">
+<a href="javascript:window.print()">Версия для печати
+                    <svg class="svg-icon svg-icon-printer" height="18" version="1.1" viewbox="0 0 24 24" width="18" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<path d="M18,3H6V7H18M19,12A1,1 0 0,1 18,11A1,1 0 0,1 19,10A1,1 0 0,1 20,11A1,1 0 0,1 19,12M16,19H8V14H16M19,8H5A3,3 0 0,0 2,11V17H6V21H18V17H22V11A3,3 0 0,0 19,8Z"></path>
+</svg>
+</a>
+</li>
+</ul>
+</div>
+<section class="row page-field" data-field-name="SHORTDESCRIPTION">
+<h3 class="page-field__title text-left" id="shortdescription">
+                    Краткое описание                </h3>
+<div class="page-field__data">
+<div style="text-align: justify; ">
+<br/>
+<strong>Пищевод Барретта</strong> - это приобретенное предраковое состояние, развивающееся у больных <aterm term="1">ГЭРБ<span class="term-description" style="display: none;"><span>Гастроэзофагеальная рефлюксная болезнь (ГЭРБ) - хроническое рецидивирующее заболевание, обусловленное спонтанным, регулярно повторяющимся забросом в пищевод желудочного и/или дуоденального содержимого,  что приводит к поражению нижнего отдела пищевода.
+Часто сопровождается развитием воспаления слизистой дистального отдела пищевода - рефлюкс-эзофагитом<span class="term-description" style="display: none;"><span>Эзофагит - воспаление слизистой оболочки пищевода.</span><br/><a class="tooltip-term__more" href="https://diseases.medelement.com/index.php/disease/view/NDU4NA%3D%3D/0" target="_blank" title="Подробнее о эзофагитом">Подробно</a></span>, и/или формированием пептической язвы и пептической стриктуры пищевода, пищеводно-желудочных кровотечений и других осложнений</span><br/><img class="tooltip-term__img" data-link="https://diseases.medelement.com/upload/21441763743e4c828947bee3dc064df4.jpg" src="/images/tooltip/image.svg" title="Открыть изображение"/><a class="tooltip-term__more" href="https://diseases.medelement.com/index.php/disease/view/NDU4Nw%3D%3D/0" target="_blank" title="Подробнее о ГЭРБ">Подробно</a></span></aterm> и обусловленное хроническим забросом соляной кислоты и желчи в пищевод.<br/>
+	Пищевод Барретта характеризуется наличием желудочной <aterm term="1">метаплазии<span class="term-description" style="display: none;"><span>Метаплазия - стойкое замещение дифференцированных клеток одного типа дифференцированными клетками другого типа при сохранении основной видовой принадлежности ткани. </span><br/></span></aterm> слизистой оболочки пищевода проксимальнее желудочно-пищеводного соединения более чем на 2,5 см.<br/>
+	В последние годы морфологическим субстратом пищевода Барретта считают прогрессирующую метаплазию слизистой оболочки дистальной части пищевода по кишечному типу, связанную с <aterm term="1">ГЭР<span class="term-description" style="display: none;"><span>ГЭР - гастроэзофагеальный рефлюкс</span><br/><img class="tooltip-term__img" data-link="https://diseases.medelement.com/upload/21441763743e4c828947bee3dc064df4.jpg" src="/images/tooltip/image.svg" title="Открыть изображение"/><a class="tooltip-term__more" href="https://diseases.medelement.com/index.php/disease/view/NDU4Nw%3D%3D/0" target="_blank" title="Подробнее о ГЭР">Подробно</a></span></aterm> и <aterm term="1">эзофагитом<span class="term-description" style="display: none;"><span>Эзофагит - воспаление слизистой оболочки пищевода.</span><br/><a class="tooltip-term__more" href="https://diseases.medelement.com/index.php/disease/view/NDU4NA%3D%3D/0" target="_blank" title="Подробнее о эзофагитом">Подробно</a></span></aterm>.</div>
+<br/>
+<img alt="Пищевод Барретта (синдром Барретта)" height-fact="600" id="preview_image" src="https://diseases.medelement.com/upload/d0ed92fe2dc6ce533e9e5d266e8ac2b5.jpg" style="width: 300px; height: 300px; border-width: 0px; border-style: solid; margin-left: 0px; margin-top: 0px;" title="Пищевод Барретта (синдром Барретта)" width-fact="600"/> </div>
+</section>
+</div>
+</section>
+<section class="page-section" data-section-name="CLASSIFICATION">
+<h2 class="page-section__title" id="classification">
+        Классификация    </h2>
+<div class="container">
+<div class="row page-section__row">
+<div style="text-align: justify; ">
+<br/>
+	Различают пищевод Барретта с <aterm term="1">дисплазией<span class="term-description" style="display: none;"><span>Дисплазия - неправильное развитие тканей и органов.</span><br/></span></aterm> высокой (5% больных) и низкой степени (34% больных), а также короткий сегмент (30-40% больных) и длинный сегмент пищевода Барретта. Если кишечная метаплазия неполного типа выявляется в кардии или ниже пищеводно-желудочного перехода, то это специализированная интестинальная метаплазия кардии.</div>
+</div>
+</div>
+</section>
+<section class="page-section" data-section-name="ETIOLOGY">
+<h2 class="page-section__title" id="etiology">
+        Этиология и патогенез    </h2>
+<div class="container">
+<div class="row page-section__row">
+<div style="text-align: justify; ">
+<br/>
+	Пищевод Барретта представляет собой осложнение <aterm term="1">ГЭРБ<span class="term-description" style="display: none;"><span>Гастроэзофагеальная рефлюксная болезнь (ГЭРБ) - хроническое рецидивирующее заболевание, обусловленное спонтанным, регулярно повторяющимся забросом в пищевод желудочного и/или дуоденального содержимого,  что приводит к поражению нижнего отдела пищевода.
+Часто сопровождается развитием воспаления слизистой дистального отдела пищевода - рефлюкс-эзофагитом, и/или формированием пептической язвы и пептической стриктуры пищевода, пищеводно-желудочных кровотечений и других осложнений</span><br/><img class="tooltip-term__img" data-link="https://diseases.medelement.com/upload/21441763743e4c828947bee3dc064df4.jpg" src="/images/tooltip/image.svg" title="Открыть изображение"/><a class="tooltip-term__more" href="https://diseases.medelement.com/index.php/disease/view/NDU4Nw%3D%3D/0" target="_blank" title="Подробнее о ГЭРБ">Подробно</a></span></aterm>, возникающее в результате повреждения <aterm term="1">рефлюксатом<span class="term-description" style="display: none;"><span>Рефлюксат - содержимое желудка, забрасываемое в пищевод в результате рефлюкса (обратный ток содержимого полых органов по сравнению с нормальным его движением)</span><br/></span></aterm> многослойного плоского эпителия дистального отдела пищевода и замещения его специализированным цилиндрическим эпителием.<br/>
+<br/>
+<img alt="Синдром Барретта. Метаплазия." height-fact="600" id="preview_image" src="https://diseases.medelement.com/upload/a82f9010fe5c903894a7b1b276efa71b.jpg" style="width: 400px; height: 235px; border-width: 0px; border-style: solid; margin-left: 0px; margin-top: 0px; float: none;" title="Синдром Барретта. Метаплазия." width-fact="1024"/><br/>
+<br/>
+	К предрасполагающим факторам развития пищевода Барретта относят: транзиторные релаксации нижнего пищеводного сфинктера, высокую базальную секрецию соляной кислоты, пониженную чувствительность слизистой оболочки пищевода, сниженную секрецию эпидермального фактора роста, нарушения <aterm term="1">пролиферации<span class="term-description" style="display: none;"><span>Пролиферация - увеличение числа клеток какой-либо ткани вследствие их размножения</span><br/></span></aterm> плоского эпителия.<br/>
+<br/>
+	Наличие синдрома Барретта в десятки раз повышает риск развития рака пищевода (Старостин Б.Д., 2002). Вероятность развития <aterm term="1">аденокарциномы<span class="term-description" style="display: none;"><span>Аденокарцинома - злокачественная опухоль, происходящая и построенная из железистого эпителия.</span><br/></span></aterm> при пищеводе Барретта достигает 10-50%, это в 60-100 раз выше, чем в популяции. Временной интервал прогрессии от дисплазии низкой степени к дисплазии высокой степени составляет от 1,5 до 4 лет, а от дисплазии высокой степени к аденокарциноме пищевода - от 5 до 21 мес.<br/>
+	 </div>
+</div>
+</div>
+</section>
+<section class="page-section" data-section-name="EPIDEMIOLOGY">
+<h2 class="page-section__title" id="epidemiology">
+        Эпидемиология    </h2>
+<div class="container">
+<div class="row page-section__row">
+<p>Признак распространенности: Редко</p>
+<br/>
+<div style="text-align: justify; ">
+	Пищевод Барретта развивается у 10-12,5% взрослых больных ГЭРБ, тогда как частота его в популяции составляет 0,4-2,0% (Билхари Л.И., 1998). <br/>
+	Пищевод Барретта диагностируют у 8-20% больных <aterm term="1">эзофагитами<span class="term-description" style="display: none;"><span>Эзофагит - воспаление слизистой оболочки пищевода.</span><br/><a class="tooltip-term__more" href="https://diseases.medelement.com/index.php/disease/view/NDU4NA%3D%3D/0" target="_blank" title="Подробнее о эзофагитами">Подробно</a></span></aterm> (Spechler S.J., Goyal R.K., 1986).<br/>
+	Истинная распространенность пищевода Барретта, расцениваемого как предраковое состояние, более высокая, что подтверждается данными аутопсии, в соответствии с которыми его частота в 16-21 раз превышает уровень прижизненно диагностированных случаев (Ивашкин В.Т., Трухманов А.С., 2002).<br/>
+	По данным литературных источников, пищевод Барретта диагностируют у 7-13% детей с симптомами ГЭРБ (Приворотский В.Ф. и др., 2001).</div>
+</div>
+</div>
+</section>
+<section class="page-section" data-section-name="FACTORSANDRISKGROUPS">
+<h2 class="page-section__title" id="factorsandriskgroups">
+        Факторы и группы риска    </h2>
+<div class="container">
+<div class="row page-section__row">
+<br/>
+<span style="text-align: justify; ">В группе риска находятся пожилые мужчины белой расы, пациенты с длительным анамнезом и клиникой ГЭРБ, курильщики, лица с ожирением.</span>
+</div>
+</div>
+</section>
+<section class="page-section" data-index="5">
+<h2 class="page-section__title" id="clinical">
+        Клиническая картина    </h2>
+<div class="container">
+<section class="row page-field" data-field-name="THESIS">
+<h3 class="page-field__title text-left" id="thesis">
+                    Клинические критерии диагностики                </h3>
+<div class="page-field__data">
+                    
+                    дисфагия, отрыжка, боль в эпигастрии, рвота, рвота алой кровью                </div>
+</section>
+<section class="row page-field" data-field-name="ANTIPRAXIA">
+<h3 class="page-field__title text-left" id="antipraxia">
+                    Cимптомы, течение                </h3>
+<div class="page-field__data">
+<div style="text-align: justify; ">
+<br/>
+	Симптомы пищевода Барретта совпадают с <a href="https://diseases.medelement.com/index.php/disease/view/NDU4Nw%253D%253D/fDd8MTl8">клиникой ГЭРБ</a>. Это изжога, отрыжка, срыгивание, боли в верхней половине <aterm term="1">эпигастрия<span class="term-description" style="display: none;"><span>Эпигастрий - область живота, ограниченная сверху диафрагмой, снизу горизонтальной плоскостью, проходящей через прямую, соединяющую наиболее низкие точки десятых ребер.</span><br/></span></aterm> после еды.</div>
+<div style="text-align: justify; ">
+	Тревожной симптоматикой являются: <aterm term="1">дисфагия<span class="term-description" style="display: none;"><span>Дисфагия - общее название расстройств глотания</span><br/></span></aterm>, рвота, кровотечения, анемия, снижение массы тела.</div>
+</div>
+</section>
+</div>
+</section>
+<section class="page-section" data-section-name="DIAGNOSTICS">
+<h2 class="page-section__title" id="diagnostics">
+        Диагностика    </h2>
+<div class="container">
+<div class="row page-section__row">
+<div style="text-align: justify; ">
+<br/>
+	Диагноз "пищевод Барретта" ставится на основании клинических данных и результатов обследования.</div>
+<br/>
+<strong>Инструментальная диагностика</strong><br/>
+<div style="text-align: justify; ">
+<br/>
+<strong>Обязательные исследования</strong>: эндоскопическое исследование верхнего отдела пищеварительного тракта с выявлением очагов метаплазированного эпителия слизистой оболочки пищевода (более информативны хромоэзофагоскопия, флуоресцентная эзофагоскопия), гистологическое исследование биоптатов измененной слизистой оболочки пищевода - остаются т.н. "золотым стандартом" диагностики.<br/>
+<br/>
+<strong>Дополнительные исследования</strong>:  24-часовое мониторирование рН в пищеводе, манометрия (сфинктры), импедансометрия. В диагностике ГЭРБ указанные методы имеют большое значение, занимая третье ме­сто после клинической оценки и эндоскопии.</div>
+<div style="text-align: justify; ">
+	Также используются рентгеноконтрастное исследование пищевода (в условиях двойного контрастирования и "тугого наполнения") и желудка (в положении Тренделенбурга), эндосонография пищевода, оптическая когерентная томография, лазерная спектроскопия.</div>
+</div>
+</div>
+</section>
+<section class="page-section" data-section-name="LABORATORYDIAGNOSTICS">
+<h2 class="page-section__title" id="laboratorydiagnostics">
+        Лабораторная диагностика    </h2>
+<div class="container">
+<div class="row page-section__row">
+<div style="text-align: justify; ">
+<br/>
+	Патогномоничных лабораторных признаков пищевода Барретта нет.<br/>
+<br/>
+<strong>Обязательные исследования</strong>: общий анализ крови.<br/>
+<br/>
+<strong>Дополнительные исследования </strong>(проводятся для выявления осложнений и дифференциальной диагностики с другими заболеваниями): биохимический анализ крови (общий белок, глюкоза, АлАТ, АсАТ, амилаза, ЩФ).<br/>
+<br/>
+	В связи с тем, что у ряда лиц предполагается врожденная склонность к данной патологии, возможно проведение исследования генетических маркеров дисплазии пищевода (например р53) с целью выявления рисков.<br/>
+	 </div>
+</div>
+</div>
+</section>
+<section class="page-section" data-section-name="DIFFERENTIALDIAGNOSIS">
+<h2 class="page-section__title" id="differentialdiagnosis">
+        Дифференциальный диагноз    </h2>
+<div class="container">
+<div class="row page-section__row">
+<div>
+<br/>
+	Дифференциальный диагноз проводится со всеми заболеваниями пищевода, протекающими с клиникой эзофагита.<br/>
+	 </div>
+</div>
+</div>
+</section>
+<section class="page-section" data-section-name="SEQUELAE">
+<h2 class="page-section__title" id="sequelae">
+        Осложнения    </h2>
+<div class="container">
+<div class="row page-section__row">
+<br/>
+Осложнениями являются развитие рака (частота до 1% в год) и возможные кровотечения. Прочие осложнения соответсвуют таковым при ГЭРБ.<br/>
+<br/>
+</div>
+</div>
+</section>
+<section class="page-section" data-section-name="THERAPY">
+<h2 class="page-section__title" id="therapy">
+        Лечение    </h2>
+<div class="container">
+<div class="row page-section__row">
+<br/><strong>Соответствует принципам лечения ГЭРБ.</strong><br/><br/><p>
+Целями лечения являются:<br/>
+- подавление клинических проявлений ГЭРБ;<br/>
+- заживление эрозивного эзофагита;<br/>
+- профилактика аденокарциномы.<br/><br/>
+С целью профилактики аденокарциномы используется регулярная эндокскопия с биопсией. Частота процедур определяется степенью дисплазии. При высокой степени дисплазии показания к хирургическому лечению рассматриваются как можно скорее.<br/></p><div>
+<br/><strong>Хирургическое лечение</strong><br/>
+	Показаниями к хирургическому лечению являются: дисплазия эпителия высокой степени; <aterm term="1">пептические стриктуры пищевода</aterm>; повторные пищеводные кровотечения; упорное течение язвы пищевода; подозрение на малигнизацию.<br/>
+	Используют различные варианты трансэндоскопической деструкции эпителия пищевода Барретта: фотодинамическая терапия с использованием фотосенсибилизирующего средства, которое накапливается в эпителии пищевода Барретта; лазерная деструкция; аргоновая плазменная коагуляция; мультиполярная электрокоагуляция; криотерапия; ультразвуковая деструкция; эндоскопическая резекция слизистой оболочки пищевода Барретта.</div><br/>
+</div>
+</div>
+</section>
+<section class="page-section" data-section-name="PROGNOSIS">
+<h2 class="page-section__title" id="prognosis">
+        Прогноз    </h2>
+<div class="container">
+<div class="row page-section__row">
+<div style="text-align: justify; ">
+<br/>
+	Риск развития <aterm term="1">аденокарциномы<span class="term-description" style="display: none;"><span>Аденокарцинома - злокачественная опухоль, происходящая и построенная из железистого эпителия.</span><br/></span></aterm> пищевода у взрослых больных с длинным сегментом пищевода Барретта составляет 0,5-0,8% в год, у больных с коротким сегментом - существенно ниже, возможна  регрессия патологических изменений слизистой оболочки пищевода под влиянием консервативной терапии. Излечение при консервативной терапии по различным данным составляет от 2% до 8%. Эффектвность хирургического лечения антирефлюксными операциями составляет в США в среднем 4%.</div>
+</div>
+</div>
+</section>
+<section class="page-section" data-section-name="HOSPITALIZATION">
+<h2 class="page-section__title" id="hospitalization">
+        Госпитализация    </h2>
+<div class="container">
+<div class="row page-section__row">
+<div>
+<br/>
+	Лечение больных с пищеводом Барретта проводят в основном в стационаре. В последнее время экономически обусловленными считаются амбулаторная консервативная терапия, диагностика и контроль.</div>
+</div>
+</div>
+</section>
+<section class="page-section" data-section-name="PROPHYLAXIS">
+<h2 class="page-section__title" id="prophylaxis">
+        Профилактика    </h2>
+<div class="container">
+<div class="row page-section__row">
+<div style="text-align: justify; ">
+<br/>
+	Профилактика соответсвует профилактике ГЭРБ.</div>
+</div>
+</div>
+</section>
+<section class="page-section" data-index="14">
+<h2 class="page-section__title" id="information">
+        Информация    </h2>
+<div class="container">
+<section class="row page-field" data-field-name="LISTOFREFERENCES">
+<h3 class="page-field__title text-left" id="listofreferences">
+                    Источники и литература                </h3>
+<div class="page-field__data">
+<ol id="AdditionalListSources" type="I">
+<li level="1">
+<span>Детская гастроэнтерология: руководство для врачей /под ред. проф. Шабалова Н.П., 2011</span>
+<ol type="1">
+<li level="2">стр 276-279</li>
+</ol>
+</li>
+<li level="1">
+<span>Ивашкин В.Т., Лапина Т.Л. Гастроэнтерология. Национальное руководство. Научно-практическое издание, 2008   </span>
+<ol type="1">
+<li level="2">стр 121</li>
+</ol>
+</li>
+<li level="1">
+<span>МакНелли Питер Р. Секреты гастроэнтерологии/ перевод с англ. под редакцией проф. Апросиной З.Г., Бином, 2005</span>
+<ol type="1">
+<li level="2">стр 65-66</li>
+</ol>
+</li>
+<li level="1">
+<span>http://www.gastro-j.ru - Российский журнал гастроэнтерологии, гепатологии, колопроктологии</span>
+<ol type="1">
+<li level="2">РЖГГК. - 2008. - Т.18. - №3. - С.15-24. Клиническая картина, факторы риска и иммуногистохимические маркеры при пищеводе Баррета С.С. Кардашева, А.С. Трухманов, Т.А. Демура, М.Ю. Коньков, О.А. Склянская, Е.А. Коган, В.Т. Ивашкин (Кафедра пропедевтики внутренних болезней, Кафедра патологической анатомии Московской медицинской академии им. И.М. Сеченова)</li>
+</ol>
+</li>
+</ol> </div>
+</section>
+</div>
+</section>
+<section class="page-section" data-section-name="ATTENTION">
+<h2 class="page-section__title" id="attention">
+        Внимание!    </h2>
+<div class="container">
+<div class="row page-section__row">
+<!--noindex-->
+<label class="attention-self-treatment-list__caption">Если вы не являетесь медицинским специалистом:</label>
+<ul class="attention-self-treatment-list">
+<li>
+        Занимаясь самолечением, вы можете нанести непоправимый вред своему здоровью.
+         
+    </li>
+<li>
+        Информация, размещенная на сайте MedElement, не может и не должна заменять очную консультацию врача.
+        Обязательно
+        обращайтесь в медицинские учреждения при наличии каких-либо заболеваний или беспокоящих вас симптомов.
+         
+    </li>
+<li>
+        Выбор лекарственных средств и их дозировки, должен быть оговорен со специалистом. Только врач может
+        назначить
+        нужное лекарство и его дозировку с учетом заболевания и состояния организма больного.
+         
+    </li>
+<li>
+        Сайт MedElement является исключительно информационно-справочным ресурсом. Информация, размещенная на данном
+        сайте, не должна использоваться для самовольного изменения предписаний врача.
+         
+    </li>
+<li>
+        Редакция MedElement не несет ответственности за какой-либо ущерб здоровью или материальный ущерб, возникший
+        в
+        результате использования данного сайта.
+    </li>
+</ul>
+<!--/noindex-->
+</div>
+</div>
+</section>
+</main>

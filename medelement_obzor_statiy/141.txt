@@ -1,0 +1,291 @@
+<main id="main">
+<section class="page-information disease-information">
+<div class="container">
+<h1 class="page-information__name disease-information__name">
+            Кольцевидная поджелудочная железа (Q45.1)        </h1>
+<div class="disease-information__version-name">
+<p class="lead text-muted">
+                
+                Версия: Справочник заболеваний MedElement                </p>
+</div>
+<div class="disease-information__categories-mkb">
+<label>Категории МКБ: </label>
+                Кольцевидная поджелудочная железа (Q45.1)            </div>
+<div class="disease-information__sections-medicine">
+<label>Разделы медицины: </label>
+                Врожденные заболевания, Гастроэнтерология            </div>
+</div>
+</section>
+<section class="page-section" data-index="0">
+<h2 class="page-section__title" id="general_information">
+        Общая информация    </h2>
+<div class="container">
+<div class="page-links-actions">
+<ul>
+<li class="page-links-actions__item page-links-actions__item--print" data-ga-event-action="Клик по ссылке: Версия для печати" data-ga-event-category="Links actions" data-ga-event-label="" data-send-ga-event="">
+<a href="javascript:window.print()">Версия для печати
+                    <svg class="svg-icon svg-icon-printer" height="18" version="1.1" viewbox="0 0 24 24" width="18" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<path d="M18,3H6V7H18M19,12A1,1 0 0,1 18,11A1,1 0 0,1 19,10A1,1 0 0,1 20,11A1,1 0 0,1 19,12M16,19H8V14H16M19,8H5A3,3 0 0,0 2,11V17H6V21H18V17H22V11A3,3 0 0,0 19,8Z"></path>
+</svg>
+</a>
+</li>
+</ul>
+</div>
+<section class="row page-field" data-field-name="SHORTDESCRIPTION">
+<h3 class="page-field__title text-left" id="shortdescription">
+                    Краткое описание                </h3>
+<div class="page-field__data">
+<div style="text-align: justify;">
+<br/>
+<strong>Кольцевидная поджелудочная железа</strong> (ПЖ) — редкая врожденная аномалия развития, при которой ПЖ охватывает среднюю или нижнюю часть двенадцатиперстной кишки в виде кольца.  </div>
+</div>
+</section>
+<section class="row page-field" data-field-name="NUMBERDAYSFLOW">
+<h3 class="page-field__title text-left" id="numberdaysflow">
+                    Период протекания                </h3>
+<div class="page-field__data">
+<p><span>Минимальный период протекания (дней): </span>
+        1</p>
+<p><span>Максимальный период протекания (дней): </span>
+        не указан</p>
+<br/>
+</div>
+</section>
+</div>
+</section>
+<section class="page-section" data-section-name="CLASSIFICATION">
+<h2 class="page-section__title" id="classification">
+        Классификация    </h2>
+<div class="container">
+<div class="row page-section__row">
+<div style="text-align: justify;">
+<br/>
+<strong>Общая классификация пороков развития поджелудочной железы</strong><br/>
+	 </div>
+<div style="text-align: justify;">
+<strong>1. Аномалии, связанные с нарушением ротации и миграции:</strong><br/>
+	- добавочная (аберрантная) ПЖ;<br/>
+	- кольцевидная ПЖ;<br/>
+	- <aterm term="1">эктопия<span class="term-description" style="display: none;"><span>Эктопия -  врожденное или приобретенное смещение органа или ткани в необычное место.</span><br/></span></aterm> дуоденального сосочка.<br/>
+<strong>2. Аномалии, обусловленные нарушением эмбрионального развития протоков ПЖ</strong> (вентрально-дорсальные протоковые аномалии):<br/>
+	- расщепленная ПЖ;<br/>
+	- неполная расщепленная ПЖ;<br/>
+	- изолированный дорсальный сегмент.<br/>
+<strong>3. Общее недоразвитие:</strong><br/>
+	- агенезия;<br/>
+	- <aterm term="1">гипоплазия<span class="term-description" style="display: none;"><span>Гипоплазия -   остановка развития органа, его части или организма в целом в результате прекращения увеличения числа клеток.</span><br/></span></aterm>.<br/>
+<strong>4. Удвоение:</strong><br/>
+	- протоков; <br/>
+	- тотальное; <br/>
+	- частичное (хвоста, тела); <br/>
+	- добавочного сосочка.<br/>
+<strong>5. Атипичные формы протока ПЖ:</strong><br/>
+	- в виде петли; <br/>
+	- спиральный; <br/>
+	- прочие (разнообразные).<br/>
+<strong>6. Аномальное панкреатобилиарное соустье</strong>:<br/>
+	- тип А; <br/>
+	- тип В; <br/>
+	- тип С.<br/>
+<strong>7. Врожденные кисты:</strong><br/>
+	- единичные; <br/>
+	- множественные.<br/>
+<strong>8. Прочие аномалии</strong> (положения, эктопии ткани селезенки в ПЖ).</div>
+</div>
+</div>
+</section>
+<section class="page-section" data-section-name="ETIOLOGY">
+<h2 class="page-section__title" id="etiology">
+        Этиология и патогенез    </h2>
+<div class="container">
+<div class="row page-section__row">
+<div style="text-align: justify;">
+<br/>
+	Существует несколько гипотез относительно развития кольцевидной железы, но ни одна из них не доказана в настоящее время.<br/>
+	Предполагается роль наследственности в развитии аномалии. Однако эта версия остается гипотезой в связи с тем, что мутации, вызывающие данные отклонения, и тип наследования аномалии не выявлены.<br/>
+	В пользу наследственной теории выступает тот факт, что в 6,7-30 % случаев кольцевидная поджелудочная железа сочетается с пороками развития других органов желудочно-кишечного тракта, а иногда и других органов и систем. Также у пациентов с кольцевидной железой значительно чаще, чем в общей популяции, регистрируют различные хромосомные аномалии.</div>
+</div>
+</div>
+</section>
+<section class="page-section" data-section-name="EPIDEMIOLOGY">
+<h2 class="page-section__title" id="epidemiology">
+        Эпидемиология    </h2>
+<div class="container">
+<div class="row page-section__row">
+<div style="text-align: justify;">
+<br/>
+	Кольцевидная поджелудочная железа прижизненно диагностируется, как правило, у новорожденных и младенцев младше года.<br/>
+	Частота встречаемости составляет приблизительно 1 случай на каждые 12-15 тысяч новорожденных или 2 случая на 100 тысяч родов (несколько реже в течение первых десяти лет жизни).<br/>
+	У взрослых точные данные о частоте встречаемости кольцевидной поджелудочной железы отсутствуют вследствие редкой ее прижизненной диагностики.<br/>
+	При аутопсии частота встречаемости этой аномалии составляет у взрослых 2-4 случая на 20 тысяч вскрытий.</div>
+</div>
+</div>
+</section>
+<section class="page-section" data-index="4">
+<h2 class="page-section__title" id="clinical">
+        Клиническая картина    </h2>
+<div class="container">
+<section class="row page-field" data-field-name="ANTIPRAXIA">
+<h3 class="page-field__title text-left" id="antipraxia">
+                    Cимптомы, течение                </h3>
+<div class="page-field__data">
+<div style="text-align: justify;">
+<br/>
+	Клиническая картина в большинстве случаев развивается в раннем неонатальном периоде.<br/>
+<br/>
+	Выраженность симптомов зависит от степени сдавления (<aterm term="1">стеноза<span class="term-description" style="display: none;"><span>Стеноз - сужение трубчатого органа или его наружного отверстия.</span><br/></span></aterm>) двенадцатиперстной кишки - наличие частичной или полной высокой кишечной непроходимости. Проявления разнообразны и варьируются от дискомфорта, тошноты, чувства переполнения в верхней половине живота после еды или болей различной интенсивности в этой области до рвоты желудочным содержимым без примеси желчи, отсутствия стула, нарастающих явлений дегидратации и истощения (подобное состояние без оказания хирургической помощи может привести к летальному исходу).</div>
+<div style="text-align: justify;">
+<br/>
+	Развитие панкреатита кольцевидной поджелудочной железы может сопровождаться появлением типичного панкреатического болевого синдрома, признаков экзо- и эндокринной панкреатической недостаточности; образованием кальцификатов и псевдокист.<br/>
+	Вследствие сдавления кольцевидной поджелудочной железой общего желчного протока возможно развитие подпеченочной (механической) желтухи и <aterm term="1">холангита<span class="term-description" style="display: none;"><span>Холангит - воспаление желчных протоков.</span><br/></span></aterm>.<br/>
+	При стенозе двенадцатиперстной кишки всегда выявляются супрастенотическое расширение кишки и истончение ее стенок, а также выраженные нарушения микроциркуляции в зоне стенoза. Это может привести к развитию некроза стенки кишки, последующей <aterm term="1">перфорации<span class="term-description" style="display: none;"><span>Перфорация - возникновение сквозного дефекта в стенке полого органа.</span><br/></span></aterm> с появлением типичной клинической картины.</div>
+</div>
+</section>
+</div>
+</section>
+<section class="page-section" data-section-name="DIAGNOSTICS">
+<h2 class="page-section__title" id="diagnostics">
+        Диагностика    </h2>
+<div class="container">
+<div class="row page-section__row">
+<div style="text-align: justify;">
+<br/>
+	Существующие в настоящее время методы диагностики кольцевидной поджелудочной железы позволяют устанавливать точный диагноз до оперативного вмешательства.<br/>
+<br/>
+	1. <strong>Фиброгастродуоденоскопия </strong>(ФГДС) выявляет сужение участка двенадцатиперстной кишки (ДПК) без изменения рельефа слизистой оболочки.<br/>
+<br/>
+	2. <strong>Рентгенография желудка и ДПК с пассажем бария</strong> обнаруживает:<br/>
+	- ограниченное циркулярное сужение с ровными контурами в нисходящем отделе ДПК на протяжении 2-3 см;<br/>
+	- медленное прохождение контраста за зону сужения;<br/>
+	- перерастяжение желудка и расширение ДПК над сужением;<br/>
+	- увеличение размеров, опущение желудка и др.<br/>
+<br/>
+	3. Заподозрить кольцевидную поджелудочную железу можно при проведении трансабдоминального ультразвукового исследования. Более информативным неинвазивным методом визуализации в настоящее время является <strong>спиральная КТ с внутривенным и пероральным контрастированием</strong>.<br/>
+<br/>
+	4. <strong>Эндоскопическая ретроградная холангиопанкреатография</strong> (ЭРХПГ) является важным методом диагностики кольцевидной поджелудочной железы. При ее проведении можно обнаружить добавочный проток или ветви вирсунгова протока поджелудочной железы, огибающие ДПК.<br/>
+<br/>
+<strong>Сочетание КТ с ЭРХПГ или магнитно-резонансной холангиопанкреатографией</strong> (МРХПГ) считается более информативным для выявления данной аномалии.</div>
+</div>
+</div>
+</section>
+<section class="page-section" data-section-name="LABORATORYDIAGNOSTICS">
+<h2 class="page-section__title" id="laboratorydiagnostics">
+        Лабораторная диагностика    </h2>
+<div class="container">
+<div class="row page-section__row">
+<div style="text-align: justify;">
+<br/>
+	В связи с различными вариантами обструкции желудочно-кишечного тракта специфические признаки отсутствуют .<br/>
+<br/>
+<strong>Обязательные исследования:</strong><br/>
+	- общий анализ крови (анемия);<br/>
+	- биохимическое исследование крови (гипопротеинемия, снижение электролитов сыворотки крови, лабораторные признаки обтурационной желтухи и секреторной недостаточности поджелудочной железы).</div>
+</div>
+</div>
+</section>
+<section class="page-section" data-section-name="SEQUELAE">
+<h2 class="page-section__title" id="sequelae">
+        Осложнения    </h2>
+<div class="container">
+<div class="row page-section__row">
+<div style="text-align: justify;">
+<br/>
+<strong>Атрезия (или стеноз) двенадцатиперстной кишки </strong>- одно из последствий развития кольцевидной поджелудочной железы. Атрезия является следствием атрофии двенадцатиперстного сегмента, компрессии кольцевидной поджелудочной железы на ДПК, аномальной дифференцировки интестинального сегмента, формирование которых начинается с 8 недель перинатального периода.<br/>
+	Возможно развитие полного (75 % случаев) и неполного кольца (25 % случаев). В зависимости от диаметра образовавшегося кольца может формироваться полная или частичная <aterm term="1">обструкция<span class="term-description" style="display: none;"><span>Обструкция - непроходимость, закупорка </span><br/></span></aterm> ДПК.<br/>
+<br/>
+	Другие возможные осложнения - <aterm term="1">гиповолемия<span class="term-description" style="display: none;"><span>Гиповолемия ( син. олигемия) - уменьшенное общее количество крови.</span><br/></span></aterm>, анемия, обтурационная желтуха, секреторная недостаточность поджелудочной железы.</div>
+</div>
+</div>
+</section>
+<section class="page-section" data-section-name="THERAPY">
+<h2 class="page-section__title" id="therapy">
+        Лечение    </h2>
+<div class="container">
+<div class="row page-section__row">
+<div>
+<br/>
+	Лечение кольцевидной поджелудочной железы -  хирургическое:<br/>
+	1. Радикальные операции - панкреатодуоденальная <aterm term="1">резекция</aterm>.<br/>
+	2. <aterm term="1">Паллиативные операции</aterm> (шунтирующие) - накладывание обходных <aterm term="1">анастомозов</aterm> (гастроэнтеростома, дуоденоеюностома, при неполных стенозах - латеральная антропилородуоденоеюностома).<br/>
+	Рассечение кольца поджелудочной железы опасно вследствие повышенного риска развития осложнений (повреждение стенки ДПК, образование <aterm term="1">фистул</aterm> и пр.).</div>
+</div>
+</div>
+</section>
+<section class="page-section" data-section-name="PROGNOSIS">
+<h2 class="page-section__title" id="prognosis">
+        Прогноз    </h2>
+<div class="container">
+<div class="row page-section__row">
+<br/>
+Сомнительный. Зависит от варианта порока.
+                    </div>
+</div>
+</section>
+<section class="page-section" data-section-name="HOSPITALIZATION">
+<h2 class="page-section__title" id="hospitalization">
+        Госпитализация    </h2>
+<div class="container">
+<div class="row page-section__row">
+<br/>
+В экстренном порядке в отделение детской хирургии.
+                    </div>
+</div>
+</section>
+<section class="page-section" data-index="11">
+<h2 class="page-section__title" id="information">
+        Информация    </h2>
+<div class="container">
+<section class="row page-field" data-field-name="LISTOFREFERENCES">
+<h3 class="page-field__title text-left" id="listofreferences">
+                    Источники и литература                </h3>
+<div class="page-field__data">
+<ol id="AdditionalListSources" type="I">
+<li level="1">
+<span>"Аномалии развития поджелудочной железы" Голубова О.А. (Донецкий национальный медицинский университет им. М. Горького), журнал "Гастроэнтерология", (304) 2009 (тематический номер)/Научный обзор</span>
+<ol type="1">
+</ol>
+</li>
+</ol> </div>
+</section>
+</div>
+</section>
+<section class="page-section" data-section-name="ATTENTION">
+<h2 class="page-section__title" id="attention">
+        Внимание!    </h2>
+<div class="container">
+<div class="row page-section__row">
+<!--noindex-->
+<label class="attention-self-treatment-list__caption">Если вы не являетесь медицинским специалистом:</label>
+<ul class="attention-self-treatment-list">
+<li>
+        Занимаясь самолечением, вы можете нанести непоправимый вред своему здоровью.
+         
+    </li>
+<li>
+        Информация, размещенная на сайте MedElement, не может и не должна заменять очную консультацию врача.
+        Обязательно
+        обращайтесь в медицинские учреждения при наличии каких-либо заболеваний или беспокоящих вас симптомов.
+         
+    </li>
+<li>
+        Выбор лекарственных средств и их дозировки, должен быть оговорен со специалистом. Только врач может
+        назначить
+        нужное лекарство и его дозировку с учетом заболевания и состояния организма больного.
+         
+    </li>
+<li>
+        Сайт MedElement является исключительно информационно-справочным ресурсом. Информация, размещенная на данном
+        сайте, не должна использоваться для самовольного изменения предписаний врача.
+         
+    </li>
+<li>
+        Редакция MedElement не несет ответственности за какой-либо ущерб здоровью или материальный ущерб, возникший
+        в
+        результате использования данного сайта.
+    </li>
+</ul>
+<!--/noindex-->
+</div>
+</div>
+</section>
+</main>

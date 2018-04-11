@@ -1,0 +1,333 @@
+<main id="main">
+<section class="page-information disease-information">
+<div class="container">
+<h1 class="page-information__name disease-information__name">
+            Локализованная сальмонеллезная инфекция (A02.2+)        </h1>
+<div class="disease-information__alternate-name">
+<label>Также: </label>
+                Localized salmonella infections            </div>
+<div class="disease-information__version-name">
+<p class="lead text-muted">
+                
+                Версия: Справочник заболеваний MedElement                </p>
+</div>
+<div class="disease-information__categories-mkb">
+<label>Категории МКБ: </label>
+                Локализованная сальмонеллезная инфекция (A02.2+)            </div>
+<div class="disease-information__sections-medicine">
+<label>Разделы медицины: </label>
+                Инфекционные и паразитарные болезни            </div>
+</div>
+</section>
+<section class="page-section" data-index="0">
+<h2 class="page-section__title" id="general_information">
+        Общая информация    </h2>
+<div class="container">
+<div class="page-links-actions">
+<ul>
+<li class="page-links-actions__item page-links-actions__item--print" data-ga-event-action="Клик по ссылке: Версия для печати" data-ga-event-category="Links actions" data-ga-event-label="" data-send-ga-event="">
+<a href="javascript:window.print()">Версия для печати
+                    <svg class="svg-icon svg-icon-printer" height="18" version="1.1" viewbox="0 0 24 24" width="18" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<path d="M18,3H6V7H18M19,12A1,1 0 0,1 18,11A1,1 0 0,1 19,10A1,1 0 0,1 20,11A1,1 0 0,1 19,12M16,19H8V14H16M19,8H5A3,3 0 0,0 2,11V17H6V21H18V17H22V11A3,3 0 0,0 19,8Z"></path>
+</svg>
+</a>
+</li>
+</ul>
+</div>
+<section class="row page-field" data-field-name="SHORTDESCRIPTION">
+<h3 class="page-field__title text-left" id="shortdescription">
+                    Краткое описание                </h3>
+<div class="page-field__data">
+<div style="text-align: justify;">
+<br/>
+<strong>Локализованная сальмонеллезная инфекция </strong>представляет собой септические осложнения сальмонеллеза различной локализации, которые возможны при выраженном иммунодефиците.</div>
+</div>
+</section>
+<section class="row page-field" data-field-name="NUMBERDAYSFLOW">
+<h3 class="page-field__title text-left" id="numberdaysflow">
+                    Период протекания                </h3>
+<div class="page-field__data">
+<br/>
+<label>Описание:</label>
+<p></p><div>
+	Инкубационный период при сальмонеллезе в среднем составляет 12-24 часа. Иногда он укорачивается до 6 часов или удлиняется до 2 дней.</div>
+</div>
+</section>
+</div>
+</section>
+<section class="page-section" data-section-name="CLASSIFICATION">
+<h2 class="page-section__title" id="classification">
+        Классификация    </h2>
+<div class="container">
+<div class="row page-section__row">
+<div>
+<br/>
+	Локализованная сальмонеллезная инфекция может протекать в виде:</div>
+<div>
+<div>
+		- сальмонеллезного артрита  (см. M01.3);</div>
+<div>
+		- сальмонеллезного менингита  (см. G01);</div>
+<div>
+		- сальмонеллезного остеомиелита  (см. M90.2);</div>
+<div>
+		- сальмонеллезной пневмонии  (см. J17.0);</div>
+<div>
+		- сальмонеллезного тубулоинтерстициального поражения (см. N16.0).</div>
+</div>
+<br/>
+</div>
+</div>
+</section>
+<section class="page-section" data-section-name="ETIOLOGY">
+<h2 class="page-section__title" id="etiology">
+        Этиология и патогенез    </h2>
+<div class="container">
+<div class="row page-section__row">
+<div style="text-align: justify;">
+<br/>
+	Возбудители сальмонеллеза относятся к роду Salmonella, семейству кишечных бактерий Enterobacteriaceae. </div>
+<div style="text-align: justify;">
+	Сальмонеллы способны продуцировать <aterm term="1">экзотоксины<span class="term-description" style="display: none;"><span>Экзотоксины — вещества, вырабатываемые грамположительными бактериями и выделяемые ими в окружающую среду. Оказывают токсическое действие на организм человека. Обычно экзотоксины являются неустойчивыми, быстро теряют свою активность под действием тепла, света и химических веществ. Именно действием экзотоксина обусловлена клиника многих инфекционных заболеваний</span><br/></span></aterm>. Среди них – энтеротоксины (термолабильный и термостабильный), усиливающие секрецию жидкости и солей в просвет кишки, и цитотоксин, который нарушает белковосинтетические процессы в клетках слизистой оболочки кишечника и воздействует на цитомембраны.</div>
+<div style="text-align: justify;">
+	При разрушении бактерий выделяется эндотоксин, обусловливающий развитие интоксикационного синдрома. <br/>
+<br/>
+	При попадании в желудочно-кишечный тракт сальмонеллы преодолевают эпителиальный барьер тонкого отдела кишечника и проникают в толщу тканей. При глубоком нарушении барьерной функции лимфатического аппарата кишечника наблюдаются генерализация процесса и возникновение длительной <aterm term="1">бактериемии<span class="term-description" style="display: none;"><span>Бактериемия - наличие бактерий в циркулирующей крови; часто возникает при инфекционных болезнях в результате проникновения возбудителей в кровь через естественные барьеры макроорганизма</span><br/></span></aterm>. Вследствие бaктериемии сальмонеллы заносятся в различные внутренние органы и вызывают в них дистрофические изменения или формирование вторичных гнойных очагов.</div>
+</div>
+</div>
+</section>
+<section class="page-section" data-section-name="EPIDEMIOLOGY">
+<h2 class="page-section__title" id="epidemiology">
+        Эпидемиология    </h2>
+<div class="container">
+<div class="row page-section__row">
+<div style="text-align: justify;">
+<br/>
+	Источником инфекции могут являться животные и люди, при этом роль животных в эпидемиологии является основной.<br/>
+	У животных сальмонеллез  встречается в форме клинически выраженного заболевания и бактериовыделительства. Эпидемиологическую опасность представляет инфицирование крупного рогатого скота, свиней, овец, лошадей, собак, кошек, домовых грызунов. Значительное место в эпидемиологии сальмонеллеза занимают птицы. Сальмонеллы обнаруживают в яйцах, мясе и внутренних органах птиц.</div>
+<div style="text-align: justify;">
+<br/>
+	Механизм передачи возбудителей – фекально-оральный. Основной путь передачи инфекции – пищевой. <br/>
+<br/>
+	Сальмонеллез встречается в течение всего года, но чаще - в летние месяцы, что можно объяснить ухудшением условий хранения пищевых продуктов. Наблюдается как спорадическая, так и групповая заболеваемость этой инфекцией. </div>
+</div>
+</div>
+</section>
+<section class="page-section" data-section-name="FACTORSANDRISKGROUPS">
+<h2 class="page-section__title" id="factorsandriskgroups">
+        Факторы и группы риска    </h2>
+<div class="container">
+<div class="row page-section__row">
+<div style="text-align: justify;">
+<br/>
+<span style="text-align: justify;">- дети в возрасте до 1 года;<br/>
+	- лица с различными видами иммунодефицита.</span></div>
+</div>
+</div>
+</section>
+<section class="page-section" data-index="5">
+<h2 class="page-section__title" id="clinical">
+        Клиническая картина    </h2>
+<div class="container">
+<section class="row page-field" data-field-name="ANTIPRAXIA">
+<h3 class="page-field__title text-left" id="antipraxia">
+                    Cимптомы, течение                </h3>
+<div class="page-field__data">
+<div style="text-align: justify;">
+<br/>
+	Септическое течение сальмонеллеза (см. <a href="https://diseases.medelement.com/index.php/disease/view/MTU%253D/fDB8" target="_blank">Сальмонеллезная септицемия</a> - А02.1) ведет к образованию вторичных гнойных очагов.<br/>
+<br/>
+<strong>Клиническая картина</strong> зависит от локализации метастатических гнойных очагов, которые могут формироваться во всех органах. Во всех случаях наблюдается увеличение печени и селезенки.<br/>
+	Для заболевания характерно длительное тяжелое течение. В результате значительных трудностей, возникающих при лечении, возможен неблагоприятный исход.</div>
+</div>
+</section>
+</div>
+</section>
+<section class="page-section" data-section-name="DIAGNOSTICS">
+<h2 class="page-section__title" id="diagnostics">
+        Диагностика    </h2>
+<div class="container">
+<div class="row page-section__row">
+<br/>
+<span style="font-family: Arial, Helvetica, sans-serif; line-height: 18px;">Диагноз устанавливается на основании эпидемиологических, клинических и лабораторных данных.</span>
+</div>
+</div>
+</section>
+<section class="page-section" data-section-name="LABORATORYDIAGNOSTICS">
+<h2 class="page-section__title" id="laboratorydiagnostics">
+        Лабораторная диагностика    </h2>
+<div class="container">
+<div class="row page-section__row">
+<div style="text-align: justify;">
+<br/>
+	Ввиду полиморфизма клинических проявлений сальмонеллеза, лабораторное обследование больных является важным моментом в диагностике заболевания.<br/>
+<div>
+<br/>
+<strong>Серологические методы </strong>(используются на 7-8-й день болезни):</div>
+<div>
+<br/>
+		1. Реакция агглютинации (РА) - считается положительной при разведении сыворотки не менее чем 1:200. Особенно важное диагностическое значение имеет нарастание титра антител в динамике заболевания.<br/>
+<br/>
+		2. Реакция непрямой гемагглютинации (РНГА) - применяется более часто. РНГА более чувствительна, по сравнению с РА, и дает положительные результаты с 5-го дня болезни. За диагностический принимают титр антител в РНГА 1:200.<br/>
+<br/>
+		3. Методы обнаружения антигенов сальмонелл в крови: агрегат-гемагглютинации и иммуноферментный.</div>
+</div>
+</div>
+</div>
+</section>
+<section class="page-section" data-section-name="DIFFERENTIALDIAGNOSIS">
+<h2 class="page-section__title" id="differentialdiagnosis">
+        Дифференциальный диагноз    </h2>
+<div class="container">
+<div class="row page-section__row">
+<div>
+<br/>
+	Артрит, менингит, остеомиелит, пневмония, тубулоинтерстициальное поражение другой этиологии.</div>
+</div>
+</div>
+</section>
+<section class="page-section" data-section-name="SEQUELAE">
+<h2 class="page-section__title" id="sequelae">
+        Осложнения    </h2>
+<div class="container">
+<div class="row page-section__row">
+<br/>
+Токсический шок.
+                    </div>
+</div>
+</section>
+<section class="page-section" data-section-name="THERAPY">
+<h2 class="page-section__title" id="therapy">
+        Лечение    </h2>
+<div class="container">
+<div class="row page-section__row">
+<div>
+<br/><strong>Патогенетическая терапия:</strong></div><div>
+	1. Дезинтоксикация.<br/>
+	2. Нормализация водно-электролитного обмена.<br/>
+	3. Борьба с <aterm term="1">гипоксемией</aterm>, <aterm term="1">гипоксией</aterm>, метаболическим <aterm term="1">ацидозом</aterm>.</div><div>
+	4. Поддержание на физиологическом уровне гемодинамики, а также функций сердечно-сосудистой системы и почек.</div><div>
+<div>
+		 </div>
+<div>
+<strong>Этиотропное лечение</strong><br/>
+		Применяют  сочетания антибиотиков группы аминогликозидов (гентамицина сульфат, сизомицина сульфат, амикацина сульфат, тобрамицин и др.)  и хинолонов  (ципрофлоксацин, офлоксацин  и  др.),  цефалоспорины,  левомицетин, ампициллин, амоксициллин.</div>
+<div>
+<div>
+			Курс  лечения назначается индивидуально, в зависимости от формы и  тяжести заболевания.</div>
+</div>
+</div>
+</div>
+</div>
+</section>
+<section class="page-section" data-section-name="PROGNOSIS">
+<h2 class="page-section__title" id="prognosis">
+        Прогноз    </h2>
+<div class="container">
+<div class="row page-section__row">
+<br/>
+Неблагоприятный.
+                    </div>
+</div>
+</section>
+<section class="page-section" data-section-name="HOSPITALIZATION">
+<h2 class="page-section__title" id="hospitalization">
+        Госпитализация    </h2>
+<div class="container">
+<div class="row page-section__row">
+<div>
+<br/>
+	Больных госпитализируют по клиническим и эпидемиологическим показаниям.</div><div>
+	Переболевших выписывают после клинического выздоровления и отрицательных контрольных бактериологических исследований испражнений.</div>
+</div>
+</div>
+</section>
+<section class="page-section" data-section-name="PROPHYLAXIS">
+<h2 class="page-section__title" id="prophylaxis">
+        Профилактика    </h2>
+<div class="container">
+<div class="row page-section__row">
+<div style="text-align: justify;">
+<br/>
+	Ветеринарно-санитарные мероприятия: <br/>
+	- предупреждение распространения сальмонеллеза среди домашних млекопитающих и птиц;<br/>
+	- организация санитарного режима на мясокомбинатах и молочных предприятиях. <br/>
+<br/>
+	Цель санитарно-гигиенических мероприятий – предупреждение обсеменения сальмонеллами пищевых продуктов при их обработке, транспортировке и продаже.<br/>
+	В профилактике сальмонеллеза большое значение имеет правильная кулинарная и оптимальная термическая обработка пищевых продуктов.</div>
+<div style="text-align: justify;">
+<br/>
+	Противоэпидемические мероприятия направлены на предупреждение распространения заболевания в коллективе. При возникновении спорадических заболеваний и эпидемических вспышек необходимо выявление путей передачи инфекции.</div>
+</div>
+</div>
+</section>
+<section class="page-section" data-index="14">
+<h2 class="page-section__title" id="information">
+        Информация    </h2>
+<div class="container">
+<section class="row page-field" data-field-name="LISTOFREFERENCES">
+<h3 class="page-field__title text-left" id="listofreferences">
+                    Источники и литература                </h3>
+<div class="page-field__data">
+<ol id="AdditionalListSources" type="I">
+<li level="1">
+<span>"Сальмонеллез – вопросы и ответы?" Михаель/ Сб. докладов VI Междунар. вет. конгресса по птицеводству,М., 2010</span>
+<ol type="1">
+</ol>
+</li>
+<li level="1">
+<span>http://emedicine.medscape.com</span>
+<ol type="1">
+<li level="2">http://emedicine.medscape.com/article/228174-overview - "Salmonellosis"  Alena Klochko, MD</li>
+</ol>
+</li>
+<li level="1">
+<span>http://www.nlm.nih.gov</span>
+<ol type="1">
+<li level="2"> http://www.nlm.nih.gov/medlineplus/salmonellainfections.html -  </li>
+</ol>
+</li>
+</ol> </div>
+</section>
+</div>
+</section>
+<section class="page-section" data-section-name="ATTENTION">
+<h2 class="page-section__title" id="attention">
+        Внимание!    </h2>
+<div class="container">
+<div class="row page-section__row">
+<!--noindex-->
+<label class="attention-self-treatment-list__caption">Если вы не являетесь медицинским специалистом:</label>
+<ul class="attention-self-treatment-list">
+<li>
+        Занимаясь самолечением, вы можете нанести непоправимый вред своему здоровью.
+         
+    </li>
+<li>
+        Информация, размещенная на сайте MedElement, не может и не должна заменять очную консультацию врача.
+        Обязательно
+        обращайтесь в медицинские учреждения при наличии каких-либо заболеваний или беспокоящих вас симптомов.
+         
+    </li>
+<li>
+        Выбор лекарственных средств и их дозировки, должен быть оговорен со специалистом. Только врач может
+        назначить
+        нужное лекарство и его дозировку с учетом заболевания и состояния организма больного.
+         
+    </li>
+<li>
+        Сайт MedElement является исключительно информационно-справочным ресурсом. Информация, размещенная на данном
+        сайте, не должна использоваться для самовольного изменения предписаний врача.
+         
+    </li>
+<li>
+        Редакция MedElement не несет ответственности за какой-либо ущерб здоровью или материальный ущерб, возникший
+        в
+        результате использования данного сайта.
+    </li>
+</ul>
+<!--/noindex-->
+</div>
+</div>
+</section>
+</main>

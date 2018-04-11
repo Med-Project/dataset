@@ -1,0 +1,319 @@
+<main id="main">
+<section class="page-information disease-information">
+<div class="container">
+<h1 class="page-information__name disease-information__name">
+            Острый ревматический миокардит (I01.2)        </h1>
+<div class="disease-information__version-name">
+<p class="lead text-muted">
+                
+                Версия: Справочник заболеваний MedElement                </p>
+</div>
+<div class="disease-information__categories-mkb">
+<label>Категории МКБ: </label>
+                Острый ревматический миокардит (I01.2)            </div>
+<div class="disease-information__sections-medicine">
+<label>Разделы медицины: </label>
+                Кардиология            </div>
+</div>
+</section>
+<section class="page-section" data-index="0">
+<h2 class="page-section__title" id="general_information">
+        Общая информация    </h2>
+<div class="container">
+<div class="page-links-actions">
+<ul>
+<li class="page-links-actions__item page-links-actions__item--print" data-ga-event-action="Клик по ссылке: Версия для печати" data-ga-event-category="Links actions" data-ga-event-label="" data-send-ga-event="">
+<a href="javascript:window.print()">Версия для печати
+                    <svg class="svg-icon svg-icon-printer" height="18" version="1.1" viewbox="0 0 24 24" width="18" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<path d="M18,3H6V7H18M19,12A1,1 0 0,1 18,11A1,1 0 0,1 19,10A1,1 0 0,1 20,11A1,1 0 0,1 19,12M16,19H8V14H16M19,8H5A3,3 0 0,0 2,11V17H6V21H18V17H22V11A3,3 0 0,0 19,8Z"></path>
+</svg>
+</a>
+</li>
+</ul>
+</div>
+<section class="row page-field" data-field-name="SHORTDESCRIPTION">
+<h3 class="page-field__title text-left" id="shortdescription">
+                    Краткое описание                </h3>
+<div class="page-field__data">
+<div style="text-align: justify;">
+<br/>
+<strong><aterm term="1">Миокардит<span class="term-description" style="display: none;"><span>Миокардит - воспаление миокарда (средний слой стенки сердца, образованный сократительными мышечными волокнами и атипичными волокнами, составляющими проводящую систему сердца.); проявляется признаками нарушения его сократимости, возбудимости и проводимости</span><br/></span></aterm> </strong>является одним из наиболее часто встречающихся проявлений сердечной патологии при острой ревматической лихорадке (ОРЛ). Как правило, протекает в легкой и среднетяжелой формах.</div>
+</div>
+</section>
+</div>
+</section>
+<section class="page-section" data-section-name="CLASSIFICATION">
+<h2 class="page-section__title" id="classification">
+        Классификация    </h2>
+<div class="container">
+<div class="row page-section__row">
+<br/>
+Миокардит может быть <strong>очаговым</strong> или <strong>диффузным</strong>.
+                    </div>
+</div>
+</section>
+<section class="page-section" data-section-name="ETIOLOGY">
+<h2 class="page-section__title" id="etiology">
+        Этиология и патогенез    </h2>
+<div class="container">
+<div class="row page-section__row">
+<div style="text-align: justify;">
+<br/>
+<div style="margin: 0px; padding: 0px; color: rgb(0, 0, 0); font-family: Arial, Helvetica, sans-serif; line-height: 18px; ">
+<strong style="margin: 0px; padding: 0px; ">Этиологическим фактором </strong>выступает В-гемолитический стрептококк группы А. Для развития заболевания также необходима наследственная предрас­положенность (DR21, DR4, антитела HLA; аллоантиген В-лимфоцитов D8/17).<br style="margin: 0px; padding: 0px; "/>
+<br style="margin: 0px; padding: 0px; "/>
+<strong style="margin: 0px; padding: 0px; ">В патогенезе условно выделяются два периода:</strong><br style="margin: 0px; padding: 0px; "/>
+		1. Не­посредственное повреждающее и токсическое действие на организм, оказываемое персистирующими стрептококками и их антигенами.</div>
+<div style="margin: 0px; padding: 0px; color: rgb(0, 0, 0); font-family: Arial, Helvetica, sans-serif; line-height: 18px; ">
+		2. Развитие иммунного воспаления в соединительной ткани организма с преимущественным вовлечением в процесс сердца и сосудов в результате запуска механизма синтеза аутоантител.</div>
+</div>
+<br/>
+</div>
+</div>
+</section>
+<section class="page-section" data-index="3">
+<h2 class="page-section__title" id="clinical">
+        Клиническая картина    </h2>
+<div class="container">
+<section class="row page-field" data-field-name="ANTIPRAXIA">
+<h3 class="page-field__title text-left" id="antipraxia">
+                    Cимптомы, течение                </h3>
+<div class="page-field__data">
+<div style="text-align: justify; ">
+<br/>
+<strong>Очаговый ревматический миокардит</strong><br/>
+	Клиническая симптоматика скудная и постановка диагноза часто бывает затруднена.<br/>
+<strong>Основные жалобы</strong>: слабые боли или дискомфорт в области сердца, незначительная одышка при физических нагрузках, в редких случаях - сердцебиение или перебои в работе сердца.<br/>
+	При <aterm term="1">аускультации<span class="term-description" style="display: none;"><span>Аускультация - метод физикальной диагностики в медицине, заключающийся в выслушивании звуков, образующихся в процессе функционирования органов. </span><br/></span></aterm>  выявляются звучные тоны сердца либо некоторое приглушение I тона, иногда  отмечается систолический шум на верхушке сердца и в проекции митрального клапана. Артериальное давление в норме или снижено незначительно; иногда присутствует умеренная тахикардия.</div>
+<div style="text-align: justify; ">
+<br/>
+<strong>Диффузный ревматический миокардит</strong><br/>
+	Иногда возникает при развитии ревматизма в детском возрасте. Проявляется ярко выраженным воспалением миокарда, его значительным отеком и нарушением функции.<br/>
+<strong>Основные жалобы:</strong> выраженная одышка, заставляющая принимать положение <aterm term="1">ортопноэ<span class="term-description" style="display: none;"><span>Ортопноэ - вынужденное положение сидя, принимаемое больным для облегчения дыхания при выраженной одышке</span><br/></span></aterm>, постоянная боль в области сердца, тахикардия.<br/>
+	Признаки при внешнем осмотре: бледный цианоз, набухание шейных вен.<br/>
+	Признаки при перкуссии и рентгенографии: сердце значительно расширено во всех направлениях, верхушечный толчок ослаблен.<br/>
+	У больных наблюдается значительное снижение артериального давления, которое может осложнить течение заболевания развитием коллаптоидного состояния.</div>
+<div style="text-align: justify; ">
+	Недостаточность кровообращения при первичном ревматическом миокардите развивается в очень редких случаях и практически всегда у детей.</div>
+</div>
+</section>
+</div>
+</section>
+<section class="page-section" data-section-name="DIAGNOSTICS">
+<h2 class="page-section__title" id="diagnostics">
+        Диагностика    </h2>
+<div class="container">
+<div class="row page-section__row">
+<div>
+<br/>
+	Данные инструментального обследования малоинформативны.<br/><br/>
+	1. <strong>Рентгенография:</strong> сердце нормальных размеров или умеренно увеличено влево.<br/><br/>
+	2. <strong>ЭХОКГ</strong>  сердца: признаки умеренного снижения сократительной функции миокарда.<br/><br/>
+	3. <strong>Э<span>лектрокардиограмма </span></strong><span>(</span>ЭКГ)<strong> </strong>– удлинение интервала РQ, признаки нарушения в фазе реполяризации (депрессия <aterm term="1">сегмента ST</aterm>, снижение амплитуды зубца Т, особенно в грудных отведениях).<br/>
+	Для всех изменений ЭКГ при ревматическом миокардите весьма характерна их подвижность, динамичность, зависящие как от самого ревматического процесса, так и главным образом от эффективности проводимого противоревматического лечения.</div>
+</div>
+</div>
+</section>
+<section class="page-section" data-section-name="LABORATORYDIAGNOSTICS">
+<h2 class="page-section__title" id="laboratorydiagnostics">
+        Лабораторная диагностика    </h2>
+<div class="container">
+<div class="row page-section__row">
+<div style="text-align: justify;">
+<br/>
+<strong style="margin: 0px; padding: 0px; color: rgb(0, 0, 0); font-family: Arial, Helvetica, sans-serif; line-height: 18px; ">Показатели активности процесса:</strong><br/>
+<span style="color: rgb(0, 0, 0); font-family: Arial, Helvetica, sans-serif; line-height: 18px; ">- повышение титра антистрептолизина-О, антигиалуронидазы, антистрептокиназы в крови в 1,5-3 раза (а иногда и более);</span><br style="margin: 0px; padding: 0px; color: rgb(0, 0, 0); font-family: Arial, Helvetica, sans-serif; line-height: 18px; "/>
+<span style="color: rgb(0, 0, 0); font-family: Arial, Helvetica, sans-serif; line-height: 18px; ">- положительная реакция на С-реактивный белок;</span><br style="margin: 0px; padding: 0px; color: rgb(0, 0, 0); font-family: Arial, Helvetica, sans-serif; line-height: 18px; "/>
+<span style="color: rgb(0, 0, 0); font-family: Arial, Helvetica, sans-serif; line-height: 18px; ">- увеличение альфа-  и гамма-глобулинов, фибриногена.</span></div>
+</div>
+</div>
+</section>
+<section class="page-section" data-section-name="DIFFERENTIALDIAGNOSIS">
+<h2 class="page-section__title" id="differentialdiagnosis">
+        Дифференциальный диагноз    </h2>
+<div class="container">
+<div class="row page-section__row">
+<div>
+<br/>
+	Дифференциальный  диагноз проводится с <strong>неревматическими миокардитами</strong> (бактериальные, вирусные).<br/><br/><strong>Типичные признаки синдрома неревматического миокардита:</strong><br/>
+	- наличие хронологической связи с острой носоглоточной (в основном вирусной) инфекцией;<br/>
+	- укорочение (менее 5-7 дней) или отсутствие латентного периода;<br/>
+	- в дебюте болезни проявляются симптомы <span><aterm term="1">астенизации</aterm>, нарушения терморегуляции;</span></div><div>
+	- постепенное развитие заболевания;<br/>
+	- артрит и выраженные артралгии отсутствуют;<br/>
+	- кардиальные жалобы имеют активный и эмоционально окрашенный характер;</div><div>
+	- присутствуют четкие клинические, ЭКГ- и ЭхоКГ-симптомы миокардита;<br/>
+	- <aterm term="1">вальвулит</aterm> отсутствует;</div><div>
+	- диссоциация клинических и лабораторных параметров;<br/>
+	- медленная динамика под влиянием противовоспалительной терапии.</div>
+</div>
+</div>
+</section>
+<section class="page-section" data-section-name="SEQUELAE">
+<h2 class="page-section__title" id="sequelae">
+        Осложнения    </h2>
+<div class="container">
+<div class="row page-section__row">
+<br/>
+При тяжелом течении осложняется развитием сердечной недостаточности.
+                    </div>
+</div>
+</section>
+<section class="page-section" data-section-name="THERAPY">
+<h2 class="page-section__title" id="therapy">
+        Лечение    </h2>
+<div class="container">
+<div class="row page-section__row">
+<div>
+<br/>
+	Препарат выбора - антибиотики пенициллинового ряда. Рекомендованные суточные дозы детям 400-600 тыс ЕД, взрослым 1,5-4 млн ЕД. При непереносимости пенициллинов назначают макролиды или линкозамиды.<br/><span>Также проводится противовоспалительная терапия  с применением нестероидных противовоспалительных препаратов (НПВП) и  </span><span>глюкокортикостероидов (</span><span>ГКС).</span><br/><strong> Используемые НПВП:</strong><br/><div>
+		- диклофенак или индометацин в начальной мак­симальной дозе 2-3 мг\кг\сут.;<br/>
+		- реже - ацетилсалициловая кислота в дозе 0,2 г\год жизни (но не более 1,5-2 г\сут.).<br/>
+		Длительность курса лечения НПВП составляет в среднем 2,5-3 месяца. Первые 3-4 недели НПВП назнача­ются в максимальной дозе, затем доза снижается на одну треть и принимается в течение 2 недель, после доза уменьшается  до половины от максимальной и препарат принимается еще 1,5 месяца. </div>
+<div>
+		Из <strong> ГКС </strong>чаще всего используется преднизолон в дозе 0,7-0,8 мг\кг\сут. (не бо­лее 1 мг\кг\сут.). Суточная доза составляет 15-25 мг в зависимости от возраста и распределяется с учетом суточного биоритма. </div>
+<br/>
+	При наличии признаков сердечной недостаточности также возможно назначение сердечных гликозидов, антагонистов кальция, бета-блокаторов, диуретиков: <br/>
+	1. Диуретики: петлевые - фуросемид; тиазидные и тиазидоподобные - гидрохлортиазид, индапамид; калийсберегающие - спиронолактон, триамтерен.<br/>
+	2. Блокаторы кальциевых каналов из группы дигидропиридинов длительного действия - амлодипин.<br/>
+	3. Бета-адреноблокаторы - карведилол, метопролол, бисопролол.<br/>
+	4. Сердечные гликозиды - дигоксин.<br/>
+	Дозы и схемы назначения данных препаратов аналогичны таковым при лечении сердечной недостаточности иной этиологии.<br/><br/>
+	Учитывая наличие дистрофических процессов в миокарде, целесообразно назначение препаратов калия, метаболиков и поливитаминов.</div><br/>
+</div>
+</div>
+</section>
+<section class="page-section" data-section-name="PROGNOSIS">
+<h2 class="page-section__title" id="prognosis">
+        Прогноз    </h2>
+<div class="container">
+<div class="row page-section__row">
+<div style="text-align: justify;">
+<br/>
+	Тяжелое течение диффузного ревматического миокардита (в особенности у детей младшего возраста) может приводить к развитию недостаточности кровообращения как по левожелудочковому, так и по правожелудочковому типу, реже тотальной.<br/>
+<br/>
+	В случае отсутствия лечения ревматического миокардита развивается миокардитический <aterm term="1">кардиосклероз<span class="term-description" style="display: none;"><span>Кардиосклероз - избыточное развитие соединительной ткани в миокарде</span><br/></span></aterm> очагового или диффузного типа.<br/>
+	Очаговый кардиoсклероз в целом не нарушает функции миокарда, так как в основном захватывает небольшой участок сердечной мышцы.<br/>
+	Диффузный миокардитический кардиoсклероз поражает практически весь миокард и приводит к снижению его сократительной функции.</div>
+</div>
+</div>
+</section>
+<section class="page-section" data-section-name="HOSPITALIZATION">
+<h2 class="page-section__title" id="hospitalization">
+        Госпитализация    </h2>
+<div class="container">
+<div class="row page-section__row">
+<br/>
+Всем пациентам с острой ревматической лихорадкой вне зависимости от ее клинических проявлений показана госпитализация.
+                    </div>
+</div>
+</section>
+<section class="page-section" data-section-name="PROPHYLAXIS">
+<h2 class="page-section__title" id="prophylaxis">
+        Профилактика    </h2>
+<div class="container">
+<div class="row page-section__row">
+<div style="text-align: justify;">
+<br/>
+<div style="margin: 0px; padding: 0px; color: rgb(0, 0, 0); font-family: Arial, Helvetica, sans-serif; line-height: 18px; ">
+<div style="margin: 0px; padding: 0px; ">
+<strong style="margin: 0px; padding: 0px; ">Первичная профилактика</strong> - раннее активное лечение стрептококкового тонзиллита и фарингита. Применяются антибиотики пенициллинового ряда (препараты выбора).</div>
+<div style="margin: 0px; padding: 0px; ">
+<br style="margin: 0px; padding: 0px; "/>
+<strong style="margin: 0px; padding: 0px; ">Вторичная профилактика</strong> - предотвращение рецидивов ревматической лихорадки путем предупреждения повторной стрептококковой инфекции. Наибольший эффект имеет непрерывное круглого­дичное ежемесячное введение внутримышечно 1 500 000 ЕД бициллина-5.</div>
+<div style="margin: 0px; padding: 0px; ">
+			При отсутствии ревматического поражения сердца вторичную профилактику следует проводить в течение не ме­нее 5 лет.</div>
+<div>
+			 </div>
+</div>
+</div>
+<br/>
+</div>
+</div>
+</section>
+<section class="page-section" data-index="12">
+<h2 class="page-section__title" id="information">
+        Информация    </h2>
+<div class="container">
+<section class="row page-field" data-field-name="LISTOFREFERENCES">
+<h3 class="page-field__title text-left" id="listofreferences">
+                    Источники и литература                </h3>
+<div class="page-field__data">
+<ol id="AdditionalListSources" type="I">
+<li level="1">
+<span>Кардиология. Национальное руководство /под редакцией  Беленкова Ю.Н., Оганова Р.Г., 2007</span>
+<ol type="1">
+<li level="2">стр.1086-1099</li>
+</ol>
+</li>
+<li level="1">
+<span>Клинические рекомендации. Ревматология /под редакцией Насонова Е.Л., М.:ГЭОТАР-Медиа, 2008</span>
+<ol type="1">
+</ol>
+</li>
+<li level="1">
+<span>Ревматические болезни /под ред. Насоновой В.А., Бунчука Н.В.- М., Медицина, 1997</span>
+<ol type="1">
+<li level="2">стр.520</li>
+</ol>
+</li>
+<li level="1">
+<span>Ревматология. Национальное руководство /под редакцией  Насонова Е.Л., Насоновой В.А., 2008</span>
+<ol type="1">
+<li level="2">стр.400-419</li>
+</ol>
+</li>
+<li level="1">
+<span>"Острая ревматическая лихорадка на рубеже веков" Белов Б. С., "Русский медицинский журнал", 1999, Т.7. № 18., с.694-698</span>
+<ol type="1">
+</ol>
+</li>
+<li level="1">
+<span>"Острая ревматическая лихорадка: современное состояние проблемы" Белов Б.С., Русский медицинский журнал, 2004, Т.12, №6, стр. 33-42</span>
+<ol type="1">
+</ol>
+</li>
+</ol> </div>
+</section>
+</div>
+</section>
+<section class="page-section" data-section-name="ATTENTION">
+<h2 class="page-section__title" id="attention">
+        Внимание!    </h2>
+<div class="container">
+<div class="row page-section__row">
+<!--noindex-->
+<label class="attention-self-treatment-list__caption">Если вы не являетесь медицинским специалистом:</label>
+<ul class="attention-self-treatment-list">
+<li>
+        Занимаясь самолечением, вы можете нанести непоправимый вред своему здоровью.
+         
+    </li>
+<li>
+        Информация, размещенная на сайте MedElement, не может и не должна заменять очную консультацию врача.
+        Обязательно
+        обращайтесь в медицинские учреждения при наличии каких-либо заболеваний или беспокоящих вас симптомов.
+         
+    </li>
+<li>
+        Выбор лекарственных средств и их дозировки, должен быть оговорен со специалистом. Только врач может
+        назначить
+        нужное лекарство и его дозировку с учетом заболевания и состояния организма больного.
+         
+    </li>
+<li>
+        Сайт MedElement является исключительно информационно-справочным ресурсом. Информация, размещенная на данном
+        сайте, не должна использоваться для самовольного изменения предписаний врача.
+         
+    </li>
+<li>
+        Редакция MedElement не несет ответственности за какой-либо ущерб здоровью или материальный ущерб, возникший
+        в
+        результате использования данного сайта.
+    </li>
+</ul>
+<!--/noindex-->
+</div>
+</div>
+</section>
+</main>

@@ -1,0 +1,281 @@
+<main id="main">
+<section class="page-information disease-information">
+<div class="container">
+<h1 class="page-information__name disease-information__name">
+            Врожденный цирроз печени (P78.8)        </h1>
+<div class="disease-information__version-name">
+<p class="lead text-muted">
+                
+                Версия: Справочник заболеваний MedElement                </p>
+</div>
+<div class="disease-information__categories-mkb">
+<label>Категории МКБ: </label>
+                Другие уточненные расстройства системы пищеварения в перинатальном периоде (P78.8)            </div>
+<div class="disease-information__sections-medicine">
+<label>Разделы медицины: </label>
+                Гастроэнтерология            </div>
+</div>
+</section>
+<section class="page-section" data-index="0">
+<h2 class="page-section__title" id="general_information">
+        Общая информация    </h2>
+<div class="container">
+<div class="page-links-actions">
+<ul>
+<li class="page-links-actions__item page-links-actions__item--print" data-ga-event-action="Клик по ссылке: Версия для печати" data-ga-event-category="Links actions" data-ga-event-label="" data-send-ga-event="">
+<a href="javascript:window.print()">Версия для печати
+                    <svg class="svg-icon svg-icon-printer" height="18" version="1.1" viewbox="0 0 24 24" width="18" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<path d="M18,3H6V7H18M19,12A1,1 0 0,1 18,11A1,1 0 0,1 19,10A1,1 0 0,1 20,11A1,1 0 0,1 19,12M16,19H8V14H16M19,8H5A3,3 0 0,0 2,11V17H6V21H18V17H22V11A3,3 0 0,0 19,8Z"></path>
+</svg>
+</a>
+</li>
+</ul>
+</div>
+<section class="row page-field" data-field-name="SHORTDESCRIPTION">
+<h3 class="page-field__title text-left" id="shortdescription">
+                    Краткое описание                </h3>
+<div class="page-field__data">
+<br/>
+Согласно МКБ-10, в этот подпункт отнесен врожденный цирроз печени.<br/>
+<br/>
+</div>
+</section>
+</div>
+</section>
+<section class="page-section" data-section-name="ETIOLOGY">
+<h2 class="page-section__title" id="etiology">
+        Этиология и патогенез    </h2>
+<div class="container">
+<div class="row page-section__row">
+<div style="text-align: justify; ">
+<br/>
+	В вопросе этиологии врожденного цирроза нет единого мнения. Ниже приведены различные взгляды по этому вопросу.<br/>
+<br/>
+<strong>Возможные  этиологические причины развития врожденного цирроза печени</strong><br/>
+<br/>
+	1. <strong>Невыявленные инфекционные внутриутробные гепатиты в связи с поражением печени в </strong><aterm term="1"><strong>антенатальном<span class="term-description" style="display: none;"><span>Антенатальный - прилагательное, характеризующее структуры и процессы, происходящие до момента рождения.</span><br/></span></strong></aterm><strong> периоде </strong>(фетальный гепатит). Причиной цирроза печени у новорожденного может быть перенесенная матерью вирусная инфекция (сывороточный гепатит, цитомегалия, краснуха, герпетическая инфекция), при которой вирус передается трансплацентарно плоду. Отмечено поражение печени у новорожденного и при листериозе, сифилисе, токсоплазмозе у матери. Степень выраженности цирротических изменений печени при рождении ребенка зависит от длительности инфекции в период внутриутробного развития. Перечисленные заболевания классифицированы в других рубриках МКБ-10.<br/>
+<br/>
+	2.<strong> Невыявленные метаболические нарушения:</strong> болезнь Коновалова-Вильсона (гепатолентикулярная дегенерация), гемохроматоз, тирозиноз, галактоземия, гликогенозы, дефицит альфа1-антитрипсина (классифицированы в других рубриках МКБ-10).<br/>
+<br/>
+	3. <strong>Невыявленные аномалии развития желчевыводящих путей:</strong> вторичный билиарный цирроз, атрезия желчевыводящих путей и прочие аномалии, классифицированные в других рубриках МКБ-10.<br/>
+<br/>
+	4. <strong>Генетически обусловленные циррозы</strong>, не связанные с причинами указанными выше:<br/>
+<br/>
+	4.1 <strong>Индийский детский цирроз</strong> (ICC) – болезнь, связанная с накоплением меди. Наблюдается у маленьких детей из таких регионов, как Индия, Шри-Ланка, Пакистан. Описаны единичные случаи в семьях, где родители не были выходцами из данных регионов. Этиология неизвестна, предполагается излишнее поглощение меди, а также дефекты в <aterm term="1">экскреции<span class="term-description" style="display: none;"><span>Экскреция - совокупность физиологических процессов, направленных на освобождение организма от конечных продуктов обмена, чужеродных веществ, а также избытка воды, минеральных и органических веществ, поступивших с пищей или образовавшихся в организме в процессе метаболизма</span><br/></span></aterm> меди. <br/>
+	Гипотеза аутосомно-рецессивного наследования и двойного рецессивного типа наследования индийского детского цирроза были найдены несостоятельными.  В обзоре субъекта, Кумара (1984) сделал вывод, что скорее всего имеет место многофакторное наследование с предполагаемым <aterm term="1">локусом<span class="term-description" style="display: none;"><span>Локус - местоположение гена (или конкретных его аллелей) на карте хромосом организма</span><br/></span></aterm> 12q13.13. Морфологически он выглядит как мелкоузловой цирроз. Такое же заболевание было описано как эндемический тирольский детский цирроз (ETIC). <br/>
+<br/>
+	4.2 <strong>Деский цирроз североамериканских индейцев</strong> (NAIC) - аутосомно-рецессивное заболевание с предполагаемым лoкусом 16q22.1. По сути - поражение</div>
+<div style="text-align: justify; ">
+	желчных протоков, что наряду с клиническими особенностями отличает его от прогрессивного семейного внутрипеченочного холестаза (PFIC1). По морфологической картине - портальный цирроз.<br/>
+<br/>
+	 </div>
+<div>
+	 </div>
+</div>
+</div>
+</section>
+<section class="page-section" data-section-name="EPIDEMIOLOGY">
+<h2 class="page-section__title" id="epidemiology">
+        Эпидемиология    </h2>
+<div class="container">
+<div class="row page-section__row">
+<br/>
+Неизвестна. В эндемичных группах (семьях) частота врожденного цирроза может достигать 9%.
+                    </div>
+</div>
+</section>
+<section class="page-section" data-section-name="FACTORSANDRISKGROUPS">
+<h2 class="page-section__title" id="factorsandriskgroups">
+        Факторы и группы риска    </h2>
+<div class="container">
+<div class="row page-section__row">
+<br/>
+- наследственные мутации;<br/>
+- использование посуды из меди, медных водопроводных труб.
+                    </div>
+</div>
+</section>
+<section class="page-section" data-index="4">
+<h2 class="page-section__title" id="clinical">
+        Клиническая картина    </h2>
+<div class="container">
+<section class="row page-field" data-field-name="ANTIPRAXIA">
+<h3 class="page-field__title text-left" id="antipraxia">
+                    Cимптомы, течение                </h3>
+<div class="page-field__data">
+<div style="text-align: justify; ">
+<br/>
+	При индийском детском циррозе у детей наблюдаются такие проявления, как <aterm term="1">анорексия<span class="term-description" style="display: none;"><span>Анорексия — синдром, заключающийся в отсутствии аппетита, чувства голода, либо в сознательном отказе от пищи</span><br/></span></aterm> и раздражительность.  В качестве вторичного проявления болезни печени следует развитие <aterm term="1">гепатомегалии<span class="term-description" style="display: none;"><span>Гепатомегалия - значительное увеличение печени.</span><br/></span></aterm> и желтухи.<br/>
+<br/>
+	При североамериканском детском циррозе новорожденный обычно чувствует себя хорошо. Затем возникает желтуха, которая прогрессирует в билиарный цирроз, требующий трансплантации печени в детстве или в раннем взрослом возрасте. Обычно при возникновении подобной желтухи ее ошибочно относят к желтухе новорожденных. Биохимические и гистопатологические особенности заболевания свидетельствуют о поражении желчных протоков (выраженный <aterm term="1">фиброз<span class="term-description" style="display: none;"><span>Фиброз - разрастание волокнистой соединительной ткани, происходящее, например, в исходе воспаления.</span><br/></span></aterm> вокруг портальных желчных протоков), а не желчных канальцев. </div>
+</div>
+</section>
+</div>
+</section>
+<section class="page-section" data-section-name="DIAGNOSTICS">
+<h2 class="page-section__title" id="diagnostics">
+        Диагностика    </h2>
+<div class="container">
+<div class="row page-section__row">
+<div style="text-align: justify; ">
+<br/>
+	Диагностика стандартна и описана в пунктах K74 и Q44.5. <br/>
+<br/>
+	Стартовым методом является УЗИ, определяющее наличие поражения билиарного тракта и признаки фиброза и цирроза.<br/>
+	При сомнительных данных возможно использование МРТ, фиброэластографии и УЗДГ.<br/>
+<br/>
+	Золотым стандартом диагностики является пункционная биопсия печени.<br/>
+<br/>
+	На индийский детский цирроз могут указывать повышенное содержание меди в ткани печени (часто более 1000 мкг/г). Накопление меди подавляет транспорт внутриклеточных протеинов, приводя к отеку <aterm term="1">гепатоцитов<span class="term-description" style="display: none;"><span>гепатоцит - основная клетка печени: крупная клетка, выполняющая различные метаболические функции, включая синтез и накопление различных необходимых организму веществ, обезвреживание токсичных веществ и образование желчи (Hepatocyte)</span><br/></span></aterm>. <br/>
+<br/>
+	При детском циррозе североамериканских индейцев присутствуют признаки билиарного цирроза с поражением желчных протоков.</div>
+<br/>
+</div>
+</div>
+</section>
+<section class="page-section" data-section-name="LABORATORYDIAGNOSTICS">
+<h2 class="page-section__title" id="laboratorydiagnostics">
+        Лабораторная диагностика    </h2>
+<div class="container">
+<div class="row page-section__row">
+<br/>
+<span style="font-family: Arial, Helvetica, sans-serif; line-height: 18px; ">Описана в пунктах K74 и Q44.5.<br/>
+<br/>
+<strong>Дополнительно определяются: </strong></span><br/>
+<span style="font-family: Arial, Helvetica, sans-serif; line-height: 18px; ">-<strong> д</strong></span><strong style="font-family: Arial, Helvetica, sans-serif; line-height: 18px; ">ля ICC: </strong><span style="font-family: Arial, Helvetica, sans-serif; line-height: 18px; ">повышение уровня меди в сыворотке;</span><br/>
+<span style="font-family: Arial, Helvetica, sans-serif; line-height: 18px; "><strong>- для NAIC:</strong></span><br/>
+<span style="font-family: Arial, Helvetica, sans-serif; line-height: 18px; text-align: justify; ">- повышение уровня щелочной фосфатазы;</span><br style="margin: 0px; padding: 0px; font-family: Arial, Helvetica, sans-serif; line-height: 18px; text-align: justify; "/>
+<span style="font-family: Arial, Helvetica, sans-serif; line-height: 18px; text-align: justify; ">- повышение ГГТП;</span><br style="margin: 0px; padding: 0px; font-family: Arial, Helvetica, sans-serif; line-height: 18px; text-align: justify; "/>
+<span style="font-family: Arial, Helvetica, sans-serif; line-height: 18px; text-align: justify; ">- гипербилирубинемия;</span><br style="margin: 0px; padding: 0px; font-family: Arial, Helvetica, sans-serif; line-height: 18px; text-align: justify; "/>
+<span style="font-family: Arial, Helvetica, sans-serif; line-height: 18px; text-align: justify; ">- пограничные уровни АЛТ (цитолитический синдром мало выражен).</span>
+</div>
+</div>
+</section>
+<section class="page-section" data-section-name="DIFFERENTIALDIAGNOSIS">
+<h2 class="page-section__title" id="differentialdiagnosis">
+        Дифференциальный диагноз    </h2>
+<div class="container">
+<div class="row page-section__row">
+<br/>
+- аномалии развития печени и желчевыводящих путей;<br/>
+- болезнь Коновалова-Вильсона и другие метаболические нарушения;<br/>
+- фетальные инфекционные гепатиты;<br/>
+- фиброз печени;<br/>
+- желтуха новорожденных.
+                    </div>
+</div>
+</section>
+<section class="page-section" data-section-name="SEQUELAE">
+<h2 class="page-section__title" id="sequelae">
+        Осложнения    </h2>
+<div class="container">
+<div class="row page-section__row">
+<br/>
+В основном - печеночная энцефалопатия и ДВС-синдром.
+                    </div>
+</div>
+</section>
+<section class="page-section" data-section-name="THERAPY">
+<h2 class="page-section__title" id="therapy">
+        Лечение    </h2>
+<div class="container">
+<div class="row page-section__row">
+<br/>
+Трансплантация печени.
+                            
+
+
+
+
+
+                       </div>
+</div>
+</section>
+<section class="page-section" data-section-name="PROGNOSIS">
+<h2 class="page-section__title" id="prognosis">
+        Прогноз    </h2>
+<div class="container">
+<div class="row page-section__row">
+<br/>
+Неблагоприятный без лечения. Редкостью  является продолжительность жизни более 4 лет. До 10 лет доживают единицы. Основная масса пациентов без лечения  умирает в возрасте до 18-21 месяцев.
+                    </div>
+</div>
+</section>
+<section class="page-section" data-section-name="HOSPITALIZATION">
+<h2 class="page-section__title" id="hospitalization">
+        Госпитализация    </h2>
+<div class="container">
+<div class="row page-section__row">
+<br/>
+В экстренном порядке в отделение патологии новорожденных или отделение хирургии новорожденных.
+                    </div>
+</div>
+</section>
+<section class="page-section" data-section-name="PROPHYLAXIS">
+<h2 class="page-section__title" id="prophylaxis">
+        Профилактика    </h2>
+<div class="container">
+<div class="row page-section__row">
+<br/>
+Исследование генов родителей в семьях которых ранее зафиксирована гибель младенцев с клиникой цирроза печени.
+                    </div>
+</div>
+</section>
+<section class="page-section" data-index="13">
+<h2 class="page-section__title" id="information">
+        Информация    </h2>
+<div class="container">
+<section class="row page-field" data-field-name="LISTOFREFERENCES">
+<h3 class="page-field__title text-left" id="listofreferences">
+                    Источники и литература                </h3>
+<div class="page-field__data">
+<ol id="AdditionalListSources" type="I">
+<li level="1">
+<span>http://omim.org/entry/215600?search=Indian cirrhosis&amp;highlight=indian cirrhosi</span>
+<ol type="1">
+</ol>
+</li>
+</ol> </div>
+</section>
+</div>
+</section>
+<section class="page-section" data-section-name="ATTENTION">
+<h2 class="page-section__title" id="attention">
+        Внимание!    </h2>
+<div class="container">
+<div class="row page-section__row">
+<!--noindex-->
+<label class="attention-self-treatment-list__caption">Если вы не являетесь медицинским специалистом:</label>
+<ul class="attention-self-treatment-list">
+<li>
+        Занимаясь самолечением, вы можете нанести непоправимый вред своему здоровью.
+         
+    </li>
+<li>
+        Информация, размещенная на сайте MedElement, не может и не должна заменять очную консультацию врача.
+        Обязательно
+        обращайтесь в медицинские учреждения при наличии каких-либо заболеваний или беспокоящих вас симптомов.
+         
+    </li>
+<li>
+        Выбор лекарственных средств и их дозировки, должен быть оговорен со специалистом. Только врач может
+        назначить
+        нужное лекарство и его дозировку с учетом заболевания и состояния организма больного.
+         
+    </li>
+<li>
+        Сайт MedElement является исключительно информационно-справочным ресурсом. Информация, размещенная на данном
+        сайте, не должна использоваться для самовольного изменения предписаний врача.
+         
+    </li>
+<li>
+        Редакция MedElement не несет ответственности за какой-либо ущерб здоровью или материальный ущерб, возникший
+        в
+        результате использования данного сайта.
+    </li>
+</ul>
+<!--/noindex-->
+</div>
+</div>
+</section>
+</main>

@@ -1,0 +1,383 @@
+<main id="main">
+<section class="page-information disease-information">
+<div class="container">
+<h1 class="page-information__name disease-information__name">
+            Другие болезни языка. Атрофия языка (K14.8)        </h1>
+<div class="disease-information__alternate-name">
+<label>Также: </label>
+                Atrophy of tongue            </div>
+<div class="disease-information__version-name">
+<p class="lead text-muted">
+                
+                Версия: Справочник заболеваний MedElement                </p>
+</div>
+<div class="disease-information__categories-mkb">
+<label>Категории МКБ: </label>
+                Другие болезни языка (K14.8)            </div>
+<div class="disease-information__sections-medicine">
+<label>Разделы медицины: </label>
+                Гастроэнтерология, Стоматология            </div>
+</div>
+</section>
+<section class="page-section" data-index="0">
+<h2 class="page-section__title" id="general_information">
+        Общая информация    </h2>
+<div class="container">
+<div class="page-links-actions">
+<ul>
+<li class="page-links-actions__item page-links-actions__item--print" data-ga-event-action="Клик по ссылке: Версия для печати" data-ga-event-category="Links actions" data-ga-event-label="" data-send-ga-event="">
+<a href="javascript:window.print()">Версия для печати
+                    <svg class="svg-icon svg-icon-printer" height="18" version="1.1" viewbox="0 0 24 24" width="18" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<path d="M18,3H6V7H18M19,12A1,1 0 0,1 18,11A1,1 0 0,1 19,10A1,1 0 0,1 20,11A1,1 0 0,1 19,12M16,19H8V14H16M19,8H5A3,3 0 0,0 2,11V17H6V21H18V17H22V11A3,3 0 0,0 19,8Z"></path>
+</svg>
+</a>
+</li>
+</ul>
+</div>
+<section class="row page-field" data-field-name="SHORTDESCRIPTION">
+<h3 class="page-field__title text-left" id="shortdescription">
+                    Краткое описание                </h3>
+<div class="page-field__data">
+<div style="text-align: justify;">
+<br/>
+<strong>Атрофия языка </strong>- уменьшения размера языка или его части. Врожденные формы, в том числе связанные с генетическими аномалиями и с врожденными заболеваниями нервной системы, описаны в других подрубриках.<br/>
+<br/>
+<br/>
+<strong>Примечания</strong><br/>
+<br/>
+<div>
+		Из данной подрубрики<strong> исключены:</strong><br/>
+		- "Другие болезни губ и слизистой оболочки полости рта" - K13 </div>
+<div>
+		- "<a href="https://diseases.medelement.com/disease/view/NDU3NA%253D%253D/fDB8" target="_blank">Глоссит</a>" - К14.0 </div>
+<div>
+		- ''<a href="https://diseases.medelement.com/disease/view/NDU3NQ%253D%253D/fDB8" target="_blank">Географический'' язык</a>" - K14.1 </div>
+<div>
+		- "<a href="https://diseases.medelement.com/disease/view/NDU3OA%253D%253D/fDB8" target="_blank">Атрофия сосочков языка</a>" - K14.4 </div>
+<div>
+		- "<a href="https://diseases.medelement.com/disease/view/NDU3Nw%253D%253D/fDB8" target="_blank">Гипертрофия сосочков языка</a>" - K14.3 </div>
+<div>
+		- "Врожденная макроглоссия" - Q38.2  </div>
+<div>
+		- "Другие врожденные аномалии языка" - Q38.3 </div>
+<div>
+<br/>
+		В данную подрубрику <strong>включена:</strong> атрофия языка.<br/>
+		Следующие клинические состояния также относятся к данному коду K14.8  и описаны под этим же кодом, но в других карточках для удобства диагностики:</div>
+<div>
+		- <a href="https://diseases.medelement.com/disease/view/MTM2Mzc%253D/fDB8" target="_blank">фестончатый язык</a>;<br/>
+		-<a href="https://diseases.medelement.com/disease/view/NDU4MQ%253D%253D/fDB8" target="_blank"> гипертрофия языка, широкий язык, глоссоцеле</a>;<br/>
+		- <a href="https://diseases.medelement.com/disease/view/MTM2Mzk%253D/fDF8Mnw%253D" target="_blank">глоссоптоз</a>.<br/>
+		 </div>
+<div>
+		Все описанные выше клинические состояния, как правило, являются осложнениями какой-либо патологии. Таким образом, код данной подрубрики должен использоваться как осложнение какого-либо основного заболевания либо как код сопутствующей патологии. Код может быть использован как код основного заболевания только в случае предварительного диагноза. </div>
+</div>
+<br/>
+</div>
+</section>
+<section class="row page-field" data-field-name="NUMBERDAYSFLOW">
+<h3 class="page-field__title text-left" id="numberdaysflow">
+                    Период протекания                </h3>
+<div class="page-field__data">
+<br/>
+<label>Описание:</label>
+<p>Хроническая патология с постепенным началом.</p>
+</div>
+</section>
+</div>
+</section>
+<section class="page-section" data-section-name="CLASSIFICATION">
+<h2 class="page-section__title" id="classification">
+        Классификация    </h2>
+<div class="container">
+<div class="row page-section__row">
+<div style="text-align: justify;">
+<br/>
+	Общепринятая классификация атрофии языка отсутствует. Наиболее часто, в целях указания распространенности, употребляются следующие описательные <strong>определения процесса атрофии</strong>: <br/>
+	- распространенная (тотальная) атрофия;<br/>
+	- очаговая атрофия (например, только или преимущественно передней части);<br/>
+	- гемиатрофия (атрофия правой или левой половины языка).</div>
+</div>
+</div>
+</section>
+<section class="page-section" data-section-name="ETIOLOGY">
+<h2 class="page-section__title" id="etiology">
+        Этиология и патогенез    </h2>
+<div class="container">
+<div class="row page-section__row">
+<div datatype="4" fieldname="ETIOLOGY" id="right-panel-content-sub">
+<div style="text-align: justify;">
+<br/>
+<strong>Приобретенная атрофия языка</strong> является следствием нарушений кровотока или иннервации.<br/>
+		Наиболее частые причины:<br/>
+		- <aterm term="1">гигантоклеточный артериит<span class="term-description" style="display: none;"><span>Артериит гигантоклеточный (синдром Хортона) - хроническая болезнь неясной этиологии, характеризующаяся дистрофически-некротическими и гранулематозными изменениями средней оболочки артерий смешанного типа, преимущественно артерий головы, с наличием в гранулемах гигантских многоядерных клеток; проявляется нарушениями зрения (вплоть до слепоты), болями в висках и затылке, утомляемостью, исхуданием, развитием анемии</span><br/></span></aterm> и другие поражения питающей артерии;<br/>
+		- травмы / операции на шее или ротовой полости с повреждением артерий и/или подъязычного нерва;</div>
+<div style="text-align: justify;">
+		- паралич подъязычного нерва другой (нетравматической) этиологии (например, опухоли головного мозга с компрессией подъязычного и/или блуждающего нерва);<br/>
+		- <aterm term="1">бульбарный паралич<span class="term-description" style="display: none;"><span>Паралич бульбарный - синдром поражения языкоглоточного, блуждающего и подъязычного нервов или их двигательных ядер, расположенных в продолговатом мозге, с параличом мышц языка, губ, мягкого неба, глотки, голосовых связок и надгортанника; проявляется дисфонией, дисфагией, носовым оттенком голоса, отклонением языка в сторону или его неподвижностью, часто расстройствами дыхания и сердечно-сосудистой деятельности</span><br/></span></aterm>, <aterm term="1">боковой амиотрофический склероз<span class="term-description" style="display: none;"><span>Склероз боковой амиотрофический (син. Шарко болезнь) - хроническая прогрессирующая болезнь нервной системы неясной этиологии, характеризующаяся поражением двигательных нейронов головного и спинного мозга, дегенерацией корково-спинномозговых и корково-ядерных волокон; проявляется сочетанием центральных и периферических параличей (парезов) мышц конечностей и туловища, а также расстройствами двигательных функций тройничного, языкоглоточного, блуждающего и подъязычного нервов</span><br/></span></aterm> и другие поражения нервной системы;<br/>
+		- <aterm term="1">миастения<span class="term-description" style="display: none;"><span> Миастения - аутоимунное нервно-мышечное заболевание, проявляющееся слабостью и патологической утомляемостью различных групп мышц</span><br/></span></aterm>.</div>
+</div>
+</div>
+</div>
+</section>
+<section class="page-section" data-section-name="EPIDEMIOLOGY">
+<h2 class="page-section__title" id="epidemiology">
+        Эпидемиология    </h2>
+<div class="container">
+<div class="row page-section__row">
+<p>Признак распространенности: Редко</p>
+<br/>
+<span style="color: rgb(35, 31, 32); font-family: Arial, Helvetica, sans-serif; line-height: 14.399999618530273px;">Приобретенная атрофия языка встречается редко, в основном у взрослых. </span>
+</div>
+</div>
+</section>
+<section class="page-section" data-section-name="FACTORSANDRISKGROUPS">
+<h2 class="page-section__title" id="factorsandriskgroups">
+        Факторы и группы риска    </h2>
+<div class="container">
+<div class="row page-section__row">
+<br/>
+- операции на шее и языке;<br/>
+- заболевания нервной системы;<br/>
+- <aterm term="1">артериит<span class="term-description" style="display: none;"><span>Артериит - воспаление стенки артерии</span><br/></span></aterm>.
+                    </div>
+</div>
+</section>
+<section class="page-section" data-index="5">
+<h2 class="page-section__title" id="clinical">
+        Клиническая картина    </h2>
+<div class="container">
+<section class="row page-field" data-field-name="THESIS">
+<h3 class="page-field__title text-left" id="thesis">
+                    Клинические критерии диагностики                </h3>
+<div class="page-field__data">
+                    
+                    дизартрия; дисфагия; ассиметрия языка; нарушение подвижности языка; уменьшение размеров языка; атрофия частей языка; атрофия сосочков языка; девиация языка; гипогевзия; гемиатрофия языка; искривление серединной борозды языка; дисгевзия; гипогевзия; агевзия                </div>
+</section>
+<section class="row page-field" data-field-name="ANTIPRAXIA">
+<h3 class="page-field__title text-left" id="antipraxia">
+                    Cимптомы, течение                </h3>
+<div class="page-field__data">
+<div style="text-align: justify;">
+<br/>
+<strong>Характерные проявления атрофии языка:</strong><br/>
+	- нарушения артикуляции;<br/>
+	- нарушения глотания;<br/>
+	- ассиметрия языка в покое и при движениях.<br/>
+<br/>
+	При осмотре язык малоподвижен, уменьшен в размерах и/или имеет очаги атрофии (бугристый язык). Могут выявляться признаки атрофии сосочков языка (гладкий язык), изменения вкусовых и тактильных ощущений при приеме пищи и речи, атрофия мягкого нёба, изменения голоса (охриплость, <aterm term="1">ринолалия<span class="term-description" style="display: none;"><span>Ринолалия (син. гнусавость) - изменение тембра голоса и искаженное произношение звуков, обусловленные нарушением резонаторной функции носовой полости</span><br/></span></aterm>), <aterm term="1">птоз<span class="term-description" style="display: none;"><span>Птоз — опущение органа</span><br/></span></aterm> и иные симптомы, характерные для той или иной этиологически значимой патологии.</div>
+<br/>
+<img alt="Атрофия языка" height-fact="238" id="preview_image" src="https://diseases.medelement.com/upload/29a56acbb87b68a05503154c1ae9a854.jpg" style="width: 250px; height: 221px; border-width: 0px; border-style: solid; margin-left: 0px; margin-top: 0px; float: none;" title="Атрофия языка" width-fact="270"/><br/>
+</div>
+</section>
+</div>
+</section>
+<section class="page-section" data-section-name="DIAGNOSTICS">
+<h2 class="page-section__title" id="diagnostics">
+        Диагностика    </h2>
+<div class="container">
+<div class="row page-section__row">
+<div style="text-align: justify;">
+<br/>
+	Размеры языка не могут быть выражены в абсолютных числах как норма, поскольку соотносятся с размерами челюстей, нёба, полом, возрастом, расой, некоторыми заболеваниями. Поэтому измерение языка само по себе, без учета размеров челюстей и лицевого скелета, не является определяющим диагностическим тестом при атрофии языка.<br/>
+	Диагноз, как правило, не вызывает затруднений уже при осмотре и проведении фонетических тестов.<br/>
+<br/>
+	Все возможные методы диагностики должны быть выполнены для поиска этиологической причины.<br/>
+	Полезно применение цифрового фото высокого разрешения для оценки процесса в динамике.</div>
+</div>
+</div>
+</section>
+<section class="page-section" data-section-name="LABORATORYDIAGNOSTICS">
+<h2 class="page-section__title" id="laboratorydiagnostics">
+        Лабораторная диагностика    </h2>
+<div class="container">
+<div class="row page-section__row">
+<div style="text-align: justify;">
+<br/>
+	Нет никаких специфических лабораторных тестов для подтверждения и опровержения диагноза атрофии языка. Любые выявленные отклонения свидетельствуют об этиологически значимой или сопутствующей патологии.<br/>
+	Во всех случаях полезны различные тесты на инфекции (сифилис, туберкулез, <aterm term="1">актиномикоз<span class="term-description" style="display: none;"><span>Актиномикоз - хроническая инфекционная болезнь человека и животных, вызываемая актиномицетами и характеризующаяся гранулематозным поражением тканей и органов с развитием плотных инфильтратов, образованием абсцессов, свищей и рубцов</span><br/></span></aterm>) и, по показаниям, генетические тесты на врожденные заболевания.</div>
+</div>
+</div>
+</section>
+<section class="page-section" data-section-name="DIFFERENTIALDIAGNOSIS">
+<h2 class="page-section__title" id="differentialdiagnosis">
+        Дифференциальный диагноз    </h2>
+<div class="container">
+<div class="row page-section__row">
+<br/>
+- травма языка;<br/>
+- атрофия сосочков языка (атрофический глоссит);<br/>
+- аномалии лицевого скелета;<br/>
+- <aterm term="1">синдром Пьера Робена<span class="term-description" style="display: none;"><span>Синдром Пьера Робена - сочетание врожденной гипоплазии нижней челюсти с недоразвитием и западением языка и расщеплением нёба, вызывающее затруднения глотания и дыхания</span><br/></span></aterm>, окулофарингеальная мышечная атрофия;<br/>
+- нарушения функции и девиация языка без признаков атрофии (например, при инсульте);<br/>
+- микроглоссия (врожденная аномалия развития), иногда с западением языка (глоссоптоз).<br/>
+<br/>
+</div>
+</div>
+</section>
+<section class="page-section" data-section-name="SEQUELAE">
+<h2 class="page-section__title" id="sequelae">
+        Осложнения    </h2>
+<div class="container">
+<div class="row page-section__row">
+<div style="text-align: justify;">
+<br/>
+	- нарушения артикуляции;<br/>
+	- <aterm term="1">дисфагия<span class="term-description" style="display: none;"><span>Дисфагия - общее название расстройств глотания</span><br/></span></aterm> с возможной аспирацией;<br/>
+	- расстройство вкуса;<br/>
+	- синдром ночного <aterm term="1">апноэ<span class="term-description" style="display: none;"><span>Апноэ - временная остановка дыхания</span><br/></span></aterm> (при выраженной денервации).<br/>
+	 </div>
+</div>
+</div>
+</section>
+<section class="page-section" data-section-name="THERAPY">
+<h2 class="page-section__title" id="therapy">
+        Лечение    </h2>
+<div class="container">
+<div class="row page-section__row">
+<div>
+<br/>
+	Лечение атрофии языка направлено на лечение основного заболевания.<br/>
+	Целесообразны консультации невролога, психолога/психиатра и логопеда.</div>
+</div>
+</div>
+</section>
+<section class="page-section" data-section-name="PROGNOSIS">
+<h2 class="page-section__title" id="prognosis">
+        Прогноз    </h2>
+<div class="container">
+<div class="row page-section__row">
+<br/>
+Определяется основным заболеванием. 
+                    </div>
+</div>
+</section>
+<section class="page-section" data-section-name="HOSPITALIZATION">
+<h2 class="page-section__title" id="hospitalization">
+        Госпитализация    </h2>
+<div class="container">
+<div class="row page-section__row">
+<br/>
+Госпитализация не требуется. Возможна госпитализация по основному заболеванию.
+                    </div>
+</div>
+</section>
+<section class="page-section" data-section-name="PROPHYLAXIS">
+<h2 class="page-section__title" id="prophylaxis">
+        Профилактика    </h2>
+<div class="container">
+<div class="row page-section__row">
+<br/>
+Методы первичной профилактики не разработаны.<br/>
+<br/>
+К вторичной профилактике относятся:<br/>
+- правильный прием пищи (для пациентов с бульбарными расстройствами);<br/>
+- тщательная гигиена полости рта;<br/>
+- возможна коррекция диеты (выбор наиболее приемлемой консистенции пищи). 
+                    </div>
+</div>
+</section>
+<section class="page-section" data-index="14">
+<h2 class="page-section__title" id="information">
+        Информация    </h2>
+<div class="container">
+<section class="row page-field" data-field-name="LISTOFREFERENCES">
+<h3 class="page-field__title text-left" id="listofreferences">
+                    Источники и литература                </h3>
+<div class="page-field__data">
+<ol id="AdditionalListSources" type="I">
+<li level="1">
+<span>"Effects of surgical reduction of the tongue" Ueyama Y, Mano T, Nishiyama A, Br J Oral Maxillofac Surg, №37(6), 1999</span>
+<ol type="1">
+</ol>
+</li>
+<li level="1">
+<span>"Epidemiologic survey of tongue lesions and analysis of the etiologic factors involved" Voros-Balog T, Dombi C, Vincze N, Banoczy J., Fogorvosi Szemle journal, №92(5), 1999</span>
+<ol type="1">
+</ol>
+</li>
+<li level="1">
+<span>"Glossoptosis (posterior displacement of the tongue) during sleep: a frequent cause of sleep apnea in pediatric patients referred for dynamic sleep fluoroscopy" Donnelly LF, Strife JL, Myer CM, Am J Roentgenol., №175(6), 2000 </span>
+<ol type="1">
+</ol>
+</li>
+<li level="1">
+<span>"Glossoptosis-apnea syndrome in infancy" Cozzi F, Pierro A., Pediatrics, №75(5), 1985</span>
+<ol type="1">
+</ol>
+</li>
+<li level="1">
+<span>"Hypoglossal nerve palsy" Ivan WC Tsui, David PN Chan, Hong Kong Med J, vol. 15, №3, 2009 
+</span>
+<ol type="1">
+</ol>
+</li>
+<li level="1">
+<span>"Mandibular distraction osteogenesis for pediatric airway management" Miloro M., J Oral Maxillofac Surg., №68(7), 2010</span>
+<ol type="1">
+</ol>
+</li>
+<li level="1">
+<span>"Myasthenia gravis - a rare presentation with tongue atrophy and fasciculation" J. Burch, C. Warren-Gash, V. Ingham, M. Patel, D. Bennett, K. R. Chaudhuri, Age and Ageing  journal, №35, 2006</span>
+<ol type="1">
+</ol>
+</li>
+<li level="1">
+<span>"Oral mucosal lesions in a representative cross-sectional study of aging Germans" Reichart PA, Community Dent Oral Epidemiol., №28(5), 2000 </span>
+<ol type="1">
+</ol>
+</li>
+<li level="1">
+<span>"Surgical correction of the enlarged tongue" Taher A., The Internet Journal of Head and Neck Surgery, vol.3, №1, 2008</span>
+<ol type="1">
+</ol>
+</li>
+<li level="1">
+<span>"Секвенция Пьера Робена - ранний диагностический признак синдрома Стиклера (клинический случай)" Музычина А.А., Малеева И.А., "Медико-соціальні проблеми сім’ї", т.17, №3-4, 2012</span>
+<ol type="1">
+</ol>
+</li>
+</ol> </div>
+</section>
+</div>
+</section>
+<section class="page-section" data-section-name="ATTENTION">
+<h2 class="page-section__title" id="attention">
+        Внимание!    </h2>
+<div class="container">
+<div class="row page-section__row">
+<!--noindex-->
+<label class="attention-self-treatment-list__caption">Если вы не являетесь медицинским специалистом:</label>
+<ul class="attention-self-treatment-list">
+<li>
+        Занимаясь самолечением, вы можете нанести непоправимый вред своему здоровью.
+         
+    </li>
+<li>
+        Информация, размещенная на сайте MedElement, не может и не должна заменять очную консультацию врача.
+        Обязательно
+        обращайтесь в медицинские учреждения при наличии каких-либо заболеваний или беспокоящих вас симптомов.
+         
+    </li>
+<li>
+        Выбор лекарственных средств и их дозировки, должен быть оговорен со специалистом. Только врач может
+        назначить
+        нужное лекарство и его дозировку с учетом заболевания и состояния организма больного.
+         
+    </li>
+<li>
+        Сайт MedElement является исключительно информационно-справочным ресурсом. Информация, размещенная на данном
+        сайте, не должна использоваться для самовольного изменения предписаний врача.
+         
+    </li>
+<li>
+        Редакция MedElement не несет ответственности за какой-либо ущерб здоровью или материальный ущерб, возникший
+        в
+        результате использования данного сайта.
+    </li>
+</ul>
+<!--/noindex-->
+</div>
+</div>
+</section>
+</main>

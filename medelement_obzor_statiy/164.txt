@@ -1,0 +1,396 @@
+<main id="main">
+<section class="page-information disease-information">
+<div class="container">
+<h1 class="page-information__name disease-information__name">
+            Неспецифический реактивный гепатит (K75.2)        </h1>
+<div class="disease-information__alternate-name">
+<label>Также: </label>
+                вторичный неспецифический гепатит            </div>
+<div class="disease-information__version-name">
+<p class="lead text-muted">
+                
+                Версия: Справочник заболеваний MedElement                </p>
+</div>
+<div class="disease-information__categories-mkb">
+<label>Категории МКБ: </label>
+                Неспецифический реактивный гепатит (K75.2)            </div>
+<div class="disease-information__sections-medicine">
+<label>Разделы медицины: </label>
+                Гастроэнтерология            </div>
+</div>
+</section>
+<section class="page-section" data-index="0">
+<h2 class="page-section__title" id="general_information">
+        Общая информация    </h2>
+<div class="container">
+<div class="page-links-actions">
+<ul>
+<li class="page-links-actions__item page-links-actions__item--print" data-ga-event-action="Клик по ссылке: Версия для печати" data-ga-event-category="Links actions" data-ga-event-label="" data-send-ga-event="">
+<a href="javascript:window.print()">Версия для печати
+                    <svg class="svg-icon svg-icon-printer" height="18" version="1.1" viewbox="0 0 24 24" width="18" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<path d="M18,3H6V7H18M19,12A1,1 0 0,1 18,11A1,1 0 0,1 19,10A1,1 0 0,1 20,11A1,1 0 0,1 19,12M16,19H8V14H16M19,8H5A3,3 0 0,0 2,11V17H6V21H18V17H22V11A3,3 0 0,0 19,8Z"></path>
+</svg>
+</a>
+</li>
+</ul>
+</div>
+<section class="row page-field" data-field-name="SHORTDESCRIPTION">
+<h3 class="page-field__title text-left" id="shortdescription">
+                    Краткое описание                </h3>
+<div class="page-field__data">
+<div style="text-align: justify;">
+<br/>
+<strong>Неспецифический реактивный гепатит</strong> (НРГ) -  это диффузное воспалительно-дистрофическое поражение печени, возникающее при тяжелых заболеваниях органов пищеварения,  системных заболеваниях соединительной ткани, воздействиях ионизирующего излучения.  <br/>
+	НРГ является вторичным гепатитом, в отличие от первичных вирусного, алкогольного, лекарственного гепатитов.<br/>
+<br/>
+	Термин "неспецифический реактивный гепатит" был предложен в 50-х годах для описания воспалительных изменений печени при заболеваниях желудочно-кишечного тракта. Следует отметить, что термин был придуман и широко использовался до наличия современных методов диагностики вирусного и других гепатитов уточненной этиологии.  Хотя термин является удобным для повседневной работы патологоанатомов, его следует использовать с умеренностью, как описательный термин, а не в качестве диагностического.<br/>
+<br/>
+<br/>
+<strong>Примечание. </strong>Из данной подрубрики исключены:<br/>
+	- "<a href="https://diseases.medelement.com/disease/view/NDgwMg%253D%253D/fDF8Mnw%253D" target="_blank">Острая и подострая печеночная недостаточность</a>" - K72.0</div>
+<div style="text-align: justify;">
+	- "<a href="https://diseases.medelement.com/disease/view/NDgxMA%253D%253D/fDF8Mnw%253D" target="_blank">Хронический гепатит неуточненный</a>" - K73.9 </div>
+<div style="text-align: justify;">
+	- "Вирусные гепатиты" (В15-В19)</div>
+</div>
+</section>
+</div>
+</section>
+<section class="page-section" data-section-name="CLASSIFICATION">
+<h2 class="page-section__title" id="classification">
+        Классификация    </h2>
+<div class="container">
+<div class="row page-section__row">
+<div style="text-align: justify;">
+<br/>
+<strong>I.</strong> В основном выделяют два гистологических варианта реактивного гепатита: портальный  и лобулярный, которые зависят от месторасположения очагов воспаления в структурах печени.<br/>
+<br/>
+<br/>
+<strong>II. </strong>С клинической точки зрения, к неспецифическим реактивным гепатитам может быть применена частично общепринятая классификация гепатитов.<br/>
+<br/>
+<strong>Активность гепатита с учетом биохимических анализов крови:</strong><br/>
+	- минимальная:  АЛТ до 3 норм;<br/>
+	- слабовыраженная: АЛТ до 5 норм;<br/>
+	- умеренно-выраженная: АЛТ до 5-10 норм;<br/>
+	- выраженная: выше 10 норм.<br/>
+<br/>
+	С учетом активности процесса в печени выявляют <strong>индекс гистологической активности </strong>(ИГА), который учитывает в баллах морфологические изменения при хроническом гепатите:<br/>
+	- перипортальные некрозы гепатоцитов  (с включением мостоподобных) - от 0 до 10 баллов;<br/>
+	- внутридольковые фокальные некрозы (с дистрофией клеток печени) -  0-4 балла;<br/>
+	- воспалительный инфильтрат в портальных трактах печени -  0-4 балла;<br/>
+	- фиброзы печени -  0-4 балла.<br/>
+<br/>
+	 По данным ИГА (или "индекса Knodell")  выделяют <strong>активность гепатита:</strong><br/>
+	- минимальную активность хронического гепатита - 1-3 балла;<br/>
+	- низкую активность - 4-8 баллов;<br/>
+	- умеренную  активность - 9-13 баллов;<br/>
+	- высокую активность - 13-18 баллов.<br/>
+<br/>
+<strong>Стадии хронического гепатита </strong>(шкала METAVIR):<br/>
+	- 0 - фиброз отсутствует;<br/>
+	- 1 - слабовыраженный перипортальный фиброз;<br/>
+	- 2 - умеренный фиброз с  порто-портальными септами;<br/>
+	- 3 - выраженный фиброз с  порто-центральными септами.<br/>
+<br/>
+<strong>Примечание.</strong> В случаях неспецифического реактивного гепатита, как правило, признаки - минимальные или слабовыраженные, фиброз отсутствует.</div>
+</div>
+</div>
+</section>
+<section class="page-section" data-section-name="ETIOLOGY">
+<h2 class="page-section__title" id="etiology">
+        Этиология и патогенез    </h2>
+<div class="container">
+<div class="row page-section__row">
+<div style="text-align: justify;">
+<br/>
+<strong>Этиология</strong><br/>
+	Неспецифический реактивный гепатит (НРГ) вызывается рядом эндогенных и экзогенных факторов и представляет одно из распространенных повреждений печени.<br/>
+	Причинами реактивного гепатита могут являться:<br/>
+	- заболевания желудочно-кишечного тракта (язвенная болезнь желудка и двенадцатиперстной кишки, демпинг-синдром и другие пострезекционные синдромы; рак желудка; заболевания желчного пузыря; неспецифический язвенный колит; панкреатит);<br/>
+	- системная красная волчанка;<br/>
+	- ревматизм;<br/>
+	- ревматоидный артрит;<br/>
+	- узелковый периартериит;<br/>
+	- <aterm term="1">синдром Шегрена<span class="term-description" style="display: none;"><span>Синдром Шегрена - аутоиммунное системное поражение соединительной ткани, проявляющееся вовлечением в патологический процесс желез внешней секреции, главным образом слюнных и слёзных, и хроническим прогрессирующим течением</span><br/></span></aterm>;<br/>
+	- склеродермия;<br/>
+	- дерматомиозит;<br/>
+	- гемолитические анемии;<br/>
+	- болезни эндокринных желез (тиреотоксикоз, сахарный диабет).<br/>
+<br/>
+	Реактивные изменения печени возможны:<br/>
+	- при острых и хронических инфекционных заболеваниях, вызываемых бактериями, вирусами, риккетсиями, лептоспирами, гельминтами; </div>
+<div style="text-align: justify;">
+	- при токсических повреждениях;<br/>
+	- при ожогах;<br/>
+	- при гранулематозах;<br/>
+	- после операций и биопсии печени (так называемый "хирургический гепатит").<br/>
+<br/>
+	НРГ описывают у больных злокачественными опухолями различной локализации до метастазирования в печень.<br/>
+<br/>
+<strong>Патогенез</strong> НРГ связывают с нарушением обезвреживания в печени разнообразных токсинов и антигенов, поступающих с током крови по воротной вене или печеночной артерии.<br/>
+<br/>
+<strong>Патологическая анатомия</strong><br/>
+	Видны умеренный полиморфизм гепатоцитов, их очаговая белковая (гидропическая, баллонная) и жировая дистрофия, пятнистые (реже - сливающиеся) некрозы гепатоцитов в третьей зоне ацинуса, очаговая лимфогистиоцитарная инфильтрация с небольшим количеством нейтрофилов.<br/>
+	Отмечаются увеличение и гиперплазия Купферовских клеток.<br/>
+	Портальные тракты отечны, слабо или умеренно инфильтрированы лимфоцитами, гистиоцитами, нейтрофилами, умеренно склерозированы; признаки пограничного гепатита (ступенчатого некроза) отсутствуют.<br/>
+<br/>
+<br/>
+<strong>Примечание.</strong><br/>
+	Токсические (включая лекарственные) и алкогольные поражения печени отнесены к соответствующим подрубрикам ("<a href="https://diseases.medelement.com/disease/view/NDc4NQ%253D%253D/fDB8" target="_blank">Алкогольный гепатит</a>" - K70.1 и "Токсическое поражение печени" - K71.- ).<br/>
+	Изменения печени при некоторых  инфекционных и неинфекционных заболеваниях, не верифицированные как гепатит, могут кодироваться также как:</div>
+<div style="text-align: justify;">
+	- "Поражение печени при других болезнях, классифицированных в других рубриках" - K77.8*;</div>
+<div style="text-align: justify;">
+	-  "Поражения печени при инфекционных и паразитарных болезнях, классифицированных в других рубриках" - K77.0*.<br/>
+	 </div>
+</div>
+</div>
+</section>
+<section class="page-section" data-section-name="EPIDEMIOLOGY">
+<h2 class="page-section__title" id="epidemiology">
+        Эпидемиология    </h2>
+<div class="container">
+<div class="row page-section__row">
+<p>Признак распространенности: Распространено</p>
+<br/>
+<div style="text-align: justify;">
+	Различия по полу и возрасту не описаны.<br/>
+	Заболеваемость описывается как высокая.</div>
+</div>
+</div>
+</section>
+<section class="page-section" data-section-name="FACTORSANDRISKGROUPS">
+<h2 class="page-section__title" id="factorsandriskgroups">
+        Факторы и группы риска    </h2>
+<div class="container">
+<div class="row page-section__row">
+<div style="text-align: justify;">
+<br/>
+	Факторы и группы риска неспецифического реактивного гепатита достоверно не определены. Чаще всего фактором риска считается заболевание рядом расположенных органов, а именно:<br/>
+	- пептическая язва;<br/>
+	- сахарный диабет;<br/>
+	- <aterm term="1">панкреатит<span class="term-description" style="display: none;"><span>Панкреатит - воспаление поджелудочной железы</span><br/></span></aterm>;<br/>
+	- <aterm term="1">холецистит<span class="term-description" style="display: none;"><span>Холецистит - воспаление желчного пузыря</span><br/></span></aterm>.</div>
+</div>
+</div>
+</section>
+<section class="page-section" data-index="5">
+<h2 class="page-section__title" id="clinical">
+        Клиническая картина    </h2>
+<div class="container">
+<section class="row page-field" data-field-name="THESIS">
+<h3 class="page-field__title text-left" id="thesis">
+                    Клинические критерии диагностики                </h3>
+<div class="page-field__data">
+                    
+                    слабость; ухудшение аппетита; тошнота; тяжесть или боли в правом подреберье; желтуха; гепатомегалия
+                </div>
+</section>
+<section class="row page-field" data-field-name="ANTIPRAXIA">
+<h3 class="page-field__title text-left" id="antipraxia">
+                    Cимптомы, течение                </h3>
+<div class="page-field__data">
+<div style="text-align: justify;">
+<br/>
+	Клиника неспецифического реактивного гепатита (НРГ), как правило, не выражена, преходящая и/или маскируется признаками основного заболевания. У некоторых пациентов может протекать бессимптомно.<br/>
+<br/>
+	Наиболее часто НРГ выявляется у пациентов, имеющих:<br/>
+	- желчекаменную болезнь - до 87% пациентов с ЖКБ и холециститом имеют НРГ;<br/>
+	- панкреатит - 25-40% пациентов с панкреатитом имеют признаки НРГ;<br/>
+	- язвенную болезнь желудка и двенадцатиперстной кишки (данные по распространенности существенно разнятся). </div>
+<p style="text-align: justify;">
+<br/>
+<strong>Жалобы </strong>(связаны с имеющимся заболеванием, обусловленным  тяжелым заболеванием органа пищеварения или ионизирующим излучением, или системным  заболеванием  соединительной ткани):<br/>
+	- утомляемость;<br/>
+	- слабость;<br/>
+	- раздражительность;<br/>
+	- ухудшение аппетита;<br/>
+	- тошнота;<br/>
+	- тяжесть или боли в правом подреберье.</p>
+<p style="text-align: justify;">
+<br/>
+<strong>Данные объективного  исследования:</strong><br/>
+	- желтушность кожи (не всегда);<br/>
+	- <aterm term="1">иктеричность<span class="term-description" style="display: none;"><span>Иктеричность, по другому - желтушность</span><br/></span></aterm> склер (не всегда);<br/>
+	- увеличение нижнего края печени (часто);<br/>
+	- увеличение  нижнего полюса селезенки (редко).</p>
+</div>
+</section>
+</div>
+</section>
+<section class="page-section" data-section-name="DIAGNOSTICS">
+<h2 class="page-section__title" id="diagnostics">
+        Диагностика    </h2>
+<div class="container">
+<div class="row page-section__row">
+<div style="text-align: justify;">
+<br/>
+	Диагноз неспецифического реактивного гепатита основывается на клинико-морфологических данных. Большое значение имеет не только диагностика основного заболевания, синдромом которого является НРГ, но и исключение маркеров первичного гепатита.<br/>
+<br/>
+	Методы визуализации неспецифичны и выявляют лишь изменения, свойственные любому гепатиту (признаки диффузного или пятнистого некроза). Однако применение всех возможных методов визуализации позволяет зачастую установить диагноз основного заболевания.<br/>
+	Фиброскан достаточно специфично выявляет признаки <aterm term="1">фиброза<span class="term-description" style="display: none;"><span>Фиброз - разрастание волокнистой соединительной ткани, происходящее, например, в исходе воспаления.</span><br/></span></aterm>.<br/>
+<br/>
+	Таким образом, диагноз НРГ является по большей мере диагнозом исключения.</div>
+<br/>
+</div>
+</div>
+</section>
+<section class="page-section" data-section-name="LABORATORYDIAGNOSTICS">
+<h2 class="page-section__title" id="laboratorydiagnostics">
+        Лабораторная диагностика    </h2>
+<div class="container">
+<div class="row page-section__row">
+<div style="text-align: justify;">
+<br/>
+	Тяжесть неспецифического реактивного гепатита (определяемая лабораторно и гистологически) коррелирует с длительностью и тяжестью основного заболевания. <br/>
+<br/>
+<strong>Основные изменения:</strong><br/>
+	- умеренное, непостоянное повышение трансаминаз;<br/>
+	- редко отмечается подъем уровня <aterm term="1">ЩФ<span class="term-description" style="display: none;"><span>ЩФ - щелочная фосфатаза </span><br/></span></aterm>, что связано с основным заболеванием (например, <aterm term="1">ЖКБ<span class="term-description" style="display: none;"><span>ЖКБ - желчнокаменная болезнь</span><br/></span></aterm>).<br/>
+	 </div>
+</div>
+</div>
+</section>
+<section class="page-section" data-section-name="DIFFERENTIALDIAGNOSIS">
+<h2 class="page-section__title" id="differentialdiagnosis">
+        Дифференциальный диагноз    </h2>
+<div class="container">
+<div class="row page-section__row">
+<div>
+<br/>
+	Неспецифический реактивный гепатит в подавляющем числе случаев имеет гистологическую картину хронического персистирующего гепатита, поэтому его приходится дифференцировать от гепатита вирусной, алкогольной, лекарственной, аутоиммунной этиологии.<br/>
+	Необходимо исключение маркеров вирусного и алкогольного поражения печени.<br/>
+	При хроническом гепатите лекарственной этиологии выявляют жировую дистрофию гепатоцитов, холестаз в перипортальных отделах дольки.<br/>
+	 </div>
+</div>
+</div>
+</section>
+<section class="page-section" data-section-name="SEQUELAE">
+<h2 class="page-section__title" id="sequelae">
+        Осложнения    </h2>
+<div class="container">
+<div class="row page-section__row">
+<div style="text-align: justify;">
+<br/>
+	Заболевание имеет доброкачественное течение и, как правило, не приводит к значительным изменениям <aterm term="1">паренхимы<span class="term-description" style="display: none;"><span>Паренхима - совокупность основных функционирующих элементов внутреннего органа, ограниченная соединительнотканной стромой и капсулой.</span><br/></span></aterm> печени. Явления небольшого фиброза отмечаются крайне редко. <br/>
+	 </div>
+</div>
+</div>
+</section>
+<section class="page-section" data-section-name="THERAPY">
+<h2 class="page-section__title" id="therapy">
+        Лечение    </h2>
+<div class="container">
+<div class="row page-section__row">
+<div>
+<br/>
+	Главное направление терапии - лечение основного заболевания. Специфическое лечение неспецифического реактивного гепатита, как такового, отсутствует. Роль гепатопротекторов, витаминов, про- и пребиотиков, а также других препаратов в лечении заболевания остается спорной.  </div>
+</div>
+</div>
+</section>
+<section class="page-section" data-section-name="PROGNOSIS">
+<h2 class="page-section__title" id="prognosis">
+        Прогноз    </h2>
+<div class="container">
+<div class="row page-section__row">
+<div style="text-align: justify;">
+<br/>
+	Течение доброкачественное, возможна полная обратимость изменений печени при устранении вызвавшего их основного заболевания. Однако неспецифический реактивный гепатит создает условия для возникновения и тяжелого протекания инфекционных и иных гепатитов.</div>
+</div>
+</div>
+</section>
+<section class="page-section" data-section-name="HOSPITALIZATION">
+<h2 class="page-section__title" id="hospitalization">
+        Госпитализация    </h2>
+<div class="container">
+<div class="row page-section__row">
+<br/>
+Как правило, не требуется. Исключение - проведение биопсии печени.
+                    </div>
+</div>
+</section>
+<section class="page-section" data-section-name="PROPHYLAXIS">
+<h2 class="page-section__title" id="prophylaxis">
+        Профилактика    </h2>
+<div class="container">
+<div class="row page-section__row">
+<br/>
+Не разработана.
+                    </div>
+</div>
+</section>
+<section class="page-section" data-index="14">
+<h2 class="page-section__title" id="information">
+        Информация    </h2>
+<div class="container">
+<section class="row page-field" data-field-name="LISTOFREFERENCES">
+<h3 class="page-field__title text-left" id="listofreferences">
+                    Источники и литература                </h3>
+<div class="page-field__data">
+<ol id="AdditionalListSources" type="I">
+<li level="1">
+<span>Biopsy Interpretation of the Liver (Biopsy Interpretation Series) Second Edition" / Stephen A. Geller, Lydia M. Petrovic, Lippincott Williams &amp; Wilkins, 2009
+</span>
+<ol type="1">
+</ol>
+</li>
+<li level="1">
+<span>Liver pathology: an atlas and concise guide / Arief  A. Suriawinata, Swan N. Thung, Demos Medical Publishing, 2011</span>
+<ol type="1">
+</ol>
+</li>
+<li level="1">
+<span>MacSween's Pathology of the Liver / Alastair D. Burt, Bernard C. Portmann, Linda D. Ferrell, (с) Elsevier Limited, 2011</span>
+<ol type="1">
+</ol>
+</li>
+<li level="1">
+<span>"Неспецифический реактивный гепатит" Васильев В.А.</span>
+<ol type="1">
+<li level="2">http://gastrohelp.od.ua</li>
+</ol>
+</li>
+</ol> </div>
+</section>
+</div>
+</section>
+<section class="page-section" data-section-name="ATTENTION">
+<h2 class="page-section__title" id="attention">
+        Внимание!    </h2>
+<div class="container">
+<div class="row page-section__row">
+<!--noindex-->
+<label class="attention-self-treatment-list__caption">Если вы не являетесь медицинским специалистом:</label>
+<ul class="attention-self-treatment-list">
+<li>
+        Занимаясь самолечением, вы можете нанести непоправимый вред своему здоровью.
+         
+    </li>
+<li>
+        Информация, размещенная на сайте MedElement, не может и не должна заменять очную консультацию врача.
+        Обязательно
+        обращайтесь в медицинские учреждения при наличии каких-либо заболеваний или беспокоящих вас симптомов.
+         
+    </li>
+<li>
+        Выбор лекарственных средств и их дозировки, должен быть оговорен со специалистом. Только врач может
+        назначить
+        нужное лекарство и его дозировку с учетом заболевания и состояния организма больного.
+         
+    </li>
+<li>
+        Сайт MedElement является исключительно информационно-справочным ресурсом. Информация, размещенная на данном
+        сайте, не должна использоваться для самовольного изменения предписаний врача.
+         
+    </li>
+<li>
+        Редакция MedElement не несет ответственности за какой-либо ущерб здоровью или материальный ущерб, возникший
+        в
+        результате использования данного сайта.
+    </li>
+</ul>
+<!--/noindex-->
+</div>
+</div>
+</section>
+</main>

@@ -1,0 +1,418 @@
+<main id="main">
+<section class="page-information disease-information">
+<div class="container">
+<h1 class="page-information__name disease-information__name">
+            Флебит воротной вены (K75.1)        </h1>
+<div class="disease-information__alternate-name">
+<label>Также: </label>
+                пиелофлебит            </div>
+<div class="disease-information__version-name">
+<p class="lead text-muted">
+                
+                Версия: Справочник заболеваний MedElement                </p>
+</div>
+<div class="disease-information__categories-mkb">
+<label>Категории МКБ: </label>
+                Флебит воротной вены (K75.1)            </div>
+<div class="disease-information__sections-medicine">
+<label>Разделы медицины: </label>
+                Гастроэнтерология            </div>
+</div>
+</section>
+<section class="page-section" data-index="0">
+<h2 class="page-section__title" id="general_information">
+        Общая информация    </h2>
+<div class="container">
+<div class="page-links-actions">
+<ul>
+<li class="page-links-actions__item page-links-actions__item--print" data-ga-event-action="Клик по ссылке: Версия для печати" data-ga-event-category="Links actions" data-ga-event-label="" data-send-ga-event="">
+<a href="javascript:window.print()">Версия для печати
+                    <svg class="svg-icon svg-icon-printer" height="18" version="1.1" viewbox="0 0 24 24" width="18" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<path d="M18,3H6V7H18M19,12A1,1 0 0,1 18,11A1,1 0 0,1 19,10A1,1 0 0,1 20,11A1,1 0 0,1 19,12M16,19H8V14H16M19,8H5A3,3 0 0,0 2,11V17H6V21H18V17H22V11A3,3 0 0,0 19,8Z"></path>
+</svg>
+</a>
+</li>
+</ul>
+</div>
+<section class="row page-field" data-field-name="SHORTDESCRIPTION">
+<h3 class="page-field__title text-left" id="shortdescription">
+                    Краткое описание                </h3>
+<div class="page-field__data">
+<div style="text-align: justify;">
+<br/>
+<strong>Пилефлебит</strong> (син. тромбопилефлебит) - гнойный (септический) <aterm term="1">тромбофлебит<span class="term-description" style="display: none;"><span>Тромбофлебит - воспаление вены с ее тромбозом</span><br/></span></aterm> воротной вены и ее ветвей. <br/>
+<br/>
+	Код не является основным заболеванием и используется либо как осложнение основного, либо как сопутствующее заболевание.<br/>
+<br/>
+<br/>
+<strong>Примечание</strong><br/>
+	Из данной подрубрики исключено: абсцесс печени с пилефлебитом (<a href="https://diseases.medelement.com/disease/view/NDgyMA%253D%253D/fDF8Mnw%253D" target="_blank">К75.0</a>).</div>
+</div>
+</section>
+<section class="row page-field" data-field-name="NUMBERDAYSFLOW">
+<h3 class="page-field__title text-left" id="numberdaysflow">
+                    Период протекания                </h3>
+<div class="page-field__data">
+<p><span>Минимальный инкубационный период (дней): </span>
+        1</p>
+<p><span>Максимальный инкубационный период (дней): </span>
+        не указан</p>
+<br/>
+<br/>
+<label>Описание:</label>
+<p></p><div style="text-align: justify;">
+	В ряде случаев пилефлебит протекает молниеносно и быстро приводит к летальному исходу.<br/>
+	Иногда процесс приобретает затяжное течение с постепенным развитием печеночной и почечной недостаточности. Затяжное течение пилефлебита может наблюдаться при массивной антибиотикотерапиии.<br/>
+	При медленном развитии тромбофлебита печеночных вен может возникнуть картина <aterm term="1">синдрома Бадда-Киари</aterm> (увеличение печени и селезенки, появление асцита) на фоне общего септического состояния больного.</div>
+</div>
+</section>
+</div>
+</section>
+<section class="page-section" data-section-name="CLASSIFICATION">
+<h2 class="page-section__title" id="classification">
+        Классификация    </h2>
+<div class="container">
+<div class="row page-section__row">
+<br/>
+Общепризнанная классификация отсутствует.<br/>
+Некоторые авторы выделяют острый и хронический (рецидивирующий) пилефлебит по аналогии с портальным тромбозом.<br/>
+<br/>
+Пилефлебит также условно классифицируют по распространенности тромбоза:<br/>
+- до верхней брыжеечной вены;<br/>
+- до селезеночной вены; <br/>
+- до внутрипеченочных ветвей воротной вены.<br/>
+<br/>
+Существует также деление на пилефлебит, ассоциированный и неассоциированный с циррозом печени, что имеет определенное  клиническое значение.<br/>
+</div>
+</div>
+</section>
+<section class="page-section" data-section-name="ETIOLOGY">
+<h2 class="page-section__title" id="etiology">
+        Этиология и патогенез    </h2>
+<div class="container">
+<div class="row page-section__row">
+<div style="text-align: justify;">
+<br/>
+<strong>Этиология</strong><br/>
+<br/>
+	Для возникновения пилефлебита необходимо два фактора - тромбоз воротной вены и бактериемия. Первое условие достигается при циррозе печени, гиперкоагуляции, миелопролиферативных заболеваниях, опухолях, инвазивных вмешательствах, сопровождающихся повреждением сосудов, а также при ряде других состояний. Второе условие является следствием бактериемии при интраабдоминальных и других инфекциях (например, септическом эндокардите). <br/>
+<br/>
+	На практике основными причинами пилефлебита, не ассоциированого с циррозом, являются чаще всего интраабдоминальные инфекции:<br/>
+	- аппендицит;<br/>
+	- холангит;<br/>
+	- дивертикулит.</div>
+<p style="text-align: justify;">
+<br/>
+	Наиболее частой  причиной является <strong>аппендицит</strong>. Пилефлебит чаще возникает при ретроперитонеальном и ретроцекальном расположениях отростка, а также у больных с деструктивными формами острого аппендицита.<br/>
+	Пилефлебит начинается остро и наблюдается как до, так и после операции. Чаще всего воспалительный процесс червеобразного отростка переходит на вены его брыжейки, в которых образуются инфицированные тромбы. В дальнейшем заболевание развивается по типу восходящего гнойного флебита и тромбофлебита, последовательно распространяющегося на v. ileocolica, v. mesenterica sup. и, наконец, на v. portae и ее разветвления в печени. Весьма редко острый гнойный процесс распространяется помимо брыжеечных вен на селезеночную вену или вены желудка.<br/>
+<br/>
+	Несколько реже причинами гнойного пилефлебита являются:<br/>
+	- пенетрирующие язвы желудка и двенадцатиперстной кишки, толстого кишечника (дизентерия);<br/>
+	- периректальные гнойники;<br/>
+	- воспаленные геморроидальные узлы;<br/>
+	- флебиты при гнойных заболеваниях женской половой сферы;<br/>
+	- поддиафрагмальный абсцесс;<br/>
+	- абсцесс селезенки;<br/>
+	- панкреатит;<br/>
+	- нагноившиеся лимфатические мезентериальные узлы;<br/>
+	- язвенный колит;<br/>
+	- холецистит. </p>
+<p style="text-align: justify;">
+<br/>
+	Особняком стоит гнойный пилефлебит новорожденных, осложняющий воспаление пупочной вены и возникающий при гнойной инфекции пупочной раны. В сущности любая гноеродная флора может явиться причиной пилефлебита.<br/>
+<br/>
+<strong>Патологическая анатомия </strong>пилефлебита сводится к воспалительным изменениям в стенке воротной вены, утолщенной, нередко гнойно-инфильтрированной. Внутренняя оболочка мутна, часто с поверхностными или реже, более глубокими изъязвлениями. Просвет сосуда нередко заполнен тромботическими гнойными распадающимися массами и из вскрытой вены выделяется зловонная гнойная жидкость со сгустками.<br/>
+	В других случаях наблюдается преимущественно пристеночное развитие тромба, который не закупоривает полностью просвет сосуда. Гнойный распад тромба не только способствует дальнейшему распространению гнойного воспаления воротной вены, но часто ведет к генерализации процесса, возникновению метастатических гнойников в легких, почках, суставах, мозгу, к развитию пиемии.<br/>
+	В ряде случаев в паренхиме печени развиваются мелкие центральные абсцессы.<br/>
+<br/>
+<strong>Бактериология</strong>. Наиболее часто посев гемокультуры выявляет  Bacteroides spp (чаще всего - Bacteroides fragilis), Escherichia coli, Streptococcus spp, Proteus mirabilis, Klebsiella pneumoniae, Enterobacter spp. По некоторым данным, например, Escherichia coli выделялась в 54% случаев, Proteus mirabilis в 23%. Не исключена этиологическая роль и других возбудителей. Например, описаны случаи грибкового пилефлебита (Candida tropicalis).<br/>
+	 </p>
+</div>
+</div>
+</section>
+<section class="page-section" data-section-name="EPIDEMIOLOGY">
+<h2 class="page-section__title" id="epidemiology">
+        Эпидемиология    </h2>
+<div class="container">
+<div class="row page-section__row">
+<p>Признак распространенности: Крайне редко</p>
+<br/>
+            
+            
+            
+            Пилефлебит считается редкой патологией, достоверной статистики по распространенности не существует. Различий по полу и возрасту не описано.<br/>
+</div>
+</div>
+</section>
+<section class="page-section" data-section-name="FACTORSANDRISKGROUPS">
+<h2 class="page-section__title" id="factorsandriskgroups">
+        Факторы и группы риска    </h2>
+<div class="container">
+<div class="row page-section__row">
+<div style="text-align: justify;">
+<br/>
+	- <aterm term="1">цирроз печени<span class="term-description" style="display: none;"><span>Цирроз печени - хроническая прогрессирующая болезнь, характеризующаяся дистрофией и некрозом печеночной паренхимы, сопровождающимися ее узловой регенерацией, диффузным разрастанием соединительной ткани и глубокой перестройкой архитектоники печени.</span><br/><a class="tooltip-term__more" href="https://diseases.medelement.com/disease/view/NDgxOA/fDB8" target="_blank" title="Подробнее о цирроз печени">Подробно</a></span></aterm>;<br/>
+	- интраабдорминальные инфекции;<br/>
+	- катетеризация вен;<br/>
+	- сахарный диабет;<br/>
+	- абдоминальные вмешательства.</div>
+</div>
+</div>
+</section>
+<section class="page-section" data-index="5">
+<h2 class="page-section__title" id="clinical">
+        Клиническая картина    </h2>
+<div class="container">
+<section class="row page-field" data-field-name="THESIS">
+<h3 class="page-field__title text-left" id="thesis">
+                    Клинические критерии диагностики                </h3>
+<div class="page-field__data">
+                    
+                     высокая лихорадка; слабость; боль в верхнем отделе живота; озноб; анорексия; асцит; желтуха
+                </div>
+</section>
+<section class="row page-field" data-field-name="ANTIPRAXIA">
+<h3 class="page-field__title text-left" id="antipraxia">
+                    Cимптомы, течение                </h3>
+<div class="page-field__data">
+<div style="text-align: justify;">
+<br/>
+	Не существует специфической клинической картины пилефлебита. Все симптомы носят общий характер, свидетельствующий об интраабдоминальном остром воспалении. Симптоматика может перекрываться или изменяться клиникой основного заболевания (например, локализация боли).<br/>
+<br/>
+<strong>Общие симптомы:</strong><br/>
+	- высокая лихорадка;<br/>
+	- слабость;<br/>
+	- боль в верхнем отделе живота,  в правом подреберье (нередко - в нижней части грудной клетки), <aterm term="1">иррадиирующая<span class="term-description" style="display: none;"><span>Иррадиация - распространение болевых ощущений за пределы пораженного участка или органа.</span><br/></span></aterm> в спину и правую ключицу;<br/>
+	- озноб;<br/>
+	- <aterm term="1">анорексия<span class="term-description" style="display: none;"><span>Анорексия — синдром, заключающийся в отсутствии аппетита, чувства голода, либо в сознательном отказе от пищи</span><br/></span></aterm>;<br/>
+	- <aterm term="1">асцит<span class="term-description" style="display: none;"><span>Асцит - скопление транссудата в брюшной полости</span><br/></span></aterm> (непостоянный симптом, в основном у пациентов с  <aterm term="1">портальной гипертензией<span class="term-description" style="display: none;"><span>Портальная гипертензия -  венозная гипертензия (повышенное гидростатическое давление в венах) в системе воротной вены.</span><br/><a class="tooltip-term__more" href="https://diseases.medelement.com/disease/view/NDgzMw/fDB8" target="_blank" title="Подробнее о портальной гипертензией">Подробно</a></span></aterm>);<br/>
+	- желтуха (непостоянный симптом, в основном у пациентов с циррозом или распространением процесса на внутрипеченочные вены).<br/>
+<br/>
+	Симптомы раздражения брюшины, как правило, отсутствуют и появляются только при развитии <aterm term="1">перитонита<span class="term-description" style="display: none;"><span>Перитонит - воспаление брюшины.</span><br/></span></aterm>. Пациенты могут описывать возникновение боли в других отделах живота, что связано с формированием первичного гнойного очага. Отмечаются вздутие живота, тошнота, рвота, иногда - поносы. В более редких случаях наблюдаются кровавая рвота и дегтеобразный стул (портальная гипертония).</div>
+</div>
+</section>
+</div>
+</section>
+<section class="page-section" data-section-name="DIAGNOSTICS">
+<h2 class="page-section__title" id="diagnostics">
+        Диагностика    </h2>
+<div class="container">
+<div class="row page-section__row">
+<div style="text-align: justify;">
+<br/>
+	Установление окончательного диагноза клинически и лабораторно  невозможно. Подозрения относительно пилефлебита подтверждаются только методами визуализации. <br/>
+	До введения в повседневную практику УЗДГ, КТ и МРТ, в большинстве случаев диагноз "пилефлебит" устанавливался в основном посмертно. С внедрением методов визуализации точность диагностики значительно повысилась. Все указанные выше методы визуализации выявляют характерные признаки портального тромбоза.<br/>
+<br/>
+	"Золотым стандартом" диагностики считается КТ, которая позволяет выявить не только поражение вены, но и первичный очаг инфекции. Некоторые авторы не выявляют преимуществ МРТ перед КТ в диагностике.<br/>
+	УЗДГ является дополнительным методом обследования. Обзорная регнтгенография проводится при наличии показаний.</div>
+<br/>
+</div>
+</div>
+</section>
+<section class="page-section" data-section-name="LABORATORYDIAGNOSTICS">
+<h2 class="page-section__title" id="laboratorydiagnostics">
+        Лабораторная диагностика    </h2>
+<div class="container">
+<div class="row page-section__row">
+<div style="text-align: justify;">
+<br/>
+	1. <strong>Общий анализ крови</strong>. В большинстве случаев обнаруживаются лабораторные признаки острой бактериальной (или грибковой) инфекции. Анемия встречается не у всех пациентов.<br/>
+<br/>
+	2. <strong>Биохимия</strong>. Наиболее устойчивым выявляемым признаком является повышение <aterm term="1">ЩФ<span class="term-description" style="display: none;"><span>ЩФ - щелочная фосфатаза </span><br/></span></aterm> и <aterm term="1">ГГТП<span class="term-description" style="display: none;"><span>ГГТП - гамма-глютамилтранспептидаза</span><br/></span></aterm>. Отмечается умеренная гипербилирубинемия за счет общего и прямого билирубина, выявляемая не у всех пациентов.<br/>
+<br/>
+	3. <strong>Гемокультура</strong>. Положительные результаты отмечаются у 70-88% пациентов (спектр выделяемых микроорганизмов см. в разделе "Этиология и патогенез"). <br/>
+<br/>
+	4. <strong>Коагулограмма</strong>. Признаки неспецифичны.<br/>
+<br/>
+	5. <strong>Серология</strong>. Как правило, пациенты с вирусным гепатитом не страдают пилефлебитом. Однако положительные маркеры вирусных гепатитов не исключают диагноза.<br/>
+	 </div>
+</div>
+</div>
+</section>
+<section class="page-section" data-section-name="DIFFERENTIALDIAGNOSIS">
+<h2 class="page-section__title" id="differentialdiagnosis">
+        Дифференциальный диагноз    </h2>
+<div class="container">
+<div class="row page-section__row">
+<div>
+<br/>
+	Необходимо дифференцировать пилефлебит со следующими заболеваниями: <br/>
+	- острый тромбоз портальной вены без пилефлебита;<br/>
+	- абсцесс печени;<br/>
+	- <aterm term="1">шистосомоз</aterm>;<br/>
+	- молниеносная форма <aterm term="1">синдрома Бадда-Киари</aterm>;<br/>
+	- острый холецистит без пилефлебита;<br/>
+	- острый холангит без пилефлебита;<br/>
+	- тромбоз и эмболия брыжеечных сосудов;<br/>
+	- тромбофлебит забрюшинных вен;<br/>
+	- острый гепатит,<br/>
+	- сепсис,<br/>
+	- брюшной тиф;<br/>
+	- сыпной тиф.<br/>
+	 </div>
+</div>
+</div>
+</section>
+<section class="page-section" data-section-name="SEQUELAE">
+<h2 class="page-section__title" id="sequelae">
+        Осложнения    </h2>
+<div class="container">
+<div class="row page-section__row">
+<br/>
+- <aterm term="1">абсцесс<span class="term-description" style="display: none;"><span>Абсцесс - полость, заполненная гноем и отграниченная от окружающих тканей и органов пиогенной мембраной</span><br/></span></aterm> печени;<br/>
+- <aterm term="1">сепсис<span class="term-description" style="display: none;"><span>Сепсис - патологическое состояние, обусловленное непрерывным или периодическим поступлением в кровь микроорганизмов из очага гнойного воспаления, характеризующееся несоответствием тяжелых общих расстройств местным изменениям и часто образованием новых очагов гнойного воспаления в различных органах и тканях.</span><br/></span></aterm>;<br/>
+- полиорганная недостаточность.<br/>
+ 
+                    </div>
+</div>
+</section>
+<section class="page-section" data-section-name="THERAPY">
+<h2 class="page-section__title" id="therapy">
+        Лечение    </h2>
+<div class="container">
+<div class="row page-section__row">
+<div>
+<br/><strong>Антибактериальная терапия. </strong>Носит эмпирический характер с учетом наиболее вероятного возбудителя. Описано парентеральное применение препаратов пиперациллин/тазобактам, цефтриаксон, цефтазидим и других антибиотиков широкого спектра действия.<br/>
+	Введение антибиотиков, осуществляемое внутрипортально через пупочную вену, а также в чревную артерию путем ее селективного зондирования, остается весьма спорным вопросом. <br/><br/><strong>Антикоагулянты</strong>. Пациенты, которые получали антикоагулянты, имели более благоприятный исход по сравнению с теми, кто получал только антибиотики. Стартовая терапия проводится низкомолекулярным гепарином. Возможен переход на оральные антикоагулянты при достижении стабильного состояния и отсутствия в планах лечения инвазивных процедур. Вопрос о тромболизисе остается открытым.<br/><br/>
+	Инфузионная терапия, симптоматическая терапия, парентеральное питание проводятся по стандартным схемам.<br/><br/><strong>Хирургия:</strong><br/>
+	1. Устранение очага инфекции (например, <aterm term="1">аппендэктомия</aterm>).<br/>
+	2. Перевязка v. ileocolica при первых признаках пилефлебита при аппендиците является  спорным теоретическим вопросом и на практике не применяется.<br/>
+	 </div>
+</div>
+</div>
+</section>
+<section class="page-section" data-section-name="PROGNOSIS">
+<h2 class="page-section__title" id="prognosis">
+        Прогноз    </h2>
+<div class="container">
+<div class="row page-section__row">
+<div style="text-align: justify;">
+<br/>
+	Прогноз неблагоприятен. Смертность остается высокой - отдельные авторы оценивают ее как 90% в течение 2 недель.<br/>
+	Обзоры, опубликованные в западной литературе, выявляют довольно большой разброс летальности, но все же значительно меньший (в среднем 20-40%), особенно после введения в практику диагностики  КТ и МРТ.  </div>
+</div>
+</div>
+</section>
+<section class="page-section" data-section-name="HOSPITALIZATION">
+<h2 class="page-section__title" id="hospitalization">
+        Госпитализация    </h2>
+<div class="container">
+<div class="row page-section__row">
+<br/>
+В экстренном порядке в отделение хирургии.
+                    </div>
+</div>
+</section>
+<section class="page-section" data-section-name="PROPHYLAXIS">
+<h2 class="page-section__title" id="prophylaxis">
+        Профилактика    </h2>
+<div class="container">
+<div class="row page-section__row">
+<div style="text-align: justify;">
+<br/>
+	1. Профилактика пилефлебита заключается в своевременном лечении очагов гнойного воспаления органов брюшной полости. Учитывая тот факт, что для пилефлебита после аппендэктомии характерна бурно развивающаяся картина системной воспалительной реакции с высоко вероятным летальным исходом, производя аппендэктомию по поводу гангренозного аппендицита, следует быть особенно внимательным. Если в <aterm term="1">брыжейке<span class="term-description" style="display: none;"><span>Брыжейка - складка брюшины, посредством которой внутрибрюшинные органы прикрепляются к стенкам брюшной полости.</span><br/></span></aterm> червеобразного отростка видны признаки начинающегося пилефлебита (серо-некротический вид, тусклая серозная оболочка, сквозь которую просвечивают зеленоватые тромбированные вены), то необходимо удалять всю брыжейку вплоть до ее корня, который находится позади конечного отдела подвздошной кишки. <br/>
+<br/>
+	2. Малотравматичное  выполнение хирургических операций и  инвазивных внутрисосудистых манипуляций.  </div>
+</div>
+</div>
+</section>
+<section class="page-section" data-index="14">
+<h2 class="page-section__title" id="information">
+        Информация    </h2>
+<div class="container">
+<section class="row page-field" data-field-name="LISTOFREFERENCES">
+<h3 class="page-field__title text-left" id="listofreferences">
+                    Источники и литература                </h3>
+<div class="page-field__data">
+<ol id="AdditionalListSources" type="I">
+<li level="1">
+<span>"A case of pylephlebitis secondary to cecal diverticulitis" Lee BK, Ryu HH., "Journal of Emergency Medicine", №42(4), 2012 </span>
+<ol type="1">
+</ol>
+</li>
+<li level="1">
+<span>"Candida tropicalis pylephlebitis with persistent fungaemia in a 72-year-old lady with severe pancreatitis" Wouter Meersseman, "Mycoses" journal, №4(54), 2011</span>
+<ol type="1">
+</ol>
+</li>
+<li level="1">
+<span>"Diverticulitis complicated by candidal pylephlebitis" TP Gage, J Eagan, M Gagnier, "Southern Medical Journal", №78(10), 1985
+</span>
+<ol type="1">
+</ol>
+</li>
+<li level="1">
+<span>"Diverticulitis complicated by pylephlebitis: a case report" Mahesh Gajendran, Thiruvengadam Muniraj, Mohamed Yassin, "Journal of Medical Case Reports", №5, 2011</span>
+<ol type="1">
+</ol>
+</li>
+<li level="1">
+<span>"Interval laparoscopic appendectomy for appendicitis complicated by pylephlebitis" Stitzenberg KB, Piehl MD, Monahan PE, Phillips JD., "Journal of the Society of Laparoendoscopic Surgeons", №10(1), 2006 </span>
+<ol type="1">
+</ol>
+</li>
+<li level="1">
+<span>"Pylephlebitis in the child: a challenging diagnosis" Gatibelza ME, Gaudin J, Mcheik J, Levard G.
+"Archives de Pediatrie" journal, №17(9), 2010</span>
+<ol type="1">
+</ol>
+</li>
+<li level="1">
+<span>"Pylephlebitis: an overview of non-cirrhotic cases and factors related to outcome" Kanellopoulou T, Alexopoulou A, Theodossiades G, Koskinas J, Archimandritis AJ, "Scandinavian Journal of Infectious Diseases", №42(11-12), 2010</span>
+<ol type="1">
+</ol>
+</li>
+<li level="1">
+<span>"Septic thrombophlebitis of the portal vein (pylephlebitis): diagnosis and management in the modern era." RM Plemmons, DP Dooley, RN Longfield, "Clinical Infectious Diseases", №21(5), 1995</span>
+<ol type="1">
+</ol>
+</li>
+<li level="1">
+<span>"Septic thrombophlebitis of the porto-mesenteric veins as a complication of acute appendicitis" Yeon Soo Chang, Sun Young Min, Sun Hyung Joo, Suk-Hwan Lee, "World Journal of Gastroenterology", №14(28), 2008</span>
+<ol type="1">
+</ol>
+</li>
+</ol> </div>
+</section>
+</div>
+</section>
+<section class="page-section" data-section-name="ATTENTION">
+<h2 class="page-section__title" id="attention">
+        Внимание!    </h2>
+<div class="container">
+<div class="row page-section__row">
+<!--noindex-->
+<label class="attention-self-treatment-list__caption">Если вы не являетесь медицинским специалистом:</label>
+<ul class="attention-self-treatment-list">
+<li>
+        Занимаясь самолечением, вы можете нанести непоправимый вред своему здоровью.
+         
+    </li>
+<li>
+        Информация, размещенная на сайте MedElement, не может и не должна заменять очную консультацию врача.
+        Обязательно
+        обращайтесь в медицинские учреждения при наличии каких-либо заболеваний или беспокоящих вас симптомов.
+         
+    </li>
+<li>
+        Выбор лекарственных средств и их дозировки, должен быть оговорен со специалистом. Только врач может
+        назначить
+        нужное лекарство и его дозировку с учетом заболевания и состояния организма больного.
+         
+    </li>
+<li>
+        Сайт MedElement является исключительно информационно-справочным ресурсом. Информация, размещенная на данном
+        сайте, не должна использоваться для самовольного изменения предписаний врача.
+         
+    </li>
+<li>
+        Редакция MedElement не несет ответственности за какой-либо ущерб здоровью или материальный ущерб, возникший
+        в
+        результате использования данного сайта.
+    </li>
+</ul>
+<!--/noindex-->
+</div>
+</div>
+</section>
+</main>

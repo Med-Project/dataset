@@ -1,0 +1,370 @@
+<main id="main">
+<section class="page-information disease-information">
+<div class="container">
+<h1 class="page-information__name disease-information__name">
+            Токсический гастроэнтерит и колит (K52.1)        </h1>
+<div class="disease-information__alternate-name">
+<label>Также: </label>
+                некротический колит, химический колит, клизмо-индуцированный колит.            </div>
+<div class="disease-information__version-name">
+<p class="lead text-muted">
+                
+                Версия: Справочник заболеваний MedElement                </p>
+</div>
+<div class="disease-information__categories-mkb">
+<label>Категории МКБ: </label>
+                Токсический гастроэнтерит и колит (K52.1)            </div>
+<div class="disease-information__sections-medicine">
+<label>Разделы медицины: </label>
+                Гастроэнтерология            </div>
+</div>
+</section>
+<section class="page-section" data-index="0">
+<h2 class="page-section__title" id="general_information">
+        Общая информация    </h2>
+<div class="container">
+<div class="page-links-actions">
+<ul>
+<li class="page-links-actions__item page-links-actions__item--print" data-ga-event-action="Клик по ссылке: Версия для печати" data-ga-event-category="Links actions" data-ga-event-label="" data-send-ga-event="">
+<a href="javascript:window.print()">Версия для печати
+                    <svg class="svg-icon svg-icon-printer" height="18" version="1.1" viewbox="0 0 24 24" width="18" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<path d="M18,3H6V7H18M19,12A1,1 0 0,1 18,11A1,1 0 0,1 19,10A1,1 0 0,1 20,11A1,1 0 0,1 19,12M16,19H8V14H16M19,8H5A3,3 0 0,0 2,11V17H6V21H18V17H22V11A3,3 0 0,0 19,8Z"></path>
+</svg>
+</a>
+</li>
+</ul>
+</div>
+<section class="row page-field" data-field-name="SHORTDESCRIPTION">
+<h3 class="page-field__title text-left" id="shortdescription">
+                    Краткое описание                </h3>
+<div class="page-field__data">
+<div style="text-align: justify;">
+<br/>
+<strong>Токсический гастроэнтерит и колит </strong>- хроническое воспаление и дистрофия тканей желудка, тонкой и толстой кишки, вызванное действием различных токсинов. <br/>
+<br/>
+<br/>
+<strong>Примечание. </strong>Из данной подрубрики исключены:<br/>
+	- Некоторые инфекционные и паразитарные болезни - A00-B99 </div>
+<div style="text-align: justify;">
+	- Мегаколон, не классифицированный в других рубриках - K59.3 <br/>
+	- Другие уточненные неинфекционные гастроэнтериты и колиты - K52.8 <br/>
+	- Химический ожог других отделов пищеварительного тракта - T28.7 <br/>
+	- Функциональная диарея - K59.1 </div>
+<div style="text-align: justify;">
+	- Диарея новорожденных (неинфекционная) - P78.3 </div>
+<div style="text-align: justify;">
+	- Язвенный колит - K51.-</div>
+<div style="text-align: justify;">
+	- Болезнь Крона [регионарный энтерит] - K50.-</div>
+<div style="text-align: justify;">
+	- Психогенная диарея - F45.3</div>
+</div>
+</section>
+<section class="row page-field" data-field-name="NUMBERDAYSFLOW">
+<h3 class="page-field__title text-left" id="numberdaysflow">
+                    Период протекания                </h3>
+<div class="page-field__data">
+<p><span>Минимальный инкубационный период (дней): </span>
+        не указан</p>
+<p><span>Максимальный инкубационный период (дней): </span>
+        2</p>
+<br/>
+<p><span>Минимальный период протекания (дней): </span>
+        3</p>
+<p><span>Максимальный период протекания (дней): </span>
+        не указан</p>
+<br/>
+<label>Описание:</label>
+<p></p><div style="text-align: justify;">
+	Токсический гастроэнтерит и колит чаще всего развиваются остро в течение до 48 часов с момента контакта с токсическим агентом. Заболевание протекает как острый геморрагический или некротический энтероколит или проктоколит.<br/>
+	Описаны единичные случаи диагностики спустя несколько недель после контакта с токсическим агентом.<br/>
+	При благоприятном, неосложненном течении и адекватной терапии заболевание купируется в течение 3-4 суток.</div>
+</div>
+</section>
+</div>
+</section>
+<section class="page-section" data-section-name="CLASSIFICATION">
+<h2 class="page-section__title" id="classification">
+        Классификация    </h2>
+<div class="container">
+<div class="row page-section__row">
+<div style="text-align: justify;">
+<br/>
+	Единая классификация токсического гастроэнтерита и колита отсутствует. При необходимости идентифицировать токсичное вещество используют дополнительный код внешних причин (класс XX).</div>
+<div style="text-align: justify;">
+	Возможно использование клинических классификаций, учитывающих локализацию, продолжительность, выраженность процесса и т.д.<br/>
+<br/>
+	Эмпирически токсические гастроэнтериты и колиты разделяют на острые и хронические в зависимости от клиники и течения.<br/>
+	 </div>
+</div>
+</div>
+</section>
+<section class="page-section" data-section-name="ETIOLOGY">
+<h2 class="page-section__title" id="etiology">
+        Этиология и патогенез    </h2>
+<div class="container">
+<div class="row page-section__row">
+<div style="text-align: justify;">
+<br/>
+	Описано около 50 основных агентов, способных вызывать токсические поражения желудочно-кишечного тракта в виде гастроэнтерита и колита.<br/>
+<br/>
+	При алкогольных колитах наблюдаются уменьшение  числа бокаловидных клеток в <aterm term="1">криптах<span class="term-description" style="display: none;"><span>Кишечные крипты - трубчатые углубления эпителия в собственном слое слизистой оболочки кишечника.</span><br/></span></aterm> и наличие интенсивной диффузной инфильтрации собственной пластинки слизистой оболочки лимфоцитами и плазматическими клетками. </div>
+<div style="text-align: justify;">
+<br/>
+	В качестве причины слабо выраженного воспаления слизистой оболочки с десквамацией эпителия могут выступать:<br/>
+	- очистительные клизмы (особенно с перекисью);<br/>
+	- слабительные препараты или ионообменные смолы или сорбенты (могут также приводить к развитию <aterm term="1">меланоза толстой кишки<span class="term-description" style="display: none;"><span>Меланоз толстой кишки - это доброкачественное состояние толстой кишки, которое характеризуется  темной окраской слизистой кишечника (возникает в результате злоупотребления слабительными препаратами)</span><br/></span></aterm>).<br/>
+<br/>
+	НПВС в некоторых случаях могут вызывать поражение терминального отдела подвздошной кишки с изъязвлением и стриктурой, сходное с болезнью Крона.<br/>
+	Цитостатики по эффекту воздействия на слизистую оболочку кишки приближаются к лучевому повреждению, которое иногда может проявляться как геморрагический колит.<br/>
+	Вазопрессорные препараты, антигипертензивные средства, дигоксин и пероральные контрацептивы могут вызывать развитие ишемического колита, который не связан с нарушением кровообращения.<br/>
+	Антибиотики в некоторых случаях вызывают антибиотико-ассоциированную диарею, которая может способствовать возникновению псевдомембранозного колита.<br/>
+	Препараты солей золота способствуют возникновению тяжелого молниеносного колита.<br/>
+<br/>
+	Колиты и энтериты могут возникать вследствие использования рентгеноконтрастных средств или загрязнения эндоскопов детергентами и/или дезинфектантами/средствами для стерилизации.<br/>
+<br/>
+	Тяжелые колиты могут быть следствием хронического  и острого отравления солями тяжелых металлов.<br/>
+<br/>
+	Возникновение изолированных тяжелых токсических колитов с осложнениями может быть обусловлено народными методами лечения с помощью клизм (применяемыми веществами могут выступать мыло, травяные настои, уксус, бихромат калия, сульфат меди, перманганат калия, кофе, коричневый сахар).<br/>
+<br/>
+<strong>Микроскопическая картина</strong> токсическом гастроэнтерит и колите скудна, превалируют неспецифические изменения слизистой - воспаление (нейтрофильная инфильтрация эпителиального слоя) с небольшими эррозиями, которые напоминают изменения при ишемическом колите.  Возможна дистрофия эпителия.</div>
+<div style="text-align: justify;">
+	 </div>
+</div>
+</div>
+</section>
+<section class="page-section" data-section-name="FACTORSANDRISKGROUPS">
+<h2 class="page-section__title" id="factorsandriskgroups">
+        Факторы и группы риска    </h2>
+<div class="container">
+<div class="row page-section__row">
+<div style="text-align: justify;">
+<br/>
+	- бесконтрольный прием медикаментов;<br/>
+	- рентгеноконтрастные исследования желудочно-кишечного тракта;<br/>
+	- эндоскопия желудочно-кишечного тракта (особенно <aterm term="1">колоноскопия<span class="term-description" style="display: none;"><span>Колоноскопия -  метод исследования внутренней поверхности толстой кишки, основанный на ее осмотре с помощью колоноскопа.</span><br/></span></aterm>);<br/>
+	- загрязнение продуктов питания солями тяжелых металлов;<br/>
+	- использование для клизм не рекомендованных веществ.</div>
+</div>
+</div>
+</section>
+<section class="page-section" data-index="4">
+<h2 class="page-section__title" id="clinical">
+        Клиническая картина    </h2>
+<div class="container">
+<section class="row page-field" data-field-name="THESIS">
+<h3 class="page-field__title text-left" id="thesis">
+                    Клинические критерии диагностики                </h3>
+<div class="page-field__data">
+                    
+                    боль в левой половине живота, боль в животе, диарея, вздутие живота, потеря веса, слизь в стуле, мелена, кровь в стуле                </div>
+</section>
+<section class="row page-field" data-field-name="ANTIPRAXIA">
+<h3 class="page-field__title text-left" id="antipraxia">
+                    Cимптомы, течение                </h3>
+<div class="page-field__data">
+<div style="text-align: justify;">
+<br/>
+<span style="font-family: Arial;"><strong>Легкая степен</strong>ь т</span>оксического гастроэнтерита и колита имеет практически <span style="font-family: Arial;">бессимптомное течение и характеризуется только незначительными нарушениями работы желудочно-кишечного тракта.<br/>
+<br/>
+	При <strong>средней тяжести</strong> заболевания наблюдаются более существенные кишечные расстройства и небольшие общие патологии.<br/>
+<br/>
+	Проявления <strong>тяжелой степени</strong> токсического гастроэнтерита и колита:<br/>
+	- расстройства стула;<br/>
+	- увеличение количества кала с остатками непереваренной пищи;<br/>
+	- увеличение размеров печени;<br/>
+	- сбои в работе поджелудочной железы; </span></div>
+<span style="font-family: Arial; text-align: justify;">- неприятный вкус во рту;</span><br style="font-family: Arial; text-align: justify;"/>
+<span style="font-family: Arial; text-align: justify;">- вздутие живота;<br/>
+- слабость и недомогание.</span> </div>
+</section>
+</div>
+</section>
+<section class="page-section" data-section-name="DIAGNOSTICS">
+<h2 class="page-section__title" id="diagnostics">
+        Диагностика    </h2>
+<div class="container">
+<div class="row page-section__row">
+<div style="text-align: justify;">
+<br/>
+<strong>Схема диагностики</strong><br/>
+<br/>
+	1. Анамнез:<br/>
+	- отнесение к группе риска;<br/>
+	- исключение радиационного и алиментарного характера процесса. <br/>
+<br/>
+	2. Клиническая диагностика колита (жалобы, симптомы).<br/>
+<br/>
+	3. Лабораторная диагностика колита (стул). Дифференциальная диагностика с неспецифическим язвенным колитом и болезнью Крона (определение специфичных маркеров). Исключение псевдомембранозного колита (клостридиальный токсин). Исключение других инфекционных колитов.<br/>
+<br/>
+	4. Колоноскопия с биопсией. Исключение так называемых "микроскопических колитов".<br/>
+<br/>
+	5. Применение дополнительных инструментальных и лабораторных методов диагностики (допплерография, коагулограмма) для исключения ишемических поражений кишечника.</div>
+<div style="text-align: justify;">
+<br/>
+	6. Специфические методы диагностики токсического поражения (исследование мочи, волос для определения содержания токсических агентов и их метаболитов). Выявление сопутствующих токсических поражений других органов.<br/>
+	 <br/>
+<br/>
+<strong>Примечание. </strong>Спектр рентгенологических проявлений токсического гастроэнтерита и колита, выявляемый при контрастном исследовании, широк и может имитировать многие другие заболевания кишечника.</div>
+<div style="text-align: justify;">
+	Рентгенологические признаки тяжелых колитов, индуцированных клизмами с не применяемыми медициной веществами (самолечение, народная медицина),  включают:<br/>
+	1. При остром колите:<br/>
+	- сегментарное расширение вен;<br/>
+	- признаки некротического колита;<br/>
+	- псевдополипоидные образования;<br/>
+	- формирование язвы и перфорации. <br/>
+	2. Хронические проявления:<br/>
+	- сужение просвета кишечника;<br/>
+	- одиночные и множественные стриктуры;<br/>
+	- потеря нормального рисунка слизистой.</div>
+</div>
+</div>
+</section>
+<section class="page-section" data-section-name="DIFFERENTIALDIAGNOSIS">
+<h2 class="page-section__title" id="differentialdiagnosis">
+        Дифференциальный диагноз    </h2>
+<div class="container">
+<div class="row page-section__row">
+<br/>
+См. раздел "Диагностика".<br/>
+См. "<a href="https://diseases.medelement.com/index.php/disease/view/NDY5Nw%253D%253D/fDEwfA%253D%253D" target="_blank">Неинфекционный гастроэнтерит и колит неуточненный</a>" - K52.9.<br/>
+<br/>
+</div>
+</div>
+</section>
+<section class="page-section" data-section-name="SEQUELAE">
+<h2 class="page-section__title" id="sequelae">
+        Осложнения    </h2>
+<div class="container">
+<div class="row page-section__row">
+<div style="text-align: justify;">
+<br/>
+	Как правило, токсический гастроэнтерит и колит протекает без осложнений. В тяжелых случаях хронического энтероколита возможны кровотечения с развитием анемии, умеренная потеря веса.</div>
+<div style="text-align: justify;">
+	В случаях острого токсического колита, индуцированного клизмами, возможны выраженные кровотечения, <aterm term="1">перфорация<span class="term-description" style="display: none;"><span>Перфорация - возникновение сквозного дефекта в стенке полого органа.</span><br/></span></aterm> кишечника с развитием <aterm term="1">перитонита<span class="term-description" style="display: none;"><span>Перитонит - воспаление брюшины.</span><br/></span></aterm>.<br/>
+	 </div>
+</div>
+</div>
+</section>
+<section class="page-section" data-section-name="THERAPY">
+<h2 class="page-section__title" id="therapy">
+        Лечение    </h2>
+<div class="container">
+<div class="row page-section__row">
+<br/>
+1. Отмена препаратов, вызвавших патологию.<br/>
+2. Симптоматическая терапия.<br/>
+3. В тяжелых случаях требуется применение системных <aterm term="1">ГКС<span class="term-description" style="display: none;"><span>ГКС (глюкокортикоиды, глюкокортикостероиды) - лекарственные препараты одно из ведущих свойств которых - угнетать ранние этапы синтеза основных участников формирования воспалительных процессов (простагландинов) в различных тканях и органах.</span><br/></span></aterm>, месалазина, метронидазола.<br/>
+<br/>
+</div>
+</div>
+</section>
+<section class="page-section" data-section-name="PROGNOSIS">
+<h2 class="page-section__title" id="prognosis">
+        Прогноз    </h2>
+<div class="container">
+<div class="row page-section__row">
+<br/>
+Прогноз неопределенный. Роль химического колита в возникновении колоректального рака и опухолей тонкого кишечника не изучена.   
+                    </div>
+</div>
+</section>
+<section class="page-section" data-section-name="HOSPITALIZATION">
+<h2 class="page-section__title" id="hospitalization">
+        Госпитализация    </h2>
+<div class="container">
+<div class="row page-section__row">
+<br/>
+Госпитализация в экстренном порядке показана в случае тяжелого процесса с обезвоживанием или развитием хирургических осложнений. 
+                    </div>
+</div>
+</section>
+<section class="page-section" data-section-name="PROPHYLAXIS">
+<h2 class="page-section__title" id="prophylaxis">
+        Профилактика    </h2>
+<div class="container">
+<div class="row page-section__row">
+<br/>
+- тщательный контроль за приемом лекарственных препаратов;<br/>
+- отказ от самолечения;<br/>
+- адекватный контроль за соблюдением протоколов стерилизации эндоскопов;<br/>
+- выявление и профилактика профессиональной патологии;<br/>
+- контроль продуктов питания.
+                    </div>
+</div>
+</section>
+<section class="page-section" data-index="12">
+<h2 class="page-section__title" id="information">
+        Информация    </h2>
+<div class="container">
+<section class="row page-field" data-field-name="LISTOFREFERENCES">
+<h3 class="page-field__title text-left" id="listofreferences">
+                    Источники и литература                </h3>
+<div class="page-field__data">
+<ol id="AdditionalListSources" type="I">
+<li level="1">
+<span>"Acute rectocolitis following endoscopy in health check-up patients -glutaraldehyde colitis or ischemic colitis?" Chao-Wen Hsu, Chieh-Hsin Lin, International Journal of Colorectal Disease, Volume 24, oct. 2009</span>
+<ol type="1">
+<li level="2">Jui-Ho Wang, Hsin-Tai Wang, Wen-Chieh Ou, Tai-Ming King</li>
+</ol>
+</li>
+<li level="1">
+<span>"Chemical Colitis Due to Glutaraldehyde: Case Series and Review of the Literature" Emel Ahishali, Oya Uygur-Bayramiçli, Can Dolapçioğlu, Reşat Dabak, Alperen Mengi, Aygün Işik,Elvan Ermiş, Digestive Diseases and Sciences, Volume 54, dec. 2009</span>
+<ol type="1">
+</ol>
+</li>
+<li level="1">
+<span>"Glutaraldehyde-Induced Chemical Colitis Versus Ischemic Colitis"
+Joseph C. Yarze, Digestive Diseases and Sciences, №55(4), 2010 </span>
+<ol type="1">
+</ol>
+</li>
+<li level="1">
+<span>"Ulcerative Colitis" Silvio Danese, Claudio Fiocchi, The New England Journal of Medicine, nov. 2011</span>
+<ol type="1">
+</ol>
+</li>
+</ol> </div>
+</section>
+</div>
+</section>
+<section class="page-section" data-section-name="ATTENTION">
+<h2 class="page-section__title" id="attention">
+        Внимание!    </h2>
+<div class="container">
+<div class="row page-section__row">
+<!--noindex-->
+<label class="attention-self-treatment-list__caption">Если вы не являетесь медицинским специалистом:</label>
+<ul class="attention-self-treatment-list">
+<li>
+        Занимаясь самолечением, вы можете нанести непоправимый вред своему здоровью.
+         
+    </li>
+<li>
+        Информация, размещенная на сайте MedElement, не может и не должна заменять очную консультацию врача.
+        Обязательно
+        обращайтесь в медицинские учреждения при наличии каких-либо заболеваний или беспокоящих вас симптомов.
+         
+    </li>
+<li>
+        Выбор лекарственных средств и их дозировки, должен быть оговорен со специалистом. Только врач может
+        назначить
+        нужное лекарство и его дозировку с учетом заболевания и состояния организма больного.
+         
+    </li>
+<li>
+        Сайт MedElement является исключительно информационно-справочным ресурсом. Информация, размещенная на данном
+        сайте, не должна использоваться для самовольного изменения предписаний врача.
+         
+    </li>
+<li>
+        Редакция MedElement не несет ответственности за какой-либо ущерб здоровью или материальный ущерб, возникший
+        в
+        результате использования данного сайта.
+    </li>
+</ul>
+<!--/noindex-->
+</div>
+</div>
+</section>
+</main>

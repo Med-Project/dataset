@@ -1,0 +1,406 @@
+<main id="main">
+<section class="page-information disease-information">
+<div class="container">
+<h1 class="page-information__name disease-information__name">
+            Грыжа передней брюшной стенки без непроходимости или гангрены (K43.9)        </h1>
+<div class="disease-information__alternate-name">
+<label>Также: </label>
+                надчревная грыжа живота, инцизионная грыжа живота            </div>
+<div class="disease-information__version-name">
+<p class="lead text-muted">
+                
+                Версия: Справочник заболеваний MedElement                </p>
+</div>
+<div class="disease-information__categories-mkb">
+<label>Категории МКБ: </label>
+                Грыжа передней брюшной стенки без непроходимости или гангрены (K43.9)            </div>
+<div class="disease-information__sections-medicine">
+<label>Разделы медицины: </label>
+                Гастроэнтерология            </div>
+</div>
+</section>
+<section class="page-section" data-index="0">
+<h2 class="page-section__title" id="general_information">
+        Общая информация    </h2>
+<div class="container">
+<div class="page-links-actions">
+<ul>
+<li class="page-links-actions__item page-links-actions__item--print" data-ga-event-action="Клик по ссылке: Версия для печати" data-ga-event-category="Links actions" data-ga-event-label="" data-send-ga-event="">
+<a href="javascript:window.print()">Версия для печати
+                    <svg class="svg-icon svg-icon-printer" height="18" version="1.1" viewbox="0 0 24 24" width="18" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<path d="M18,3H6V7H18M19,12A1,1 0 0,1 18,11A1,1 0 0,1 19,10A1,1 0 0,1 20,11A1,1 0 0,1 19,12M16,19H8V14H16M19,8H5A3,3 0 0,0 2,11V17H6V21H18V17H22V11A3,3 0 0,0 19,8Z"></path>
+</svg>
+</a>
+</li>
+</ul>
+</div>
+<section class="row page-field" data-field-name="SHORTDESCRIPTION">
+<h3 class="page-field__title text-left" id="shortdescription">
+                    Краткое описание                </h3>
+<div class="page-field__data">
+<div>
+<br/><strong>Примечание.</strong> В данную подрубрику включены:<br/>
+	- надчревная грыжа живота;<br/>
+	- инцизионная грыжа живота.<br/><br/><span><strong>Надчревная грыжа</strong> - это грыжа белой линии живота, расположенная между мечевидным отростком и пупком. Типичным местом локализации является верхняя (эпигастральная) часть белой линии, поэтому эти грыжи  нередко называют эпигастральными или грыжами мечевидного отростка.</span></div><div>
+	 </div><div>
+<strong>Инцизионная грыжа </strong>(послеоперационная вентральная грыжа, инцизионная вентральная грыжа, ИВГ)<b> - </b>грыжа, возникающая на месте шва, оставшегося от сделанной ранее хирургической операции на органах брюшной полости. Чаще всего такой операцией является любая операция, выполненная серединным лапаротомным доступом (разрезом по белой линии живота). </div><div>
+<br/><span>Согласно принятому Европейским обществом герниологов определению, инцизионной грыжей называют "любой дефект брюшной стенки с или без выпячивания в области послеоперационного рубца, выявляемый пальпаторно при клиническом осмотре или с помощью визуализации".  </span><br/>
+	 <br/>
+	Некоторые авторы относят к грыжам белой линии живота также околопупочную грыжу, которая согласно МКБ-10 кодируется в другой подрубрике (см. "<a href="https://diseases.medelement.com/index.php/disease/view/NDY2MA%253D%253D/fDB8" target="_blank">Пупочная грыжа без непроходимости или гангрены</a>"- K42.9).</div>
+</div>
+</section>
+</div>
+</section>
+<section class="page-section" data-section-name="CLASSIFICATION">
+<h2 class="page-section__title" id="classification">
+        Классификация    </h2>
+<div class="container">
+<div class="row page-section__row">
+<p style="text-align: justify;">
+<br/>
+	Единая классификация как врожденных, так и приобретенных грыж передней брюшной стенки отсутствует.<br/>
+<br/>
+<strong>Грыжи белой линии</strong><br/>
+<br/>
+	По месту образования делятся на:</p>
+<div style="text-align: justify;">
+	- надчревные или эпигастральные  - расположены выше пупка;<br/>
+	- подчревные - образуются по белой линии ниже пупка;<br/>
+	- околопупочные - располагаются около пупочного кольца.<br/>
+<br/>
+	Примечание. Околопупочные грыжи рассматриваются МКБ-10 в подрубрике "<a href="https://diseases.medelement.com/index.php/disease/view/NDY2MA%253D%253D/fDB8" target="_blank">Пупочная грыжа без непроходимости или гангрены</a>" (K42.9).<br/>
+<br/>
+<br/>
+<strong>Классификация </strong><strong>инцизионных вентральных грыж</strong> (Шеврель и Рат, 2000):</div>
+<div style="text-align: justify;">
+<br/>
+	1. Инцизионные вентральные грыжи (ИВГ) делятся на:<br/>
+	1.1 Медиальные (под буквой М). Разделяются по 4 зонам локализации и обозначаются как М<sub>1</sub>-М<sub>4.</sub><br/>
+	1.2 Латеральные. (обозначаются как L ). Разделяются в зависимости от места локализации на подгруппы L<sub>1</sub>-L<sub>4. </sub></div>
+<div style="text-align: justify;">
+<br/>
+	2. Разделение ИВГ по размеру (обозначается буквой W) с шагом в 5 см от самых маленьких, где W<sub>1</sub>&lt;5 см до W<sub>4 </sub>&gt;15 см.<br/>
+<br/>
+	3. Разделение ИВГ по количеству рецидивов (обозначается буквой R). Отсутствие рецидивов обозначается как R-, и далее соответственно - R<sub>1</sub>, R<sub>2</sub>.<br/>
+<br/>
+	Были также предложены варианты классификации ИВГ (модификации) такими авторами, как Шумпелик (2000), Амматуро и Басси (2005), Дитц и соавт. (2007). Единая классификация, стандартизирующая оценку эффективности лечения и прочее, в рамках согласительной комиссии Европейского общества герниологов пока не разработана. </div>
+</div>
+</div>
+</section>
+<section class="page-section" data-section-name="ETIOLOGY">
+<h2 class="page-section__title" id="etiology">
+        Этиология и патогенез    </h2>
+<div class="container">
+<div class="row page-section__row">
+<div>
+<br/>
+	Причины возникновения <strong>грыж белой линии:</strong></div><div>
+	 </div><div>
+	1. Ослабление брюшной стенки вследствие отсутствия должной физической нагрузки (сидячий образ жизни), старения, некоторых заболеваний. В целом, современные исследования выявляют наследственные нарушения соединительной ткани (группа <aterm term="1">гетерогенных</aterm> заболеваний) как основную причину ослабления брюшной стенки.</div><div>
+	 </div><div>
+	2. Увеличение внутрибрюшного давления вследствие:</div><div>
+	- увеличения массы тела;</div><div>
+	- беременности;</div><div>
+	- физического перенапряжения, а также некоторых других состояний.</div><div>
+<span>При наличии этих факторов возникает расширение белой линии живота, что может сопровождаться </span>расхождением мышц передней брюшной стенки на отдельные пучки - диастазом прямых мышц живота. </div><div>
+	 </div><div>
+<span><strong>Степени диастаза</strong> в зависимости от его величины:</span></div><div>
+	- I степень - до 5-7 см;</div><div>
+	- II степень - более 5-7 см;</div><div>
+	- III степень - большой диастаз, сочетающийся с отвислым животом. </div><div>
+	 </div><div>
+	Поначалу грыжи белой линии живота не имеют грыжевого мешка и представляют собой выпячивания предбрюшинного жира, именуемые предбрюшинными липомами, хотя они не имеют никакого отношения к истинным доброкачественным опухолям из жировой ткани.<br/>
+	У некоторых мужчин нет даже сквозного дефекта в  <aterm term="1">апоневрозе</aterm> белой линии, а присутствует лишь углубление на задней стенке, в которое проникает предбрюшинный жир. Такие грыжи называют скрытыми и иногда они вызывают только болевой синдром.<br/>
+	Далее в грыжевые ворота  вместе с жировой тканью втягивается прилежащий отдел <aterm term="1">париетальной</aterm> брюшины в форме конуса. В случае увеличения грыжи образуется уже настоящий грыжевой мешок, в который обычно выпадает участок <aterm term="1">сальника</aterm>, реже - круглая связка печени и другие органы живота. Вследствие узости ворот происходит травматизация выпавшего <aterm term="1">сальника</aterm>, и грыжа, как правило, становится невправимой.</div><div>
+<img alt="Механизм формирования грыжи белой линии живота" height-fact="768" id="preview_image" src="https://diseases.medelement.com/upload/8097f03f7d224deeafa25d9e954767e2.jpg" style="width: 350px; height: 263px; border-width: 0px; border-style: solid; margin-left: 0px; margin-top: 0px; float: none;" title="Механизм формирования грыжи белой линии живота" width-fact="1024"/><br/>
+	 </div><div>
+<strong>Инцизионные вентральные грыжи</strong> (ИВГ) возникают чаще всего по причине погрешности в хирургической технике или из-за послеоперационных осложнений. Рецидивные и множественные ИВГ также сочетаются с врожденными дисплазиями соединительной ткани и различными причинами повышения внутрибрюшного давления.<br/>
+	 </div>
+</div>
+</div>
+</section>
+<section class="page-section" data-section-name="EPIDEMIOLOGY">
+<h2 class="page-section__title" id="epidemiology">
+        Эпидемиология    </h2>
+<div class="container">
+<div class="row page-section__row">
+<p>Признак распространенности: Редко</p>
+<p>Соотношение полов(м/ж): 1.5</p>
+<br/>
+<div>
+<span>По оценке разных авторов, распространенность <strong>надчревных грыж </strong>составляет от 3 до 11% всех грыж живота. Грыжи белой линии живота чаще всего встречаются у мужчин (60%) в возрасте 20-35 лет. У детей диагностируются редко. </span></div><div>
+<br/><strong>Инцизионные вентральные грыжи</strong><span> </span>развиваются в 5-8% случаев серединных лапаротомий. В случае нагноения раны частота возникновения увеличивается до 15%. Данные разнятся по странам и клиникам. </div>
+</div>
+</div>
+</section>
+<section class="page-section" data-section-name="FACTORSANDRISKGROUPS">
+<h2 class="page-section__title" id="factorsandriskgroups">
+        Факторы и группы риска    </h2>
+<div class="container">
+<div class="row page-section__row">
+<div style="text-align: justify;">
+<br/>
+	- мужской пол;<br/>
+	- операции на органах брюшной полости;<br/>
+	- <aterm term="1">ХОБЛ<span class="term-description" style="display: none;"><span>Хроническая обструктивная болезнь лёгких (ХОБЛ) - самостоятельное заболевание, для которого характерно частично необратимое ограничение воздушного потока в дыхательных путях</span><br/></span></aterm>;<br/>
+	- склонность к запорам;<br/>
+	- наследственность; <br/>
+	- <aterm term="1">дисплазии<span class="term-description" style="display: none;"><span>Дисплазия - неправильное развитие тканей и органов.</span><br/></span></aterm> соединительной ткани;<br/>
+	- беременность и роды;<br/>
+	- избыточный индекс массы тела;<br/>
+	- поднятие тяжестей.</div>
+</div>
+</div>
+</section>
+<section class="page-section" data-index="5">
+<h2 class="page-section__title" id="clinical">
+        Клиническая картина    </h2>
+<div class="container">
+<section class="row page-field" data-field-name="THESIS">
+<h3 class="page-field__title text-left" id="thesis">
+                    Клинические критерии диагностики                </h3>
+<div class="page-field__data">
+                    
+                    выпячивание по средней линии выше пупка, выпячивание в эпигастральной области, выпячивание в области послеоперационной раны, пальпируемый дефект в области средней линии живота, выпячивание уменьшается или исчезает в положении лёжа, симптом кашлевого толчка, боль в эпигастрии, диспепсия                </div>
+</section>
+<section class="row page-field" data-field-name="ANTIPRAXIA">
+<h3 class="page-field__title text-left" id="antipraxia">
+                    Cимптомы, течение                </h3>
+<div class="page-field__data">
+<div style="text-align: justify;">
+<br/>
+	 <strong>Грыжи белой линии живота</strong> представляют собой выпячивание или дефект (расхождение) в области серединной линии живота. <br/>
+<br/>
+	Для <strong>инцизионных вентральных грыж </strong>характерна локализация в области послеоперационного рубца. Возможно сочетание с расхождением краев после операционной раны или ее инфицированием. В положении лёжа выпячивание может уменьшаться или исчезать.</div>
+<div style="text-align: justify;">
+	Грыжа выявляется визуально и/или при пальпации как небольшой дефект в проекции белой линии живота или послеоперационной раны. Симптом кашлевого толчка в начальной стадии образования грыжи может не выявляться.</div>
+<div style="text-align: justify;">
+<br/>
+<strong>Эпигастральные грыжи</strong> могут не сопровождаться клиническими симптомами, иметь только местные симптомы и вызывать общую симптоматику, симулирующую заболевания внутренних  органов живота.  Бессимптомно протекающие грыжи обычно обнаруживаются случайно - при осмотрах, проводимых по другому поводу. </div>
+<div style="text-align: justify;">
+<br/>
+<strong>Местные симптомы </strong>при грыжах передней брюшной стенки выражаются болями при:</div>
+<div style="text-align: justify;">
+	- пальпации;</div>
+<div style="text-align: justify;">
+	- натуживании;</div>
+<div style="text-align: justify;">
+	- резких  движениях;</div>
+<div style="text-align: justify;">
+	- ходьбе. </div>
+<div style="text-align: justify;">
+<br/>
+<strong>Общие симптомы </strong>при грыжах передней брюшной стенки:</div>
+<div style="text-align: justify;">
+	- боли в эпигастральной области ноющего характера;</div>
+<div style="text-align: justify;">
+	- чувство давления в верхних  отделах живота;</div>
+<div style="text-align: justify;">
+	- <aterm term="1">диспепсические<span class="term-description" style="display: none;"><span>Диспепсия - нарушение процесса пищеварения, обычно проявляющееся болью или неприятными ощущениями в нижней части груди или живота, которые могут возникать после еды и иногда сопровождаться тошнотой или рвотой.</span><br/></span></aterm> расстройства.</div>
+<div style="text-align: justify;">
+	 </div>
+<div style="text-align: justify;">
+	Грыжи передней брюшной стенки могут быть множественными. Размеры их варьируются, но чаще всего не превышают 3-4 см, в отдельных случаях - 10 см и более.</div>
+</div>
+</section>
+</div>
+</section>
+<section class="page-section" data-section-name="DIAGNOSTICS">
+<h2 class="page-section__title" id="diagnostics">
+        Диагностика    </h2>
+<div class="container">
+<div class="row page-section__row">
+<div style="text-align: justify;">
+<br/>
+	При грыжах передней брюшной стенки диагностика не представляет сложности. Методы визуализации (УЗИ, <aterm term="1">герниорафия<span class="term-description" style="display: none;"><span>Герниорафия - способ закрытия грыжевых ворот путем их ушивания</span><br/></span></aterm>, МРТ, <aterm term="1">ирригоскопия<span class="term-description" style="display: none;"><span>Ирригоскопия - рентгенологическое исследование толстой кишки при ретроградном заполнении ее контрастной взвесью</span><br/></span></aterm>) используются в случаях рецидива грыж, при больших размерах грыж, при множественных грыжах, при осложненных грыжах и для дифференциальной диагностики.</div>
+</div>
+</div>
+</section>
+<section class="page-section" data-section-name="LABORATORYDIAGNOSTICS">
+<h2 class="page-section__title" id="laboratorydiagnostics">
+        Лабораторная диагностика    </h2>
+<div class="container">
+<div class="row page-section__row">
+<div style="text-align: justify;">
+<br/>
+<aterm term="1">Патогномоничные<span class="term-description" style="display: none;"><span>Патогномоничный - характерный для данной болезни (о признаке).</span><br/></span></aterm> симптомы отсутствуют.<br/>
+	Необходимость лабораторных тестов обусловлена:<br/>
+	- дифференциальной диагностикой;<br/>
+	- наличием сопутствующих патологий;<br/>
+	- подготовкой к операционному вмешательству (оценка риска анестезии и вмешательства).</div>
+</div>
+</div>
+</section>
+<section class="page-section" data-section-name="DIFFERENTIALDIAGNOSIS">
+<h2 class="page-section__title" id="differentialdiagnosis">
+        Дифференциальный диагноз    </h2>
+<div class="container">
+<div class="row page-section__row">
+<div>
+<br/><div>
+		Чаще всего грыжи передней брюшной стенки дифференцируют с язвенной болезнью, а у пожилых женщин - с хроническим холециститом.</div>
+<div>
+		Причиной болевого синдрома также может быть натяжение припаявшегося сальника, круглой связки печени и т.д. </div>
+<div>
+<br/>
+		При сильно выраженном <aterm term="1">диастазе</aterm> прямых мышц живота нужно учитывать наличие  симптомов, связанных со спланхноптозом, который при диастазе присутствует почти всегда. Больные в этом случае жалуются на <aterm term="1">диспепсические</aterm> расстройства: </div>
+<div>
+		- отрыжку;</div>
+<div>
+		- изжогу;</div>
+<div>
+		- тошноту;</div>
+<div>
+		- ощущение тяжести в животе;</div>
+<div>
+		- метеоризм;</div>
+<div>
+		- запоры;</div>
+<div>
+		- снижение кислотности желудочного сока. </div>
+</div><br/>
+</div>
+</div>
+</section>
+<section class="page-section" data-section-name="SEQUELAE">
+<h2 class="page-section__title" id="sequelae">
+        Осложнения    </h2>
+<div class="container">
+<div class="row page-section__row">
+<br/>
+</div>
+</div>
+</section>
+<section class="page-section" data-section-name="THERAPY">
+<h2 class="page-section__title" id="therapy">
+        Лечение    </h2>
+<div class="container">
+<div class="row page-section__row">
+<div>
+<br/>
+	При грыжах передней брюшной стенки показано плановое <strong>оперативное лечение</strong>. Описано множество способов пластики. В настоящее время предпочтение отдается так называемым "ненатяжным" способам с использованием комбинированных сетчатых трансплантатов. При определенных условиях возможна пластика <aterm term="1">лапароскопическим</aterm> способом.<br/><br/>
+	Для профилактики послеоперационных осложнений рекомендуется однократное введение цефалоспоринов первого поколения. Пациентам с подтвержденным фактом колонизации метициллин-резистентным золотистым стафилококком (MRSA) к цефалоспорину можно добавить одну дозу ванкомицина. Для пациентов  с аллергией на бета-лактамы альтернативной рекомендацией является антибиотикопрофилактика клиндамицином и ванкомицином. </div><div>
+	 </div>
+</div>
+</div>
+</section>
+<section class="page-section" data-section-name="PROGNOSIS">
+<h2 class="page-section__title" id="prognosis">
+        Прогноз    </h2>
+<div class="container">
+<div class="row page-section__row">
+<div style="text-align: justify;">
+<br/>
+	Прогноз зависит от множества факторов. Инцизионные вентральные грыжи и надчревные грыжи склонны к рецидивам и ущемлению. Отмечается существенное количество послеоперационных осложнений после применения сетчатых трансплантатов, а также образование <aterm term="1">сером<span class="term-description" style="display: none;"><span>Серома - скопление серозной жидкости. Возникает в связи с пересечением лимфатических капилляров, лимфа которых собирается в полости между подкожной жировой клетчаткой и апоневрозом, что особенно выражено у тучных людей при наличии больших полостей между этими тканями</span><br/></span></aterm> и гематом. Инфекции ран не превышают 8%.</div>
+<div style="text-align: justify;">
+	В целом, по мере  развития техник и материалов для ненатяжной пластики, прогноз становится все более благоприятным, особенно для рецидивных грыж.</div>
+</div>
+</div>
+</section>
+<section class="page-section" data-section-name="HOSPITALIZATION">
+<h2 class="page-section__title" id="hospitalization">
+        Госпитализация    </h2>
+<div class="container">
+<div class="row page-section__row">
+<div>
+<br/>
+	В плановом порядке в отделение хирургии. Рецидивные и большие грыжи предпочтительнее лечить в специализированных центрах.</div>
+</div>
+</div>
+</section>
+<section class="page-section" data-section-name="PROPHYLAXIS">
+<h2 class="page-section__title" id="prophylaxis">
+        Профилактика    </h2>
+<div class="container">
+<div class="row page-section__row">
+<div style="text-align: justify;">
+<br/>
+	Единственным модифицируемым фактором при грыжах передней брюшной стенки является отказ от курения, как наиболее частой причины <aterm term="1">ХОБЛ<span class="term-description" style="display: none;"><span>Хроническая обструктивная болезнь лёгких (ХОБЛ) - самостоятельное заболевание, для которого характерно частично необратимое ограничение воздушного потока в дыхательных путях</span><br/></span></aterm>,  и связанного с ним постоянного кашля. Меньшее значение имеют ограничение поднятия тяжестей и профилактика запоров.<br/>
+<br/>
+	Для профилактики инцизионных вентральных грыж определяющее значение имеет правильный выбор оперативного доступа и оперативной техники при вмешательстве, профилактика инфекции послеоперационной раны и расхождения ее краев.</div>
+</div>
+</div>
+</section>
+<section class="page-section" data-index="14">
+<h2 class="page-section__title" id="information">
+        Информация    </h2>
+<div class="container">
+<section class="row page-field" data-field-name="LISTOFREFERENCES">
+<h3 class="page-field__title text-left" id="listofreferences">
+                    Источники и литература                </h3>
+<div class="page-field__data">
+<ol id="AdditionalListSources" type="I">
+<li level="1">
+<span>Жебровский В.В. Хирургия грыж живота и эвентраций, М.: Москва, 2005</span>
+<ol type="1">
+</ol>
+</li>
+<li level="1">
+<span>Рэфтери Э. Хирургия. Справочник/под общ.редакцией Луцевича О.И., Пушкаря Д.Ю., Медпресс-информ, 2006</span>
+<ol type="1">
+</ol>
+</li>
+<li level="1">
+<span>"Classification of incisional hernias of the abdominal wall" J. P. Chevrel, A. M. Rath, "Hernia" Volume 4, Issue 1, March 2000 </span>
+<ol type="1">
+</ol>
+</li>
+<li level="1">
+<span>"Classiﬁcation of primary and incisional abdominal wall hernias" F. E. Muysoms ect., Hernia, 13:407–414, 2009 </span>
+<ol type="1">
+</ol>
+</li>
+</ol> </div>
+</section>
+<section class="row page-field" data-field-name="LISTOFREFERENCES_INFO">
+<h3 class="page-field__title text-left" id="listofreferences_info">
+                    Информация                </h3>
+<div class="page-field__data">
+<div id="enumeration">
+<div id="publication-title">
+		 </div>
+</div>
+</div>
+</section>
+</div>
+</section>
+<section class="page-section" data-section-name="ATTENTION">
+<h2 class="page-section__title" id="attention">
+        Внимание!    </h2>
+<div class="container">
+<div class="row page-section__row">
+<!--noindex-->
+<label class="attention-self-treatment-list__caption">Если вы не являетесь медицинским специалистом:</label>
+<ul class="attention-self-treatment-list">
+<li>
+        Занимаясь самолечением, вы можете нанести непоправимый вред своему здоровью.
+         
+    </li>
+<li>
+        Информация, размещенная на сайте MedElement, не может и не должна заменять очную консультацию врача.
+        Обязательно
+        обращайтесь в медицинские учреждения при наличии каких-либо заболеваний или беспокоящих вас симптомов.
+         
+    </li>
+<li>
+        Выбор лекарственных средств и их дозировки, должен быть оговорен со специалистом. Только врач может
+        назначить
+        нужное лекарство и его дозировку с учетом заболевания и состояния организма больного.
+         
+    </li>
+<li>
+        Сайт MedElement является исключительно информационно-справочным ресурсом. Информация, размещенная на данном
+        сайте, не должна использоваться для самовольного изменения предписаний врача.
+         
+    </li>
+<li>
+        Редакция MedElement не несет ответственности за какой-либо ущерб здоровью или материальный ущерб, возникший
+        в
+        результате использования данного сайта.
+    </li>
+</ul>
+<!--/noindex-->
+</div>
+</div>
+</section>
+</main>

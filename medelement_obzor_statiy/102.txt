@@ -1,0 +1,309 @@
+<main id="main">
+<section class="page-information disease-information">
+<div class="container">
+<h1 class="page-information__name disease-information__name">
+            Другие и неуточненные поражения слизистой оболочки полости рта (K13.7)        </h1>
+<div class="disease-information__alternate-name">
+<label>Также: </label>
+                Unspecified lesions of oral mucosa, Other lesions of oral mucosa, Focal oral mucinosis            </div>
+<div class="disease-information__version-name">
+<p class="lead text-muted">
+                
+                Версия: Справочник заболеваний MedElement                </p>
+</div>
+<div class="disease-information__categories-mkb">
+<label>Категории МКБ: </label>
+                Другие и неуточненные поражения слизистой оболочки полости рта (K13.7)            </div>
+<div class="disease-information__sections-medicine">
+<label>Разделы медицины: </label>
+                Гастроэнтерология, Стоматология            </div>
+</div>
+</section>
+<section class="page-section" data-index="0">
+<h2 class="page-section__title" id="general_information">
+        Общая информация    </h2>
+<div class="container">
+<div class="page-links-actions">
+<ul>
+<li class="page-links-actions__item page-links-actions__item--print" data-ga-event-action="Клик по ссылке: Версия для печати" data-ga-event-category="Links actions" data-ga-event-label="" data-send-ga-event="">
+<a href="javascript:window.print()">Версия для печати
+                    <svg class="svg-icon svg-icon-printer" height="18" version="1.1" viewbox="0 0 24 24" width="18" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<path d="M18,3H6V7H18M19,12A1,1 0 0,1 18,11A1,1 0 0,1 19,10A1,1 0 0,1 20,11A1,1 0 0,1 19,12M16,19H8V14H16M19,8H5A3,3 0 0,0 2,11V17H6V21H18V17H22V11A3,3 0 0,0 19,8Z"></path>
+</svg>
+</a>
+</li>
+</ul>
+</div>
+<section class="row page-field" data-field-name="SHORTDESCRIPTION">
+<h3 class="page-field__title text-left" id="shortdescription">
+                    Краткое описание                </h3>
+<div class="page-field__data">
+<div style="text-align: justify;">
+<br/>
+<strong>Фокальный муциноз слизистой рта</strong> - очаговое поражение слизистой неизвестной этиологии, характеризующееся отложением в ней муцина (желеподобного вещества, состоящего из кислых гликозаминогликанов, в норме продуцируемых в малом количестве).<br/>
+<br/>
+<br/>
+<strong>Примечание. </strong>В данную подрубрику включено:<br/>
+	- "Неуточненные заболевания слизистой  рта" - K13.70</div>
+<div style="text-align: justify;">
+	- "Другие заболевания слизистой рта - фокальный (очаговый) муциноз рта" - K13.79</div>
+<div style="text-align: justify;">
+	 </div>
+</div>
+</section>
+<section class="row page-field" data-field-name="NUMBERDAYSFLOW">
+<h3 class="page-field__title text-left" id="numberdaysflow">
+                    Период протекания                </h3>
+<div class="page-field__data">
+<br/>
+<label>Описание:</label>
+<p>Хроническая патология, с протеканием в среднем в течение 3 месяцев. В течение указанного срока темп роста образования может быть неодинаковым.</p>
+</div>
+</section>
+</div>
+</section>
+<section class="page-section" data-section-name="ETIOLOGY">
+<h2 class="page-section__title" id="etiology">
+        Этиология и патогенез    </h2>
+<div class="container">
+<div class="row page-section__row">
+<div style="text-align: justify;">
+<br/>
+<strong>Этиология</strong> неизвестна. Предполагается аналогия с фокальным <aterm term="1">кожным муцинозом<span class="term-description" style="display: none;"><span>Муциноз кожи - дерматоз, обусловленный отложением муцина в соединительной ткани и фолликулах кожи</span><br/></span></aterm> и <aterm term="1">миксоидной кистой<span class="term-description" style="display: none;"><span>Киста миксоидная - небольшая киста, содержащая вязкую клейкую жидкость. Эта киста обычно развивается над суставным концом пальца руки или ноги; удалять миксоидную кисту не следует, так как чаще всего она бывает соединена с расположенным под ней суставом</span><br/></span></aterm> кожи.<br/>
+<br/>
+<strong>Патогенез</strong> может быть связан с перепроизводством гиалуроновой кислоты фибробластами за счет выработки коллагена, в результате чего развивается фокальная миксоидная дегенерация соединительной ткани, поражающая преимущественно слизистую оболочку, покрывающую кости. Наличие каких-либо кожных проявлений муциноза при этом не обязательно.<br/>
+	 </div>
+</div>
+</div>
+</section>
+<section class="page-section" data-section-name="EPIDEMIOLOGY">
+<h2 class="page-section__title" id="epidemiology">
+        Эпидемиология    </h2>
+<div class="container">
+<div class="row page-section__row">
+<p>Пол: Все</p>
+<p>
+        Возраст: преимущественно взрослый</p>
+<p>Признак распространенности: Крайне редко</p>
+<p>Соотношение полов(м/ж): 0.5</p>
+<br/>
+<div style="text-align: justify;">
+	Истинная распространенность неизвестна. Существующие  обзоры описывают, как правило, очень небольшое количество наблюдений (до 60 случаев). <br/>
+<br/>
+	Страдают заболеванием в  основном взрослые люди 30-70 лет, хотя описаны случаи у детей и подростков.<br/>
+	Преимущественно женщины. </div>
+</div>
+</div>
+</section>
+<section class="page-section" data-section-name="FACTORSANDRISKGROUPS">
+<h2 class="page-section__title" id="factorsandriskgroups">
+        Факторы и группы риска    </h2>
+<div class="container">
+<div class="row page-section__row">
+<br/>
+Достоверно не выявлены.
+                    </div>
+</div>
+</section>
+<section class="page-section" data-index="4">
+<h2 class="page-section__title" id="clinical">
+        Клиническая картина    </h2>
+<div class="container">
+<section class="row page-field" data-field-name="THESIS">
+<h3 class="page-field__title text-left" id="thesis">
+                    Клинические критерии диагностики                </h3>
+<div class="page-field__data">
+                    
+                    округлое образование 0,5-2 см; образование на десне; образование на твердом нёбе; розового цвета; безболезненное; мягкое на ощупь                </div>
+</section>
+<section class="row page-field" data-field-name="ANTIPRAXIA">
+<h3 class="page-field__title text-left" id="antipraxia">
+                    Cимптомы, течение                </h3>
+<div class="page-field__data">
+<div style="text-align: justify;">
+<br/>
+	При фокальном муцинозе поражается в основном слизистая, прилегающая к кости, с переходом на твердое нёбо. Представляет из себя округлое или овальное (иногда неправильной формы) образование (выпячивание) с основанием, сливающимся с десной того же цвета, что и окружающие ткани. Иногда может выглядеть как образование на ножке.<br/>
+	Поверхность гладкая. Размеры, как правило, не превышают  2 см. <br/>
+	При пальпации мягкой консистенции, безболезненное.<br/>
+	 </div>
+<img alt="Источник: http://www.ncbi.nlm.nih.gov" height-fact="222" id="preview_image" src="https://diseases.medelement.com/upload/2d2abcf2364b3f1f5e5270a72521c8c9.jpg" style="width: 500px; height: 178px; border-width: 0px; border-style: solid; margin-left: 0px; margin-top: 0px;" title="Источник: http://www.ncbi.nlm.nih.gov" width-fact="622"/><br/>
+<img alt="Источник: http://www.contempclindent.org" height-fact="223" id="preview_image" src="https://diseases.medelement.com/upload/b665ee045fbce2b2af93436771080374.jpg" style="width: 250px; height: 194px; border-width: 0px; border-style: solid; margin-left: 0px; margin-top: 0px;" title="Источник: http://www.contempclindent.org" width-fact="288"/><br/>
+</div>
+</section>
+</div>
+</section>
+<section class="page-section" data-section-name="DIAGNOSTICS">
+<h2 class="page-section__title" id="diagnostics">
+        Диагностика    </h2>
+<div class="container">
+<div class="row page-section__row">
+<div style="text-align: justify;">
+<br/>
+	Диагноз фокального муциноза слизистой обычно ставится после операции, при исследовании биоптата. Предоперационная диагностика практически невозможна вследствие крайней редкости заболевания.<br/>
+<br/>
+	1.<strong> Биопсия </strong>- единственный пока достоверный метод диагностики. Поражение чаще всего описывается как многослойный чешуйчатый эпителий с явлениями гипер- и паракератоза. Строма представлена рыхлой миксоидно-фиброзной тканью с большим количеством округлых, звездчатых и веретенообразных фиброцитов. <br/>
+	Наблюдается дефицит воспалительных клеток и ретикулиновых волокон. В глубже расположенных слоях выявляются веретенообразные фибробласты, перемежающиеся с тонкими коллагеновыми волокнами и многочисленными капиллярами.<br/>
+	Негативные гистохимические тесты на S-100 протеин (миксома нерва), негативная PAS, положительные тесты на Vimentin (коррелирует с количеством фибробластоподобных клеток) и альциановый синий могут помочь в дифференциальной диагностике.<br/>
+<br/>
+	2. <strong>Компьютерная томография</strong> высокого разрешения и другие радиологические методы могут быть оправданы только при подозрении на злокачественное опухолевое поражение. На рентгеновских снимках образование, как правило, рентгенопрозрачное, однородное, не распространяющееся на кость.</div>
+</div>
+</div>
+</section>
+<section class="page-section" data-section-name="LABORATORYDIAGNOSTICS">
+<h2 class="page-section__title" id="laboratorydiagnostics">
+        Лабораторная диагностика    </h2>
+<div class="container">
+<div class="row page-section__row">
+<br/>
+Не существует никаких методов лабораторной диагностики.
+                    </div>
+</div>
+</section>
+<section class="page-section" data-section-name="DIFFERENTIALDIAGNOSIS">
+<h2 class="page-section__title" id="differentialdiagnosis">
+        Дифференциальный диагноз    </h2>
+<div class="container">
+<div class="row page-section__row">
+<br/>
+ - фиброма или фиброэпителиальный полип;<br/>
+- гиперплазия слизистой оболочки рта;<br/>
+- одонтогенная миксома;<br/>
+- мукоцеле.<br/>
+<br/>
+</div>
+</div>
+</section>
+<section class="page-section" data-section-name="SEQUELAE">
+<h2 class="page-section__title" id="sequelae">
+        Осложнения    </h2>
+<div class="container">
+<div class="row page-section__row">
+<br/>
+Не описаны.
+                    </div>
+</div>
+</section>
+<section class="page-section" data-section-name="THERAPY">
+<h2 class="page-section__title" id="therapy">
+        Лечение    </h2>
+<div class="container">
+<div class="row page-section__row">
+<br/>
+Хирургическое иссечение  под местной анестезией.<br/>
+<br/>
+</div>
+</div>
+</section>
+<section class="page-section" data-section-name="PROGNOSIS">
+<h2 class="page-section__title" id="prognosis">
+        Прогноз    </h2>
+<div class="container">
+<div class="row page-section__row">
+<br/>
+Благоприятный. Рецидивов не описано.
+                    </div>
+</div>
+</section>
+<section class="page-section" data-section-name="HOSPITALIZATION">
+<h2 class="page-section__title" id="hospitalization">
+        Госпитализация    </h2>
+<div class="container">
+<div class="row page-section__row">
+<br/>
+Не требуется.
+                    </div>
+</div>
+</section>
+<section class="page-section" data-section-name="PROPHYLAXIS">
+<h2 class="page-section__title" id="prophylaxis">
+        Профилактика    </h2>
+<div class="container">
+<div class="row page-section__row">
+<br/>
+Не разработана.
+                    </div>
+</div>
+</section>
+<section class="page-section" data-index="13">
+<h2 class="page-section__title" id="information">
+        Информация    </h2>
+<div class="container">
+<section class="row page-field" data-field-name="LISTOFREFERENCES">
+<h3 class="page-field__title text-left" id="listofreferences">
+                    Источники и литература                </h3>
+<div class="page-field__data">
+<ol id="AdditionalListSources" type="I">
+<li level="1">
+<span>"Oral Focal Mucinosis: A Case Report and Review of the Literature"  Merva Soluk Tekkesin, Mustafa Yilmaz, Vakur Olgac, "Turkish Journal of Pathology" №29, 2013 </span>
+<ol type="1">
+</ol>
+</li>
+<li level="1">
+<span>"Oral focal mucinosis of palatal mucosa: A rare case report" Bharti Vipin, Singh Jagmohan, "Contemporary clinical dentistry" journal, №6, 2012 </span>
+<ol type="1">
+</ol>
+</li>
+<li level="1">
+<span>"Oral focal mucinosis. Case report" F. Germano, R. Abate, F. Santini, M. Dri, C. Arcuri, "Oral Implantology (Rome)", №1 (2), 2008 </span>
+<ol type="1">
+</ol>
+</li>
+<li level="1">
+<span>"Oral focal mucinosis: A Rare Case report of two cases" Sharma Ena,Nadellamanjari, Chatterjeeanirban and Alampalli Ramesh, "Ethiopian Journal of Health Sciences", №23(2), 2013</span>
+<ol type="1">
+</ol>
+</li>
+<li level="1">
+<span>"Oral focal mucinosis: report of 15 cases and review of the literature" Michael Aldred, Anna Talacko, Kevin Ruljancich etc, "Pathlogy" journal, №5, 2003</span>
+<ol type="1">
+</ol>
+</li>
+<li level="1">
+<span>"Oral focal mucinosis: report of two cases" Madhusudhan AS, Nagarajappa D, Manjunatha BS, Saawarn Swati, Charan Babu HS, "Revista Odonto Ciencia (Journal of Dental Science), №25, 2010</span>
+<ol type="1">
+</ol>
+</li>
+</ol> </div>
+</section>
+</div>
+</section>
+<section class="page-section" data-section-name="ATTENTION">
+<h2 class="page-section__title" id="attention">
+        Внимание!    </h2>
+<div class="container">
+<div class="row page-section__row">
+<!--noindex-->
+<label class="attention-self-treatment-list__caption">Если вы не являетесь медицинским специалистом:</label>
+<ul class="attention-self-treatment-list">
+<li>
+        Занимаясь самолечением, вы можете нанести непоправимый вред своему здоровью.
+         
+    </li>
+<li>
+        Информация, размещенная на сайте MedElement, не может и не должна заменять очную консультацию врача.
+        Обязательно
+        обращайтесь в медицинские учреждения при наличии каких-либо заболеваний или беспокоящих вас симптомов.
+         
+    </li>
+<li>
+        Выбор лекарственных средств и их дозировки, должен быть оговорен со специалистом. Только врач может
+        назначить
+        нужное лекарство и его дозировку с учетом заболевания и состояния организма больного.
+         
+    </li>
+<li>
+        Сайт MedElement является исключительно информационно-справочным ресурсом. Информация, размещенная на данном
+        сайте, не должна использоваться для самовольного изменения предписаний врача.
+         
+    </li>
+<li>
+        Редакция MedElement не несет ответственности за какой-либо ущерб здоровью или материальный ущерб, возникший
+        в
+        результате использования данного сайта.
+    </li>
+</ul>
+<!--/noindex-->
+</div>
+</div>
+</section>
+</main>

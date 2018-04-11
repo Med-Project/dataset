@@ -1,0 +1,332 @@
+<main id="main">
+<section class="page-information disease-information">
+<div class="container">
+<h1 class="page-information__name disease-information__name">
+            Подострый тиреоидит (E06.1)        </h1>
+<div class="disease-information__alternate-name">
+<label>Также: </label>
+                тиреоидит де Кервена, гранулематозный тиреоидит, вирусный тиреоидит , гигантоклеточный тиреоидит            </div>
+<div class="disease-information__version-name">
+<p class="lead text-muted">
+                
+                Версия: Справочник заболеваний MedElement                </p>
+</div>
+<div class="disease-information__categories-mkb">
+<label>Категории МКБ: </label>
+                Подострый тиреоидит (E06.1)            </div>
+<div class="disease-information__sections-medicine">
+<label>Разделы медицины: </label>
+                Эндокринология            </div>
+</div>
+</section>
+<section class="page-section" data-index="0">
+<h2 class="page-section__title" id="general_information">
+        Общая информация    </h2>
+<div class="container">
+<div class="page-links-actions">
+<ul>
+<li class="page-links-actions__item page-links-actions__item--print" data-ga-event-action="Клик по ссылке: Версия для печати" data-ga-event-category="Links actions" data-ga-event-label="" data-send-ga-event="">
+<a href="javascript:window.print()">Версия для печати
+                    <svg class="svg-icon svg-icon-printer" height="18" version="1.1" viewbox="0 0 24 24" width="18" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<path d="M18,3H6V7H18M19,12A1,1 0 0,1 18,11A1,1 0 0,1 19,10A1,1 0 0,1 20,11A1,1 0 0,1 19,12M16,19H8V14H16M19,8H5A3,3 0 0,0 2,11V17H6V21H18V17H22V11A3,3 0 0,0 19,8Z"></path>
+</svg>
+</a>
+</li>
+</ul>
+</div>
+<section class="row page-field" data-field-name="SHORTDESCRIPTION">
+<h3 class="page-field__title text-left" id="shortdescription">
+                    Краткое описание                </h3>
+<div class="page-field__data">
+<br/>
+<strong>Подострый тиреоидит - </strong>воспалительное заболевание щитовидной железы (ЩЖ) вирусной этиологии, описанное де Кервеном в 1904 г.                </div>
+</section>
+</div>
+</section>
+<section class="page-section" data-section-name="CLASSIFICATION">
+<h2 class="page-section__title" id="classification">
+        Классификация    </h2>
+<div class="container">
+<div class="row page-section__row">
+<br/>
+- <strong>I стадия</strong> -  тиреотоксическая (4-10 недель);<br/>
+-<strong> II стадия </strong>- эутиреоидная (1-3 недели);<br/>
+-<strong> III стадия</strong> - гипотиреоидная (от 2 до 6 месяцев);<br/>
+- <strong>IV стадия</strong> - выздоровление.
+                    </div>
+</div>
+</section>
+<section class="page-section" data-section-name="ETIOLOGY">
+<h2 class="page-section__title" id="etiology">
+        Этиология и патогенез    </h2>
+<div class="container">
+<div class="row page-section__row">
+<div style="text-align: justify;">
+<br/>
+	В качестве причин возникновения подострого тиреоидита предполагают вирусную инфекцию (вирус Коксаки, аденовирусы, вирус эпидемического паротита, вирусы гриппа, вирус Эпштейна-Барр, а также ЕСНО-вирус.<br/>
+	В пользу вирусной этиологии свидетельствуют: длительный <aterm term="1">продромальный период<span class="term-description" style="display: none;"><span>Продромальный период - период заболевания, который протекает между инкубационным периодом и собственно болезнью</span><br/></span></aterm> (развивается через 3-6 недель после перенесенных вирусных инфекций), эпидемический характер заболеваемости, сезонное (зимой и осенью) увеличение случаев заболеваемости.<br/>
+	Отмечено, что подострый тиреоидит развивается чаще у носителей антигена HLA-BW35, который встречается у людей, восприимчивых к вирусным заболеваниям. <br/>
+	Внедрение вируса в <aterm term="1">тироцит<span class="term-description" style="display: none;"><span>Тироцит -  эпителиальная клетка; из тироцитов построены стенки фолликулов щитовидной железы</span><br/></span></aterm> ведет к разрушению клетки, в результате чего все содержимое поврежденного фолликула железы попадает в кровеносное русло (большое количество тиреоидных гормонов Т<sub>3</sub>, Т<sub>4</sub>), что объясняет развитие <aterm term="1">тиреотоксикоза<span class="term-description" style="display: none;"><span>Тиреотоксикоз - патологическое состояние, обусловленное поступлением в организм чрезмерного количества гормонов щитовидной железы и характеризующееся повышением основного обмена, нарушениями функций нервной и сердечно-сосудистой систем.</span><br/></span></aterm>. Тканевая реакция на внедрение вируса гистологически проявляется фокальной гранулематозной <aterm term="1">инфильтрацией<span class="term-description" style="display: none;"><span>Инфильтрация -  проникновение в ткани и накопление в них несвойственных им клеточных элементов, жидкостей и (или) химических веществ.</span><br/></span></aterm> гистиоцитами и гигантскими клетками. </div>
+</div>
+</div>
+</section>
+<section class="page-section" data-section-name="EPIDEMIOLOGY">
+<h2 class="page-section__title" id="epidemiology">
+        Эпидемиология    </h2>
+<div class="container">
+<div class="row page-section__row">
+<div style="text-align: justify;">
+<br/>
+	Чаще страдают люди в возрасте 30-60 лет, женщины болеют в 5 раз чаще мужчин. Заболеваемость выше у лиц с геном HLA-DW35.<br/>
+	Среди заболеваний ЩЖ на долю подострого тиреоидита приходится от 1 до 5 % всех случаев заболеваемости.</div>
+</div>
+</div>
+</section>
+<section class="page-section" data-section-name="FACTORSANDRISKGROUPS">
+<h2 class="page-section__title" id="factorsandriskgroups">
+        Факторы и группы риска    </h2>
+<div class="container">
+<div class="row page-section__row">
+<br/>
+- женщины в возрасте 30-50 лет, переболевшие вирусной инфекцией;<br/>
+- носители гена HLA-BW 35 (восприимчивые к вирусным заболеваниям).<br/>
+<br/>
+</div>
+</div>
+</section>
+<section class="page-section" data-index="5">
+<h2 class="page-section__title" id="clinical">
+        Клиническая картина    </h2>
+<div class="container">
+<section class="row page-field" data-field-name="ANTIPRAXIA">
+<h3 class="page-field__title text-left" id="antipraxia">
+                    Cимптомы, течение                </h3>
+<div class="page-field__data">
+<div style="text-align: justify;">
+<br/>
+	Развитию  подострого тиреоидита предшествует появление <strong>продромальных симптомов:</strong><br/>
+	- общее недомогание;<br/>
+	- слабость;<br/>
+	- боль в мышцах;<br/>
+	- быстрая утомляемость;<br/>
+	- <aterm term="1">субфибрилитет<span class="term-description" style="display: none;"><span>Субфибрилитет (субфебрильная температура) - температура тела в пределах 37-38 градусов</span><br/></span></aterm>.<br/>
+	Данные симптомы возникают   после выздоровления (через 5-6 недель) от предшествующей вирусной инфекции  (гриппа, ОРВИ, эпидемического паротита, кори).<br/>
+	Заболевание начинается остро с лихорадки, озноба (температура тела - 38-39 градусов); характерна внезапная боль на одной стороне передней поверхности шеи, иррадиирующая в ухо или нижнюю челюсть с той же стороны и усиливающаяся при глотании или поворотах головы.<br/>
+	По мере прогрессирования заболевания боль нередко распространяется  и на другую сторону шеи. Зачастую болезненность настолько сильна, что пальпация ЩЖ невозможна. Причиной болевого синдрома является отечность ЩЖ и растяжение ее капсулы.<br/>
+<br/>
+	При развитии заболевания характерна смена <strong>фаз функционального состояния ЩЖ.</strong><br/>
+<br/>
+	1. <strong>Тиреотоксическая стадия </strong>продолжается до 1-1.5 мес (как правило, легкой или средней степени тяжести), обусловдена выбросом в кровь большого количества гормонов ЩЖ (Т<sub>3​ </sub>и Т<sub>4</sub>) из  разрушенных фолликулов, вызывая развитие тиреотоксикоза. Клинически характеризуется появлением тахикардии, увеличением пульсового давления, повышением температуры тела,  похуданием, раздражительностью, плаксивостью.<br/>
+	ЩЖ увеличена, резко болезненна при пальпации, в отдельных участках уплотнена, не спаяна с окружающими тканями, подвижна, кожа над железой гиперемирована.  Подчелюстные и шейные лимфатические узлы не увеличены. <br/>
+<br/>
+	2. <strong>Эутиреоидная стадия  </strong>характеризуется  снижением  уровня тиреоидных гормонов до нормы, вследствие нарушения их  синтеза и истощения  запасов Т<sub>3 </sub>и Т<sub>4 </sub>в ЩЖ.</div>
+<div style="text-align: justify;">
+<br/>
+	3. <strong>Гипотиреоидная стадия</strong> может наступить из-за снижения числа функционально активных тиреоцитов и продолжаться до 2-3 месяцев. В этой стадии усиливается процесс регенерации фолликулярной ткани. Сниженный в начале этой стадии захват йода ЩЖ к ее исходу восстанавливается.</div>
+</div>
+</section>
+</div>
+</section>
+<section class="page-section" data-section-name="DIAGNOSTICS">
+<h2 class="page-section__title" id="diagnostics">
+        Диагностика    </h2>
+<div class="container">
+<div class="row page-section__row">
+<div style="text-align: justify;">
+<br/>
+<span style="text-align: justify;">Диагноз подострого тиреоидита устанавливается на основании следующих данных:</span><br style="text-align: justify;"/>
+<br style="text-align: justify;"/>
+<span style="text-align: justify;">1. </span><strong style="text-align: justify;">Анамнез</strong><span style="text-align: justify;">: повышение температуры тела до 38-39 градусов С через 5-6 недель после перенесенной вирусной инфекции, отчетливая сезонность в течение заболевания (осень-зима).</span><br style="text-align: justify;"/>
+<br style="text-align: justify;"/>
+<span style="text-align: justify;">2. </span><strong style="text-align: justify;">Физикальное обследование: </strong><br style="text-align: justify;"/>
+<span style="text-align: justify;">2.1 Явления тиреотоксикоза легкой или средней степени тяжести (практически никогда тяжелой).</span><br style="text-align: justify;"/>
+<span style="text-align: justify;">2.2. Пальпаторно - ЩЖ увеличена в размере, плотная, резко болезненная, </span><aterm style="text-align: justify;" term="1">гиперемия</aterm><span style="text-align: justify;"> кожи над железой, регионарные лимфоузлы  не увеличены. В зависимости от степени вовлечения железы в воспалительный процесс  болезненность может быть локальной или диффузной.</span><br style="text-align: justify;"/>
+<br/>
+	3. <strong>Инструментальные исследования</strong>:<br/>
+	3.1 На УЗИ: увеличение ЩЖ , "облаковидные" (нечетко ограниченные) зоны пониженной эхогенности в одной или обеих областях. Иногда встречается миграция этих зон.<br/>
+	3.2 Данные <aterm term="1">сцинтиграфии<span class="term-description" style="display: none;"><span>Сцинтиграфия - радиоизотопный метод визуализации распределения радиофармацевтического препарата в организме, органе или ткани.</span><br/></span></aterm> указывают на снижение или отсутствие захвата радиофармпрепарата (РФП), зона воспаления выглядит "холодной"  - данный метод не является обязательным методом исследования и используется обычно только в диагностически сложных случаях.</div>
+</div>
+</div>
+</section>
+<section class="page-section" data-section-name="LABORATORYDIAGNOSTICS">
+<h2 class="page-section__title" id="laboratorydiagnostics">
+        Лабораторная диагностика    </h2>
+<div class="container">
+<div class="row page-section__row">
+<div style="text-align: justify;">
+<br/>
+<span style="font-family: Arial, Helvetica, sans-serif; line-height: 16.363636016845703px; ">- ОАК: резкое ускорение СОЭ до 50 мм/ч, лимфоцитоз,  содержание лейкоцитов и лейкоцитарная формула  нормальные, нормохромная и нормоцитарная анемия;<br/>
+	-  гипергаммаглобулинемия, гиперальфа-2-глобулинемия;<br/>
+	-  повышение фибриногена;<br/>
+	-  незначительное повышение щелочной фосфатазы и других печеночных ферментов;<br/>
+	- снижение уровня ТТГ и повышение связанных Т</span><sub style="margin: 0px; padding: 0px; font-family: Arial, Helvetica, sans-serif; ">4 </sub><span style="font-family: Arial, Helvetica, sans-serif; line-height: 16.363636016845703px; ">и Т</span><sub style="margin: 0px; padding: 0px; font-family: Arial, Helvetica, sans-serif; ">3 </sub><span style="font-family: Arial, Helvetica, sans-serif; line-height: 16.363636016845703px; ">(в тиреотоксическую стадию); при транзиторном гипотиреозе - снижение  тиреоидных гормонов;  повышение титра аутоантител к тиреоглобулину (ат-ТГ) и тиреопероксидазе (ат-ТПО) в сыворотке, обнаруживаемые  в течение нескольких недель после  появления симптоматики (через несколько месяцев антитела исчезают).</span></div>
+</div>
+</div>
+</section>
+<section class="page-section" data-section-name="DIFFERENTIALDIAGNOSIS">
+<h2 class="page-section__title" id="differentialdiagnosis">
+        Дифференциальный диагноз    </h2>
+<div class="container">
+<div class="row page-section__row">
+<br/>
+- острый гнойный тиреоидит;<br/>
+- кровоизлияние в кисту ЩЖ;<br/>
+- диффузный токсический зоб (ДТЗ) легкой и средней степени тяжести;<br/>
+- аутоиммунный тиреоидит, гипертиреоидная фаза;<br/>
+- недифференцированный рак ЩЖ;<br/>
+- флегмона шеи;<br/>
+- средний отит;<br/>
+- острый фарингит;<br/>
+- синдром височно-нижнечелюстного сустава;  <br/>
+- эзофагит;<br/>
+- десневой  или парадонтальный абсцесс.<br/>
+<br/>
+Большую помощь в дифференциальной диагностике оказывает проба с преднизолоном (тест Крайля) - через 12-48 часов после назначения 30 мг преднизолона болевой синдром купируется и самочувствие значительно улучшается.<br/>
+</div>
+</div>
+</section>
+<section class="page-section" data-section-name="SEQUELAE">
+<h2 class="page-section__title" id="sequelae">
+        Осложнения    </h2>
+<div class="container">
+<div class="row page-section__row">
+<div style="text-align: justify;">
+<br/>
+	Обычно подострый тиреоидит заканчивается  полным выздоровлением через 1,5-2 месяца. Однако у ряда больных проявляется склонность к рецидивированию. <br/>
+	При многолетнем рецидивирующем течении возможен  переход в  <aterm term="1">гипотиреоз<span class="term-description" style="display: none;"><span>Гипотиреоз -  синдром недостаточности щитовидной железы, характеризующийся нервно-психическими расстройствами, отеками лица, конечностей и туловища, брадикардией</span><br/></span></aterm>.</div>
+</div>
+</div>
+</section>
+<section class="page-section" data-section-name="THERAPY">
+<h2 class="page-section__title" id="therapy">
+        Лечение    </h2>
+<div class="container">
+<div class="row page-section__row">
+<div>
+<br/><strong>Цели лечения:</strong><br/>
+	- купировать болевой синдром;<br/>
+	- купировать воспалительную реакцию (нормализация температуры тела и показателей ОАК);<br/>
+	- восстановить функциональное состояние ЩЖ.<br/><br/>
+	1.<strong> <aterm term="1">НПВС</aterm></strong> в максимально терапевтических дозах при легких формах. Нежелательно применение ацетилсалициловой кислоты (аспирина), т.к. она, по некоторым   данным, способна вытеснять Т<sub>4</sub> из связи с белками крови. При исчезновении болевого синдрома, снижении температуры тела, нормализации СОЭ - дозу постепенно снижают вплоть до отмены.<br/><br/>
+	2. <strong>Глюкокортикоиды</strong> (ГКС) рекомендовано применять в большинстве случаев: преднизолон 30-40 мг внутрь после еды 1 раз/сут., до ликвидации клинических проявлений (1-3 нед.), с последующим уменьшением дозы на 5 мг в неделю. Общая продолжительность лечения составляет 2-3 мес. При быстром снижении ГКС болевой синдром усиливается.<br/><br/>
+	3. Для устранения симптомов тиреотоксикоза назначают бета-адреноблокаторы: пропроналол 20-40мг 3-4 р./сут., до ликвидации клинических проявлений.<br/>
+	В случае развития первичного  гипотиреоза при многократных тяжелых рецидивах назначается заместительная гормонотерапия левотироксином натрия (дозы подбираются индивидуально).<br/>
+	Антитиреоидные препараты не показаны.<br/><br/>
+	В случае отсутствия лечения следует отметить, что подострый тиреоидит длится до 4-6 месяцев.</div>
+</div>
+</div>
+</section>
+<section class="page-section" data-section-name="PROGNOSIS">
+<h2 class="page-section__title" id="prognosis">
+        Прогноз    </h2>
+<div class="container">
+<div class="row page-section__row">
+<div style="text-align: justify;">
+<br/>
+	Обычно подострый тиреоидит заканчивается полным выздоровлением через 1,5-2 месяца. У ряда больных отмечается склонность к рецидивированию. При развитии стойкого гипотиреоза показана пожизненная заместительная терапия тиреоидными гормонами.</div>
+</div>
+</div>
+</section>
+<section class="page-section" data-section-name="HOSPITALIZATION">
+<h2 class="page-section__title" id="hospitalization">
+        Госпитализация    </h2>
+<div class="container">
+<div class="row page-section__row">
+<br/>
+Срок стационарного обследования и лечения - 21 день.
+                    </div>
+</div>
+</section>
+<section class="page-section" data-section-name="PROPHYLAXIS">
+<h2 class="page-section__title" id="prophylaxis">
+        Профилактика    </h2>
+<div class="container">
+<div class="row page-section__row">
+<br/>
+Первичная профилактика отсутствует.
+                    </div>
+</div>
+</section>
+<section class="page-section" data-index="14">
+<h2 class="page-section__title" id="information">
+        Информация    </h2>
+<div class="container">
+<section class="row page-field" data-field-name="LISTOFREFERENCES">
+<h3 class="page-field__title text-left" id="listofreferences">
+                    Источники и литература                </h3>
+<div class="page-field__data">
+<ol id="AdditionalListSources" type="I">
+<li level="1">
+<span>Braverman L. Diseases of the thyroid. - Humana Press, 2003</span>
+<ol type="1">
+</ol>
+</li>
+<li level="1">
+<span>Балаболкин М.И., Клебанова Е.М., Креминская В.М. Дифференциальная диагностика и лечение эндокринных заболеваний. Руководство, М., 2002</span>
+<ol type="1">
+</ol>
+</li>
+<li level="1">
+<span>Дедов И.И., Мельниченко Г.А., Андреева В.Н. Рациональная фармакотерапия заболеваний эндокринной системы и нарушений обмена веществ. Руководство для практикующих врачей, М., 2006</span>
+<ol type="1">
+</ol>
+</li>
+<li level="1">
+<span>Дедов И.И., Мельниченко Г.А., Пронин В.С. Клиника и диагностика эндокринных нарушений. Учебно-методическое пособие, М., 2005</span>
+<ol type="1">
+</ol>
+</li>
+<li level="1">
+<span>Ефимов А.С, Боднар П.Н., Зелинский Б.А. Эндокринология, К,1983</span>
+<ol type="1">
+</ol>
+</li>
+<li level="1">
+<span>Старкова Н.Т. Руководство по клинической эндокринологии, СПб, 1996 </span>
+<ol type="1">
+</ol>
+</li>
+</ol> </div>
+</section>
+</div>
+</section>
+<section class="page-section" data-section-name="ATTENTION">
+<h2 class="page-section__title" id="attention">
+        Внимание!    </h2>
+<div class="container">
+<div class="row page-section__row">
+<!--noindex-->
+<label class="attention-self-treatment-list__caption">Если вы не являетесь медицинским специалистом:</label>
+<ul class="attention-self-treatment-list">
+<li>
+        Занимаясь самолечением, вы можете нанести непоправимый вред своему здоровью.
+         
+    </li>
+<li>
+        Информация, размещенная на сайте MedElement, не может и не должна заменять очную консультацию врача.
+        Обязательно
+        обращайтесь в медицинские учреждения при наличии каких-либо заболеваний или беспокоящих вас симптомов.
+         
+    </li>
+<li>
+        Выбор лекарственных средств и их дозировки, должен быть оговорен со специалистом. Только врач может
+        назначить
+        нужное лекарство и его дозировку с учетом заболевания и состояния организма больного.
+         
+    </li>
+<li>
+        Сайт MedElement является исключительно информационно-справочным ресурсом. Информация, размещенная на данном
+        сайте, не должна использоваться для самовольного изменения предписаний врача.
+         
+    </li>
+<li>
+        Редакция MedElement не несет ответственности за какой-либо ущерб здоровью или материальный ущерб, возникший
+        в
+        результате использования данного сайта.
+    </li>
+</ul>
+<!--/noindex-->
+</div>
+</div>
+</section>
+</main>

@@ -1,0 +1,386 @@
+<main id="main">
+<section class="page-information disease-information">
+<div class="container">
+<h1 class="page-information__name disease-information__name">
+            Атрофия сосочков языка (K14.4)        </h1>
+<div class="disease-information__alternate-name">
+<label>Также: </label>
+                гунтеровский (хантеровский) глоссит, "лакированный" язык, hunter glossitis, moeller glossitis, mоеller-Hunter glossitis, atrophic glossitis, atrophy of tongue papillae            </div>
+<div class="disease-information__version-name">
+<p class="lead text-muted">
+                
+                Версия: Справочник заболеваний MedElement                </p>
+</div>
+<div class="disease-information__categories-mkb">
+<label>Категории МКБ: </label>
+                Атрофия сосочков языка (K14.4)            </div>
+<div class="disease-information__sections-medicine">
+<label>Разделы медицины: </label>
+                Гастроэнтерология, Стоматология            </div>
+</div>
+</section>
+<section class="page-section" data-index="0">
+<h2 class="page-section__title" id="general_information">
+        Общая информация    </h2>
+<div class="container">
+<div class="page-links-actions">
+<ul>
+<li class="page-links-actions__item page-links-actions__item--print" data-ga-event-action="Клик по ссылке: Версия для печати" data-ga-event-category="Links actions" data-ga-event-label="" data-send-ga-event="">
+<a href="javascript:window.print()">Версия для печати
+                    <svg class="svg-icon svg-icon-printer" height="18" version="1.1" viewbox="0 0 24 24" width="18" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<path d="M18,3H6V7H18M19,12A1,1 0 0,1 18,11A1,1 0 0,1 19,10A1,1 0 0,1 20,11A1,1 0 0,1 19,12M16,19H8V14H16M19,8H5A3,3 0 0,0 2,11V17H6V21H18V17H22V11A3,3 0 0,0 19,8Z"></path>
+</svg>
+</a>
+</li>
+</ul>
+</div>
+<section class="row page-field" data-field-name="SHORTDESCRIPTION">
+<h3 class="page-field__title text-left" id="shortdescription">
+                    Краткое описание                </h3>
+<div class="page-field__data">
+<div style="text-align: justify;">
+<br/>
+<strong>Глоссит</strong> -  воспалительное поражение тканей языка. Различают неинфекционные и инфекционные формы глоссита.<br/>
+<br/>
+<strong>Атрофический глоссит</strong> - глоссит, характеризующийся уменьшением или полным исчезновением всех видов сосочков слизистой оболочки языка, иногда - уменьшением размера языка.<br/>
+<br/>
+<br/>
+<strong>Примечание 1.</strong><br/>
+<br/>
+	В данную подрубрику<strong> входят </strong>клинические понятия:<br/>
+	- гунтеровский (хантеровский) глоссит;<br/>
+	- "лакированный" язык.<br/>
+<br/>
+	Из данной подрубрики<strong> исключено:</strong>  атрофия языка (старческий язык, сенильные изменения языка (К14.8).</div>
+<div style="text-align: justify;">
+<br/>
+<strong>Примечание 2.</strong> <a>Атрофия сосочков языка является осложнением или сопутствующей патологией. Код </a><a>K14.4 </a><a>не должен использоваться в качестве кода основного заболевания, кроме тех случаев, когда этиология процесса достоверно не установлена.</a></div>
+<div style="margin: 0px; padding: 0px; color: rgb(35, 31, 32); font-family: Arial, Helvetica, sans-serif; line-height: 14.399999618530273px; text-align: justify;">
+	 </div>
+<div style="margin: 0px; padding: 0px; color: rgb(35, 31, 32); font-family: Arial, Helvetica, sans-serif; line-height: 14.399999618530273px; text-align: justify;">
+	 </div>
+</div>
+</section>
+</div>
+</section>
+<section class="page-section" data-section-name="CLASSIFICATION">
+<h2 class="page-section__title" id="classification">
+        Классификация    </h2>
+<div class="container">
+<div class="row page-section__row">
+<div style="text-align: justify;">
+<br/>
+	Общепризнанная классификация атрофического глоссита отсутствует.<br/>
+<br/>
+	Выделяют <strong>очаговую и тотальную атрофию</strong>, которые более детально, по характеру атрофического поражения языка, можно разделить на<strong> 4 вида атрофического процесса:</strong><br/>
+	- атрофический процесс распространяется на нитевидные сосочки кончика языка, видны грибовидные сосочки в виде красных точек;<br/>
+	- атрофия не только нитевидных, но и грибовидных сосочков кончика языка;<br/>
+	- выраженная атрофия всех сосочков только на передней половине языка;<br/>
+	- тотальная атрофия сосочков (гладкий, "полированный", "лакированный" язык), выявляется только в тяжелых случаях при длительном течении основного заболевания.</div>
+</div>
+</div>
+</section>
+<section class="page-section" data-section-name="ETIOLOGY">
+<h2 class="page-section__title" id="etiology">
+        Этиология и патогенез    </h2>
+<div class="container">
+<div class="row page-section__row">
+<div style="text-align: justify;">
+<br/>
+	Атрофия сосочков языка является проявлением многих заболеваний. Наиболее часто патология ассоциируется с недостатком витаминов и железа, а также сопутствующей анемией.  <br/>
+<br/>
+<strong>Этиология</strong><br/>
+<br/>
+	1. Инфекционные поражения (острые и хронические, местные и системные):<br/>
+	1.1 Бактериальные инфекции (например, Streptococcus sanguis, Stomatococcus, Staphylococcus aureus).<br/>
+	1.2. Грибковые инфекции (кандидоз, Saccharomyces).<br/>
+	1.3 Вирусные инфекции (герпес, ВИЧ).<br/>
+	1.4 Системные инфекции (сифилис).<br/>
+	1.5 Нередко атрофический глоссит является симптомом поражения языка при гонорее.<br/>
+<br/>
+	2. Травмы (включая химические и лекарственные поражения, например, при применении пириметамина).<br/>
+<br/>
+	3. Дефицитные состояния: <br/>
+	- дефицит витамина B12 (пернициозная анемия);<br/>
+	- дефицит железа (железодефицитная анемия);</div>
+<div style="text-align: justify;">
+	- дефицит фолиевой кислоты (пернициозная анемия);</div>
+<div style="text-align: justify;">
+	- дефицит рибофлавина;</div>
+<div style="text-align: justify;">
+	- дефицит никотиновой кислоты;</div>
+<div style="text-align: justify;">
+	- тяжелая белково-энергетическая недостаточность.<br/>
+<br/>
+	Дефицитные состояния могут быть в свою очередь следствием различных поражений желудочно-кишечного тракта:<br/>
+	-  <aterm term="1">целиакия<span class="term-description" style="display: none;"><span>Целиакия -  хроническое заболевание, обусловленное недостаточностью ферментов, участвующих в переваривании глютена.</span><br/><a class="tooltip-term__more" href="https://diseases.medelement.com/index.php/disease/view/NDg4NA%253D%253D/fDB8" target="_blank" title="Подробнее о целиакия">Подробно</a></span></aterm>;<br/>
+	- атрофический гастрит;<br/>
+	- цирроз печени;<br/>
+	- алкогольная болезнь печени;<br/>
+	- синдром <aterm term="1">мальабсорбции<span class="term-description" style="display: none;"><span>Синдром мальабсорбции (мальабсорбция) - сочетание гиповитаминоза, анемии и гипопротеинемии, обусловленное нарушением всасывания в тонкой кишке</span><br/></span></aterm>;<br/>
+	- глютеновая болезнь.<br/>
+<br/>
+	4. Системные заболевания:<br/>
+	4.1 Как одно из проявлений синдрома Дауна.<br/>
+	4.2 При синдроме глюкагонпродуцирующей опухоли (<aterm term="1">глюкагонома<span class="term-description" style="display: none;"><span>Глюкагонома — опухоль (обычно злокачественная) из альфа-клеток островков Лангерганса, секретирующая глюкагон. Развивается сложный симптомокомплекс, наиболее часто включающий в себя дерматит, диабет, анемию и похудание. Реже отмечаются диарея, поражение слизистых оболочек, тромбозы и эмболии</span><br/></span></aterm>).<br/>
+	4.3 Патология сердечно сосудистой системы.<br/>
+	4.4 Аллергии (редко).<br/>
+	4.5 <aterm term="1">Гипосаливация<span class="term-description" style="display: none;"><span>Гипосаливация - пониженная секреция слюны</span><br/></span></aterm>, включая, но не ограничиваясь, следующими состояниями:<br/>
+	4.5.1 <aterm term="1">Синдром Шегрена<span class="term-description" style="display: none;"><span>Синдром Шегрена - аутоиммунное системное поражение соединительной ткани, проявляющееся вовлечением в патологический процесс желез внешней секреции, главным образом слюнных и слёзных, и хроническим прогрессирующим течением</span><br/></span></aterm>.<br/>
+	4.5.2 Гипосаливация<span class="term-description" style="display: none;"><span>Гипосаливация - пониженная секреция слюны</span><br/></span> зачастую бывает ассоциирована с сахарным диабетом и развивается вследствие атрофических изменений в слюнных железах. Частота гипосаливации при сахарном диабете составляет 61%, а псевдопаротит при сахарном диабете встречается в 81% случаев.  <br/>
+	Язык, как правило, покрыт белым налетом, шершавый, как бы потрескавшийся, с очагами <aterm term="1">десквамации<span class="term-description" style="display: none;"><span>Десквамация - чешуйчатое шелушение (отслаивание) эпителия или других тканей с поверхности органа, происходящее либо в норме, либо вследствие различных патологических процессов</span><br/></span></aterm> в виде географической карты, иногда с участками <aterm term="1">гиперкератоза<span class="term-description" style="display: none;"><span>Гиперкератоз - чрезмерное утолщение рогового слоя эпидермиса</span><br/></span></aterm>.<br/>
+	Наблюдается гипертрофия грибовидных сосочков и атрофия нитевидных, в результате чего поверхность языка становится "лакированной". Часто отмечается увеличение языка за счет отека и красно-фиолетовая окраска (свекольный язык).<br/>
+	4.6 Амилоидоз.<br/>
+	4.7 Саркоидоз.<br/>
+<br/>
+	5. Везикуло-эрозивные заболевания (например, <aterm term="1">пемфигоид<span class="term-description" style="display: none;"><span>Пемфигоид - хроническое заболевание, характеризующееся появлением на коже зудящих волдырей; наблюдается преимущественно у людей пожилого возраста. Чаше всего эти волдыри появляются на конечностях и сохраняются в течение нескольких дней, в отличие от волдырей, образующихся у человека при пузырчатке. Пемфигоид является аутоиммунным заболеванием и поддается лечению с помощью кортикостероидов или иммунодепрессантов</span><br/></span></aterm>, обыкновенная пузырчатка, мультиформная эритема, <aterm term="1">синдром Стивенса-Джонсона<span class="term-description" style="display: none;"><span>Синдром Стивенса-Джонсона (злокачественная экссудативная эритема) — очень тяжелая форма многоформной эритемы, при которой возникают пузыри на слизистой оболочке полости рта, горла, глаз, половых органов, других участках кожи и слизистых оболочек. Повреждение слизистой оболочки рта мешает есть, закрывание рта вызывает сильную боль, что ведет к слюнотечению. Глаза становятся очень болезненными, опухают и заполняются гноем так, что иногда слипаются веки. Роговицы подвергаются фиброзу. Мочеиспускание становится затрудненным и болезненным</span><br/></span></aterm>)<br/>
+<br/>
+<strong>Гистология</strong>. При гистологическом исследовании обнаруживается расширение кровеносных и лимфатических сосудов, отек, <aterm term="1">спонгиоз<span class="term-description" style="display: none;"><span>Спонгиоз - экссудативное воспаление эпидермиса, при котором серозная жидкость скапливается в межклеточных пространствах шиповатого слоя, вследствие чего увеличиваются межклеточные лакуны</span><br/></span></aterm> и иногда воспалительный инфильтрат в сосочковом слое.<br/>
+	 </div>
+</div>
+</div>
+</section>
+<section class="page-section" data-section-name="EPIDEMIOLOGY">
+<h2 class="page-section__title" id="epidemiology">
+        Эпидемиология    </h2>
+<div class="container">
+<div class="row page-section__row">
+<p>Признак распространенности: Распространено</p>
+<p>Соотношение полов(м/ж): 0.7</p>
+<br/>
+<div style="text-align: justify;">
+	Патология развивается в любом возрасте, но наиболее часто выявляется в группе взрослых женщин, что по-видимому связано с дефицитными анемиями, развивающимися  во время или после беременности.<br/>
+	В различных регионах заболеваемость колеблется в широких пределах от 0,3% до 9%. В развитых странах заболеваемость существенно ниже.</div>
+<br/>
+</div>
+</div>
+</section>
+<section class="page-section" data-section-name="FACTORSANDRISKGROUPS">
+<h2 class="page-section__title" id="factorsandriskgroups">
+        Факторы и группы риска    </h2>
+<div class="container">
+<div class="row page-section__row">
+<br/>
+Достоверно не определены. 
+                    </div>
+</div>
+</section>
+<section class="page-section" data-index="5">
+<h2 class="page-section__title" id="clinical">
+        Клиническая картина    </h2>
+<div class="container">
+<section class="row page-field" data-field-name="THESIS">
+<h3 class="page-field__title text-left" id="thesis">
+                    Клинические критерии диагностики                </h3>
+<div class="page-field__data">
+                    
+                    участки гладкой, красной поверхности языка; бледность кожи и слизистых; дискомфорт в области языка; боль при приеме пищи; ксеростомия                </div>
+</section>
+<section class="row page-field" data-field-name="ANTIPRAXIA">
+<h3 class="page-field__title text-left" id="antipraxia">
+                    Cимптомы, течение                </h3>
+<div class="page-field__data">
+<div style="text-align: justify;">
+<br/>
+	Клиническая картина атрофического глоссита развивается постепенно. Первые изменения отмечаются по краями и на кончике языка; на фоне атрофичной слизистой оболочки появляются красные полосы.<br/>
+<br/>
+<strong>Классическая картина атрофического глоссита:</strong> язык выглядит гладким, "полированным"; цвет языка - ярко-красный, при пернициозной анемии - малиновый (гунтеровский глоссит). Поражения могут носить тотальный или очаговый характер (пятна, полосы). <br/>
+<br/>
+<strong>Жалобы:</strong><br/>
+	- чувствительность к раздражающей пище;<br/>
+	- сухость во рту;<br/>
+	- иногда - жжение или боль.  <br/>
+	Данные жалобы не являются специфичными; они могут быть связаны, например, с кандидозной инфекцией, которая может быть причиной атрофии сосочков или наслоившейся патологией. <br/>
+<br/>
+	Сопутствующие поражения полости рта могут включать в себя рецидивирующие изъязвления, <aterm term="1">хейлит<span class="term-description" style="display: none;"><span>Хейлит - воспаление красной каймы, слизистой оболочки и (или) кожи губ</span><br/></span></aterm>. <br/>
+<br/>
+	Следует обратить тщательное внимание на <strong>вероятные симптомы основной патологии:</strong><br/>
+	- бледность кожи и слизистых, наличие цианоза;<br/>
+	- <aterm term="1">диспепсия<span class="term-description" style="display: none;"><span>Диспепсия - нарушение процесса пищеварения, обычно проявляющееся болью или неприятными ощущениями в нижней части груди или живота, которые могут возникать после еды и иногда сопровождаться тошнотой или рвотой.</span><br/></span></aterm>;<br/>
+	- изменения <aterm term="1">проприоцептивной чувствительности<span class="term-description" style="display: none;"><span>Чувствительность проприоцептивная (син. батиэстезия, чувствительность глубокая) - чувствительность к раздражению мышц, сухожилий, связок и других элементов суставов</span><br/></span></aterm>;<br/>
+	- сухость во рту;<br/>
+	- сухость кожи;<br/>
+	- снижение <aterm term="1">ИМТ<span class="term-description" style="display: none;"><span>Индекс массы тела (ИМТ) - величина, позволяющая оценить степень соответствия массы человека и его роста и, тем самым, косвенно оценить, является ли масса недостаточной, нормальной или избыточной. Индекс массы тела рассчитывается по формуле: I= m/h²,
+где: m — масса тела в килограммах, h — рост в метрах, и измеряется в кг/м²</span><br/></span></aterm> и прочее. <br/>
+	 </div>
+<div style="text-align: justify;">
+<img alt="Атрофический глоссит
+Источник: qstoma.ru" height-fact="320" id="preview_image" src="https://diseases.medelement.com/upload/a2cdad08d131b4c4664a1b09394f2e3b.jpg" style="width: 300px; height: 226px; border-width: 0px; border-style: solid; margin-left: 0px; margin-top: 0px; float: none;" title="Атрофический глоссит
+Источник: qstoma.ru" width-fact="426"/></div>
+</div>
+</section>
+</div>
+</section>
+<section class="page-section" data-section-name="DIAGNOSTICS">
+<h2 class="page-section__title" id="diagnostics">
+        Диагностика    </h2>
+<div class="container">
+<div class="row page-section__row">
+<div style="text-align: justify;">
+<br/>
+	Нет никаких методов диагностики атрофического глоссита, за исключением биопсии, подтверждающих или опровергающих диагноз.<br/>
+<br/>
+	Диагностика должна быть направлена на выявление основного соматического заболевания. Необходимы консультации специалистов в области гастроэнтерологии, эндокринологии, гематологии или общей терапии.</div>
+</div>
+</div>
+</section>
+<section class="page-section" data-section-name="LABORATORYDIAGNOSTICS">
+<h2 class="page-section__title" id="laboratorydiagnostics">
+        Лабораторная диагностика    </h2>
+<div class="container">
+<div class="row page-section__row">
+<div style="text-align: justify;">
+<br/>
+	Нет никаких лабораторных тестов, подтверждающих или опровергающих диагноз атрофического глоссита.<br/>
+<br/>
+	Лабораторные тесты, которые могут быть выполнены в плане общего, предварительного обследования:<br/>
+	1. Общий анализ крови с исследованием эритроцитов по размеру.<br/>
+	2. Биохимический анализ крови (определяются: глюкоза, железо, ферритин, трансферрин, ОЖСС, витамин  В12, фолиевая кислота, витамин А, альбумин, трансаминазы).<br/>
+	3. Иммунология (антитела к париетальным клеткам желудка, антиглиадиновые антитела, антитела к тканевой трансглутаминазе).<br/>
+	4. Серология и ПЦР (тесты на сифилис, ВИЧ-инфекцию).<br/>
+	5. Бактериологические методы исследования (выявление локальных грибковых и бактериальных поражений).</div>
+</div>
+</div>
+</section>
+<section class="page-section" data-section-name="DIFFERENTIALDIAGNOSIS">
+<h2 class="page-section__title" id="differentialdiagnosis">
+        Дифференциальный диагноз    </h2>
+<div class="container">
+<div class="row page-section__row">
+<div>
+<br/>
+	Необходимо отличать атрофический глоссит от хронической формы атрофического кандидоза и изменений языка при болезни Шегрена (также зачастую вызванных атрофической формой грибкового поражения).<br/>
+	Очаговую атрофию также следует отличать от ромбовидного глоссита, который может протекать с атрофией сосочков.<br/>
+	 </div>
+</div>
+</div>
+</section>
+<section class="page-section" data-section-name="THERAPY">
+<h2 class="page-section__title" id="therapy">
+        Лечение    </h2>
+<div class="container">
+<div class="row page-section__row">
+<br/>
+Терапия атрофического глоссита направлена на лечение основного заболевания и соблюдение гигиены полости рта для предотвращения инфекции.
+                            
+
+
+
+
+
+                       </div>
+</div>
+</section>
+<section class="page-section" data-section-name="PROGNOSIS">
+<h2 class="page-section__title" id="prognosis">
+        Прогноз    </h2>
+<div class="container">
+<div class="row page-section__row">
+<br/>
+Прогноз атрофического глоссита связан с прогнозом основного заболевания.
+                    </div>
+</div>
+</section>
+<section class="page-section" data-section-name="HOSPITALIZATION">
+<h2 class="page-section__title" id="hospitalization">
+        Госпитализация    </h2>
+<div class="container">
+<div class="row page-section__row">
+<br/>
+Необходимость госпитализации связана с тяжестью и течением основного заболевания.
+                    </div>
+</div>
+</section>
+<section class="page-section" data-section-name="PROPHYLAXIS">
+<h2 class="page-section__title" id="prophylaxis">
+        Профилактика    </h2>
+<div class="container">
+<div class="row page-section__row">
+<br/>
+Профилактика основного заболевания.
+                    </div>
+</div>
+</section>
+<section class="page-section" data-index="13">
+<h2 class="page-section__title" id="information">
+        Информация    </h2>
+<div class="container">
+<section class="row page-field" data-field-name="LISTOFREFERENCES">
+<h3 class="page-field__title text-left" id="listofreferences">
+                    Источники и литература                </h3>
+<div class="page-field__data">
+<ol id="AdditionalListSources" type="I">
+<li level="1">
+<span>Терапевтическая стоматология: национальное руководство /под ред. Дмитриевой Л.А., Масимовского Ю.М., М. : ГЭОТАР-Медиа, 2009</span>
+<ol type="1">
+</ol>
+</li>
+<li level="1">
+<span>"Common Tongue Conditions in Primary Care" Brian V. Reamy, Richard Derby and Christopher W. Bunt, American Family Physician journal, №81(5), mar 2010 </span>
+<ol type="1">
+</ol>
+</li>
+<li level="1">
+<span>"Incidence of tongue diseases based on epidemiologic studies (review of the literature)" Dombi C., Czeglédy A., "Fogorvosi szemle" journal, №85(11), 1992 </span>
+<ol type="1">
+</ol>
+</li>
+<li level="1">
+<span>"Papillary atrophy of the tongue and nutritional status of hospitalized alcoholics" Cunha SF, Melo DA, Braga CB, Vannucchi H, Cunha DF, An. Bras. Dermatol. journal, №87 (1), 2012</span>
+<ol type="1">
+</ol>
+</li>
+<li level="1">
+<span>"Research on flora on tongue dorsum of patients with atrophic glossitis and correlated factors" Nie Y, Liu J, Peng L, Lin M, Xiao LHua Xi Kou Qiang Yi Xue Za Zhi., №30(5), 2012</span>
+<ol type="1">
+</ol>
+</li>
+<li level="1">
+<span>"Some local and systemic factors related to tongue inflammation" Järvinen J, Kullaa-Mikkonen A, Kotilainen R, Proc. Finn. Dent. Soc. journal, №85(3), 1989</span>
+<ol type="1">
+</ol>
+</li>
+</ol> </div>
+</section>
+</div>
+</section>
+<section class="page-section" data-section-name="ATTENTION">
+<h2 class="page-section__title" id="attention">
+        Внимание!    </h2>
+<div class="container">
+<div class="row page-section__row">
+<!--noindex-->
+<label class="attention-self-treatment-list__caption">Если вы не являетесь медицинским специалистом:</label>
+<ul class="attention-self-treatment-list">
+<li>
+        Занимаясь самолечением, вы можете нанести непоправимый вред своему здоровью.
+         
+    </li>
+<li>
+        Информация, размещенная на сайте MedElement, не может и не должна заменять очную консультацию врача.
+        Обязательно
+        обращайтесь в медицинские учреждения при наличии каких-либо заболеваний или беспокоящих вас симптомов.
+         
+    </li>
+<li>
+        Выбор лекарственных средств и их дозировки, должен быть оговорен со специалистом. Только врач может
+        назначить
+        нужное лекарство и его дозировку с учетом заболевания и состояния организма больного.
+         
+    </li>
+<li>
+        Сайт MedElement является исключительно информационно-справочным ресурсом. Информация, размещенная на данном
+        сайте, не должна использоваться для самовольного изменения предписаний врача.
+         
+    </li>
+<li>
+        Редакция MedElement не несет ответственности за какой-либо ущерб здоровью или материальный ущерб, возникший
+        в
+        результате использования данного сайта.
+    </li>
+</ul>
+<!--/noindex-->
+</div>
+</div>
+</section>
+</main>

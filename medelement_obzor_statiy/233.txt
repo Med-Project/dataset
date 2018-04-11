@@ -1,0 +1,726 @@
+<main id="main">
+<section class="page-information disease-information">
+<div class="container">
+<h1 class="page-information__name disease-information__name">
+            Портальная гипертензия (K76.6)        </h1>
+<div class="disease-information__version-name">
+<p class="lead text-muted">
+                
+                Версия: Справочник заболеваний MedElement                </p>
+</div>
+<div class="disease-information__categories-mkb">
+<label>Категории МКБ: </label>
+                Портальная гипертензия (K76.6)            </div>
+<div class="disease-information__sections-medicine">
+<label>Разделы медицины: </label>
+                Гастроэнтерология            </div>
+</div>
+</section>
+<section class="page-section" data-index="0">
+<h2 class="page-section__title" id="general_information">
+        Общая информация    </h2>
+<div class="container">
+<div class="page-links-actions">
+<ul>
+<li class="page-links-actions__item page-links-actions__item--print" data-ga-event-action="Клик по ссылке: Версия для печати" data-ga-event-category="Links actions" data-ga-event-label="" data-send-ga-event="">
+<a href="javascript:window.print()">Версия для печати
+                    <svg class="svg-icon svg-icon-printer" height="18" version="1.1" viewbox="0 0 24 24" width="18" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<path d="M18,3H6V7H18M19,12A1,1 0 0,1 18,11A1,1 0 0,1 19,10A1,1 0 0,1 20,11A1,1 0 0,1 19,12M16,19H8V14H16M19,8H5A3,3 0 0,0 2,11V17H6V21H18V17H22V11A3,3 0 0,0 19,8Z"></path>
+</svg>
+</a>
+</li>
+</ul>
+</div>
+<section class="row page-field" data-field-name="SHORTDESCRIPTION">
+<h3 class="page-field__title text-left" id="shortdescription">
+                    Краткое описание                </h3>
+<div class="page-field__data">
+<p style="text-align: justify;">
+<br/>
+<strong>Портальная гипертензия</strong> - синдром повышенного давления в системе воротной вены, вызванного нарушением кровотока в портальных сосудах, печеночных венах и нижней полой вене. В норме давление в системе портальных вен составляет 5-10 мм рт.ст.; повышение давления выше 12 мм рт.ст. свидетельствует о развитии портальной гипертензии.</p>
+<p style="text-align: justify;">
+	Портальная гипертензия сопровождается <aterm term="1">спленомегалией<span class="term-description" style="display: none;"><span>Спленомегалия - стойкое увеличение селезенки</span><br/></span></aterm>, варикозным расширением вен пищевода и желудка, <aterm term="1">асцитом<span class="term-description" style="display: none;"><span>Асцит - скопление транссудата в брюшной полости</span><br/></span></aterm>, <aterm term="1">печеночной энцефалопатией<span class="term-description" style="display: none;"><span>Печеночная энцефалопатия (гепатаргия) - клинический синдром, развивающийся при тяжелой печеночной недостаточности или печеночной интоксикации и проявляющийся нервно-психическими нарушениями, появлением печеночного запаха изо рта, возможным развитием печеночной комы.</span><br/></span></aterm>.</p>
+<div style="text-align: justify;">
+<br/>
+<br/>
+<strong>Примечание.</strong> Портальная гипертензия не является основным заболеванием, используется для кодировки осложнений и сопутствующей патологии. Возможно использование добавочных кодов для ассоциированных осложнений, например - K31.89 при гастропатии, ассоциированной с портальной гипертензией.  </div>
+</div>
+</section>
+</div>
+</section>
+<section class="page-section" data-section-name="CLASSIFICATION">
+<h2 class="page-section__title" id="classification">
+        Классификация    </h2>
+<div class="container">
+<div class="row page-section__row">
+<div style="text-align: justify; ">
+<br/>
+<strong>Классификация на основе <span style="font-family: Arial, Helvetica, sans-serif; line-height: 18px; ">локализации портального блока</span></strong><br style="margin: 0px; padding: 0px; font-family: Arial, Helvetica, sans-serif; line-height: 18px; "/>
+<br/>
+<strong style="margin: 0px; padding: 0px; font-family: Arial, Helvetica, sans-serif; line-height: 18px; ">1. Надпочечная:</strong><br style="margin: 0px; padding: 0px; font-family: Arial, Helvetica, sans-serif; line-height: 18px; "/>
+<span style="font-family: Arial, Helvetica, sans-serif; line-height: 18px; ">- тромбоз печеночных вен (синдром Бадда-Киари, инвазия опухолью);</span><br style="margin: 0px; padding: 0px; font-family: Arial, Helvetica, sans-serif; line-height: 18px; "/>
+<span style="font-family: Arial, Helvetica, sans-serif; line-height: 18px; ">- <aterm term="1">обструкция<span class="term-description" style="display: none;"><span>Обструкция - непроходимость, закупорка </span><br/></span></aterm> нижней полой вены (мембрана в просвете нижней полой вены, инвазия опухолью);</span><br style="margin: 0px; padding: 0px; font-family: Arial, Helvetica, sans-serif; line-height: 18px; "/>
+<span style="font-family: Arial, Helvetica, sans-serif; line-height: 18px; ">- заболевания сердечно-сосудистой системы (констриктивный перикардит, выраженная трикуспидальная регургитация).</span><br style="margin: 0px; padding: 0px; font-family: Arial, Helvetica, sans-serif; line-height: 18px; "/>
+<br style="margin: 0px; padding: 0px; font-family: Arial, Helvetica, sans-serif; line-height: 18px; "/>
+<strong style="margin: 0px; padding: 0px; font-family: Arial, Helvetica, sans-serif; line-height: 18px; ">2. Внутрипеченочная:</strong><br style="margin: 0px; padding: 0px; font-family: Arial, Helvetica, sans-serif; line-height: 18px; "/>
+<br/>
+<strong style="margin: 0px; padding: 0px; font-family: Arial, Helvetica, sans-serif; line-height: 18px; ">2.1 Пресинусоидальная:</strong><br style="margin: 0px; padding: 0px; font-family: Arial, Helvetica, sans-serif; line-height: 18px; "/>
+<span style="font-family: Arial, Helvetica, sans-serif; line-height: 18px; ">- болезнь Рандю-Ослера;</span><br style="margin: 0px; padding: 0px; font-family: Arial, Helvetica, sans-serif; line-height: 18px; "/>
+<span style="font-family: Arial, Helvetica, sans-serif; line-height: 18px; ">- врожденный фиброз печени;</span><br style="margin: 0px; padding: 0px; font-family: Arial, Helvetica, sans-serif; line-height: 18px; "/>
+<span style="font-family: Arial, Helvetica, sans-serif; line-height: 18px; ">- тромбоз ветвей портальной вены (тяжелый бактериальный холангит, злокачественные новообразования);</span><br style="margin: 0px; padding: 0px; font-family: Arial, Helvetica, sans-serif; line-height: 18px; "/>
+<span style="font-family: Arial, Helvetica, sans-serif; line-height: 18px; ">- первичный билиарный холангит, первичный склерозирующий холангит;</span><br style="margin: 0px; padding: 0px; font-family: Arial, Helvetica, sans-serif; line-height: 18px; "/>
+<span style="font-family: Arial, Helvetica, sans-serif; line-height: 18px; ">- гранулематозы (шистосомоз, саркоидоз, туберкулез);</span><br style="margin: 0px; padding: 0px; font-family: Arial, Helvetica, sans-serif; line-height: 18px; "/>
+<span style="font-family: Arial, Helvetica, sans-serif; line-height: 18px; ">- хронический вирусный гепатит;</span><br style="margin: 0px; padding: 0px; font-family: Arial, Helvetica, sans-serif; line-height: 18px; "/>
+<span style="font-family: Arial, Helvetica, sans-serif; line-height: 18px; ">- первичный билиарный цирроз;</span><br style="margin: 0px; padding: 0px; font-family: Arial, Helvetica, sans-serif; line-height: 18px; "/>
+<span style="font-family: Arial, Helvetica, sans-serif; line-height: 18px; ">- миелопролиферативные заболевания;</span><br style="margin: 0px; padding: 0px; font-family: Arial, Helvetica, sans-serif; line-height: 18px; "/>
+<span style="font-family: Arial, Helvetica, sans-serif; line-height: 18px; ">- нодулярная регенераторная гиперплазия;</span><br style="margin: 0px; padding: 0px; font-family: Arial, Helvetica, sans-serif; line-height: 18px; "/>
+<span style="font-family: Arial, Helvetica, sans-serif; line-height: 18px; ">- идиопатическая (нецирротическая) портальная гипертензия;</span><br style="margin: 0px; padding: 0px; font-family: Arial, Helvetica, sans-serif; line-height: 18px; "/>
+<span style="font-family: Arial, Helvetica, sans-serif; line-height: 18px; ">- болезнь Вильсона;</span><br style="margin: 0px; padding: 0px; font-family: Arial, Helvetica, sans-serif; line-height: 18px; "/>
+<span style="font-family: Arial, Helvetica, sans-serif; line-height: 18px; ">- гемохроматоз;</span><br style="margin: 0px; padding: 0px; font-family: Arial, Helvetica, sans-serif; line-height: 18px; "/>
+<span style="font-family: Arial, Helvetica, sans-serif; line-height: 18px; ">- поликистоз;</span><br style="margin: 0px; padding: 0px; font-family: Arial, Helvetica, sans-serif; line-height: 18px; "/>
+<span style="font-family: Arial, Helvetica, sans-serif; line-height: 18px; ">- амилоидоз;</span><br style="margin: 0px; padding: 0px; font-family: Arial, Helvetica, sans-serif; line-height: 18px; "/>
+<span style="font-family: Arial, Helvetica, sans-serif; line-height: 18px; ">- воздействие токсичных веществ (медь, мышьяк, 6-меркаптопурин);</span><br style="margin: 0px; padding: 0px; font-family: Arial, Helvetica, sans-serif; line-height: 18px; "/>
+<br/>
+<strong style="margin: 0px; padding: 0px; font-family: Arial, Helvetica, sans-serif; line-height: 18px; ">2. 2 Синусоидальная:</strong><br style="margin: 0px; padding: 0px; font-family: Arial, Helvetica, sans-serif; line-height: 18px; "/>
+<span style="font-family: Arial, Helvetica, sans-serif; line-height: 18px; ">- все случаи цирроза печени;</span><br style="margin: 0px; padding: 0px; font-family: Arial, Helvetica, sans-serif; line-height: 18px; "/>
+<span style="font-family: Arial, Helvetica, sans-serif; line-height: 18px; ">- острый алкогольный гепатит;</span><br style="margin: 0px; padding: 0px; font-family: Arial, Helvetica, sans-serif; line-height: 18px; "/>
+<span style="font-family: Arial, Helvetica, sans-serif; line-height: 18px; ">- тяжелый вирусный гепатит;</span><br style="margin: 0px; padding: 0px; font-family: Arial, Helvetica, sans-serif; line-height: 18px; "/>
+<span style="font-family: Arial, Helvetica, sans-serif; line-height: 18px; ">- острая жировая печень беременных;</span><br style="margin: 0px; padding: 0px; font-family: Arial, Helvetica, sans-serif; line-height: 18px; "/>
+<span style="font-family: Arial, Helvetica, sans-serif; line-height: 18px; ">- интоксикация витамином А;</span><br style="margin: 0px; padding: 0px; font-family: Arial, Helvetica, sans-serif; line-height: 18px; "/>
+<span style="font-family: Arial, Helvetica, sans-serif; line-height: 18px; ">- системный мастоцитоз;</span><br style="margin: 0px; padding: 0px; font-family: Arial, Helvetica, sans-serif; line-height: 18px; "/>
+<span style="font-family: Arial, Helvetica, sans-serif; line-height: 18px; ">- печеночная пурпура;</span><br style="margin: 0px; padding: 0px; font-family: Arial, Helvetica, sans-serif; line-height: 18px; "/>
+<span style="font-family: Arial, Helvetica, sans-serif; line-height: 18px; ">- цитотоксичные лекарства;</span><br style="margin: 0px; padding: 0px; font-family: Arial, Helvetica, sans-serif; line-height: 18px; "/>
+<br/>
+<strong style="margin: 0px; padding: 0px; font-family: Arial, Helvetica, sans-serif; line-height: 18px; ">2.3 Постсинусоидальная:</strong><br style="margin: 0px; padding: 0px; font-family: Arial, Helvetica, sans-serif; line-height: 18px; "/>
+<span style="font-family: Arial, Helvetica, sans-serif; line-height: 18px; ">- веноокклюзионная болезнь;</span><br style="margin: 0px; padding: 0px; font-family: Arial, Helvetica, sans-serif; line-height: 18px; "/>
+<span style="font-family: Arial, Helvetica, sans-serif; line-height: 18px; ">- алкогольный центролобулярный гиалиновый склероз;</span><br style="margin: 0px; padding: 0px; font-family: Arial, Helvetica, sans-serif; line-height: 18px; "/>
+<br style="margin: 0px; padding: 0px; font-family: Arial, Helvetica, sans-serif; line-height: 18px; "/>
+<strong style="margin: 0px; padding: 0px; font-family: Arial, Helvetica, sans-serif; line-height: 18px; ">3. Подпеченочная:</strong><br style="margin: 0px; padding: 0px; font-family: Arial, Helvetica, sans-serif; line-height: 18px; "/>
+<span style="font-family: Arial, Helvetica, sans-serif; line-height: 18px; ">- тромбоз воротной вены;</span><br style="margin: 0px; padding: 0px; font-family: Arial, Helvetica, sans-serif; line-height: 18px; "/>
+<span style="font-family: Arial, Helvetica, sans-serif; line-height: 18px; ">- кавернозная трансформация воротной вены;</span><br style="margin: 0px; padding: 0px; font-family: Arial, Helvetica, sans-serif; line-height: 18px; "/>
+<span style="font-family: Arial, Helvetica, sans-serif; line-height: 18px; ">- тромбоз селезеночной вены;</span><br style="margin: 0px; padding: 0px; font-family: Arial, Helvetica, sans-serif; line-height: 18px; "/>
+<span style="font-family: Arial, Helvetica, sans-serif; line-height: 18px; ">- висцеральная артериовенозная фистула;</span><br style="margin: 0px; padding: 0px; font-family: Arial, Helvetica, sans-serif; line-height: 18px; "/>
+<span style="font-family: Arial, Helvetica, sans-serif; line-height: 18px; ">- идиопатическая тропическая спленомегалия</span> (синдром Банти, см. также "<a href="https://diseases.medelement.com/disease/view/NDgxMg%253D%253D/fDB8" target="_blank">Фиброз печени</a>" - К74.0).<br/>
+	 <br/>
+<span style="font-family: Arial, Helvetica, sans-serif; line-height: 18px; "><strong>4. Смешанная.</strong></span><br/>
+<br/>
+<br/>
+<strong>Классификация  </strong><strong>портальной гипертензии </strong><strong>по уровню повышения давления в портальной системе: </strong></div>
+<div style="text-align: justify; ">
+<br/>
+	-  <strong>I степени</strong> - давление 250-400 мм вод.ст.;<br/>
+	-<strong> II степени</strong> - давление 400-600 мм вод.ст.;</div>
+<div style="text-align: justify; ">
+	- <strong>III степени</strong> - давление более 600 мм вод.ст.</div>
+<div style="text-align: justify; ">
+<br/>
+<span style="color: rgb(29, 29, 29); line-height: 19px; "> </span><strong>По размерам варикозных узлов в пищеводе </strong>(<span style="color: rgb(29, 29, 29); line-height: 19px; ">N.Soehendra, K.Binmoeller </span><span style="color: rgb(29, 29, 29); line-height: 19px; ">1997):</span></div>
+<div style="text-align: justify; ">
+	- диаметр менее 5 мм - малые, <span style="color: rgb(29, 29, 29); line-height: 19px; ">вытянутые, располагаются только в нижней трети пищевода;</span><br/>
+	- 5-10 мм - средние, <span style="color: rgb(29, 29, 29); line-height: 19px; ">извитые, расположены в средней трети пищевода;</span><br/>
+	-более 10 мм - большие, <span style="color: rgb(29, 29, 29); line-height: 19px; ">напряженные, с тонкой стенкой, расположены вплотную друг к другу, на поверхности вен «красные маркеры».</span><br/>
+<div style="margin: 0px; padding: 0px; font-family: Arial, Helvetica, sans-serif; line-height: 18px; ">
+<br/>
+<strong style="margin: 0px; padding: 0px; ">Другой вариант классификации варикозных вен пищевода по их размерам:</strong></div>
+<div style="margin: 0px; padding: 0px; font-family: Arial, Helvetica, sans-serif; line-height: 18px; ">
+		-<strong style="margin: 0px; padding: 0px; "> I степень</strong> – единичные вены, уменьшающиеся при надавливании на них эндоскопом;</div>
+<div style="margin: 0px; padding: 0px; font-family: Arial, Helvetica, sans-serif; line-height: 18px; ">
+		- <strong style="margin: 0px; padding: 0px; ">II степень</strong> – несколько столбов вен, не сливающихся по окружности пищевода, но не уменьшающихся при надавливании на них эндоскопом;</div>
+<div style="margin: 0px; padding: 0px; font-family: Arial, Helvetica, sans-serif; line-height: 18px; ">
+		- <strong style="margin: 0px; padding: 0px; ">III степень </strong>– вены сливаются по всей окружности пищевода.<br/>
+<br/>
+		Японское научное общество по изучению портальной гипертензии в 1991 году разработало правила для регистрации эндоскопических признаков варикозно расширенных вен (ВРВ) пищевода и желудка, состоящие из 6 основных позиций:<br/>
+<br/>
+		1. Определение распространенности ВРВ по пищеводу и ВРВ желудка относительно кардии.<br/>
+		2. Форма (внешний вид и размер).<br/>
+		3. Цвет как косвенный признак толщины стенок ВРВ.<br/>
+		4. «Красные маркеры» - <aterm term="1">телеангиэктазии<span class="term-description" style="display: none;"><span>Телеангиэктазия - локальное чрезмерное расширение капилляров и мелких сосудов.</span><br/></span></aterm>, пятна «красной вишни», гематоцистные пятна.<br/>
+		5. Признаки кровотечения: при остром кровотечении устанавливается его интенсивность; в случае спонтанного гемостаза оценивается характер тромба.<br/>
+		6. Изменение слизистой оболочки пищевода.<br/>
+<br/>
+<strong>Типы "красных маркеров"</strong></div>
+<div>
+<br/>
+		1. <strong>Пятна «красной вишни»</strong>  - при эндоскопии выглядят как незначительно выступающие участки красного цвета, располагающиеся на вершинах варикозно расширенных вен подслизистого слоя. Они имеют диаметр до 2 мм, часто множественные. Данный признак наблюдается у 50% больных с варикозными венами пищевода.</div>
+<div>
+<br/>
+		2.<strong> Гематоцистные пятна -  </strong>расширенные интраэпителиальные венозные узлы. При эндоскопии выглядят как пузырьки красного цвета, обычно солитарные (одиночные), диаметром около 4 мм. Данный признак наблюдается у 8% пациентов с варикозными венами пищевода. Гематоцистные пятна являются наиболее слабыми участками варикозной стенки и местом развития профузного кровотечения.<br/>
+<br/>
+		3. <strong>Телеангиэктазии</strong> - сеть мелких извитых сосудов микроциркуляторного русла, расположенных субэпителиально, преимущественно в нижней трети пищевода.</div>
+</div>
+<br/>
+</div>
+</div>
+</section>
+<section class="page-section" data-section-name="ETIOLOGY">
+<h2 class="page-section__title" id="etiology">
+        Этиология и патогенез    </h2>
+<div class="container">
+<div class="row page-section__row">
+<div style="text-align: justify; ">
+<br/>
+<strong>Причины возникновения портальной гипертензии</strong><br/>
+<br/>
+	1. <strong>Надпеченочной: </strong><br/>
+	- тромбоз селезеночной вены;<br/>
+	- тромбоз воротной вены;<br/>
+	- врожденная аномалия воротной вены;<br/>
+	- сдавление воротной вены опухолью, паразитарными (альвеококкоз) и воспалительными (панкреатит) образованиями.<br/>
+<br/>
+	2. <strong>Панкреатобилиарной области:</strong> висцеральные артериовенозные <aterm term="1">фистулы</aterm>.<br/>
+<br/>
+	3. <strong>Внутрипеченочной, преимущественно пресинусоидальной</strong>:<br/>
+	- ранние стадии первичного билиарного цирроза, идиопатической портальной гипертензии, шистосомоза, узловой регенеративной гиперплазии;<br/>
+	- миелопролиферативные заболевания;<br/>
+	- поликистоз печени;<br/>
+	- метастазы, гранулематозные заболевания печени.<br/>
+<br/>
+	4. <strong>Внутрипеченочной преимущественно синусоидальной:</strong><br/>
+	- цирроз печени (70-80% всех причин);<br/>
+	- поздние стадии первичного билиарного цирроза, идиопатической портальной гипертензии, шистосомоза;<br/>
+	- острые и <aterm term="1">фульминантные</aterm> гепатиты;<br/>
+	- токсическое поражение печени витамином А;<br/>
+	- врожденный фиброз печени;<br/>
+	- миелопролиферативные заболевания<br/>
+<strong>- </strong><aterm term="1">пелиоз<span class="term-description" style="display: none;"><span>Пелиоз - множественные выстланные эндотелием и заполненные кровью полости в паренхиматозных органах</span><br/></span></aterm>;<br/>
+	- веноокклюзионная болезнь и др.<br/>
+<br/>
+	5. <strong>Подпеченочной:</strong><br/>
+	- правожелудочковая сердечная недостаточность;<br/>
+	- обструкция нижней полой вены;<br/>
+	- констриктивный перикардит; <br/>
+	- синдром Бадда-Киари;<br/>
+	- <aterm term="1">трикуспидальная регургитация<span class="term-description" style="display: none;"><span>Трикуспидальная регургитация - это симптом недостаточности трехстворчатого клапана, когда в период систолы (сокращения правого желудочка сердца) в результате неполного смыкания створок клапана часть крови просачивается обратно из легочной артерии в полость правого желудочка. </span><br/></span></aterm>.<br/>
+<br/>
+	Портальная гипертензия развивается в результате увеличения портального венозного кровотока и (или) повышения резистентности портальных или печеночных вен. В основе увеличения портального сопротивления лежат механическая обструкция и активное сокращение миофибробластов и гладкомышечного слоя внутрипеченочных вен.<br/>
+<br/>
+	Печеночное сосудистое сопротивление повышается при циррозах печени преимущественно вследствие нарушения архитектоники (структуры) печени. В развитии портальной гипертензии также принимает участие депозиция (накопление) коллагена в <aterm term="1">пространстве Диссе<span class="term-description" style="display: none;"><span>Пространство Диссе (перисинусоидальное пространство) — узкий просвет между стенками синусоидных капилляров и гепатоцитами в печеночной дольке.</span><br/></span></aterm>, приводящая к капилляризации синусоидов, а также констрикция (сужение) синусоидов звездчатыми клетками.<br/>
+<br/>
+	Увеличение портального кровотока возникает из-за висцеральной артериальной <aterm term="1">вазодилатации<span class="term-description" style="display: none;"><span>Вазодилатация - увеличение просвета кровеносных сосудов, обусловленное преходящим снижением тонуса мышц сосудистой стенки</span><br/></span></aterm>, обусловленной преимущественно продукцией оксида азота эндотелиальными клетками. В результате портальное давление повышается, а портальная гипертензия сохраняется даже при возникновении сети портосистемных <aterm term="1">коллатералей<span class="term-description" style="display: none;"><span>Коллатераль - анатомическое образование, соединяющее структуры в обход основного пути.</span><br/></span></aterm>.<br/>
+<br/>
+<strong>Формируются </strong><aterm term="1"><strong>портокавальные анастомозы<span class="term-description" style="display: none;"><span>Портокавальный анастомоз - венозный анастомоз между притоками воротной и полых вен; располагается в стенке брюшной части пищевода, в стенке верхней части прямой кишки</span><br/></span></strong></aterm><strong>: </strong><br/>
+<br/>
+	- гастроэзофагеальные - соединяют воротную вену с верхней полой веной через венечную вену желудка, непарные и полунепарные вены;<br/>
+<br/>
+	- анастомозы между венозными сплетениями прямой кишки и нижней полой вены, через верхние и нижние геморроидальные вены, образованные околопупочными венами.<br/>
+<br/>
+	Анастомозы в пищеводе, кардиальном отделе желудка, вокруг прямой кишки способствуют возникновению в данных зонах потенциальных источников кровотечений. При повышении портального давления более 12 мм рт.ст. появляется риск разрыва варикозного расширения вен пищевода. Степень риска возникновения кровотечения зависит от класса цирроза, размера варикозных узлов и наличия "красных маркеров" (изменения сосудистой стенки).</div>
+<div style="text-align: justify; ">
+<br/>
+	В случае интенсивного коллатерального кровотока возможно развитие портокавальной энцефалопатии. В результате сокращения притока портальной крови к печени, метаболические процессы в ней замедляются. Застойная спленомегалия в сочетании со снижением функциональной активности купферовских клеток сопровождается усилением активности <aterm term="1">ретикулоэндотелиальной системы<span class="term-description" style="display: none;"><span>Ретикулоэндотелиальная система (система макрофагов) -  система, включающая все клетки организма, способные поглощать из крови коллоидные частицы, фагоцитировать бактерии и откладывать их в цитоплазме в виде характерных зерен; </span><br/></span></aterm> - <aterm term="1">гиперспленизм<span class="term-description" style="display: none;"><span>Гиперспленизм - сочетание увеличения селезенки с увеличением количества клеточных элементов в костном мозге и уменьшением форменных элементов в периферической крови.</span><br/></span></aterm>. Портальная гипертензия является также основным фактором в формировании <aterm term="1">асцита<span class="term-description" style="display: none;"><span>Асцит - скопление транссудата в брюшной полости</span><br/></span></aterm>.</div>
+<div style="text-align: justify; ">
+	 </div>
+</div>
+</div>
+</section>
+<section class="page-section" data-section-name="EPIDEMIOLOGY">
+<h2 class="page-section__title" id="epidemiology">
+        Эпидемиология    </h2>
+<div class="container">
+<div class="row page-section__row">
+<p>Соотношение полов(м/ж): 1.5</p>
+<br/>
+<div style="text-align: justify;">
+	Распространенность портальной гипертензии неизвестна.<br/>
+	В целом распространенность коррелирует с выявлением цирроза и оценивается по обнаружению расширенных вен пищевода.  Расширение вен пищевода, желудка и кишечника встречается у 90% больных циррозом печени, в 30% случаев оно осложняется кровотечениями.<br/>
+	В США темпы развития варикозного расширения вен пищевода у пациентов с хроническими заболеваниями печени составляет около 8% в год в течение первых 2 лет и 30% на шестой год.</div>
+<div style="text-align: justify;">
+<br/>
+	Считается, что заболевание чаще наблюдается у мужчин (60%).<br/>
+	Средний возраст пациента не выяснен в связи с разнородностью патологии, приводящей к портальной гипертензии.  <br/>
+<br/>
+	В благополучных странах, где проводится вакцинация от вирусного гепатита, тромбоз воротной вены и вторичный билиарный цирроз являются наиболее распространенными причинами варикозно расширенных вен пищевода у детей. Цирроз печени является наиболее распространенной причиной варикозного расширения вен пищевода у взрослых.</div>
+</div>
+</div>
+</section>
+<section class="page-section" data-section-name="FACTORSANDRISKGROUPS">
+<h2 class="page-section__title" id="factorsandriskgroups">
+        Факторы и группы риска    </h2>
+<div class="container">
+<div class="row page-section__row">
+<br/>
+- гепатиты любой этиологии;<br/>
+- циркуляторные нарушения в печени (венозный, артериальный кровоток) любой этиологии;<br/>
+- некрозы печени любой этиологии;<br/>
+- первичный склерозирующий холангит;<br/>
+- прочее (см. раздел "Этиология и патогенез").
+                    </div>
+</div>
+</section>
+<section class="page-section" data-index="5">
+<h2 class="page-section__title" id="clinical">
+        Клиническая картина    </h2>
+<div class="container">
+<section class="row page-field" data-field-name="THESIS">
+<h3 class="page-field__title text-left" id="thesis">
+                    Клинические критерии диагностики                </h3>
+<div class="page-field__data">
+                    
+                    асцит; спленомегалия; варикозно расширенные вены пищевода и прямой кишки; слабость; тошнота; гематохезия; мелена; анорексия; потеря веса; боли в животе; боли или дискомфорт в области печени; кожный зуд; сексуальная дисфункция; мышечные судороги; периферические отёки; желтуха; зловонное дыхание                </div>
+</section>
+<section class="row page-field" data-field-name="ANTIPRAXIA">
+<h3 class="page-field__title text-left" id="antipraxia">
+                    Cимптомы, течение                </h3>
+<div class="page-field__data">
+<div style="text-align: justify; ">
+<br/>
+	Выраженность клинических  проявлений портальной гипертензии зависит от степени и уровня блокады портальной системы и развития портокавальных анастомозов.<br/>
+<br/>
+<strong>Главные симптомы портальной гипертензии:</strong><br/>
+	- варикозное расширение вен пищевода, кардиального отдела желудка, прямой кишки, осложненное (или неосложненное) пищеводно-желудочным (прямокишечным) кровотечением;<br/>
+	- <aterm term="1">асцит<span class="term-description" style="display: none;"><span>Асцит - скопление транссудата в брюшной полости</span><br/></span></aterm>;<br/>
+	- <aterm term="1">гиперспленизм<span class="term-description" style="display: none;"><span>Гиперспленизм - сочетание увеличения селезенки с увеличением количества клеточных элементов в костном мозге и уменьшением форменных элементов в периферической крови.</span><br/></span></aterm>;<br/>
+	- <aterm term="1">спленомегалия<span class="term-description" style="display: none;"><span>Спленомегалия - стойкое увеличение селезенки</span><br/></span></aterm>;<br/>
+	- печеночная недостаточность.
+	<div>
+<br/>
+<strong>Жалобы и клинические находки патологии печени:</strong></div>
+<div>
+		1. Слабость, усталость и недомогание.</div>
+<div>
+		2. Анорексия.</div>
+<div>
+		3. Внезапные и массивные кровотечения из желудочно-кишечного тракта, с или без шока.</div>
+<div>
+		4. Тошнота и рвота.</div>
+<div>
+		5. Потеря веса. Общий симптом для пациентов с острыми и хроническими заболеваниями печени. Наблюдается,  в основном, из-за анорексии и сопровождает терминальные стадии заболевания печени, когда потеря мышечной массы и жировой ткани часто являются характерным признаком.</div>
+<div>
+		6. Дискомфорт в животе и боли, которые обычно ощущаются в правом подреберье или в проекции печени (спереди, сбоку или сзади), или в эпигастральной области, или левом подреберье.</div>
+<div>
+		7. Желтуха или темная моча.</div>
+<div>
+		8. Периферические отеки и увеличение живота.</div>
+<div>
+		9. Зуд, который обычно ассоциируется с <aterm term="1">холестазом<span class="term-description" style="display: none;"><span>Холестаз - нарушение продвижения желчи в виде застоя в желчных протоках и (или) проточках.</span><br/></span></aterm> (при обструкции внепеченочных желчных протоков, первичном билиарном циррозе печени, склерозирующем холангите, при беременности, а также доброкачественный, рецидивирующий холестаз).</div>
+<div>
+		10. Спонтанные кровотечения и гематомы.</div>
+<div>
+		11. Симптомы энцефалопатии:<br/>
+		- нарушения цикла сон-бодрствование;<br/>
+		- ухудшение интеллектуальных функций;<br/>
+		- потеря памяти;<br/>
+		- неспособность эффективно общаться на любом уровне;<br/>
+		- изменения личности, и, возможно, проявления неуместного или странного поведения.</div>
+<div>
+		11. Импотенция и сексуальные дисфункции. <aterm term="1">Гинекомастия<span class="term-description" style="display: none;"><span>Гинекомастия - увеличение молочных желез у мужчин</span><br/></span></aterm> у мужчин с недостаточностью функции печени  приводит к дисбалансу половых гормонов, потере волос на лобке и в подмышечных  впадинах, атрофии яичек (особенно при алкогольной болезни печени и <aterm term="1">гемохроматозе<span class="term-description" style="display: none;"><span>Гемохроматоз (син. гемомеланоз, диабет бронзовый, сидерофилия, Труазье-Ано-Шоффара синдром, цирроз пигментный) -наследственная болезнь, характеризующаяся нарушением обмена железосодержащих пигментов, повышенным всасыванием в кишечнике железа и накоплением его в тканях и органах; проявляется признаками цирроза печени, сахарного диабета, пигментацией кожи</span><br/></span></aterm>).</div>
+<div>
+		12. Мышечные судороги, которые также  встречаются у пациентов с циррозом печени, и атрофия мышц.</div>
+</div>
+<div>
+	13. <aterm term="1">Эритема<span class="term-description" style="display: none;"><span>Эритема -  ограниченная гиперемия (увеличенное кровенаполнение) кожи </span><br/></span></aterm> ладоней и <aterm term="1">лейконихия<span class="term-description" style="display: none;"><span>Лейконихия - патологическое изменение ногтевой пластинки, характеризующееся появлением на ней белых пятен или полосок, обусловленных наличием мельчайших пузырьков воздуха между слоями ногтя</span><br/></span></aterm> у пациентов с циррозом.<br/>
+	14. <aterm term="1">Контрактура Дюпюитрена<span class="term-description" style="display: none;"><span>Контрактура Дюпюитрена (синоним – ладонный фиброматоз) – безболезненное рубцовое перерождение и укорочение ладонных сухожилий; проявляется нарушением способности разгибать пальцы, узловатым уплотнением кожи на ладонях.</span><br/></span></aterm>.</div>
+<p>
+<br/>
+<strong>Признаки формирования портосистемного шунтирования</strong> включают в себя следующее (кроме указанных выше):</p>
+<div>
+	- расширенные вены передней брюшной стенки (голова медузы);</div>
+<div>
+	- геморрой;</div>
+<div>
+	- асцит<span class="term-description" style="display: none;"><span>Асцит - скопление транссудата в брюшной полости</span><br/></span>;</div>
+<div>
+	- параумбиликальные  грыжи.</div>
+<p>
+	 </p>
+<p>
+<strong>В зависимости от этиологии</strong> также могут отмечаться следующие проявления:<br/>
+	- общие признаки недостаточности кровообращения;<br/>
+	- бледность - можно предположить активное внутреннее кровотечение;<br/>
+	- увеличение околоушной железы, может быть связано с злоупотреблением алкоголем и / или недоеданием;<br/>
+	- цианоз языка, губ, пальцев  (в связи с низкой насыщенностью кислородом крови);<br/>
+	- одышка и <aterm term="1">тахипноэ<span class="term-description" style="display: none;"><span>Тахипноэ - учащенное дыхание без его углубления</span><br/></span></aterm>;<br/>
+	- fetor hepaticus (зловонное дыхание, печеночный запах изо рта);<br/>
+	- уменьшение размеров печени;<br/>
+	- непрерывный венозный шум при аускультации живота.</p>
+</div>
+</section>
+</div>
+</section>
+<section class="page-section" data-section-name="DIAGNOSTICS">
+<h2 class="page-section__title" id="diagnostics">
+        Диагностика    </h2>
+<div class="container">
+<div class="row page-section__row">
+<div>
+<br/><strong>Анамнез: </strong>наличие в прошлом острых или хроничексих заболеваний печени, желтухи, зуда, гематологических заболеваний, наследственных заболеваний печени, паразитарных инфекций, гнойных заболеваний брюшной полости; употребление алкоголя, наркотиков.</div><div>
+<br/><strong>Физикальные данные: </strong><br/>
+	- расширение вен на передней и боковых отделах брюшной стенки;<br/>
+	- извитые коллатерали вокруг пупка, создающие картину "головы Медузы";<br/>
+	- асцит; <br/>
+	- при ректальном осмотре - геморроидальные узлы;<br/>
+	- <aterm term="1">параумбиликальная</aterm> грыжа;<br/>
+	- признаки хронического заболевания печени (см. цирроз печени - К74);<br/>
+	- признаки гипердинамического кровообращения.<br/><br/><strong>Инструментальные методы</strong><br/><br/><strong>1. УЗИ </strong>- безопасный, экономичный и эффективный метод скрининга.<br/><br/><strong>На УЗИ определяются следующие признаки:</strong><br/><br/>
+	1.1 <strong>Расширение и извитость сосудов.</strong> Признаками портальной гипертензии считаются увеличение диаметра воротной вены более 13 мм и замедление кровотока в ней. Согласно некоторым  данным, увеличение диаметра воротной вены считается ненадежным признаком, т.к. в норме этот показатель весьма вариабелен. Необходимо также отметить, что увеличение диаметра воротной вены не является обязательным признаком, существующим постоянно. Это связано с тем, что после образования портокавальных анастомозов диаметр воротной вены может уменьшиться до нормальных величин.</div><div>
+<br/>
+	1.2 <strong>Наличие коллатералей.</strong>  На поздних стадиях может быть зарегистрирован обратный кровоток. Также на УЗДГ легко выявляется реканализированная пупочная вена. Она проходит в круглой связке печени и дренирует кровь из левой ветви воротной вены в вены передней брюшной стенки. Отмечается <span>обратный ток в другой важной коллатерали - левой желудочной(коронарной) вене, начинающейся в области кардии и впадающей в верхнюю воротную вену. Д</span>ополнительно визуализируются варикозно расширенные вены ворот селезёнки.</div><div>
+<br/>
+	1.3 <strong>Наличие асцита. </strong><br/><br/>
+	1.4 <strong>Изменение размеров и структуры печени и селезёнки</strong>. Линейные размеры селезёнки увеличены и составляют "по длиннику" - свыше 10-11 см, по толщине - 4-5,5 см, площадь селезёнки - свыше 40-50 см<sup>2</sup> (при косом сканировании вдоль левой реберной дуги при выведении на экран максимальной площади среза).<br/><br/>
+	1.5 УЗИ применяется для определения <strong>скорости и объема кровотока </strong>в воротной вене и ее ветвях а также для <strong>визуализации тромбов.</strong><br/>
+	У здоровых лиц линейная скорость кровотока  находится в интервале от 18 до 23 см/с. Значение этой скорости резко возрастает при исследовании после приема пищи (на 100-200%) или при задержке дыхания в фазе глубокого вдоха (на 50-70%). <br/>
+	Ряд исследователей отмечает более низкие линейные скорости кровотока в воротной вене (в норме - до 15 ± 0.2 см/с), и достаточно высокую, в связи с этим, эффективность определения именно объемной скорости кровотока (до 845 ± 20 мл/мин в норме). <br/><br/>
+	Корректная оценка гемодинамики возможна при оценке скоростей кровотока во внепеченочной части воротной вены, в области ворот печени и в долевых ветвях воротной вены. Замедление портального кровотока во внутрипеченочных ветвях, таким образом,  будет свидетельствовать и о наличии повышенного сопротивления в связи с поражением паренхимы печени, и о наличии портосистемных анастомозов при ускорении кровотока по магистральному стволу.</div><div>
+	Однако, по мнению других специалистов такие показатели, как вычисление объемной скорости кровотока, показали недостаточную точность и клиническую эффективность.<br/>
+	 </div><div>
+<strong>2. КТ - </strong>назначают при недостаточной информативности УЗИ. При помощи спиральной КТ и трехмерной реконструктивной ангиографии возмажна более точная визуализация портальных сосудов и коллатералей. Однако, данные методы не позволяют определить профили артериального и венозного кровотока. </div><div>
+<br/><strong>3.</strong> <strong>МРТ-ангиография -</strong> применяется в случае недостаточно информативной допплерографии. Способствует выявлению портосистемных коллатералей и портальной обструкции. Позволяет получить количественные данные о кровотоке.<br/><br/><strong>4. Радионуклидное исследование</strong> с99Тс: повышение радиоактивности селезёнки и костного мозга при портальной гипертензии  малоинформативно (в норме значительно ниже, чем у печени).</div><div>
+<br/><strong>5. Селективная ангиография</strong> - является "золотым стандартом" визуализации кровотока.<br/><br/><strong>Транскавальная печеночная венография</strong> заключается во введении контрастного вещества через катетер, проведенный в нижнюю полую вену к устьям печеночных вен, или путем трансюгулярной катетеризации печеночных вен. Осуществляется для:</div><div>
+	- определения проходимости печеночных вен и печеночного сегмента нижней полой вены (при подозрении на синдром Бадда-Киари);<br/>
+	- оценки эффективности хирургической терапии.</div><div>
+<br/><strong>Портография</strong><br/>
+	Серийные снимки, полученные при ангиографии, дают информацию о всех фазах кровотока в печени (артериальной, паренхиматозной и венозной). Изучение снимков венозной фазы используется для оценки состояния портальной системы. Для визуализации воротной вены и ее притоков применяются чрезартериальный и чрезвенозный доступы. <br/><br/><strong>Чрезартериальный доступ</strong> с последующей селективной целиако- или мезентерикографией в венозной фазе исследования, позволяет четко визуализировать воротную вену и ее притоки.<br/>
+	К примеру, у больных, которым планируется наложение спленоренального анастомоза, применяется введение контрастного вещества в селезеночную артерию, поскольку в венозной фазе исследования четко идентифицируется селезеночная вена и ее основные притоки.<br/>
+	Введение в венозной фазе исследования контрастного вещества в верхнюю брыжеечную артерию позволяет получить визуализацию верхней брыжеечной и воротной вены. <br/>
+	При помощи чрезартериального доступа возможна также четкая идентификация размера сосудов, характера и направления кровотока в основных венозных коллатералях (например, в левой желудочной и нижней брыжеечной венах).</div><div>
+<br/><strong>Чрезвенозный доступ </strong>применяется для контрастирования нижней полой, печеночных и левой почечной вен. Этот метод применяется для получения точной топической информации о локализации патологического процесса (это нужно для выбора места предполагаемого анастомоза).<br/><br/>
+	При спленопортографии в селезёнку вводится водорастворимое контрастное вещество (билигност, верографин, гепак) и выполняется серия снимков.<br/>
+	При наличии перенесенной ранее спленэктомии, портографию можно выполнить путем <aterm term="1">канюляции</aterm> пупочной вены. Этот метод позволяет выявить уровень блока. <br/>
+	У 1-2% больных возможно возникновение кровотечений из селезёнки и регистрация феномена ложного тромбоза воротной вены - «ускользание» контраста через коллатерали до достижения его воротной вены.<br/>
+	 </div><div>
+<strong>6. </strong><span>Дл</span>я оценки портальной гипертензии используется <strong>инвазивная катетерная методика определения HPVG</strong> (градиент печеночного венозного давления, который  по сути представляет собой разницу между давлением в воротной вене и внутрибрюшной части нижней полой вены):<br/>
+	- нормальное значение HVPG составляет от 1 до 5 мм рт. ст.;<br/>
+	- если показатель давления выше, то это свидетельствует о наличии портальной гипертензии, независимо от клинических признаков;<br/>
+	- HVPG&gt; или = 10 мм рт.ст. (клинически значимая портальная гипертензия) является предиктором развития осложнений цирроза печени, включая смерть.<br/>
+	- HVPG выше 12 мм рт.ст. является порогом давления для варикозного разрыва.<br/>
+	 Основные преимущества HVPG - простота, воспроизводимость и безопасность. </div><div>
+<br/>
+	7. <strong>ФГДС </strong>применяется для выявления и оценки варикозного расширения вен пищевода и желудка.<br/><br/>
+	Осуществление ФГДС-скрининга варикозного расширения вен пищевода при циррозе печени:<br/>
+	- в начальных стадиях цирроза - 1 раз в 3 года;<br/>
+	- малые варикозные узлы пищевода без терапии бета-адреноблокаторами - 1 раз в 2 года;<br/>
+	- малые варикозные узлы пищевода при лечении бета-адреноблокаторами - не требуется;<br/>
+	- при декомпенсированном циррозе - немедленно по установлении диагноза, далее ежегодно.<br/><br/>
+	Биопсия печени с гистологическим исследованием проводится для уточнения причин портальной гипертензии.<br/><br/>
+	8. <strong>Лапароскопия</strong> используется в сомнительных случаях. Важно выявить характер патологических изменений в печени, взять биопсию; определить выраженность <aterm term="1">спленомегалии</aterm> и степень расширения вен портальной системы; установить наличие асцита.</div><div>
+<span> </span><br/>
+	 </div><br/>
+</div>
+</div>
+</section>
+<section class="page-section" data-section-name="LABORATORYDIAGNOSTICS">
+<h2 class="page-section__title" id="laboratorydiagnostics">
+        Лабораторная диагностика    </h2>
+<div class="container">
+<div class="row page-section__row">
+<div style="text-align: justify;">
+<br/>
+<strong>1. Клинический анализ крови.</strong><br/>
+	У больных с циррозом печени отмечается уменьшение количества тромбоцитов. На поздних стадиях заболевания: развитие анемии или других <aterm term="1">цитопений<span class="term-description" style="display: none;"><span>Цитопения - уменьшенное по сравнению с нормой содержание клеток определенного вида в объекте исследования</span><br/></span></aterm>.<br/>
+	При <aterm term="1">гиперспленизме<span class="term-description" style="display: none;"><span>Гиперспленизм - сочетание увеличения селезенки с увеличением количества клеточных элементов в костном мозге и уменьшением форменных элементов в периферической крови.</span><br/></span></aterm> развивается панцитопения (анемия, лейкопения, тромбоцитопения).<br/>
+	Для пациентов с гемохроматозом характерно сочетание высокого содержания гемоглобина с низкими показателями концентрации гемоглобина в эритроцитах.<br/>
+<br/>
+<strong>2. Биохимический анализ крови</strong>. Биохимические пробы печени могут не отличаться от нормальных величин даже при резко выраженной портальной гипертензии.<br/>
+<br/>
+	В биохимическом анализе крови пациентов с циррозом печени необходимо определять следующие показатели:<br/>
+	- аланинаминотрансфераза (АлАТ); <br/>
+	- трансферазы (АСТ и  АЛТ); <br/>
+	- щелочная фосфатаза (ЩФ);<br/>
+	- гамма-глутамилтранспептидаза (ГГТП); <br/>
+	- билирубин; <br/>
+	- альбумин; <br/>
+	- калий;<br/>
+	- натрий;<br/>
+	- креатинин.</div>
+<p style="text-align: justify;">
+	При компенсированном циррозе печени активность печеночных ферментов может быть нормальной.<br/>
+	При алкогольном гепатите с исходом в цирроз наблюдается существенное повышение АлАТ, АсАТ, ГГТП.<br/>
+	При первичном билиарном циррозе отмечается резкое повышение ЩФ .<br/>
+	Помимо этого у больных циррозом печени повышается общий билирубин, снижается содержание альбумина. Содержание аминотрансфераз в терминальной стадии цирроза печени всегда снижается (функционирующие гепатоциты и ферменты отсутствуют).<br/>
+<br/>
+	Показатели неблагополучного прогноза:<br/>
+	- билирубин выше 300 мкмоль/л; <br/>
+	- альбумин ниже 20 г/л;<br/>
+	- протромбиновый индекс менее 60%.<br/>
+<br/>
+	У больных с отечно-асцитическим синдромом необходимо определять содержание в крови электролитов, альбумина, мочевины, креатинина.<br/>
+<br/>
+	Определяемые показатели креатинина, билирубина и <aterm term="1">МНО<span class="term-description" style="display: none;"><span>Международное нормализованное отношение (МНО) — лабораторный показатель, определяемыйе для оценки внешнего пути свертывания крови</span><br/></span></aterm> могут быть использованы для расчета в специальных шкалах оценки развития терминальных стадий заболевания печени (MELD, PELD).</p>
+<div style="text-align: justify;">
+<strong>3. Коагулограмма</strong>. У пациентов с циррозом печени наблюдается снижение протромбинового индекса. Более стандартным тестом в настоящее время является <aterm term="1">МНО<span class="term-description" style="display: none;"><span>Международное нормализованное отношение (МНО) — лабораторный показатель, определяемыйе для оценки внешнего пути свертывания крови</span><br/></span></aterm>.</div>
+<div style="text-align: justify;">
+	 </div>
+<div style="text-align: justify;">
+<strong>4. Анализы мочи.</strong><br/>
+	При циррозе печени важно определение параметров, которые характеризуют почечную функцию (белок, лейкоциты, эритроциты, креатинин, мочевая кислота). У 57% пациентов с циррозом печени и асцитом выявляется почечная недостаточность (клиренс эндогенного креатинина менее 32 мл/мин. при нормальных показателях креатинина в сыворотке крови).<br/>
+	При отечно-асцитическом синдроме необходимо определять суточный диурез.<br/>
+<br/>
+<strong>5. Специфические лабораторные тесты для установления этиологии портальной гипертензии:</strong> <br/>
+	- аутоантитела;<br/>
+	- серологическая диагностика гепатотропных вирусов;<br/>
+	- ферритин;<br/>
+	- церулоплазмин.<br/>
+<br/>
+<strong>6. <aterm term="1">КЩС<span class="term-description" style="display: none;"><span>КЩС - кислотно-щелочное состояние - баланс кислот и оснований, т. е. соотношение водородных и гидроксильных ионов в биологических средах организма (крови, межклеточной и спинномозговой жидкостях и др.)</span><br/></span></aterm> и газы крови. </strong> Высокий анионный разрыв (провал) может свидетельствовать о гиперлактатемии или гипераммониемии.</div>
+<br/>
+</div>
+</div>
+</section>
+<section class="page-section" data-section-name="DIFFERENTIALDIAGNOSIS">
+<h2 class="page-section__title" id="differentialdiagnosis">
+        Дифференциальный диагноз    </h2>
+<div class="container">
+<div class="row page-section__row">
+<div>
+<br/><strong>Дифференциальная диагностика проводится между причинами портальной гипертензии: </strong><br/>
+	- синдром Бадда-Киари;<br/>
+	- цирроз печени любой этиологии (вирусный гепатит, аутоиммунный гепатит, алкогольая болезнь печени, первичный билиарный цирроз печени и т.д.);</div><div>
+	- <aterm term="1">миелопролиферативные заболевания</aterm>;<br/>
+	- кардиальная патология (констриктивный перикардит, трикуспидальная регургитация) т.н. "сердечный цирроз печени";</div><div>
+<div>
+		- поликистоз и другая врожденная патология печени;<br/>
+		- шистосомоз;<br/>
+		- туберкулез;<br/>
+		- токсическое поражение при передозировке витамина А;<br/>
+		- инфильтративные заболевания (например, болезнь Вильсона, гемохроматоз, саркоидоз);<br/>
+		- портальная артериовенозная фистула;</div>
+<div>
+		- обструкция портальной вены;</div>
+<div>
+		- первичный склерозирующий холангит;</div>
+<div>
+		- тромбоз вен селезенки и синдром Банти;</div>
+<div>
+		- облитерирующие заболевания;</div>
+<div>
+		- хронический панкреатит.</div>
+</div><div>
+<br/>
+	Также дифференциальная диагностика проводится с печеночной недостаточностью без портальной гипертензии, циррозом без сформировавшейся портальной гипертензии и выпотами в брюшную полость другой этиологии.<br/><br/>
+	Кровотечения из желудочно-кишечного тракта, возникшие вследствие портальной гипертензии, дифференцируются с кровотечениями другой этиологии.<br/>
+	 </div>
+</div>
+</div>
+</section>
+<section class="page-section" data-section-name="SEQUELAE">
+<h2 class="page-section__title" id="sequelae">
+        Осложнения    </h2>
+<div class="container">
+<div class="row page-section__row">
+<br/>
+- кровотечения из варикозно расширенных вен;<br/>
+- спонтанный бактериальный <aterm term="1">перитонит<span class="term-description" style="display: none;"><span>Перитонит - воспаление брюшины.</span><br/></span></aterm>;<br/>
+- печеночная недостаточность;<br/>
+- параумбиликальные и внутренние грыжи вследствие асцита.<br/>
+<br/>
+</div>
+</div>
+</section>
+<section class="page-section" data-section-name="THERAPY">
+<h2 class="page-section__title" id="therapy">
+        Лечение    </h2>
+<div class="container">
+<div class="row page-section__row">
+<div>
+<div>
+<br/><strong>Консервативное лечение</strong><br/>
+		 </div>
+<div>
+		1. <strong>Вазопрессин </strong>(или аналоги).</div>
+<div>
+<br/>
+		2. <strong>Соматостатин </strong>(или аналоги) - эффективен для прекращения кровотечения, по меньшей мере, временно (80%). По сравнению с аналогом окреотидом, действие соматостатина более эффективно. </div>
+<div>
+<br/>
+		3. <strong>Некардиоселективные бета-блокаторы:</strong> пропранолол. Начальная доза - 20 мг каждые 12 ч., изменение дозы 1 раз в 2-3 дня до достижения максимально переносимой дозы (снижение частоты пульса не ниже 55 уд/мин). Максимальная возможная доза - 320 мг/сут; средняя доза - 40 мг на прием.<br/>
+		Пропранолол можно заменить на надолол, тимолол (половина суточной дозы пропранолола, 1 раз в сутки).<br/><br/>
+		У 30% больных не наблюдается снижение градиента печеночного венозного давления (ГВПД) в ответ на терапию бета-блокаторами даже при адекватной дозировке. Данная категория пациентов выявляется при использовании инвазивных методов определения ГПВД. <br/>
+		Бета-блокаторы могут вызывать такие побочные эффекты, как слабость и импотенция. </div>
+<div>
+<br/>
+		4. <strong>Нитраты </strong>(не рекомендуется монотерапия нитратами). Изосорбид-5-мононитрат применяется для снижения портального давления. Применение изосорбид-5-мононитрата у пациентов с циррозом печени ограничивается его системными вазодилататорными эффектами, которые часто приводят к дальнейшему снижению кровяного давления и потенциально к (преренальному) повреждению почечной функции.</div>
+<div>
+<br/>
+		5. <strong>Вазоконстрикторы + вазодилататоры</strong>. Комбинированная терапия обеспечивает синергический эффект в уменьшении портального давления. Сочетание изосорбид-5-мононитрата с бета-блокаторами более эффективно для снижения портального давления (особенно у пациентов, не ответивших на монотерапию бета-блокаторами). Тем не менее, они оказывают значительное отрицательное воздействие на функцию почек и показатель долгосрочной смертности, особенно у пациентов старше 50 лет. Поэтому не рекомендуется стандартное применение комбинированной терапии.</div>
+<div>
+<br/><br/><strong>Хирургическое лечение портальной гипертензии</strong><br/><br/><strong>1. Портосистемное шунтирование</strong><br/><br/>
+		При портосистемном шунтировании проводятся портокавальное (общая декомпрессия) или дистальное спленоренальное шунтирование (ДСРШ). Внепеченочные шунтирующие операции выполняются пациентам с классом тяжести А. Больным с классом тяжести В показано трансъюгулярное интрапеченочное портосистемное шунтирование.<br/><br/><div>
+<div>
+<strong>Дистальное спленоренальное шунтирование </strong>базируется на создании двух изолированных зон давления в брюшной полости:<br/>
+				- <strong>зона низкого давления</strong> - в левой половине брюшной полости (за счет оттока крови из гастроэзофагеальной области через короткие вены желудка и левую желудочно-сальниковую вену в селезенку, а откуда в систему нижней полой вены через анастомоз «конец в бок» с левой печеночной веной);</div>
+<div>
+				- <strong>зона высокого давления</strong> - в правой половине (за счет сохраненного <aterm term="1">мезентериального</aterm> венозного притока в воротную вену), что препятствует дальнейшему снижению портальной перфузии и значительно уменьшает вероятность развития послеоперационной энцефалопатии. В дальнейшем были предложены анастомозы между левой желудочной и левой почечными венами, анастомоз «бок в бок» между нижней брыжеечной и нижней полой венами, анастомозы с использованием аутовенозной и синтетических вставок.</div>
+<p>
+<strong>Критерии отбора больных для ДСРШ:</strong><br/>
+				- объем печени по данным УЗИ должен быть равен от 1000 до 2500 мл;<br/>
+				- уровень портальной перфузии, по данным допплерографии, должен составлять не менее 30%;<br/>
+				- селезеночная вена, по данным ангиографии, должна иметь диаметр 8-12 мм, длину - 5-8 см от ворот селезенки до места слияния с брыжеечными венами;<br/>
+				- расстояние между левой печеночной и селезеночными венами не должно превышать на рентгенограмме двух поперечных теней позвонка;<br/>
+				- больные должны принадлежать к группам А и В по шкале печеночной недостаточности Чайлда-Пью.</p>
+<p>
+				Для предупреждения тромбоза шунта в дооперационном и послеоперационном периоде больным назначается гепарин в дозах 100-200 Ед/кг.<br/>
+				В сравнении с другими вариантами шунтирования, при ДСРШ значительно реже возникают повторные кровотечения или развивается <aterm term="1">энцефалопатия</aterm>. Улучшается качество жизни больных. Выживаемость в течение года достигает 88%, в течение 5 лет - 75%. </p>
+<div>
+<strong>Трансъюгулярное интрапеченочное портосистемное шунтирование </strong>(ТИПШ) <br/><br/>
+				Является операцией выбора. Его эффективность составляет около 90%; возникновение осложнений и неэффективность данного метода присутствуют в 10% случаев. Смертность непосредственно от осложнений ТИПШ составляет 2-5%. Проходимость шунта в течение первого года - около 70%, второго - около 55%. Частота восстановления проходимости шунта после его ревизии - более 90% . Контроль шунта при его проходимости необходим сразу, затем через три, через шесть и еще через шесть месяцев.<br/><br/><strong>Показания к ТИПШ:</strong><br/>
+				- острое некупируемое консервативной терапией и склеротерапией кровотечение из варикозно расширенных вен пищевода и желудка;</div>
+</div>
+<div>
+			- хроническое рецидивирующее массивное кровотечение, не предотвращаемое склеротерапией;<br/>
+			- недоступность варикозно расширенных вен пищевода и желудка или <aterm term="1">гастропатия</aterm> на фоне портальной гипертензии;<br/>
+			- рефрактерный асцит или <aterm term="1">гидроторакс</aterm>;<br/>
+			- синдром Бадда-Киари и другие венооклюзионные заболевания.<br/><br/><strong>Противопоказания к ТИПШ:</strong><br/>
+			- правожелудочковая сердечная недостаточность;<br/>
+			- поликстоз печени;<br/>
+			- печеночная недостаточность;<br/>
+			- системные инфекции;<br/>
+			- тромбоз воротной вены;<br/>
+			- обструкция желчных протоков;<br/>
+			- выраженная печеночная <aterm term="1">энцефалопатия</aterm>.</div>
+</div>
+<div>
+<br/><br/><strong>2. Рентгеноэндоваскулярная эмболизация</strong> <strong>селезеночной артерии -</strong> при гиперспленизме снижает портальное давление, купирует явления гиперспленизма и позволяет в дальнейшем выполнить при необходимости более сложные повторные корригирующие операции.<br/><br/><br/><strong>3. Спленэктомия</strong> - снижает портальное давление, в том числе и венах пищевода, но как самостоятельная операция она не имеет решающего значения.<br/>
+		Спленомегалия без признаков <aterm term="1">цитопении</aterm> подлежит хирургическому лечению только в том случае, если селезенка очень больших размеров сдавливает органы брюшной полости, нарушая их функцию.<br/>
+		 </div>
+</div><div>
+<br/>
+	4. <strong>Трансплантация печени</strong> позволяет облегчить течение портальной гипертензии, предупредить возникновение повторных кровотечений, уменьшить проявления асцита и энцефалопатии. Эта операция выполняется пациентам с классом тяжести С по шкале по шкале печеночной недостаточности Чайлда-Пью.</div>
+</div>
+</div>
+</section>
+<section class="page-section" data-section-name="PROGNOSIS">
+<h2 class="page-section__title" id="prognosis">
+        Прогноз    </h2>
+<div class="container">
+<div class="row page-section__row">
+<p>
+<br/>
+	Прогноз у пациентов с портальной гипертензией определяется наличием кровотечений и степенью выраженности нарушений функции печени.<br/>
+	Риск возникновения повторных кровотечений из варикозных вен в течение 1-2 лет после первого эпизода составляет 50-75%.<br/>
+	Летальность при эпизоде кровотечения из варикозно расширенных вен пищевода достигает 30%.<br/>
+	Прогнозы также могут быть определены с помощью специальных шкал MELD/PELD.</p>
+</div>
+</div>
+</section>
+<section class="page-section" data-section-name="HOSPITALIZATION">
+<h2 class="page-section__title" id="hospitalization">
+        Госпитализация    </h2>
+<div class="container">
+<div class="row page-section__row">
+            
+            
+            
+            При наличие кровотечений и печеночной недостаточности с нарушениями сознания пациенты госпитализируются в экстренном порядке в отделение хирургии. 
+                    </div>
+</div>
+</section>
+<section class="page-section" data-section-name="PROPHYLAXIS">
+<h2 class="page-section__title" id="prophylaxis">
+        Профилактика    </h2>
+<div class="container">
+<div class="row page-section__row">
+<div style="text-align: justify; ">
+<br/>
+<strong>Первичная профилактика кровотечений из варикозно расширенных вен пищевода </strong>(AASLD, 2007)<br/>
+<br/>
+	1. Варикозные узлы малые + дополнительные факторы риска кровотечений (цирроз класса В, С и "красные маркеры"): назначение бета-адреноблокаторов.<br/>
+<br/>
+	2. Варикозные узлы средние или большие + дополнительные факторы риска кровотечений (цирроз класса В, С и "красные маркеры"): терапия бета-адреноблокаторами или эндоскопическое <aterm term="1">лигирование<span class="term-description" style="display: none;"><span>Лигирование - оперативный прием закрытия просвета органа трубчатой формы путем затягивания обведенной вокруг него лигатуры (нить, завязанная вокруг кровеносного сосуда или другого трубчатого органа)</span><br/></span></aterm>.</div>
+<div style="text-align: justify; ">
+<br/>
+	3. Варикозные узлы средние или большие без дополнительных факторов риска кровотечений (цирроз класса А, отсутствие "красных маркеров"): предпочтительна терапия бета-адреноблокаторами  или, при противопоказаниях к  бета-адреноблокаторам, эндоскопическое лигирoвание.</div>
+<div style="text-align: justify; ">
+<br/>
+<strong>Вторичная профилактика кровотечений из варикозно расширенных вен пищевода </strong>(AASLD, 2007):<br/>
+	- терапия  бета-адреноблокаторами и эндоскопическое лигирoвание;<br/>
+	- при рецидивах кровотечений показано наложение шунтов.<br/>
+<br/>
+<strong>Прогностические факторы вероятности варикозного расширения вен пищевода (ВРВП) при циррозе печени:</strong><br/>
+<br/>
+	- международное нормализованное отношение (МНО) &gt; 1.5;<br/>
+	- диаметр портальной вены &gt; 13 мм;<br/>
+	- тромбоцитопения.<br/>
+<br/>
+<strong>Оценка риска развития ВРВП</strong> осуществляется на основе присутствия перечисленных выше факторов у пациента:<br/>
+	- все факторы отсутствуют  - риск составляет менее 10%;<br/>
+	-  один фактор - 20-50%;<br/>
+	- два фактора - 40-60% <br/>
+	- три фактора -  более 90%. <br/>
+<br/>
+	Наличие одного или более факторов риска дает основания для проведения эндоскопии в целях выявления ВРВП и профилактических мер против развития кровотечения (World Gastroenterology Organisation 2008).<br/>
+<br/>
+<strong>Лечение кровотечений из варикозного расширения вен пищевода:</strong></div>
+<div style="text-align: justify; ">
+	1. Замещение объема циркулирующей крови до целевого гематокритного числа 25-30%.<br/>
+	2. Воздействие на свертывающую систему крови (переливание свежезамороженной плазмы, тромбоцитарной массы, аминокапроновая кислота).<br/>
+	3. Баллонное тампонирование (при массивных кровотечениях).<br/>
+	4.Октреотид (постоянная инфузия 50 мкг/ч).<br/>
+	5. Вазопрессин - постоянная инфузия не более 0,8 МЕ/мин в сопровождении в/в введения нитроглицерина в дозе 40 мкг/мин (под контролем АД). 6.Терлипрессин.<br/>
+	7. Эндоскопическая терапия: лигирoвание (предпочтительно) или склерозирование варикозно расширенных вен.<br/>
+	8. Профилактическая антибактериальная терапия.<br/>
+	9. Профилактика печеночной недостаточности (гипоаммониемическая терапия).<br/>
+	10. Антисекреторная терапия - блокаторы Н2-гистаминорецепторов или протонной помпы в максимальных дозах.<br/>
+	 </div>
+</div>
+</div>
+</section>
+<section class="page-section" data-index="14">
+<h2 class="page-section__title" id="information">
+        Информация    </h2>
+<div class="container">
+<section class="row page-field" data-field-name="LISTOFREFERENCES">
+<h3 class="page-field__title text-left" id="listofreferences">
+                    Источники и литература                </h3>
+<div class="page-field__data">
+<ol id="AdditionalListSources" type="I">
+<li level="1">
+<span>МакНелли Питер Р. Секреты гастроэнтерологии/ перевод с англ. под редакцией проф. Апросиной З.Г., Бином, 2005</span>
+<ol type="1">
+</ol>
+</li>
+<li level="1">
+<span>"Практические рекомендации Всемирной Гастроэнтерологической Организации:
+Варикозно расширенные вены пищевода (ВРВП)", 2008</span>
+<ol type="1">
+</ol>
+</li>
+<li level="1">
+<span>http://old.smed.ru/guides/articles/AR107/63/#article</span>
+<ol type="1">
+</ol>
+</li>
+</ol> </div>
+</section>
+</div>
+</section>
+<section class="page-section" data-section-name="ATTENTION">
+<h2 class="page-section__title" id="attention">
+        Внимание!    </h2>
+<div class="container">
+<div class="row page-section__row">
+<!--noindex-->
+<label class="attention-self-treatment-list__caption">Если вы не являетесь медицинским специалистом:</label>
+<ul class="attention-self-treatment-list">
+<li>
+        Занимаясь самолечением, вы можете нанести непоправимый вред своему здоровью.
+         
+    </li>
+<li>
+        Информация, размещенная на сайте MedElement, не может и не должна заменять очную консультацию врача.
+        Обязательно
+        обращайтесь в медицинские учреждения при наличии каких-либо заболеваний или беспокоящих вас симптомов.
+         
+    </li>
+<li>
+        Выбор лекарственных средств и их дозировки, должен быть оговорен со специалистом. Только врач может
+        назначить
+        нужное лекарство и его дозировку с учетом заболевания и состояния организма больного.
+         
+    </li>
+<li>
+        Сайт MedElement является исключительно информационно-справочным ресурсом. Информация, размещенная на данном
+        сайте, не должна использоваться для самовольного изменения предписаний врача.
+         
+    </li>
+<li>
+        Редакция MedElement не несет ответственности за какой-либо ущерб здоровью или материальный ущерб, возникший
+        в
+        результате использования данного сайта.
+    </li>
+</ul>
+<!--/noindex-->
+</div>
+</div>
+</section>
+</main>

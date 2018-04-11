@@ -1,0 +1,644 @@
+<main id="main">
+<section class="page-information disease-information">
+<div class="container">
+<h1 class="page-information__name disease-information__name">
+            Функциональная диарея (K59.1)        </h1>
+<div class="disease-information__version-name">
+<p class="lead text-muted">
+                
+                Версия: Справочник заболеваний MedElement                </p>
+</div>
+<div class="disease-information__categories-mkb">
+<label>Категории МКБ: </label>
+                Функциональная диарея (K59.1)            </div>
+<div class="disease-information__sections-medicine">
+<label>Разделы медицины: </label>
+                Гастроэнтерология            </div>
+</div>
+</section>
+<section class="page-section" data-index="0">
+<h2 class="page-section__title" id="general_information">
+        Общая информация    </h2>
+<div class="container">
+<div class="page-links-actions">
+<ul>
+<li class="page-links-actions__item page-links-actions__item--print" data-ga-event-action="Клик по ссылке: Версия для печати" data-ga-event-category="Links actions" data-ga-event-label="" data-send-ga-event="">
+<a href="javascript:window.print()">Версия для печати
+                    <svg class="svg-icon svg-icon-printer" height="18" version="1.1" viewbox="0 0 24 24" width="18" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<path d="M18,3H6V7H18M19,12A1,1 0 0,1 18,11A1,1 0 0,1 19,10A1,1 0 0,1 20,11A1,1 0 0,1 19,12M16,19H8V14H16M19,8H5A3,3 0 0,0 2,11V17H6V21H18V17H22V11A3,3 0 0,0 19,8Z"></path>
+</svg>
+</a>
+</li>
+</ul>
+</div>
+<section class="row page-field" data-field-name="SHORTDESCRIPTION">
+<h3 class="page-field__title text-left" id="shortdescription">
+                    Краткое описание                </h3>
+<div class="page-field__data">
+<div style="text-align: justify;">
+<br/>
+<strong>Функциональная диарея - </strong>непрерывный или рецидивирующий синдром, характеризующийся отхождением мягкого (кашицеобразного) или водянистого стула не менее чем в 75% случаев дефекации, без наличия боли в животе или дискомфорта, с частотой более 3 раз в сутки. При этом симптомы возникли по меньшей мере за шесть месяцев до момента диагностики и сохраняются на протяжении по меньшей мере 3-х последних месяцев до момента диагностики.<br/>
+<br/>
+	Для детей функциональная диарея определяется как безболезненная дефекация 3 и более раз в сутки большим количеством неоформленного стула, продолжающаяся 4 и более недель, с дебютом в период новорожденности или в дошкольные годы. При этом нет отставания росте, если рацион достаточно калорийный.<br/>
+<br/>
+	Определяющим критерием функциональной диареи является не частота стула, а содержание в нем воды. Если в норме содержание воды в стуле составляет 60-70%, то жидкий стул принято определять как содержащий 85% воды, а водянистый стул - 90% и более.<br/>
+	Поскольку частота стула коррелирует со скоростью прохождения масс по кишечнику, то масса стула обратно пропорциональна частоте дефекаций.<br/>
+<br/>
+<br/>
+<strong>Примечание.</strong> Из данной подрубрики исключен:  "<a href="https://diseases.medelement.com/disease/view/NDcyNA%253D%253D/fDF8Mnw%253D" target="_blank">Синдром раздраженного кишечника с диареей</a>" - K58.0.</div>
+</div>
+</section>
+</div>
+</section>
+<section class="page-section" data-section-name="ETIOLOGY">
+<h2 class="page-section__title" id="etiology">
+        Этиология и патогенез    </h2>
+<div class="container">
+<div class="row page-section__row">
+<div style="text-align: justify;">
+<br/>
+	Этиология и патогенез функциональной диареи не установлены. <br/>
+	Патофизиологическая картина свидетельствует об усиленной перистальтике толстой кишки, чаще всего в ответ на психические реакции (волнения, депрессия).<br/>
+	Наиболее распространенным (хотя и не бесспорным) является следующее ниже представление о патофизиологии функциональной диареи.</div>
+<div style="text-align: justify;">
+<br/>
+	В основе функциональной диареи лежит ускорение транзита кишечного содержимого, связанное с усилением двигательной активности кишечника.<br/>
+<br/>
+	Нарушение моторики связано с двумя основными факторами:<br/>
+<br/>
+	1. Повышенная чувствительность рецепторного аппарата стенки кишечника к растяжению приводит к позывам на дефекацию, возникающим даже при незначительном  растяжении кишечника.</div>
+<div style="text-align: justify;">
+<br/>
+	2. Нервно-психические факторы (психоэмоциональные стрессы) ведут к нарушению центральной регуляции моторной секреторной и других функций кишечника, что в свою очередь влечет гиперкинетическую дискинезию кишечника, повышенную возбудимость и сократительную активность кишечной мускулатуры как в покое, так и под влиянием эмоциональных и пищевых нагрузок.<br/>
+	 </div>
+</div>
+</div>
+</section>
+<section class="page-section" data-section-name="EPIDEMIOLOGY">
+<h2 class="page-section__title" id="epidemiology">
+        Эпидемиология    </h2>
+<div class="container">
+<div class="row page-section__row">
+<p>Пол: Все</p>
+<p>
+        Возраст: преимущественно зрелый </p>
+<p>Признак распространенности: Распространено</p>
+<p>Соотношение полов(м/ж): 1.2</p>
+<br/>
+<div style="text-align: justify;">
+	В целом заболеваемость функциональной диареей немного превышает таковую при синдроме раздраженного кишечника с диареей.<br/>
+<br/>
+<strong>Регион</strong>. Наибольшая распространенность наблюдается в промышленно развитых странах и регионах. По различным оценкам она составляет в среднем 1,5-2%, с разбросом 0,9-4,8% и выше.<br/>
+<br/>
+<strong>Пол.</strong> В отдельных исследованиях отмечено незначительное преобладание мужчин с выравниванием и даже превышением этого соотношения в пользу женщин в группе пациентов старше 70 лет.<br/>
+<br/>
+<strong>Возраст</strong>. Распространено во всех возрастных группах, однако пик обращаемости приходится на возраст 40-80 лет, особенно на возраст 60-80 лет. Заболеваемость в возрасте 18-29 лет была значительно меньше. Средний возраст пациента с функциональной диареей определяется как 48 лет.<br/>
+<br/>
+<strong>Дети.</strong> Достоверная статистика для детского возраста отсутствует.</div>
+</div>
+</div>
+</section>
+<section class="page-section" data-section-name="FACTORSANDRISKGROUPS">
+<h2 class="page-section__title" id="factorsandriskgroups">
+        Факторы и группы риска    </h2>
+<div class="container">
+<div class="row page-section__row">
+<div style="text-align: justify;">
+<br/>
+	Факторы риска достоверно не определены.<br/>
+<br/>
+<strong>Вероятные факторы риска:</strong><br/>
+	- стресс;<br/>
+	- повышенный <aterm term="1">ИМТ<span class="term-description" style="display: none;"><span>Индекс массы тела (ИМТ) - величина, позволяющая оценить степень соответствия массы человека и его роста и, тем самым, косвенно оценить, является ли масса недостаточной, нормальной или избыточной. Индекс массы тела рассчитывается по формуле: I= m/h²,
+где: m — масса тела в килограммах, h — рост в метрах, и измеряется в кг/м²</span><br/></span></aterm>;<br/>
+	- семейный анамнез функциональной диареи.<br/>
+<br/>
+	Не обнаружено значимой связи между функциональной диареей и условиями жизни, образованием, профессией, общим ежемесячным доходом семьи, курением, потреблением алкоголя или частотой физических упражнений.</div>
+</div>
+</div>
+</section>
+<section class="page-section" data-index="4">
+<h2 class="page-section__title" id="clinical">
+        Клиническая картина    </h2>
+<div class="container">
+<section class="row page-field" data-field-name="THESIS">
+<h3 class="page-field__title text-left" id="thesis">
+                    Клинические критерии диагностики                </h3>
+<div class="page-field__data">
+                    
+                    утренняя или дневная диарея; частый стул; императивные позывы на дефекацию; вздутие живота; чувство неполного опорожнения кишечника; метеоризм; урчание в животе                </div>
+</section>
+<section class="row page-field" data-field-name="ANTIPRAXIA">
+<h3 class="page-field__title text-left" id="antipraxia">
+                    Cимптомы, течение                </h3>
+<div class="page-field__data">
+<div>
+<br/><strong>Взрослые</strong><br/><br/>
+	Наиболее распространенные симптомы функциональной диареи:<br/>
+	- кашицеобразный, мягкий или водянистый стул (82%);<br/>
+	- более чем 3 испражнения в день (41%);<br/>
+	- императивные позывы на дефекацию (30%).<br/><br/>
+	Количество (частота) водянистого или жидкого стула должна превышать 75% от всего количества дефекаций.<br/>
+	Симптомы должны быть постоянными в течение 3 месяцев и сохраняться не менее чем в течение 6 месяцев до установления диагноза. <br/>
+	Дефекации происходят обычно в утреннее и/или дневное время.<br/><br/>
+	Другие симптомы у каждого третьего пациента включали в себя:<br/>
+	- чувство неполного опорожнения после дефекации (26%);<br/>
+	- чувство переполнения желудка, вздутие живота (22%);<br/>
+	- примесь слизи во время дефекации (9%). <br/><br/><strong>Дети. </strong>Диагностические критерии<br/><br/>
+	Более 4 недель безболезненной ежедневной повторяющейся дефекации 3 и более раз неоформленным стулом, вместе со всеми следующими характеристиками:<br/>
+	- начало симптомов между 6-ю и 36-ю месяцами жизни;<br/>
+	- дефекация появляется во время бодрствования;<br/>
+	- нет задержки в развитии, если энергетические потребности адекватно удовлетворяются.<br/>
+	 </div><div class="table-responsive"><table border="1" cellpadding="1" cellspacing="1"><tbody><tr><td>
+<strong><span><span>Клинические симптомы</span></span></strong></td>
+<td>
+<strong><span><span>Характеристика</span></span></strong></td>
+</tr><tr><td>
+<div>
+<span><span> Боли и/или дискомфорт в животе (локализуются чаще в боковых и нижних отделах живота)</span></span></div>
+</td>
+<td>
+<div>
+<span><span> - приступообразный характер</span></span></div>
+<div>
+<span><span> - непродолжительны</span></span></div>
+<div>
+<span><span> - могут быть дистензионные боли, чувство  распирания и тяжести внизу живота</span></span></div>
+</td>
+</tr><tr><td>
+<span><span>Изменение частоты стула</span></span></td>
+<td>
+<div>
+<span><span>- 2-4 раза в день, в период обострения может</span></span></div>
+<div>
+<span><span>быть и чаще<br/>
+					- обычно в дневные и утренние </span></span><span>часы</span></div>
+</td>
+</tr><tr><td>
+<span><span>Изменение консистенции кала</span></span></td>
+<td>
+<span><span>- жидкий<br/>
+				- кашицеобразный<br/>
+				- может быть гетерогенный характер кала: вслед за плотным следует кашицеобразный и жидкий</span></span></td>
+</tr><tr><td>
+<span><span> Наличие примесей в кале</span></span></td>
+<td>
+<div>
+<span><span>Не характерно</span></span></div>
+</td>
+</tr><tr><td>
+<div>
+<span><span>Увеличение объема кишечного содержимого</span></span></div>
+</td>
+<td>
+<div>
+<span><span>Не характерно</span></span></div>
+</td>
+</tr><tr><td>
+<div>
+<span><span>Чередование запора и поноса</span></span></div>
+</td>
+<td>
+<span><span>Характерно</span></span></td>
+</tr><tr><td>
+<span><span>Неполное опорожнение кишечника</span></span></td>
+<td>
+<span><span>Характерно</span></span></td>
+</tr><tr><td>
+<span><span>Вздутие живота, метеоризм, урчание</span></span></td>
+<td>
+<span><span>Характерно</span></span></td>
+</tr><tr><td>
+<div>
+<span><span>Болезненность при пальпации</span></span></div>
+</td>
+<td>
+<div>
+<span><span>В области сигмы или по ходу толстого кишечника</span></span></div>
+</td>
+</tr></tbody></table></div><div>
+	 </div>
+</div>
+</section>
+</div>
+</section>
+<section class="page-section" data-section-name="DIAGNOSTICS">
+<h2 class="page-section__title" id="diagnostics">
+        Диагностика    </h2>
+<div class="container">
+<div class="row page-section__row">
+<div>
+<br/>
+	Диагноз функциональной диареи ставится методом исключения органической патологии и вторичных функциональных расстройств (при эндокринной патологии, при использовании слабительных или иных лекарственных препаратов с послабляющим эффектом действия).  <br/><br/>
+	Клинические признаки, позволяющие предположить функциональный характер диареи:</div><div>
+	- отсутствие диареи в ночное время; </div><div>
+	- утренний стул (как правило, после завтрака); </div><div>
+<div>
+		- императивный позыв на дефекацию. <br/><br/><strong>Программа обследования</strong> (аналогична программе обследования у больных с синдромом раздраженного кишечника)<br/><div>
+<br/><div class="table-responsive"><table border="1" cellpadding="1" cellspacing="1"><tbody><tr><td>
+<span><span><strong>Метод</strong></span></span></td>
+<td>
+<span><span><strong>Целесообразность</strong></span></span></td>
+<td>
+<span><span><strong>Кратность</strong></span></span></td>
+</tr><tr><td>
+<span><span>Ректороманоскопия</span></span></td>
+<td>
+<span><span>Исключить язвенный колит, опухоли прямой кишки</span></span></td>
+<td>
+<span><span>Однократно</span></span></td>
+</tr><tr><td>
+<span><span>Эзофагодуоденоскопия с биопсией слизистой оболочки двенадцатиперстной кишки</span></span></td>
+<td>
+<span><span>Исключить целиакию, болезнь Уиппла</span></span></td>
+<td>
+<span><span>Однократно</span></span></td>
+</tr><tr><td>
+<span><span>Рентгенологическое исследование желудка и тонкой кишки</span></span></td>
+<td>
+<span><span>Исключить опухоли тонкой кишки</span></span></td>
+<td>
+<span><span>Однократно</span></span></td>
+</tr><tr><td>
+<span><span>Колонофиброскопия с биопсией и осмотром дистальных отделов подвздошной кишки или ирригоскопия</span></span></td>
+<td>
+<span><span>Исключить болезнь Крона, опухоли толстой кишки, дивертикулез</span></span></td>
+<td>
+<span><span>Однократно</span></span></td>
+</tr><tr><td>
+<span><span>УЗИ органов брюшной полости и петель кишечника</span></span></td>
+<td>
+<span><span>Исключить заболевания печени, желчного пузыря, поджелудочной железы, изменения просвета кишки (сужение, расширение)</span></span></td>
+<td>
+<span><span>Однократно</span></span></td>
+</tr><tr><td>
+<span><span>Желудочная рН-метрия</span></span></td>
+<td>
+<span><span>Исключить гипо-, гиперсекрецию</span></span></td>
+<td>
+<span><span>Однократно</span></span></td>
+</tr><tr><td>
+<span><span>Допплерография сосудов брюшной полости</span></span></td>
+<td>
+<span><span>Исключить синдром абдоминальной ишемии</span></span></td>
+<td>
+<span><span>Однократно</span></span></td>
+</tr><tr><td>
+<span><span>Сфинктероманометрия (при запорах)</span></span></td>
+<td>
+<span><span>Диагностическое значение</span></span></td>
+<td>
+<span><span>Однократно</span></span></td>
+</tr><tr><td>
+<span><span>Электромиография мышц тазового дна (при запорах)</span></span></td>
+<td>
+<span><span>Диагностическое значение</span></span></td>
+<td>
+<span><span>Однократно</span></span></td>
+</tr><tr><td>
+<span><span>Баллонография</span></span></td>
+<td>
+<span><span>Диагностическое значение</span></span></td>
+<td>
+<span><span>Однократно</span></span></td>
+</tr><tr><td>
+<span><span>Электроколонография</span></span></td>
+<td>
+<span><span>Диагностическое значение</span></span></td>
+<td>
+<span><span>Однократно</span></span></td>
+</tr><tr><td>
+<span><span>Энтерография</span></span></td>
+<td>
+<span><span>Исключить лимфому</span></span></td>
+<td>
+<span><span>Однократно</span></span></td>
+</tr></tbody></table></div><p>
+<br/><strong>Консультации специалистов</strong></p>
+</div>
+<div>
+<div class="table-responsive"><table border="1" cellpadding="1" cellspacing="1"><tbody><tr><td>
+<span><span><strong>Специалист</strong></span></span></td>
+<td>
+<span><span><strong>Целесообразность</strong></span></span></td>
+<td>
+<span><span><strong>Кратность</strong></span></span></td>
+</tr><tr><td>
+<span><span>Эндокринолог</span></span></td>
+<td>
+<span><span>Тиреотоксикоз</span></span></td>
+<td>
+<span><span>Однократно</span></span></td>
+</tr><tr><td>
+<span><span>Гинеколог</span></span></td>
+<td>
+<span><span>Гинекологические заболевания</span></span></td>
+<td>
+<span><span>Однократно</span></span></td>
+</tr><tr><td>
+<span><span>Уролог</span></span></td>
+<td>
+<span><span>Простатит, импотенция</span></span></td>
+<td>
+<span><span>Однократно</span></span></td>
+</tr><tr><td>
+<span><span>Психоневролог</span></span></td>
+<td>
+<span><span>Психоэмоциональные нарушения</span></span></td>
+<td>
+<span><span>Двукратно: до и после лечения</span></span></td>
+</tr><tr><td>
+<span><span>Физиотерапевт</span></span></td>
+<td>
+<span><span>Оценка эффективности лечения</span></span></td>
+<td>
+<span><span>Двукратно: до и после лечения</span></span><br/>
+							 </td>
+</tr></tbody></table></div></div>
+</div>
+</div><br/>
+</div>
+</div>
+</section>
+<section class="page-section" data-section-name="LABORATORYDIAGNOSTICS">
+<h2 class="page-section__title" id="laboratorydiagnostics">
+        Лабораторная диагностика    </h2>
+<div class="container">
+<div class="row page-section__row">
+<br/><p>
+Специфические изменения отсутствуют.<br/></p><div>
+<br/>
+	Лабораторная диагностика включает:<br/><br/><div class="table-responsive"><table border="1" cellpadding="1" cellspacing="1"><tbody><tr><td>
+<span><strong><span>Показатель</span></strong></span></td>
+<td>
+<span><strong><span>Целесообразность</span></strong></span></td>
+<td>
+<span><strong><span>Кратность*</span></strong></span></td>
+</tr><tr><td>
+<span><span>Общий анализ крови</span></span></td>
+<td>
+<span><span>Скрининг </span></span></td>
+<td>
+<span><span>Однократно </span></span></td>
+</tr><tr><td>
+<span><span>Общий анализ мочи</span></span></td>
+<td>
+<span><span>Скрининг </span></span></td>
+<td>
+<span><span>Однократно </span></span></td>
+</tr><tr><td>
+<span><span>Копрограмма</span></span></td>
+<td>
+<span><span>Скрининг </span></span></td>
+<td>
+<span><span>Однократно </span></span></td>
+</tr><tr><td>
+<span><span>Кал на дисбактериоз </span></span></td>
+<td>
+<span><span>Скрининг </span></span></td>
+<td>
+<span><span>Однократно </span></span></td>
+</tr><tr><td>
+<span><span>Бактериологический анализ кала </span></span></td>
+<td>
+<span><span>Исключить острую кишечную инфекцию </span></span></td>
+<td>
+<span><span>Трехкратно </span></span></td>
+</tr><tr><td>
+<span><span>Анализ кала на скрытую кровь </span></span></td>
+<td>
+<span><span>Дифференциальная диагностика с<br/>
+					воспалительными или онкологическими заболеваниями толстой кишки </span></span></td>
+<td>
+<span><span>Трехкратно </span></span></td>
+</tr><tr><td>
+<span><span>Общий билирубин крови, АСТ, АЛТ, ЩФ, ГГТП </span></span></td>
+<td>
+<span><span>Исключить сопутствующее заболевание печени </span></span></td>
+<td>
+<span><span>Однократно </span></span></td>
+</tr><tr><td>
+<span><span>Иммунологическое исследование биологических проб пациентов методом реакции коаглютинации на антигены кишечных инфекций </span></span></td>
+<td>
+<span><span>Исключить острые кишечные инфекции (остаточные явления или в анамнезе) </span></span></td>
+<td>
+<span><span>Однократно</span></span></td>
+</tr><tr><td>
+<span><span>Исследование сыворотки крови методом реакции непрямой гемагглютинации на титры антител к кишечным инфекциям </span></span></td>
+<td>
+<span><span>Исключить острые кишечные инфекции в анамнезе</span></span></td>
+<td>
+<span><span>Однократно </span></span></td>
+</tr><tr><td>
+<span><span>Исследование иммуноглобулинов сыворотки крови </span></span></td>
+<td>
+<span><span>Возможно снижение, </span><span>исключить<br/>
+					гипогаммаглобулинемию </span></span></td>
+<td>
+<span><span>Однократно </span></span></td>
+</tr><tr><td>
+<span><span>Исследование гормонов щитовидной железы </span></span></td>
+<td>
+<span><span>Исключить гипертиреоз</span><br/><span>Гипотиреоз </span></span></td>
+<td>
+<span><span>Однократно </span></span></td>
+</tr><tr><td>
+<span><span>Исследование интестинальных гормонов в сыворотке крови (вазоактивный интестинальный пептид, гастрин) при тяжелой диарее. </span></span></td>
+<td>
+<span><span>Дифференциальная диагностика с гормонально-активными опухолями </span></span></td>
+<td>
+<span><span>Однократно </span></span></td>
+</tr><tr><td>
+<span><span>Водородный дыхательный тест с лактозой </span></span></td>
+<td>
+<span><span>Определить степень бактериального обсеменения тонкой кишки. Исключить лактазную недостаточность </span></span></td>
+<td>
+<span><span>Однократно </span></span></td>
+</tr></tbody></table></div><p>
+		* <span>При отклонении показателя от нормы исследование повторяют после лечения.</span></p>
+</div><br/><p>
+Также необходима визуальная оценка кала по Бристольской шкале.<br/><br/></p>
+</div>
+</div>
+</section>
+<section class="page-section" data-section-name="DIFFERENTIALDIAGNOSIS">
+<h2 class="page-section__title" id="differentialdiagnosis">
+        Дифференциальный диагноз    </h2>
+<div class="container">
+<div class="row page-section__row">
+<div>
+<br/>
+	1. <strong>Синдром раздраженного кишечника с диареей </strong>(СРК-Д). Симптомы при функциональной диарее схожи с СРК-Д, но отличаются меньшей выраженностью проявлений и, в первую очередь, отсутствием боли в животе.<br/>
+	Сочетание периодических поносов и запоров с болью в животе характерно для СРК-Д, тогда как безболевая частая диарея малыми порциями характерна для функциональной диареи. Применительно к детям дифференциальная диагностика может быть сложна. <br/><br/>
+	2<strong>. Диарея, связанная с пищей</strong>.  Пробная селективная диетотерапия (исключение тех или иных продуктов) может исключить дисахаридазную недостаточность, целиакию, алиментарный и аллергический энтероколит. Догадки могут быть подтвеждены биопсией и исследованием специфических антител, уровнем эозинофилов, IgE  и других показателей.<br/><br/>
+	3. <strong>Инфекционные энтероколиты</strong> (включая синдром избыточного роста в тонком кишечнике). Диагностика не представляет затруднений. Острое начало, признаки интоксикации, лихорадка, быстрое обезвоживание, нахождение в кале токсинов, паразитов, лейкоцитов, положительные серологические и бактериологические тесты.<br/><br/>
+	4.<strong> Неинфекционные колиты</strong> (болезнь Крона, неспецифический язвенный колит; микроскопические, токсические колиты; болезнь Уиппла; тропическая спру и другие) характеризуются примесью крови в стуле, потерей веса, специфическими изменениями при визуализации, специфическими маркерами и прочим.<br/><br/>
+	5. <strong>Стеаторея</strong>. Изменения в крови и стуле.<br/><br/>
+	6. <strong>Диарея при СПИДе</strong>. Маркеры ВИЧ, идентификация специфической флоры.<br/><br/>
+	7. <strong>Лекарственная диарея</strong>. Анамнез.<br/><br/>
+	8. <strong>Гормональные проблемы</strong> (гиперпаратиреоз, гормонпродуцирующие опухоли и пр.). Определение показателей в крови, методы визуализации.</div><br/>
+</div>
+</div>
+</section>
+<section class="page-section" data-section-name="SEQUELAE">
+<h2 class="page-section__title" id="sequelae">
+        Осложнения    </h2>
+<div class="container">
+<div class="row page-section__row">
+<div style="text-align: justify;">
+<br/>
+	Осложнения функциональной диареи не описаны.<br/>
+	Как предполагаемые осложнения могут встречаться раздражение кожи области ануса водянистым стулом, преимущественно у маленьких детей.<br/>
+	Никто из пациентов с функциональной диареей не имел признаков электролитного дисбаланса, обезвоживания, белково-энергетической недостаточности, отставания в физическом или умственном развитии. <br/>
+	 </div>
+</div>
+</div>
+</section>
+<section class="page-section" data-section-name="THERAPY">
+<h2 class="page-section__title" id="therapy">
+        Лечение    </h2>
+<div class="container">
+<div class="row page-section__row">
+<div>
+<br/>
+	Лечение построено на тех же принципах что и лечение синдрома раздраженного кишечника с диареей. <br/><br/>
+	Как только диагноз установлен, врач и пациент должны сначала сосредоточиться на выявлении, устранении и/или лечении отягчающих факторов, которые могут включать:<br/>
+	- физиологические (например, избыточный бактериальный рост в тонком кишечнике);<br/>
+	- психологические  (например, стресс и тревогу);<br/>
+	- диетические (например, нарушение всасывания углеводов). <br/>
+	После устранения описанных факторов может быть начата соответствующая медикаментозная терапия.<br/><br/>
+	В целом лечение включает следующие параметры:<br/>
+	- коррекция диеты;<br/>
+	- изменение образа жизни;<br/>
+	- фармакологическая терапия;<br/>
+	- альтернативные методики (психологические методики коррекции).<br/><br/><strong>Основные аспекты терапии</strong><br/><br/>
+	1. Важными представляются установление доверительных отношений с врачом, уверенное изложение и объяснение симптомов функциональной диареи пациенту.<br/><br/>
+	2. Нормализация диеты и отмена лекарств. Исключение всех потенциально могущих вызвать диарею и вздутие живота продуктов (кофеин, бобовые, сорбит), а также дисахаридов и медикаментов, влияющих на моторику желудочно-кишечного тракта.<br/>
+	Отдельными исследователями доказана роль увеличения содержания клетчатки в пище.  <br/><br/>
+	3. Эмпирическая терапия антидиарейными препаратами, которые аналогичны применяемым при лечении синдрома раздраженного кишечника с диареей. В этом отношении наиболее эффективным препаратом является лоперамид, который тормозит кишечную перистальтику, повышает тонус сфинктера заднего прохода и тормозит процессы секреции в кишечнике. Также применяются антацидные препараты с преобладанием алюминия, адсорбенты, селективные блокаторы кальциевых каналов (пинавериум). <br/><br/>
+	4. При неэффективности, возможна терапия антидепрессантами.<br/><br/><br/>
+	См. также "<a href="https://diseases.medelement.com/disease/view/NDcyNA%253D%253D/fDEyfA%253D%253D" target="_blank">Синдром раздраженного кишечника с диареей</a>" - K58.0.<br/>
+	 </div>
+</div>
+</div>
+</section>
+<section class="page-section" data-section-name="PROGNOSIS">
+<h2 class="page-section__title" id="prognosis">
+        Прогноз    </h2>
+<div class="container">
+<div class="row page-section__row">
+<div style="text-align: justify;">
+<br/>
+	Прогноз благоприятный для жизни. Описаны случаи купирования заболевания в течение 3-5 лет, особенно у детей. <br/>
+	У пациентов с функциональной диареей отмечаются значительные потери рабочего времени, связанные с частыми визитами к врачам.</div>
+</div>
+</div>
+</section>
+<section class="page-section" data-section-name="HOSPITALIZATION">
+<h2 class="page-section__title" id="hospitalization">
+        Госпитализация    </h2>
+<div class="container">
+<div class="row page-section__row">
+<br/>
+Не требуется. В отдельных случаях для проведения <aterm term="1">колоноскопии<span class="term-description" style="display: none;"><span>Колоноскопия -  метод исследования внутренней поверхности толстой кишки, основанный на ее осмотре с помощью колоноскопа.</span><br/></span></aterm>, рентгеноконтрастного исследования, других исследований. 
+                    </div>
+</div>
+</section>
+<section class="page-section" data-section-name="PROPHYLAXIS">
+<h2 class="page-section__title" id="prophylaxis">
+        Профилактика    </h2>
+<div class="container">
+<div class="row page-section__row">
+<br/>
+Не разработана.
+                    </div>
+</div>
+</section>
+<section class="page-section" data-index="13">
+<h2 class="page-section__title" id="information">
+        Информация    </h2>
+<div class="container">
+<section class="row page-field" data-field-name="LISTOFREFERENCES">
+<h3 class="page-field__title text-left" id="listofreferences">
+                    Источники и литература                </h3>
+<div class="page-field__data">
+<ol id="AdditionalListSources" type="I">
+<li level="1">
+<span>"Antidepressivos na gastroenterologia - Parte 2" Carlos Alberto Crespo de Souzapolbr, "Psychiatry on line Brasil", №18, 2013 </span>
+<ol type="1">
+</ol>
+</li>
+<li level="1">
+<span>"Epidemiology of Functional Diarrhea and Comparison with Diarrhea-Predominant Irritable Bowel Syndrome: A Population-Based Survey in China" Yan-Fang Zhao, Xiao-Jing Guo, Zhan-Sai Zhang еtс, www.plosone.org, aug 2012</span>
+<ol type="1">
+</ol>
+</li>
+<li level="1">
+<span>"Evaluation of lower functional gut disorders" Andrews CN, Storr M, "Canadian Journal of Gastroenterology", №22(7), 2008</span>
+<ol type="1">
+</ol>
+</li>
+<li level="1">
+<span>"Functional Bowel Disorders" George F. Longstreth, W. Grant Thompson, William D. Chey, Lesley A. Houghton, Fermin Mearin, Robin C. Spiller, "Gastroenterology" journal, №130, 2006</span>
+<ol type="1">
+</ol>
+</li>
+<li level="1">
+<span>"Functional diarrhea" Farthing MJ, "Current Gastroenterology Reports" journal, №7(5), 2005 </span>
+<ol type="1">
+</ol>
+</li>
+<li level="1">
+<span>"Treatment of functional diarrhea" Dellon ES, Ringel Y, "Current Treatment Options in Gastroenterology" journal, №9(4), 2006 </span>
+<ol type="1">
+</ol>
+</li>
+<li level="1">
+<span>Functional bowel disorders. Contributed by the International Foundation for Functional Gastrointestinal Disorders (IFFGD) and edited by the Patient Care Committee of the ACG. The American College of Gastroenterology</span>
+<ol type="1">
+</ol>
+</li>
+</ol> </div>
+</section>
+</div>
+</section>
+<section class="page-section" data-section-name="ATTENTION">
+<h2 class="page-section__title" id="attention">
+        Внимание!    </h2>
+<div class="container">
+<div class="row page-section__row">
+<!--noindex-->
+<label class="attention-self-treatment-list__caption">Если вы не являетесь медицинским специалистом:</label>
+<ul class="attention-self-treatment-list">
+<li>
+        Занимаясь самолечением, вы можете нанести непоправимый вред своему здоровью.
+         
+    </li>
+<li>
+        Информация, размещенная на сайте MedElement, не может и не должна заменять очную консультацию врача.
+        Обязательно
+        обращайтесь в медицинские учреждения при наличии каких-либо заболеваний или беспокоящих вас симптомов.
+         
+    </li>
+<li>
+        Выбор лекарственных средств и их дозировки, должен быть оговорен со специалистом. Только врач может
+        назначить
+        нужное лекарство и его дозировку с учетом заболевания и состояния организма больного.
+         
+    </li>
+<li>
+        Сайт MedElement является исключительно информационно-справочным ресурсом. Информация, размещенная на данном
+        сайте, не должна использоваться для самовольного изменения предписаний врача.
+         
+    </li>
+<li>
+        Редакция MedElement не несет ответственности за какой-либо ущерб здоровью или материальный ущерб, возникший
+        в
+        результате использования данного сайта.
+    </li>
+</ul>
+<!--/noindex-->
+</div>
+</div>
+</section>
+</main>

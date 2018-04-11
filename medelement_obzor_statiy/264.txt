@@ -1,0 +1,287 @@
+<main id="main">
+<section class="page-information disease-information">
+<div class="container">
+<h1 class="page-information__name disease-information__name">
+            Складчатый язык (K14.5)        </h1>
+<div class="disease-information__alternate-name">
+<label>Также: </label>
+                скротальный язык, lingua plicata, fissured tongue            </div>
+<div class="disease-information__version-name">
+<p class="lead text-muted">
+                
+                Версия: Справочник заболеваний MedElement                </p>
+</div>
+<div class="disease-information__categories-mkb">
+<label>Категории МКБ: </label>
+                Складчатый язык (K14.5)            </div>
+<div class="disease-information__sections-medicine">
+<label>Разделы медицины: </label>
+                Гастроэнтерология, Стоматология            </div>
+</div>
+</section>
+<section class="page-section" data-index="0">
+<h2 class="page-section__title" id="general_information">
+        Общая информация    </h2>
+<div class="container">
+<div class="page-links-actions">
+<ul>
+<li class="page-links-actions__item page-links-actions__item--print" data-ga-event-action="Клик по ссылке: Версия для печати" data-ga-event-category="Links actions" data-ga-event-label="" data-send-ga-event="">
+<a href="javascript:window.print()">Версия для печати
+                    <svg class="svg-icon svg-icon-printer" height="18" version="1.1" viewbox="0 0 24 24" width="18" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<path d="M18,3H6V7H18M19,12A1,1 0 0,1 18,11A1,1 0 0,1 19,10A1,1 0 0,1 20,11A1,1 0 0,1 19,12M16,19H8V14H16M19,8H5A3,3 0 0,0 2,11V17H6V21H18V17H22V11A3,3 0 0,0 19,8Z"></path>
+</svg>
+</a>
+</li>
+</ul>
+</div>
+<section class="row page-field" data-field-name="SHORTDESCRIPTION">
+<h3 class="page-field__title text-left" id="shortdescription">
+                    Краткое описание                </h3>
+<div class="page-field__data">
+<div style="text-align: justify;">
+<br/>
+<strong>Складчатый (скротальный) язык</strong> представляет собой врожденную аномалию языка. <br/>
+	Складчатый язык является одним из симптомов <aterm term="1">синдрома Мелькерссона-Розенталя<span class="term-description" style="display: none;"><span>Мелькерссона-Розенталя синдром - сочетание рецидивирующих неврита лицевого нерва, отека и уплотнения лица и губ со складчатым языком, реже с парестезиями пальцев и эпизодами расстройства глотания; этиология неясна</span><br/></span></aterm> ("Синдром Россолимо-Мелькерссона" - G51.2). Помимо этого складчатый язык в 30-50% случаев сочетается с <aterm term="1">десквамативным глосситом<span class="term-description" style="display: none;"><span>Десквамативный глоссит (син. географический язык)  – это воспалительно-дистрофическое заболевание слизистой оболочки языка, в ходе которого появляются участки десквамации: чешуйчатого шелушения</span><br/><a class="tooltip-term__more" href="https://diseases.medelement.com/disease/view/NDU3NQ%3D%3D/fDB8" target="_blank" title="Подробнее о десквамативным глосситом">Подробно</a></span></aterm>.<br/>
+	Увеличение и складчатость языка в сочетании со складчатостью щек сопутствуют <aterm term="1">акромегалии<span class="term-description" style="display: none;"><span>Акромегалия - эндокринная болезнь, обусловленная значительным увеличением секреции соматотропного гормона передней долей гипофиза; характеризуется увеличением размеров кистей, стоп, нижней челюсти, внутренних органов и нарушениями обмена веществ</span><br/></span></aterm>, синдрому Дауна.<br/>
+	Следует иметь в виду, что у людей пожилого возраста может возникнуть легкая складчатость языка и щек вследствие уменьшения <aterm term="1">тургора<span class="term-description" style="display: none;"><span>Тургор - напряженность и эластичность ткани, изменяющиеся в зависимости от ее физиологического состояния.</span><br/></span></aterm> слизистой оболочки, что не следует отождествлять с врожденным складчатым языком.</div>
+<div style="text-align: justify;">
+<br/>
+	Название "скротальный язык" связано с определенным внешним сходством кожи мошонки и поверхности языка.</div>
+</div>
+</section>
+</div>
+</section>
+<section class="page-section" data-section-name="ETIOLOGY">
+<h2 class="page-section__title" id="etiology">
+        Этиология и патогенез    </h2>
+<div class="container">
+<div class="row page-section__row">
+<div style="text-align: justify;">
+<br/>
+	Этиология и патогенез неизвестны. Наиболее вероятной является теория полигенного или аутосомно-доминантного типа наследования.</div>
+</div>
+</div>
+</section>
+<section class="page-section" data-section-name="EPIDEMIOLOGY">
+<h2 class="page-section__title" id="epidemiology">
+        Эпидемиология    </h2>
+<div class="container">
+<div class="row page-section__row">
+<p>Признак распространенности: Распространено</p>
+<p>Соотношение полов(м/ж): 1.1</p>
+<br/>
+<div style="text-align: justify;">
+	Распространенность складчатого языка варьируется в зависимости о региона. В США и Европе распространенность составляет в среднем 2-5% в популяции. В некоторых регионах мира распространенность может достигать 20%.<br/>
+	Отмечается небольшое преобладание мужчин.<br/>
+	Хотя заболевание может диагностироваться в любом возрасте, чуть более часто оно наблюдается у лиц зрелого и пожилого возраста. Выявляемость нарастает с возрастом. </div>
+</div>
+</div>
+</section>
+<section class="page-section" data-index="3">
+<h2 class="page-section__title" id="clinical">
+        Клиническая картина    </h2>
+<div class="container">
+<section class="row page-field" data-field-name="THESIS">
+<h3 class="page-field__title text-left" id="thesis">
+                    Клинические критерии диагностики                </h3>
+<div class="page-field__data">
+                    
+                    складки языка; жжение и дискомфорт после приема пищи; галитоз; макроглоссия                </div>
+</section>
+<section class="row page-field" data-field-name="ANTIPRAXIA">
+<h3 class="page-field__title text-left" id="antipraxia">
+                    Cимптомы, течение                </h3>
+<div class="page-field__data">
+<div style="text-align: justify;">
+<br/>
+	При складчатом языке больные могут предъявлять следующие<strong> жалобы:</strong><br/>
+	1. Наличие "трещин" языка, не сопровождающихся субъективными ощущениями при гигиенических процедурах. <br/>
+	2. Неприятные ощущения при приеме резко раздражающей пищи, обусловленные сочетанием складчатого языка с <aterm term="1">десквамативным глосситом<span class="term-description" style="display: none;"><span>Десквамативный глоссит (син. географический язык)  – это воспалительно-дистрофическое заболевание слизистой оболочки языка, в ходе которого появляются участки десквамации: чешуйчатого шелушения</span><br/><a class="tooltip-term__more" href="https://diseases.medelement.com/disease/view/NDU3NQ%3D%3D/fDB8" target="_blank" title="Подробнее о десквамативным глосситом">Подробно</a></span></aterm> (30-50% случаев). </div>
+<div style="text-align: justify;">
+	3. Плохой запах изо рта (галитоз) и жжение языка (особенно при приеме пищи). Жалобы связаны со скоплением и гниением в складках языка остатков пищи и клеток слущенного эпителия.</div>
+<div style="text-align: justify;">
+<br/>
+<strong>Данные осмотра</strong><br/>
+	По средней линии языка от кончика до желобоватых сосочков расположена основная глубокая продольная складка. Ее глубина может меняться, но в основном не превышает 6 мм.<br/>
+	Другие складки менее глубокие и направлены к глубокой продольной складке под разным углом, объединяясь в систему. Иногда складчатость и увеличение языка захватывают только его переднюю треть.<br/>
+	У детей глубина складок меньше, чем у взрослых. В глубине складок присутствуют сосочки. Хорошо выражены нитевидные сосочки языка, располагающиеся на боковых поверхностях складок и на их дне. Язык, как правило, немного увеличен - <aterm term="1">макроглоссия<span class="term-description" style="display: none;"><span>Макроглоссия - патологическое увеличение языка; наблюдается как аномалия развития или при наличии в языке хронического патологического процесса</span><br/></span></aterm>.<br/>
+	Рисунок складок может быть разным, наиболее распространена форма в виде листа или напоминающая рельеф поверхности головного мозга (мозговая форма). </div>
+<div style="text-align: justify;">
+<br/>
+<img alt="Складчатый язык" height-fact="174" id="preview_image" src="https://diseases.medelement.com/upload/8d2a9820d15b155bed1f68abc42bde89.jpg" style="width: 230px; height: 174px; border-width: 0px; border-style: solid; margin-left: 0px; margin-top: 0px; float: none;" title="Складчатый язык" width-fact="230"/></div>
+<div style="text-align: justify;">
+	 </div>
+</div>
+</section>
+</div>
+</section>
+<section class="page-section" data-section-name="DIAGNOSTICS">
+<h2 class="page-section__title" id="diagnostics">
+        Диагностика    </h2>
+<div class="container">
+<div class="row page-section__row">
+<div style="text-align: justify;">
+<br/>
+	Для диагностики складчатого языка не требуется, как правило, никаких дополнительных исследований. <br/>
+<br/>
+	Данные гистологического исследования:<br/>
+	- увеличение толщины собственной пластинки слизистой оболочки;<br/>
+	- потеря нитевидных сосочков поверхности слизистой оболочки;<br/>
+	- воспалительная  <aterm term="1">гиперплазия<span class="term-description" style="display: none;"><span>Гиперплазия - увеличение числа клеток, внутриклеточных структур, межклеточных волокнистых образований вследствие усиленной функции органа или в результате патологического новообразования ткани.</span><br/></span></aterm> эпителиальных тяжей;<br/>
+	- нейтрофильные микроабсцессы в эпителии;<br/>
+	- смешанные воспалительные <aterm term="1">инфильтраты<span class="term-description" style="display: none;"><span>Инфильтрат - участок ткани, характеризующийся скоплением обычно не свойственных ему клеточных элементов, увеличенным объемом и повышенной плотностью.</span><br/></span></aterm> в собственной пластинке слизистой оболочки.</div>
+</div>
+</div>
+</section>
+<section class="page-section" data-section-name="LABORATORYDIAGNOSTICS">
+<h2 class="page-section__title" id="laboratorydiagnostics">
+        Лабораторная диагностика    </h2>
+<div class="container">
+<div class="row page-section__row">
+<br/>
+ Не существует никаких специфических лабораторных тестов, способных подтвердить или опровергнуть диагноз складчатого языка. <br/>
+<br/>
+</div>
+</div>
+</section>
+<section class="page-section" data-section-name="DIFFERENTIALDIAGNOSIS">
+<h2 class="page-section__title" id="differentialdiagnosis">
+        Дифференциальный диагноз    </h2>
+<div class="container">
+<div class="row page-section__row">
+<div>
+<div>
+<br/>
+		Складчатый язык является одним из симптомов <aterm term="1">синдрома Мелькерссона-Розенталя</aterm>,  который включает еще два симптома: рецидивирующий отек губ и <aterm term="1">парез</aterm> лицевого нерва.<br/><br/>
+		Складчатость языка может наблюдаться при <aterm term="1">акромегалии</aterm>, болезни Дауна, <aterm term="1">синдроме Каудена</aterm>, <aterm term="1">синдроме Сименса</aterm>, <aterm term="1">синдроме Ханхарта</aterm>.</div>
+<div>
+<br/>
+		Складчатый аномальный язык имеет некоторое внешнее сходство с интерстициальным глосситом у больных третичным сифилисом, если гуммозный инфильтрат захватывает всю толщу языка (слизистый, подслизистый и мышечный слой). При этом спинка языка приобретет неравномерную бугристость, прорезана глубокими бороздами, отделяющими дольки воспаленного инфильтрата. В дальнейшем гуммозный инфильтрат замещается соединительной тканью, что приводит к склерозу (склерозиругощий глоссит). Движения языка при этом ограничены. При складчатом языке движения языка свободны и язык мягкий.<br/>
+		 </div>
+</div>
+</div>
+</div>
+</section>
+<section class="page-section" data-section-name="SEQUELAE">
+<h2 class="page-section__title" id="sequelae">
+        Осложнения    </h2>
+<div class="container">
+<div class="row page-section__row">
+<br/>
+При складчатом языке возможно инфицирование складок при несоблюдении гигиены полости рта. <br/>
+<br/>
+</div>
+</div>
+</section>
+<section class="page-section" data-section-name="THERAPY">
+<h2 class="page-section__title" id="therapy">
+        Лечение    </h2>
+<div class="container">
+<div class="row page-section__row">
+<div>
+<br/>
+	Не существует никаких лекарств, способных воздействовать на складчатый язык.<br/>
+	В случаях присоединения кандидозной инфекции рекомендуются обработка противогрибковыми средствами (10%-раствор натрия бората в глицерине), туширование языка анилиновыми красителями, местное применение клотримазола в виде 1%- крема 2-3 раза в день.</div>
+</div>
+</div>
+</section>
+<section class="page-section" data-section-name="PROGNOSIS">
+<h2 class="page-section__title" id="prognosis">
+        Прогноз    </h2>
+<div class="container">
+<div class="row page-section__row">
+<br/>
+Прогноз благоприятный.
+                    </div>
+</div>
+</section>
+<section class="page-section" data-section-name="HOSPITALIZATION">
+<h2 class="page-section__title" id="hospitalization">
+        Госпитализация    </h2>
+<div class="container">
+<div class="row page-section__row">
+<br/>
+Госпитализация не требуется.
+                    </div>
+</div>
+</section>
+<section class="page-section" data-section-name="PROPHYLAXIS">
+<h2 class="page-section__title" id="prophylaxis">
+        Профилактика    </h2>
+<div class="container">
+<div class="row page-section__row">
+<div style="text-align: justify;">
+<br/>
+	Первичная профилактика складчатого языка отсутствует.  <br/>
+	Вторичная профилактика направлена на предотвращение инфекции (в основном кандидозной) и заключается в соблюдении гигиены полости рта.</div>
+</div>
+</div>
+</section>
+<section class="page-section" data-index="12">
+<h2 class="page-section__title" id="information">
+        Информация    </h2>
+<div class="container">
+<section class="row page-field" data-field-name="LISTOFREFERENCES">
+<h3 class="page-field__title text-left" id="listofreferences">
+                    Источники и литература                </h3>
+<div class="page-field__data">
+<ol id="AdditionalListSources" type="I">
+<li level="1">
+<span>Brad W. Neville Oral &amp; Maxillofacial Pathology. Secjnd edition, V.B. Saunders Company, 2002</span>
+<ol type="1">
+</ol>
+</li>
+<li level="1">
+<span>Терапевтическая стоматология: национальное руководство /под ред. Дмитриевой Л.А., Масимовского Ю.М., М. : ГЭОТАР-Медиа, 2009</span>
+<ol type="1">
+</ol>
+</li>
+<li level="1">
+<span>"Common Tongue Conditions in Primary Care" Brian V. Reamy, Richard Derby and Christopher W. Bunt, American Family Physician journal, №81(5), mar 2010 </span>
+<ol type="1">
+</ol>
+</li>
+</ol> </div>
+</section>
+</div>
+</section>
+<section class="page-section" data-section-name="ATTENTION">
+<h2 class="page-section__title" id="attention">
+        Внимание!    </h2>
+<div class="container">
+<div class="row page-section__row">
+<!--noindex-->
+<label class="attention-self-treatment-list__caption">Если вы не являетесь медицинским специалистом:</label>
+<ul class="attention-self-treatment-list">
+<li>
+        Занимаясь самолечением, вы можете нанести непоправимый вред своему здоровью.
+         
+    </li>
+<li>
+        Информация, размещенная на сайте MedElement, не может и не должна заменять очную консультацию врача.
+        Обязательно
+        обращайтесь в медицинские учреждения при наличии каких-либо заболеваний или беспокоящих вас симптомов.
+         
+    </li>
+<li>
+        Выбор лекарственных средств и их дозировки, должен быть оговорен со специалистом. Только врач может
+        назначить
+        нужное лекарство и его дозировку с учетом заболевания и состояния организма больного.
+         
+    </li>
+<li>
+        Сайт MedElement является исключительно информационно-справочным ресурсом. Информация, размещенная на данном
+        сайте, не должна использоваться для самовольного изменения предписаний врача.
+         
+    </li>
+<li>
+        Редакция MedElement не несет ответственности за какой-либо ущерб здоровью или материальный ущерб, возникший
+        в
+        результате использования данного сайта.
+    </li>
+</ul>
+<!--/noindex-->
+</div>
+</div>
+</section>
+</main>

@@ -1,0 +1,266 @@
+<main id="main">
+<section class="page-information disease-information">
+<div class="container">
+<h1 class="page-information__name disease-information__name">
+            Перикардиальный выпот (невоспалительный) (I31.3)        </h1>
+<div class="disease-information__alternate-name">
+<label>Также: </label>
+                Хилоперикард            </div>
+<div class="disease-information__version-name">
+<p class="lead text-muted">
+                
+                Версия: Справочник заболеваний MedElement                </p>
+</div>
+<div class="disease-information__categories-mkb">
+<label>Категории МКБ: </label>
+                Перикардиальный выпот (НЕВОСПАЛИТЕЛЬНЫЙ)            </div>
+<div class="disease-information__sections-medicine">
+<label>Разделы медицины: </label>
+                Кардиология            </div>
+</div>
+</section>
+<section class="page-section" data-index="0">
+<h2 class="page-section__title" id="general_information">
+        Общая информация    </h2>
+<div class="container">
+<div class="page-links-actions">
+<ul>
+<li class="page-links-actions__item page-links-actions__item--print" data-ga-event-action="Клик по ссылке: Версия для печати" data-ga-event-category="Links actions" data-ga-event-label="" data-send-ga-event="">
+<a href="javascript:window.print()">Версия для печати
+                    <svg class="svg-icon svg-icon-printer" height="18" version="1.1" viewbox="0 0 24 24" width="18" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<path d="M18,3H6V7H18M19,12A1,1 0 0,1 18,11A1,1 0 0,1 19,10A1,1 0 0,1 20,11A1,1 0 0,1 19,12M16,19H8V14H16M19,8H5A3,3 0 0,0 2,11V17H6V21H18V17H22V11A3,3 0 0,0 19,8Z"></path>
+</svg>
+</a>
+</li>
+</ul>
+</div>
+<section class="row page-field" data-field-name="SHORTDESCRIPTION">
+<h3 class="page-field__title text-left" id="shortdescription">
+                    Краткое описание                </h3>
+<div class="page-field__data">
+<div style="text-align: justify;">
+<br/>
+<strong>Хилоперикард </strong> - попадание лимфы в полость <aterm term="1">перикарда<span class="term-description" style="display: none;"><span>Перикард (сердечная сорочка)-  тканевая оболочка, окружающая сердце, аорту, легочный ствол, устья полых и легочных вен</span><br/></span></aterm>.<br/>
+<br/>
+<aterm term="1">Идиопатический<span class="term-description" style="display: none;"><span>Идиопатический - возникающий без видимых причин, характеризующийся неясным происхождением</span><br/></span></aterm> хилоперикард возникает чрезвычайно редко. Впервые эту патологию описал Hasebrock в 1886 году. Термин "первичный изолированный хилоперикард" предложен Groves and Effler в 1954. <br/>
+<br/>
+	Хилоперикард возникает из-за появления сообщения между полостью перикaрда и внутригрудным лимфатическим протоком в результате травмы, врожденной патологии, осложнения операции на открытом сердце, лимфангиэктаза, обструкции или аномалий внутригрудного лимфатического протока, а также при лимфангиомах средостения и лимфангиоматозных гамартомах. Прогноз ухудшается при присоединении инфекции, тампонады или сдавления сердца. </div>
+</div>
+</section>
+</div>
+</section>
+<section class="page-section" data-section-name="ETIOLOGY">
+<h2 class="page-section__title" id="etiology">
+        Этиология и патогенез    </h2>
+<div class="container">
+<div class="row page-section__row">
+<div style="text-align: justify; ">
+<br/>
+<span style="text-align: justify; ">Хилоперикард возникает из-за появления сообщения между полостью перикарда и внутригрудным лимфатическим протоком в результате травмы, врожденной патологии, осложнения операции на открытом сердце, </span>лимфангиэктаза, обструкции или аномалий внутригрудного лимфатического протока, а также при лимфангиомах <aterm term="1">средостения<span class="term-description" style="display: none;"><span>Средостение - часть грудной полости, расположенная между правым и левым плевральными мешками, ограниченная спереди грудиной, сзади грудным отделом позвоночника, снизу диафрагмой, сверху верхней апертурой грудной клетки.</span><br/></span></aterm>, лимфангиоматозных гамартомах. </div>
+<div style="text-align: justify; ">
+<span style="text-align: justify; ">Вследствие нарушения тока <aterm term="1">хилуса<span class="term-description" style="display: none;"><span>Хилус - физл. млечный сок, содержимое лимфатических сосудов кишок, отличающееся большим содержанием жира</span><br/></span></aterm> по аномальному грудному протоку происходит расширение лимфатических сосудов средoстения и перикарда, возникают недостаточность клапанов и обратный ток хилусa с накоплением его в полости перикарда и плевры. Однако почти в половине опубликованных наблюдений причина хилоперикарда осталась неизвестной. </span><br/>
+	Предложено несколько механизмов патогенеза возникновения хилоперикарда.<br/>
+	Вторичный хилоперикард возможен при нарушении проходимости грудного лимфатического протока, вследствие его перевязки при хирургических вмешательствах либо в результате сдавления при нелимфогенных опухолях средoстения или воспалительного процесса в средостении.<br/>
+	Возникновению патологического <aterm term="1">рефлюкса<span class="term-description" style="display: none;"><span>Рефлюкс -  пассивное перемещение (затекание) содержимого из одного полого органа в другой в направлении, противоположном нормальному.</span><br/></span></aterm> лимфы в перикардиальное сплетение в норме препятствуют клапаны лимфатических протоков, даже при проксимальной перевязке грудного лимфатического протока или нарушении проходимости верхней полой вены.<br/>
+	Разрывы клапанов с формированием патологического тока лимфы возможны при резком повышении внутригрудного давления, в случае тупой травмы грудной клетки. Также повреждение может стать следствием гиперсгибательных-разгибательных движений в грудном отделе позвоночника. </div>
+</div>
+</div>
+</section>
+<section class="page-section" data-section-name="EPIDEMIOLOGY">
+<h2 class="page-section__title" id="epidemiology">
+        Эпидемиология    </h2>
+<div class="container">
+<div class="row page-section__row">
+<div style="text-align: justify;">
+<br/>
+	Скопление хилезной жидкости в перикарде встречается чрезвычайно редко. В мировой практике описано 57 таких наблюдений у взрослых больных. </div>
+</div>
+</div>
+</section>
+<section class="page-section" data-index="3">
+<h2 class="page-section__title" id="clinical">
+        Клиническая картина    </h2>
+<div class="container">
+<section class="row page-field" data-field-name="ANTIPRAXIA">
+<h3 class="page-field__title text-left" id="antipraxia">
+                    Cимптомы, течение                </h3>
+<div class="page-field__data">
+<div style="text-align: justify; ">
+<br/>
+	Симптоматика зависит от объема внутриперикардиальной жидкости и возникновения признаков <aterm term="1">тампонады сердца<span class="term-description" style="display: none;"><span>Тампонада сердца - сдавление сердца кровью или экссудатом, скопившимися в полости перикарда</span><br/></span></aterm>. В некоторых случаях хилоперикард может протекать бессимптомно в течение долгого времени. Бессимптомный хилоперикард зачастую случайно выявляется при рентгенографии легких, эхокардиоскопии, а также на КТ и МРТ органов грудной клетки.<br/>
+	Характерная симптоматика появляется при сдавлении камер сердца. Она включает: боли в грудной клетке, одышку при физической нагрузке, слабость. </div>
+</div>
+</section>
+</div>
+</section>
+<section class="page-section" data-section-name="DIAGNOSTICS">
+<h2 class="page-section__title" id="diagnostics">
+        Диагностика    </h2>
+<div class="container">
+<div class="row page-section__row">
+<div style="text-align: justify;">
+<br/>
+	1.<strong> Расширенная компьютерная томография в сочетании с лимфографией</strong> позволяет установить локализацию внутригрудного лимфатического протока и его сообщения с перикардом. </div>
+<div style="text-align: justify;">
+	2. При <strong>ультразвуковом исследовании</strong> накопление жид­кости в полости перикарда невоспалительного характера выглядит аналогично <aterm term="1">выпоту<span class="term-description" style="display: none;"><span>Выпот - скопление жидкости (экссудата или транссудата) в серозной полости.</span><br/></span></aterm> при экссудативном пери­кардите. Отличить их практически невозможно.<br/>
+	3. Наличие лимфы в перикарде диагностируется после<strong> </strong><strong>перикардоцентеза</strong><strong> </strong>по характеру эвакуируемой жидкости.</div>
+</div>
+</div>
+</section>
+<section class="page-section" data-section-name="LABORATORYDIAGNOSTICS">
+<h2 class="page-section__title" id="laboratorydiagnostics">
+        Лабораторная диагностика    </h2>
+<div class="container">
+<div class="row page-section__row">
+<div style="text-align: justify;">
+<br/>
+	Существует несколько методик верификации хилоперикарда, в том числе микроскопическое исследование перикардиальной жидкости после перорального приема красителя судан 3. <br/>
+	Жидкость в перикарде стерильная, без запаха, опалесцирует молочно-белым цветом; при микроскопии заметны капли жира. Хилезная природа жидкости подтверждаетсяалкалиновой реакцией, специфическим удельным весом между 1010 и 1021,  высоким содержанием триглицеридов (5-50 г/л) и белка (22-60 г/л). </div>
+</div>
+</div>
+</section>
+<section class="page-section" data-section-name="DIFFERENTIALDIAGNOSIS">
+<h2 class="page-section__title" id="differentialdiagnosis">
+        Дифференциальный диагноз    </h2>
+<div class="container">
+<div class="row page-section__row">
+<p>
+<br/>
+	Дифференциальная диагностика проводится с другими заболеваниями и состояниями, которые сопровождаются образованием выпота в полости перикарда.  Причины <aterm term="1">транссудата</aterm> могут быть общие и местные.<br/><strong>Общие:</strong><br/>
+	- сердечная недостаточность;<br/>
+	- нефротический синдром;<br/>
+	- экссудативная <aterm term="1">энтеропатия</aterm>;<br/>
+	- "голодные" отеки.<br/><strong>Местные:</strong> опухоли средостения. <br/>
+	При наличии признаков выпота в полость перикарда, пункция перикарда и исследование полученной жидкости позволяют решить вопрос о том, что это - экссудат или транссудат. Транссудат обычно прозрачен, бесцветен, имеет удельный вес менее 1018, содержит менее 30 г/л белка, дает отрицательную реакцию Ривальта. </p>
+</div>
+</div>
+</section>
+<section class="page-section" data-section-name="THERAPY">
+<h2 class="page-section__title" id="therapy">
+        Лечение    </h2>
+<div class="container">
+<div class="row page-section__row">
+<div>
+<br/>
+	Лечение назначается в зависимости от этиологии и объема накопившейся хилезной жидкости.<br/><br/>
+	При хилоперикарде без тампонады после торакальных операций предпочтителен <strong><aterm term="1">перикардиоцентез</aterm></strong>. <br/><br/><strong>Консервативное лечение:</strong> диета - голод с полным парентеральным питанием, назначение подкожных инъекций октреотида. Данное лечение приводит к перераспределению жидкости в сосудистых системах.<br/><br/><strong>Хирургическое лечение</strong> требуется при дальнейшем накоплении выпота. Создание перикардио-перитониального окна считается обоснованным вмешательством при неэффективности консервативной терапии и перикардиоцентеза. Однако при точном определении хода грудного протока наиболее эффективна его перевязка с последующей <aterm term="1">резекцией</aterm> участка, расположенного сразу над диафрагмой.<br/><br/>
+	При вторичном хилоперикарде необходима терапия основного заболевания (например, опухоль средостения). </div>
+</div>
+</div>
+</section>
+<section class="page-section" data-section-name="PROGNOSIS">
+<h2 class="page-section__title" id="prognosis">
+        Прогноз    </h2>
+<div class="container">
+<div class="row page-section__row">
+<br/>
+<span style="font-family: Arial, Helvetica, sans-serif; line-height: 18px; text-align: justify; ">Прогноз ухудшается при присоединении инфекции, тампонады или сдавления сердца.</span>
+</div>
+</div>
+</section>
+<section class="page-section" data-section-name="HOSPITALIZATION">
+<h2 class="page-section__title" id="hospitalization">
+        Госпитализация    </h2>
+<div class="container">
+<div class="row page-section__row">
+<div>
+<br/><strong>Показания к стационарному лечению:</strong><br/>
+	- лихорадка выше 38<sup>о</sup>С;<br/>
+	- подострое начало заболевания;<br/>
+	- <aterm term="1">иммуносупрессия</aterm>;<br/>
+	- связь с травмой;<br/>
+	- лечение пероральными антикоагулянтами;<br/>
+	- миоперикардит;<br/>
+	- большой перикардиальный выпот.<br/><br/>
+	Неотложной госпитализации требует развитие тампонады сердца.</div>
+</div>
+</div>
+</section>
+<section class="page-section" data-index="10">
+<h2 class="page-section__title" id="information">
+        Информация    </h2>
+<div class="container">
+<section class="row page-field" data-field-name="LISTOFREFERENCES">
+<h3 class="page-field__title text-left" id="listofreferences">
+                    Источники и литература                </h3>
+<div class="page-field__data">
+<ol id="AdditionalListSources" type="I">
+<li level="1">
+<span>Гиляревский С.Р. Диагностика и лечение заболеваний перикарда: современные подходы, основанные на доказательной информации и клиническом опыте. Монография, М.:Медиа Сфера, 2004</span>
+<ol type="1">
+</ol>
+</li>
+<li level="1">
+<span>Европейские рекомендации по диагностике и лечению заболеваний перикарда. Часть 1. Доказательная кардиология, 2004</span>
+<ol type="1">
+</ol>
+</li>
+<li level="1">
+<span>Европейские рекомендации по диагностике и лечению заболеваний перикарда. Часть 2. Доказательная кардиология, 2004</span>
+<ol type="1">
+</ol>
+</li>
+<li level="1">
+<span>Клинические рекомендации. Кардиология /под ред. Беленкова Ю.Н., Оганова Р.Г., М.: ГЭОТАР-Медиа, 2007</span>
+<ol type="1">
+</ol>
+</li>
+<li level="1">
+<span>Коваленко В.Н., Несукай Е.Г. Некоронарогенные болезни сердца. Практическое руководство /под ред.  Коваленко В.Н., К.: Морион, 2001</span>
+<ol type="1">
+</ol>
+</li>
+<li level="1">
+<span>Поляков В.П., Николаевский В.Н., Пичко Г.А. Некоронарогенные и инфекционные заболевания заболевания сердца (современные аспекты клиники, диагностики, лечения): Монография, Самара, 2010</span>
+<ol type="1">
+</ol>
+</li>
+<li level="1">
+<span>"Spontaneous chylous cardiac tamponade: a case report" Nikolaos Barbetakis, Christos Asteriou, Journal of cardiothoracic surgery, 2010 Mar 17, 5:11</span>
+<ol type="1">
+</ol>
+</li>
+</ol> </div>
+</section>
+</div>
+</section>
+<section class="page-section" data-section-name="ATTENTION">
+<h2 class="page-section__title" id="attention">
+        Внимание!    </h2>
+<div class="container">
+<div class="row page-section__row">
+<!--noindex-->
+<label class="attention-self-treatment-list__caption">Если вы не являетесь медицинским специалистом:</label>
+<ul class="attention-self-treatment-list">
+<li>
+        Занимаясь самолечением, вы можете нанести непоправимый вред своему здоровью.
+         
+    </li>
+<li>
+        Информация, размещенная на сайте MedElement, не может и не должна заменять очную консультацию врача.
+        Обязательно
+        обращайтесь в медицинские учреждения при наличии каких-либо заболеваний или беспокоящих вас симптомов.
+         
+    </li>
+<li>
+        Выбор лекарственных средств и их дозировки, должен быть оговорен со специалистом. Только врач может
+        назначить
+        нужное лекарство и его дозировку с учетом заболевания и состояния организма больного.
+         
+    </li>
+<li>
+        Сайт MedElement является исключительно информационно-справочным ресурсом. Информация, размещенная на данном
+        сайте, не должна использоваться для самовольного изменения предписаний врача.
+         
+    </li>
+<li>
+        Редакция MedElement не несет ответственности за какой-либо ущерб здоровью или материальный ущерб, возникший
+        в
+        результате использования данного сайта.
+    </li>
+</ul>
+<!--/noindex-->
+</div>
+</div>
+</section>
+</main>

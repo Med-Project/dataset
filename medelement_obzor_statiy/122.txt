@@ -1,0 +1,317 @@
+<main id="main">
+<section class="page-information disease-information">
+<div class="container">
+<h1 class="page-information__name disease-information__name">
+            Желудочно-пищеводный разрывно-геморрагический синдром (K22.6)        </h1>
+<div class="disease-information__alternate-name">
+<label>Также: </label>
+                синдром Маллори-Вейсса, синдром Мэллори-Вейсса, Mallory–Weiss syndrome            </div>
+<div class="disease-information__version-name">
+<p class="lead text-muted">
+                
+                Версия: Справочник заболеваний MedElement                </p>
+</div>
+<div class="disease-information__categories-mkb">
+<label>Категории МКБ: </label>
+                Желудочно-пищеводный разрывно-геморрагический синдром (K22.6)            </div>
+<div class="disease-information__sections-medicine">
+<label>Разделы медицины: </label>
+                Гастроэнтерология            </div>
+</div>
+</section>
+<section class="page-section" data-index="0">
+<h2 class="page-section__title" id="general_information">
+        Общая информация    </h2>
+<div class="container">
+<div class="page-links-actions">
+<ul>
+<li class="page-links-actions__item page-links-actions__item--print" data-ga-event-action="Клик по ссылке: Версия для печати" data-ga-event-category="Links actions" data-ga-event-label="" data-send-ga-event="">
+<a href="javascript:window.print()">Версия для печати
+                    <svg class="svg-icon svg-icon-printer" height="18" version="1.1" viewbox="0 0 24 24" width="18" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<path d="M18,3H6V7H18M19,12A1,1 0 0,1 18,11A1,1 0 0,1 19,10A1,1 0 0,1 20,11A1,1 0 0,1 19,12M16,19H8V14H16M19,8H5A3,3 0 0,0 2,11V17H6V21H18V17H22V11A3,3 0 0,0 19,8Z"></path>
+</svg>
+</a>
+</li>
+</ul>
+</div>
+<section class="row page-field" data-field-name="SHORTDESCRIPTION">
+<h3 class="page-field__title text-left" id="shortdescription">
+                    Краткое описание                </h3>
+<div class="page-field__data">
+<div style="text-align: justify; ">
+<br/>
+<strong>Желудочно-пищеводный разрывно-геморрагический синдром (синдром Маллори-Вейсса)</strong> представляет собой<strong> </strong>внезапные сильные пищеводно-желудочные кровотечения, возникающие в результате образования продольных надрывов слизистой оболочки пищевода и желудка, подслизистого слоя на фоне упорной рвоты и резкого повышения внутрибрюшного давления.<br/>
+	Впервые описан в 1929г. Q.K.Mallory и S.Weiss.</div>
+</div>
+</section>
+</div>
+</section>
+<section class="page-section" data-section-name="CLASSIFICATION">
+<h2 class="page-section__title" id="classification">
+        Классификация    </h2>
+<div class="container">
+<div class="row page-section__row">
+<br/>
+<span style="text-align: justify; ">Классификация соответствует известной эндоскопической классификации активности кровотечений из язв пищеварительного тракта (по </span><strong style="text-align: justify; ">Forrest</strong><span style="text-align: justify; ">):</span><br/>
+<div style="text-align: justify; ">
+<strong> <br/>
+	- Ia</strong> - струйное артериальное кровотечение;</div>
+<div style="text-align: justify; ">
+	- <strong>Ib</strong> - кровотечение с медленным выделением крови;</div>
+<div style="text-align: justify; ">
+<strong>- II</strong> - тромб или видимый участок некровоточащего сосуда в дне язвы;</div>
+<div style="text-align: justify; ">
+<strong>- III</strong> - эрозии или язвы без признаков кровотечения.</div>
+</div>
+</div>
+</section>
+<section class="page-section" data-section-name="ETIOLOGY">
+<h2 class="page-section__title" id="etiology">
+        Этиология и патогенез    </h2>
+<div class="container">
+<div class="row page-section__row">
+<div style="text-align: justify; ">
+<br/>
+	В качестве причины разрывов или трещин может выступать многократная форсированная рвота, сопровождающаяся повышением внутрижелудочного (или внутрибрюшного) давления, кардиоэзофагеальным спазмом. Предрасполагающие факторы: переполнение желудка; предшествующие хронические воспалительные заболевания верхнего отдела пищеварительного тракта (эзофагит, ХГ, язвы пищевода и кардиального отдела желудка); грубые диетические погрешности с употреблением алкогольных напитков.<br/>
+	 </div>
+<div style="text-align: justify; ">
+	Трещины и разрывы располагаются продольно, проникают глубоко, поражая в основном слизистую оболочку, реже - подслизистый и мышечный слои. Сопровождаются разрывом кровеносных сосудов и развитием острого пищеводно-желудочного кровотечения.</div>
+<br/>
+</div>
+</div>
+</section>
+<section class="page-section" data-section-name="EPIDEMIOLOGY">
+<h2 class="page-section__title" id="epidemiology">
+        Эпидемиология    </h2>
+<div class="container">
+<div class="row page-section__row">
+<p>Признак распространенности: Распространено</p>
+<p>Соотношение полов(м/ж): 2</p>
+<br/>
+<span style="text-align: justify;">Среди причин кровотечений из верхних отделов желудочно-кишечного тракта с</span><span style="text-align: justify;">индром Маллори-Вейсса встречается с частотой 4-4,5% у детей и 6,4% у взрослых. </span><span style="text-align: justify;">Чаще возникает у мужчин.<br/>
+Данный синдром превалирует среди пациентов в возрасте 40-50 лет, но может возникать и в другом возрасте.</span>
+</div>
+</div>
+</section>
+<section class="page-section" data-section-name="FACTORSANDRISKGROUPS">
+<h2 class="page-section__title" id="factorsandriskgroups">
+        Факторы и группы риска    </h2>
+<div class="container">
+<div class="row page-section__row">
+<div style="text-align: justify;">
+<br/>
+<strong>Факторами риска выступают:</strong><br/>
+	- хронические воспалительные заболевания верхнего отдела пищеварительного тракта (эзофагит, хронический гастрит, язвы пищевода и кардиального отдела желудка);<br/>
+	- употребление алкоголя;<br/>
+	- беременность;<br/>
+	- <aterm term="1">булимия<span class="term-description" style="display: none;"><span>Булимия -  патологическое, резко усиленное чувство голода, нередко сопровождающееся общей слабостью и болями в животе.</span><br/></span></aterm>;<br/>
+	- сильный кашель;<br/>
+	- частые приступы сильной икоты;<br/>
+	- грыжа пищеводного отверстия диафрагмы.<br/>
+<br/>
+	Заболевание чаще возникает среди пациентов, у которых отмечается повышенное давление и застой крови в венах, идущих к печени, - такое состояние называется портальной гипертензией (<a href="https://diseases.medelement.com/index.php/disease/view/NDgzMw%253D%253D/fDB8" target="_blank">Портальная гипертензия</a> - K76.6).</div>
+</div>
+</div>
+</section>
+<section class="page-section" data-index="5">
+<h2 class="page-section__title" id="clinical">
+        Клиническая картина    </h2>
+<div class="container">
+<section class="row page-field" data-field-name="THESIS">
+<h3 class="page-field__title text-left" id="thesis">
+                    Клинические критерии диагностики                </h3>
+<div class="page-field__data">
+                    
+                    гематемезис, мелена, боль в груди, боль в эпигастрии, атрериальная гипотензия, тахикардия                 </div>
+</section>
+<section class="row page-field" data-field-name="ANTIPRAXIA">
+<h3 class="page-field__title text-left" id="antipraxia">
+                    Cимптомы, течение                </h3>
+<div class="page-field__data">
+<p style="text-align: justify;">
+<br/>
+	Основное клиническое проявление синдрома Мэллори-Вейсса - наличие светлой или темной крови в рвотных массах, которая обычно появляется после предшествующей многократной рвоты или сильного кашля. При выраженном кровотечении у больных могут отмечаться бледность, слабость и снижение артериального давления. <br/>
+	В дальнейшем наблюдается черный дегтеобразный стул или <aterm term="1">мелена<span class="term-description" style="display: none;"><span>Мелена - выделение кала в виде липкой массы черного цвета; обычно признак желудочно-кишечного кровотечения.</span><br/><a class="tooltip-term__more" href="https://diseases.medelement.com/index.php/disease/view/NDkwMg%253D%253D/fDF8Mnw%253D" target="_blank" title="Подробнее о мелена">Подробно</a></span></aterm> (в зависимости от количества и темпа продвижения проглоченной крови по желудочно-кишечному тракту).</p>
+<div style="text-align: justify; ">
+<br/>
+	При объективном обследовании больного выявляются признаки обострения хронических заболеваний верхнего отдела пищеварительного тракта: болезненность под мечевидным отростком, в <aterm term="1">эпигастрии<span class="term-description" style="display: none;"><span>Эпигастрий - область живота, ограниченная сверху диафрагмой, снизу горизонтальной плоскостью, проходящей через прямую, соединяющую наиболее низкие точки десятых ребер.</span><br/></span></aterm>, в пилородуоденальной зоне, положительный <aterm term="1">симптом Менделя<span class="term-description" style="display: none;"><span>Симптом Менделя -  1) Болезненность передней брюшной стенки при перкуссии; признак язвенной болезни; 2) Болезненность и болевая гримаса на половине лица при давлении на переднюю стенку наружного слухового прохода; признак менингита, локализованного в задней черепной ямке</span><br/></span></aterm>.</div>
+</div>
+</section>
+</div>
+</section>
+<section class="page-section" data-section-name="DIAGNOSTICS">
+<h2 class="page-section__title" id="diagnostics">
+        Диагностика    </h2>
+<div class="container">
+<div class="row page-section__row">
+<br/>
+<strong>Инструментальная диагностика</strong><br/>
+<div style="text-align: justify; ">
+	Обязательным исследованием является эндоскопическое исследование пищевода.</div>
+<div style="text-align: justify; ">
+	Дополнительно возможно проведение <aterm term="1">лапароскопии<span class="term-description" style="display: none;"><span>Лапароскопия (перитонеоскопия) - исследование органов брюшной полости путем их осмотра с помощью медицинских эндоскопов, вводимых в брюшинную полость через прокол брюшной стенки.</span><br/></span></aterm> (<aterm term="1">патогномоничным<span class="term-description" style="display: none;"><span>Патогномоничный - характерный для данной болезни (о признаке).</span><br/></span></aterm> признаком синдрома Маллори-Вейсса является обнаружение гематомы в малом сальнике), <aterm term="1">ангиографии<span class="term-description" style="display: none;"><span>Ангиография - рентгенологическое исследование кровеносных и лимфатических сосудов после введения в них контрастного вещества.</span><br/></span></aterm>, <aterm term="1">сцинтиграфии<span class="term-description" style="display: none;"><span>Сцинтиграфия - радиоизотопный метод визуализации распределения радиофармацевтического препарата в организме, органе или ткани.</span><br/></span></aterm>.</div>
+</div>
+</div>
+</section>
+<section class="page-section" data-section-name="LABORATORYDIAGNOSTICS">
+<h2 class="page-section__title" id="laboratorydiagnostics">
+        Лабораторная диагностика    </h2>
+<div class="container">
+<div class="row page-section__row">
+<div style="text-align: justify;">
+<br/>
+	Лабораторные критерии диагностики отсутствуют. Целью лабораторных исследований является выявление ассоциированных заболеваний, осложнений, дифференциальная диагностика, определение величины кровопотери.</div>
+<div style="text-align: justify;">
+<br/>
+<strong style="text-align: justify; ">Обязательные исследования</strong><span style="text-align: justify; ">:<br/>
+	- общий анализ крови с определением тромбоцитов, ретикулоцитов, гематокрита;<br/>
+	- коагулограмма;<br/>
+	- определение группы крови и резус-фактора.</span></div>
+<div style="text-align: justify;">
+<br/>
+<strong>Дополнительные исследования</strong>:<br/>
+	- биохимический анализ крови (общий белок, альбумин, глюкоза, АлАТ, АсАТ, билирубин, амилаза, <aterm term="1">ЩФ<span class="term-description" style="display: none;"><span>ЩФ - щелочная фосфатаза </span><br/></span></aterm>, мочевина, креатинин, электролиты);<br/>
+	- кал на реакцию Грегерсена.<br/>
+	 </div>
+</div>
+</div>
+</section>
+<section class="page-section" data-section-name="DIFFERENTIALDIAGNOSIS">
+<h2 class="page-section__title" id="differentialdiagnosis">
+        Дифференциальный диагноз    </h2>
+<div class="container">
+<div class="row page-section__row">
+<br/><div>
+	Дифференциальный диагноз заключается в определении места кровотечения и диагностике причин, способствующих развитию пищеводно-желудочного кровотечения: цирроз печени, <aterm term="1">ангиодисплазия</aterm> сосудов желудка (болезнь Вебера-Ослера-Рендю), гипертрофический полиаденоматозный гастрит (<aterm term="1">болезнь Менетрие</aterm>), нарушения свертываемости крови и другие.</div><br/>
+</div>
+</div>
+</section>
+<section class="page-section" data-section-name="SEQUELAE">
+<h2 class="page-section__title" id="sequelae">
+        Осложнения    </h2>
+<div class="container">
+<div class="row page-section__row">
+<br/>
+Осложнения могут быть связаны с кровопотерей, инфицированием, нарушением питания. <br/>
+<br/>
+</div>
+</div>
+</section>
+<section class="page-section" data-section-name="THERAPY">
+<h2 class="page-section__title" id="therapy">
+        Лечение    </h2>
+<div class="container">
+<div class="row page-section__row">
+<br/><div>
+<strong>Немедикаментозное лечение</strong>. После купирования пищеводно-желудочного кровотечения назначают диета №1а по Певзнеру. Пища не должна быть очень холодной или горячей. Рекомендуется 4-5-разовый прием пищи, в процессе еды следует медленно и тщательно пережевывать пищу. Больным необходимо избегать переедания, горизонтального положения тела после приема пищи, а также предпочтителен сон в полусидячем положении. Диета расширяется постепенно.<br/><br/><strong>Медикаментозное лечение</strong>. Используется кровоостанавливающая и кровозаместительная терапия. Основной целью является стабилизация АД<sub>сист. </sub>Абсолютное показание к переливанию крови - гемоглобин ниже 80 г/л.  После купирования кровотечения назначают секретолитики (ИПП, блокаторы Н2-гистаминовых рецепторов), препараты коллоидного висмута, невсасывающиеся антациды и другие.<br/><br/><strong>Хирургическое лечение</strong>. Применяют эндоскопические методы остановки кровотечения (лазеротерапия, мультиполярная электрокоагуляция, термокоагуляция, введение сосудосуживающих средств и др.), выполняющиеся немедленно после стабилизации гемодинамики.</div><br/>
+</div>
+</div>
+</section>
+<section class="page-section" data-section-name="PROGNOSIS">
+<h2 class="page-section__title" id="prognosis">
+        Прогноз    </h2>
+<div class="container">
+<div class="row page-section__row">
+<br/>
+<div style="text-align: justify; ">
+	У 90% больных с синдромом Маллори-Вейсса, при отсутсвии тяжелой сопутсвующей патологии,  кровотечение прекращается спонтанно, у остальных 10% хорошие результаты дают медикаментозные и эндоскопические методы лечения. </div>
+</div>
+</div>
+</section>
+<section class="page-section" data-section-name="HOSPITALIZATION">
+<h2 class="page-section__title" id="hospitalization">
+        Госпитализация    </h2>
+<div class="container">
+<div class="row page-section__row">
+<br/><div>
+	Больным с признаками желудочно-кишечного кровотечения показана срочная госпитализация, лечение проводят исключительно в стационаре. </div>
+</div>
+</div>
+</section>
+<section class="page-section" data-section-name="PROPHYLAXIS">
+<h2 class="page-section__title" id="prophylaxis">
+        Профилактика    </h2>
+<div class="container">
+<div class="row page-section__row">
+<div style="text-align: justify; ">
+<br/>
+	Профилактика заключается в своевременном выявлении и лечении заболеваний органов пищеварения.</div>
+<br/>
+</div>
+</div>
+</section>
+<section class="page-section" data-index="14">
+<h2 class="page-section__title" id="information">
+        Информация    </h2>
+<div class="container">
+<section class="row page-field" data-field-name="LISTOFREFERENCES">
+<h3 class="page-field__title text-left" id="listofreferences">
+                    Источники и литература                </h3>
+<div class="page-field__data">
+<ol id="AdditionalListSources" type="I">
+<li level="1">
+<span>Детская гастроэнтерология: руководство для врачей /под ред. проф. Шабалова Н.П., 2011</span>
+<ol type="1">
+<li level="2">стр. 283-284</li>
+</ol>
+</li>
+<li level="1">
+<span>Ивашкин В.Т., Лапина Т.Л. Гастроэнтерология. Национальное руководство. Научно-практическое издание, 2008   </span>
+<ol type="1">
+<li level="2">стр. 132, 235, 349</li>
+</ol>
+</li>
+<li level="1">
+<span>Caroli A, Follador R, Gobbi V, Breda P, Ricci G, "Mallory-Weiss syndrome. Personal experience and review of the literature", Minerva dietologica e gastroenterologica 35 (1), 1989</span>
+<ol type="1">
+</ol>
+</li>
+<li level="1">
+<span>http://old.smed.ru</span>
+<ol type="1">
+</ol>
+</li>
+</ol> </div>
+</section>
+</div>
+</section>
+<section class="page-section" data-section-name="ATTENTION">
+<h2 class="page-section__title" id="attention">
+        Внимание!    </h2>
+<div class="container">
+<div class="row page-section__row">
+<!--noindex-->
+<label class="attention-self-treatment-list__caption">Если вы не являетесь медицинским специалистом:</label>
+<ul class="attention-self-treatment-list">
+<li>
+        Занимаясь самолечением, вы можете нанести непоправимый вред своему здоровью.
+         
+    </li>
+<li>
+        Информация, размещенная на сайте MedElement, не может и не должна заменять очную консультацию врача.
+        Обязательно
+        обращайтесь в медицинские учреждения при наличии каких-либо заболеваний или беспокоящих вас симптомов.
+         
+    </li>
+<li>
+        Выбор лекарственных средств и их дозировки, должен быть оговорен со специалистом. Только врач может
+        назначить
+        нужное лекарство и его дозировку с учетом заболевания и состояния организма больного.
+         
+    </li>
+<li>
+        Сайт MedElement является исключительно информационно-справочным ресурсом. Информация, размещенная на данном
+        сайте, не должна использоваться для самовольного изменения предписаний врача.
+         
+    </li>
+<li>
+        Редакция MedElement не несет ответственности за какой-либо ущерб здоровью или материальный ущерб, возникший
+        в
+        результате использования данного сайта.
+    </li>
+</ul>
+<!--/noindex-->
+</div>
+</div>
+</section>
+</main>

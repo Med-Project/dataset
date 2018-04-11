@@ -1,0 +1,362 @@
+<main id="main">
+<section class="page-information disease-information">
+<div class="container">
+<h1 class="page-information__name disease-information__name">
+            Кардиомиопатия неуточненная (I42.9)        </h1>
+<div class="disease-information__version-name">
+<p class="lead text-muted">
+                
+                Версия: Справочник заболеваний MedElement                </p>
+</div>
+<div class="disease-information__categories-mkb">
+<label>Категории МКБ: </label>
+                Кардиомиопатия неуточненная (I42.9)            </div>
+<div class="disease-information__sections-medicine">
+<label>Разделы медицины: </label>
+                Кардиология            </div>
+</div>
+</section>
+<section class="page-section" data-index="0">
+<h2 class="page-section__title" id="general_information">
+        Общая информация    </h2>
+<div class="container">
+<div class="page-links-actions">
+<ul>
+<li class="page-links-actions__item page-links-actions__item--print" data-ga-event-action="Клик по ссылке: Версия для печати" data-ga-event-category="Links actions" data-ga-event-label="" data-send-ga-event="">
+<a href="javascript:window.print()">Версия для печати
+                    <svg class="svg-icon svg-icon-printer" height="18" version="1.1" viewbox="0 0 24 24" width="18" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<path d="M18,3H6V7H18M19,12A1,1 0 0,1 18,11A1,1 0 0,1 19,10A1,1 0 0,1 20,11A1,1 0 0,1 19,12M16,19H8V14H16M19,8H5A3,3 0 0,0 2,11V17H6V21H18V17H22V11A3,3 0 0,0 19,8Z"></path>
+</svg>
+</a>
+</li>
+</ul>
+</div>
+<section class="row page-field" data-field-name="SHORTDESCRIPTION">
+<h3 class="page-field__title text-left" id="shortdescription">
+                    Краткое описание                </h3>
+<div class="page-field__data">
+<div>
+<div style="text-align: justify;">
+<br/>
+		В 1995 г. рабочая группа экспертов ВОЗ и Международного общества и Федерации кардиологов (ВОЗ/МОФК) предложила следующее определение кардиомиопатий (КМП):<br/>
+		"<strong>Кардиомиопатии</strong> - это болезни <aterm term="1">миокарда<span class="term-description" style="display: none;"><span>Миокард (син. мышца сердечная) - средний слой стенки сердца, образованный сократительными мышечными волокнами и атипичными волокнами, составляющими проводящую систему сердца</span><br/></span></aterm>, ассоциированные с нарушением функции сердца".</div>
+<div style="text-align: justify;">
+<br/>
+		В 2006 г. Американская кардиологическая ассоциация предложила новое определение кардиомиопатий:</div>
+<div style="text-align: justify;">
+		"<strong>Кардиомиопатия -</strong> гетерогенная группа заболеваний различной этиологии (часто генетически обусловленных), сопровождающихся механической и/или электрической дисфункцией <aterm term="1">миокарда<span class="term-description" style="display: none;"><span>Миокард (син. мышца сердечная) - средний слой стенки сердца, образованный сократительными мышечными волокнами и атипичными волокнами, составляющими проводящую систему сердца</span><br/></span></aterm> и (в ряде случаев) непропорциональной гипертрофией или <aterm term="1">дилатацией<span class="term-description" style="display: none;"><span>Дилатация - стойкое диффузное расширение просвета какого-либо полого органа.</span><br/></span></aterm>. Поражение <aterm term="1">миокарда<span class="term-description" style="display: none;"><span>Миокард (син. мышца сердечная) - средний слой стенки сердца, образованный сократительными мышечными волокнами и атипичными волокнами, составляющими проводящую систему сердца</span><br/></span></aterm> при кардиомиопатии может быть первичным или вторичным при системном заболевании и сопровождаться развитием сердечной недостаточности и внезапной смертью". <br/>
+<br/>
+<br/>
+<strong>Примечание. </strong>Более подробная информация об основных типах кардиомиопатий:<br/>
+		- <a href="https://diseases.medelement.com/index.php/disease/view/Mzg4OQ%253D%253D/fDB8" target="_blank">Дилатационная кардиомиопатия </a>(I42.0)<br/>
+		- <a href="https://diseases.medelement.com/index.php/disease/view/Mzg5MA%253D%253D/fDB8" target="_blank">Обструктивная гипертрофическая кардиомиопатия</a> (I42.1)<br/>
+		- <a href="https://diseases.medelement.com/index.php/disease/view/Mzg5MQ%253D%253D/fDB8" target="_blank">Другая гипертрофическая кардиомиопатия </a>(I42.2)<br/>
+		- <a href="https://diseases.medelement.com/index.php/disease/view/Mzg5Mg%253D%253D/fDB8" target="_blank">Эндомиокардиальная (эозинофильная) болезнь</a> (I42.3)<br/>
+		- <a href="https://diseases.medelement.com/index.php/disease/view/Mzg5Mw%253D%253D/fDB8" target="_blank">Эндокардиальный фиброэластоз </a>(I42.4)<br/>
+		- <a href="https://diseases.medelement.com/index.php/disease/view/Mzg5NA%253D%253D/fDB8" target="_blank">Другая рестриктивная кардиомиопатия</a> (I42.5)</div>
+</div>
+</div>
+</section>
+</div>
+</section>
+<section class="page-section" data-section-name="CLASSIFICATION">
+<h2 class="page-section__title" id="classification">
+        Классификация    </h2>
+<div class="container">
+<div class="row page-section__row">
+<div style="text-align: justify;">
+<br/>
+<strong>Виды кардиомиопатий</strong> (ВОЗ, 1995 г.): </div>
+<div style="text-align: justify;">
+	- дилатационная; <br/>
+	- гипертрофическая; <br/>
+	- рестриктивная; <br/>
+	- аритмогенная дисплазия правого желудочка; <br/>
+	- неклассифицируемая. <br/>
+	 </div>
+<div style="text-align: justify;">
+	 </div>
+<div style="text-align: justify;">
+<strong>Классификация кардиомиопатий Американской кардиологической ассоциации</strong>, 2006 г. (в модификации) </div>
+<div style="text-align: justify;">
+	 </div>
+<div style="text-align: justify;">
+	1. Ишемическая кардиомиопатия.</div>
+<div style="text-align: justify;">
+	 </div>
+<div style="text-align: justify;">
+	2. Неишемическая кардиомиопатия: </div>
+<div style="text-align: justify;">
+<br/>
+	2.1 Первичная кардиомиопатия:<br/>
+	- врожденная (наследственная, генетическая);<br/>
+	- приобретенная;<br/>
+	- смешанная. </div>
+<div style="text-align: justify;">
+<br/>
+	2.2 Вторичная кардиомиопатия:<br/>
+	- инфильтративная;<br/>
+	- кардиомиопатия накопления;<br/>
+	- токсическая (включая лекарственную и радиационную);<br/>
+	- эндомиокардиальная;<br/>
+	- воспалительная (гранулематозная);<br/>
+	- эндокринная;<br/>
+	- поражение сердца при нервно-мышечных заболеваниях;<br/>
+	- алиментарная;<br/>
+	- при системных заболеваниях соединительной ткани. </div>
+</div>
+</div>
+</section>
+<section class="page-section" data-section-name="ETIOLOGY">
+<h2 class="page-section__title" id="etiology">
+        Этиология и патогенез    </h2>
+<div class="container">
+<div class="row page-section__row">
+<p style="text-align: justify;">
+<br/>
+	В настоящее время этиология первичных кардиомиопатий не изучена до конца.<br/>
+<br/>
+<strong>Вероятные причины развития кардиомиопатий:</strong><br/>
+	- вирусные инфекции (вирус Коксаки, простого герпеса, гриппа и другие);<br/>
+	- наследственная предрасположенность (генетически наследуемый дефект, который приводит к неправильному формированию и функционированию мышечных волокон при гипертрофической кардиомиопатии);<br/>
+	- поражение кардиомиоцитов токсинами и аллергенами;<br/>
+	- перенесенные миокардиты;<br/>
+	- нарушения эндокринной регуляции (губительное воздействие на кардиомиоциты соматотропного гормона и катехоламинов);<br/>
+	- нарушения иммунной регуляции.</p>
+<div style="text-align: justify;">
+<br/>
+	Патогенез гемодинамических нарушений различен для каждой формы кардиомиопатии.<br/>
+<br/>
+	При<strong> дилатационной кардиомиопатии</strong> наблюдается резкое уменьшение фракции выброса, вследствие чего возникают выраженное снижение ударного объема, увеличение конечного систолического и диастолического объемов левого желудочка и повышение в нем конечного диастолического давления. В результате развивается систолическая недостаточность сердца. В малом круге кровообращения формируется гипертензия.<br/>
+	Дилатация полостей сердца обусловливает появление относительной недостаточности клапанов сердца (в особенности митрального клапана), это способствует формированию обратного тока крови из левого желудочка в левое предсердие и в конечном счете усугубляет легочную гипертензию. Вследствие гипертензии в малом круге, повышается давление в правом желудочке, возникает его дилатация с развитием относительной недостаточности трехстворчатого клапана, а затем формируется застой в большом круге кровообращения.</div>
+<div style="text-align: justify;">
+<br/>
+	При <strong>симметричной гипертрофической кардиомиопатии</strong> наблюдается недостаточное расслабление в диастолу левого желудочка, что вызывает развитие сердечной недостаточности и нарушений сердечного ритма и может приводить к летальному исходу.<br/>
+<br/>
+	При <strong>асимметричной гипертрофической кардиомиопатии</strong> происходит выпячивание гипертрофированной межжелудочковой перегородки и переднебоковой стенки левого желудочка в его полость. Формируется так называемый "двухкамерный желудочек" по типу песочных часов с клинической картиной субаортального стеноза.</div>
+<div style="text-align: justify;">
+<br/>
+	Основной патогенетический момент при <strong>рестриктивной форме кардиомиопатии</strong>  - ограничение эластичности стенок полостей сердца, в результате чего отмечается недостаточное их растяжение в диастолу и низкое заполнение кровью в систолу. Вследствие этого снижается сердечный выброс и формируется застой в большом круге кровообращения.</div>
+</div>
+</div>
+</section>
+<section class="page-section" data-section-name="EPIDEMIOLOGY">
+<h2 class="page-section__title" id="epidemiology">
+        Эпидемиология    </h2>
+<div class="container">
+<div class="row page-section__row">
+<div style="text-align: justify;">
+<br/>
+	В экономически благополучных странах кардиомиопатии не рассматриваются в качестве ведущей патологии сердца; а в слаборазвитых странах служат причиной 30% и более всех смертей вследствие заболеваний сердца. </div>
+</div>
+</div>
+</section>
+<section class="page-section" data-section-name="FACTORSANDRISKGROUPS">
+<h2 class="page-section__title" id="factorsandriskgroups">
+        Факторы и группы риска    </h2>
+<div class="container">
+<div class="row page-section__row">
+<p style="text-align: justify;">
+<br/>
+	- наследственность;</p>
+<div style="text-align: justify;">
+	- алкоголизм (алкогольная кардиомиопатия);<br/>
+	- ожирение;<br/>
+	- сахарный диабет;<br/>
+	- <aterm term="1">гипертония<span class="term-description" style="display: none;"><span>Гипертония - 1) увеличенный тонус мышцы или мышечного слоя стенки полого органа, проявляющийся их повышенным сопротивлением растяжению; 2) (нрк.) - см. "гипертензия"</span><br/></span></aterm>;<br/>
+	- ишемическая болезнь сердца;<br/>
+	- прием определенных медикаментов.</div>
+</div>
+</div>
+</section>
+<section class="page-section" data-index="5">
+<h2 class="page-section__title" id="clinical">
+        Клиническая картина    </h2>
+<div class="container">
+<section class="row page-field" data-field-name="ANTIPRAXIA">
+<h3 class="page-field__title text-left" id="antipraxia">
+                    Cимптомы, течение                </h3>
+<div class="page-field__data">
+<br/>
+<div style="text-align: start;">
+<span style="text-align: justify;">Клиническая картина основных типов кардиомиопатий:</span></div>
+<span style="text-align: justify;">- </span><a href="https://diseases.medelement.com/index.php/disease/view/Mzg4OQ%253D%253D/fDd8MTl8" target="_blank"><span style="text-align: justify;">Дилатационная кардиомиопатия </span></a><span style="text-align: justify;">(I42.0)</span><br style="text-align: justify;"/>
+<span style="text-align: justify;">- </span><a href="https://diseases.medelement.com/index.php/disease/view/Mzg5MA%253D%253D/fDd8MTl8" target="_blank"><span style="text-align: justify;">Обструктивная гипертрофическая кардиомиопатия</span></a><span style="text-align: justify;"> (I42.1)</span><br style="text-align: justify;"/>
+<span style="text-align: justify;">- </span><a href="https://diseases.medelement.com/index.php/disease/view/Mzg5MQ%253D%253D/fDd8MTl8" target="_blank"><span style="text-align: justify;">Другая гипертрофическая кардиомиопатия</span></a><span style="text-align: justify;"> </span><span style="text-align: justify;">(I42.2)</span><br style="text-align: justify;"/>
+<span style="text-align: justify;">- </span><a href="https://diseases.medelement.com/index.php/disease/view/Mzg5Mg%253D%253D/fDd8MTl8" target="_blank"><span style="text-align: justify;">Эндомиокардиальная (эозинофильная) болезнь</span></a><span style="text-align: justify;"> (I42.3)</span><br style="text-align: justify;"/>
+<span style="text-align: justify;">- </span><a href="https://diseases.medelement.com/index.php/disease/view/Mzg5Mw%253D%253D/fDd8MTl8" target="_blank"><span style="text-align: justify;">Эндокардиальный фиброэластоз</span></a><span style="text-align: justify;"> </span><span style="text-align: justify;">(I42.4)</span><br style="text-align: justify;"/>
+<span style="text-align: justify;">- </span><a href="https://diseases.medelement.com/index.php/disease/view/Mzg5NA%253D%253D/fDd8MTl8" target="_blank"><span style="text-align: justify;">Другая рестриктивная кардиомиопатия</span></a><span style="text-align: justify;"> (I42.5)</span> </div>
+</section>
+</div>
+</section>
+<section class="page-section" data-section-name="DIAGNOSTICS">
+<h2 class="page-section__title" id="diagnostics">
+        Диагностика    </h2>
+<div class="container">
+<div class="row page-section__row">
+<br/>
+<div>
+<span style="text-align: justify;">Диагностика основных типов кардиомиопатий:</span></div>
+<span style="text-align: justify;">- </span><a href="https://diseases.medelement.com/index.php/disease/view/Mzg4OQ%253D%253D/fDh8" target="_blank"><span style="text-align: justify;">Дилатационная кардиомиопатия </span></a><span style="text-align: justify;">(I42.0)</span><br style="text-align: justify;"/>
+<span style="text-align: justify;">- </span><a href="https://diseases.medelement.com/index.php/disease/view/Mzg5MA%253D%253D/fDh8" target="_blank"><span style="text-align: justify;">Обструктивная гипертрофическая кардиомиопатия</span></a><span style="text-align: justify;"> (I42.1)</span><br style="text-align: justify;"/>
+<span style="text-align: justify;">- </span><a href="https://diseases.medelement.com/index.php/disease/view/Mzg5MQ%253D%253D/fDh8" target="_blank"><span style="text-align: justify;">Другая гипертрофическая кардиомиопатия</span></a><span style="text-align: justify;"> </span><span style="text-align: justify;">(I42.2)</span><br style="text-align: justify;"/>
+<span style="text-align: justify;">- </span><a href="https://diseases.medelement.com/index.php/disease/view/Mzg5Mg%253D%253D/fDh8" target="_blank"><span style="text-align: justify;">Эндомиокардиальная (эозинофильная) болезнь</span></a><span style="text-align: justify;"> (I42.3)</span><br style="text-align: justify;"/>
+<span style="text-align: justify;">- </span><a href="https://diseases.medelement.com/index.php/disease/view/Mzg5Mw%253D%253D/fDh8" target="_blank"><span style="text-align: justify;">Эндокардиальный фиброэластоз</span></a><span style="text-align: justify;"> </span><span style="text-align: justify;">(I42.4)</span><br style="text-align: justify;"/>
+<span style="text-align: justify;">- </span><a href="https://diseases.medelement.com/index.php/disease/view/Mzg5NA%253D%253D/fDh8" target="_blank"><span style="text-align: justify;">Другая рестриктивная кардиомиопатия</span></a><span style="text-align: justify;"> (I42.5)</span>
+</div>
+</div>
+</section>
+<section class="page-section" data-section-name="SEQUELAE">
+<h2 class="page-section__title" id="sequelae">
+        Осложнения    </h2>
+<div class="container">
+<div class="row page-section__row">
+</div>
+</div>
+</section>
+<section class="page-section" data-section-name="THERAPY">
+<h2 class="page-section__title" id="therapy">
+        Лечение    </h2>
+<div class="container">
+<div class="row page-section__row">
+<br/><div>
+	Лечение основных типов кардиомиопатий:</div><span>- </span><a href="https://diseases.medelement.com/index.php/disease/view/Mzg4OQ%253D%253D/fDEyfA%253D%253D" target="_blank"><span>Дилатационная кардиомиопатия </span></a><span>(I42.0)</span><br/><span>- </span><a href="https://diseases.medelement.com/index.php/disease/view/Mzg5MA%253D%253D/fDEyfA%253D%253D" target="_blank"><span>Обструктивная гипертрофическая кардиомиопатия</span></a><span> (I42.1)</span><br/><span>- </span><a href="https://diseases.medelement.com/index.php/disease/view/Mzg5MQ%253D%253D/fDEyfA%253D%253D" target="_blank"><span>Другая гипертрофическая кардиомиопатия</span></a><span> </span><span>(I42.2)</span><br/><span>- </span><a href="https://diseases.medelement.com/index.php/disease/view/Mzg5Mg%253D%253D/fDEyfA%253D%253D" target="_blank"><span>Эндомиокардиальная (эозинофильная) болезнь</span></a><span> (I42.3)</span><br/><span>- </span><a href="https://diseases.medelement.com/index.php/disease/view/Mzg5Mw%253D%253D/fDEyfA%253D%253D" target="_blank"><span>Эндокардиальный фиброэластоз</span></a><span> </span><span>(I42.4)</span><br/><span>- </span><a href="https://diseases.medelement.com/index.php/disease/view/Mzg5NA%253D%253D/fDEyfA%253D%253D" target="_blank"><span>Другая рестриктивная кардиомиопатия</span></a><span> (I42.5)</span>
+</div>
+</div>
+</section>
+<section class="page-section" data-section-name="PROGNOSIS">
+<h2 class="page-section__title" id="prognosis">
+        Прогноз    </h2>
+<div class="container">
+<div class="row page-section__row">
+<div style="text-align: justify; ">
+<br/>
+	При длительном бессимптомном течении кардиомиопатии прогноз для жизни и трудоспособности больного неопределенный. Физическое напряжение или <aterm term="1">интеркуррентная инфекция<span class="term-description" style="display: none;"><span>Инфекция интеркуррентная - экзогенная инфекция, возникающая у больного другой инфекционной болезнью и оканчивающаяся раньше, например, заболевание гриппом больного бруцеллезом</span><br/></span></aterm> могут изменить течение заболевания и в любой стадии кардиомиопатии не исключена внезапная смерть.<br/>
+<br/>
+	Прогноз в целом неблагоприятный при быстро прогрессирующем течении дилатационной и рестриктивной кардиомиопатии, а также при гипертрофической кардиомиопатии с момента повышения аритмий или сердечной недостаточности.<br/>
+	Продолжительность жизни пациентов с дилатационной кардиомиопатией с момента установления диагноза составляет в среднем около 7 лет. Примерно в 50% случаев смерть наступает в результате прогрессирующей сердечной недостаточности и тромбоэмболических осложнений, в остальных случаях наблюдается внезапная смерть. Пересадка сердца больным с дилатационной кардиомиопатией во многих случаях позволяет существенно продлить жизнь пациентов.<br/>
+<br/>
+	Внезапная смерть преобладает как исход гипертрофической кардиомиопатии. При хирургическом лечении идиопатического гипертрофического субаортального стеноза у трех из четырех перенесших операцию больных наблюдается улучшение состояния. Однако остается высокой смертность, связанная с самой операцией (умирает приблизительно каждый шестой оперированный); при этом примерно в половине случаев смертельный исход наступает во время операции.</div>
+</div>
+</div>
+</section>
+<section class="page-section" data-section-name="HOSPITALIZATION">
+<h2 class="page-section__title" id="hospitalization">
+        Госпитализация    </h2>
+<div class="container">
+<div class="row page-section__row">
+<div>
+<br/>
+	Периодическая плановая госпитализация показана пациентам с тяжелой сердечной недостаточностью.<br/>
+	Экстренная госпитализация необходима при развитии некупируемых пароксизмов тахикардии, желудочковой экстрасистолии, мерцательной аритмии, тромбоэмболий, отека легких.</div>
+</div>
+</div>
+</section>
+<section class="page-section" data-section-name="PROPHYLAXIS">
+<h2 class="page-section__title" id="prophylaxis">
+        Профилактика    </h2>
+<div class="container">
+<div class="row page-section__row">
+<br/>
+Специфических мер профилактики не разработано.
+                    </div>
+</div>
+</section>
+<section class="page-section" data-index="12">
+<h2 class="page-section__title" id="information">
+        Информация    </h2>
+<div class="container">
+<section class="row page-field" data-field-name="LISTOFREFERENCES">
+<h3 class="page-field__title text-left" id="listofreferences">
+                    Источники и литература                </h3>
+<div class="page-field__data">
+<ol id="AdditionalListSources" type="I">
+<li level="1">
+<span>Амосова Е.Н. Кардиомиопатии, Киев: "Книга Плюс", 1999</span>
+<ol type="1">
+</ol>
+</li>
+<li level="1">
+<span>Внутренние болезни по Тинсли Р. Харрисону /под ред. Фаучи Э., Браунвальда Ю., Иссельбахера К.,  Уилсон Дж.,  Мартина Дж.,  Каспера Д., Хаузера С. и Лонго Д.: в 7 т., М.: Практика – Мак-Гроу Хилл, 2005</span>
+<ol type="1">
+</ol>
+</li>
+<li level="1">
+<span>Клинические рекомендации. Кардиология /под ред. Беленкова Ю.Н., Оганова Р.Г., М.: ГЭОТАР-Медиа, 2007</span>
+<ol type="1">
+</ol>
+</li>
+<li level="1">
+<span>Кушаковский М.С. Хроническая застойная сердечная недостаточность. Идиопатические миокардиопатии, СПб: "Фолиант", 1998</span>
+<ol type="1">
+</ol>
+</li>
+<li level="1">
+<span>Моисеев В.С., Сумароков А.В, Стяжкин В.Ю. Кардиомиопатии. М.: Медицина, 1993</span>
+<ol type="1">
+</ol>
+</li>
+<li level="1">
+<span>Мухарлямов Н.М., Попович М.И., Затушевский И.Ф. Дилатационная кардиомиопатия, Кишинев: "Штиинца", 1986</span>
+<ol type="1">
+</ol>
+</li>
+<li level="1">
+<span>Поляков В.П., Николаевский В.Н., Пичко Г.А. Некоронарогенные и инфекционные заболевания заболевания сердца (современные аспекты клиники, диагностики, лечения): Монография, Самара, 2010</span>
+<ol type="1">
+</ol>
+</li>
+<li level="1">
+<span>Руководство по амбулаторно–поликлинической кардиологии /под ред.  Беленкова Ю.Н, Оганова Р.Г., ГЭОТАР-Медиа, 2007</span>
+<ol type="1">
+</ol>
+</li>
+<li level="1">
+<span>"Лечение сердечной недостаточности. Рекомендации рабочей группы по изучению сердечной недостаточности Европейского Общества Кардиологов", Рус. мед. журнал, приложение, 1999</span>
+<ol type="1">
+</ol>
+</li>
+</ol> </div>
+</section>
+</div>
+</section>
+<section class="page-section" data-section-name="ATTENTION">
+<h2 class="page-section__title" id="attention">
+        Внимание!    </h2>
+<div class="container">
+<div class="row page-section__row">
+<!--noindex-->
+<label class="attention-self-treatment-list__caption">Если вы не являетесь медицинским специалистом:</label>
+<ul class="attention-self-treatment-list">
+<li>
+        Занимаясь самолечением, вы можете нанести непоправимый вред своему здоровью.
+         
+    </li>
+<li>
+        Информация, размещенная на сайте MedElement, не может и не должна заменять очную консультацию врача.
+        Обязательно
+        обращайтесь в медицинские учреждения при наличии каких-либо заболеваний или беспокоящих вас симптомов.
+         
+    </li>
+<li>
+        Выбор лекарственных средств и их дозировки, должен быть оговорен со специалистом. Только врач может
+        назначить
+        нужное лекарство и его дозировку с учетом заболевания и состояния организма больного.
+         
+    </li>
+<li>
+        Сайт MedElement является исключительно информационно-справочным ресурсом. Информация, размещенная на данном
+        сайте, не должна использоваться для самовольного изменения предписаний врача.
+         
+    </li>
+<li>
+        Редакция MedElement не несет ответственности за какой-либо ущерб здоровью или материальный ущерб, возникший
+        в
+        результате использования данного сайта.
+    </li>
+</ul>
+<!--/noindex-->
+</div>
+</div>
+</section>
+</main>

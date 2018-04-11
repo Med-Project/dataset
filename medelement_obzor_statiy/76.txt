@@ -1,0 +1,250 @@
+<main id="main">
+<section class="page-information disease-information">
+<div class="container">
+<h1 class="page-information__name disease-information__name">
+            Деформации желчного пузыря (Q44.1)        </h1>
+<div class="disease-information__version-name">
+<p class="lead text-muted">
+                
+                Версия: Справочник заболеваний MedElement                </p>
+</div>
+<div class="disease-information__categories-mkb">
+<label>Категории МКБ: </label>
+                Другие врожденные аномалии желчного пузыря (Q44.1)            </div>
+<div class="disease-information__sections-medicine">
+<label>Разделы медицины: </label>
+                Врожденные заболевания, Гастроэнтерология            </div>
+</div>
+</section>
+<section class="page-section" data-index="0">
+<h2 class="page-section__title" id="general_information">
+        Общая информация    </h2>
+<div class="container">
+<div class="page-links-actions">
+<ul>
+<li class="page-links-actions__item page-links-actions__item--print" data-ga-event-action="Клик по ссылке: Версия для печати" data-ga-event-category="Links actions" data-ga-event-label="" data-send-ga-event="">
+<a href="javascript:window.print()">Версия для печати
+                    <svg class="svg-icon svg-icon-printer" height="18" version="1.1" viewbox="0 0 24 24" width="18" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<path d="M18,3H6V7H18M19,12A1,1 0 0,1 18,11A1,1 0 0,1 19,10A1,1 0 0,1 20,11A1,1 0 0,1 19,12M16,19H8V14H16M19,8H5A3,3 0 0,0 2,11V17H6V21H18V17H22V11A3,3 0 0,0 19,8Z"></path>
+</svg>
+</a>
+</li>
+</ul>
+</div>
+<section class="row page-field" data-field-name="SHORTDESCRIPTION">
+<h3 class="page-field__title text-left" id="shortdescription">
+                    Краткое описание                </h3>
+<div class="page-field__data">
+<div style="text-align: justify; ">
+<br/>
+<strong>Деформации желчного пузыря</strong> - наиболее часто встречающаяся аномалия формы желчного пузыря, которая включает внутрипузырные перегородки, перетяжки (24,1%), перегибы (одиночные загибы встречаются с частотой 38,4%).  У детей деформация желчного пузыря носит врожденный характер. У взрослых деформации желчного пузыря могут возникнуть в результате холецистита или вследствие перенесенного бессимптомного гепатита.<br/>
+	 </div>
+</div>
+</section>
+</div>
+</section>
+<section class="page-section" data-section-name="CLASSIFICATION">
+<h2 class="page-section__title" id="classification">
+        Классификация    </h2>
+<div class="container">
+<div class="row page-section__row">
+<div style="text-align: justify; ">
+<br/>
+	Выделяют следующие виды аномалий желчного пузыря: <br/>
+	- перегибы;<br/>
+	- перегородки;<br/>
+	- желчный пузырь в виде бычьего рога;<br/>
+	- крючковидный;<br/>
+	- S-образный;<br/>
+	- роторообразный;<br/>
+	- в виде фригийского колпака.<br/>
+	.</div>
+</div>
+</div>
+</section>
+<section class="page-section" data-section-name="ETIOLOGY">
+<h2 class="page-section__title" id="etiology">
+        Этиология и патогенез    </h2>
+<div class="container">
+<div class="row page-section__row">
+<div style="text-align: justify; ">
+<br/>
+<strong>Врожденные спайки желчного пузыря</strong><br/>
+	Врожденные спайки желчного пузыря встреча­ются очень часто и представляют собой листки брюшины, которые формируются во время эмб­рионального развития при растяжении передних отделов <aterm term="1">брыжейки<span class="term-description" style="display: none;"><span>Брыжейка - складка брюшины, посредством которой внутрибрюшинные органы прикрепляются к стенкам брюшной полости.</span><br/></span></aterm>, образующих малый сальник. <br/>
+	 </div>
+<div style="text-align: justify; ">
+<strong>Складчатый желчный пузырь </strong>(перегибы и перетяжки желчного пузыря)<br/>
+	Желчный пузырь в результате резкого перегиба в области дна деформируется, приобретая форму "фригийского колпака" (это колпак в форме конуса с изогнутой или наклоненной вперед верхушкой). Выделяют две разновидности аномалии:</div>
+<div style="text-align: justify; ">
+	1. <strong>Изгиб между телом и дном</strong> - ретросерозный «фригийский колпак», причи­ной развития которого является образование аномальной складки жел­чного пузыря внутри эмбриональной ямки.<br/>
+	2. <strong>Изгиб между телом и воронкой</strong> - серозный «фригийский колпак», развивающийся вследствие аномального изгиба эмбриональной ямки на ранних эта­пах развития. <br/>
+	Данная аномалия не имеет клиничес­кого значения, так как опорожнение складчатого желчного пузыря не нарушено. <br/>
+<br/>
+<strong>Желчный пузырь в виде песочных часов. </strong>Вероятно, эта аномалия является разновидностью «фригий­ского колпака», предположительно серозного типа, только более выраженной. Постоянство положе­ния дна во время сокращения и небольшие разме­ры сообщения между двумя частями жёлчного пу­зыря свидетельствуют о том, что это фиксирован­ная врождённая аномалия.<br/>
+	 <br/>
+<strong>Внутрипузырные перегородки</strong><br/>
+	Наличие перегородок связывают с нарушением <aterm term="1">эмбриогенеза<span class="term-description" style="display: none;"><span>Эмбриогенез - (embryogenesis; эмбрион + греч. genesis происхождение, развитие)</span><br/></span></aterm>, в частности с отклонениями в процессе восстановления просвета желчного пузыря. Циркулярные перегородки разделяют полость желчного пузыря на две и более камеры, которые сообщаются между собой через отверстие в центре мембраны. Отток желчи из дистальных отделов может затрудняться, если отверстие узкое. </div>
+<div style="text-align: justify; ">
+	Продольные перегородки начинаются от дна пузыря и могут достигать шеечного отдела, формируя двудольчатый пузырь. <br/>
+<br/>
+<strong>Аномалии пузырного протока </strong><br/>
+	В 20% аномалий пузырного протока, он соединяется с общим печеночным протоком не сразу, располагаясь параллельно ему в одном соединительно­тканном туннеле. Иногда он спирально обвивает­ся вокруг общего печеночного протока.<br/>
+	Особенно важное значение такая аномалия имеет для хирургов, поскольку есть риск  перевязки общего печеночного протока с катаст­рофическими последствиями. <br/>
+	 </div>
+<div style="text-align: justify; ">
+<strong>Аномалии пузырной артерии</strong><br/>
+	Наиболее часто встречаются:<br/>
+	- <strong>кольцевидная пузырная артерия</strong> - разделившись на две ветки артерия плотным кольцом охватывает желчный пузырь в области тела, вызывая в месте разветвления фиброзные изменения и циркулярное сужение, придающее пузырю вид песочных часов.<br/>
+	- <strong>короткая артерия </strong>- выглядит как прямой натянутый ствол, что также вызывает искривление пузыря и нарушение его опорожнения.<br/>
+<br/>
+<strong>Синусы Рокитанского-Ашоффа</strong><br/>
+	Синусы Рокитанского-Ашоффа представляют со­бой грыжеподобные выпячивания слизистой оболоч­ки желчного пузыря через мышечный слой (интра­муральный дивертикулез), которые бывают особен­но выражены при хроническом холецистите, когда давление в просвете пузыря повышается. </div>
+</div>
+</div>
+</section>
+<section class="page-section" data-section-name="EPIDEMIOLOGY">
+<h2 class="page-section__title" id="epidemiology">
+        Эпидемиология    </h2>
+<div class="container">
+<div class="row page-section__row">
+<br/>
+<strong>Перегибы и перетяжки желчного пузыря</strong>: встречаются в популяции с частотой 15-30% случаев. <br/>
+<br/>
+</div>
+</div>
+</section>
+<section class="page-section" data-index="4">
+<h2 class="page-section__title" id="clinical">
+        Клиническая картина    </h2>
+<div class="container">
+<section class="row page-field" data-field-name="ANTIPRAXIA">
+<h3 class="page-field__title text-left" id="antipraxia">
+                    Cимптомы, течение                </h3>
+<div class="page-field__data">
+<br/>
+<strong>Внутрипузырные перегородки</strong>
+<div style="text-align: justify; ">
+	Характерной клинической картины данная аномалия не имеет. Диагноз ставится на основании результатов УЗИ, рентгенконтрастных методов исследования и, при необходимости, КТ. Пациенты с выявленной аномалией в специфической терапии не нуждаются. <br/>
+<br/>
+	 </div>
+</div>
+</section>
+</div>
+</section>
+<section class="page-section" data-section-name="DIAGNOSTICS">
+<h2 class="page-section__title" id="diagnostics">
+        Диагностика    </h2>
+<div class="container">
+<div class="row page-section__row">
+<br/>
+<strong>Перегибы и перетяжки желчного пузыря</strong>
+<div style="text-align: justify; ">
+	Диагностика осуществляется с использованием при помощи УЗИ, рентгенорадиологического метода, КТ. <br/>
+<br/>
+	 </div>
+</div>
+</div>
+</section>
+<section class="page-section" data-section-name="DIFFERENTIALDIAGNOSIS">
+<h2 class="page-section__title" id="differentialdiagnosis">
+        Дифференциальный диагноз    </h2>
+<div class="container">
+<div class="row page-section__row">
+<br/>
+Дифференциальная диагностика приобретенных и врожденных деформаций затруднена.
+                    </div>
+</div>
+</section>
+<section class="page-section" data-section-name="SEQUELAE">
+<h2 class="page-section__title" id="sequelae">
+        Осложнения    </h2>
+<div class="container">
+<div class="row page-section__row">
+<div style="text-align: justify; ">
+<br/>
+	При нарушении пассажа (оттока) желчи, деформации желчного пузыря могут стать фактором риска развития воспаления и желчнокаменной болезни.</div>
+</div>
+</div>
+</section>
+<section class="page-section" data-section-name="THERAPY">
+<h2 class="page-section__title" id="therapy">
+        Лечение    </h2>
+<div class="container">
+<div class="row page-section__row">
+<br/>
+При отсутсвии осложнений и нарушений пассажа желчи деформации желчного пузыря не нуждаются в лечении.
+                            
+
+
+
+
+
+                       </div>
+</div>
+</section>
+<section class="page-section" data-index="9">
+<h2 class="page-section__title" id="information">
+        Информация    </h2>
+<div class="container">
+<section class="row page-field" data-field-name="LISTOFREFERENCES">
+<h3 class="page-field__title text-left" id="listofreferences">
+                    Источники и литература                </h3>
+<div class="page-field__data">
+<ol id="AdditionalListSources" type="I">
+<li level="1">
+<span>Детская гастроэнтерология: руководство для врачей /под ред. проф. Шабалова Н.П., 2011</span>
+<ol type="1">
+<li level="2">стр.350-351</li>
+</ol>
+</li>
+<li level="1">
+<span>Шерлок Ш., Дули Дж. Заболевания печени и желчных путей, М.:Гэотар, 1999
+
+</span>
+<ol type="1">
+</ol>
+</li>
+</ol> </div>
+</section>
+</div>
+</section>
+<section class="page-section" data-section-name="ATTENTION">
+<h2 class="page-section__title" id="attention">
+        Внимание!    </h2>
+<div class="container">
+<div class="row page-section__row">
+<!--noindex-->
+<label class="attention-self-treatment-list__caption">Если вы не являетесь медицинским специалистом:</label>
+<ul class="attention-self-treatment-list">
+<li>
+        Занимаясь самолечением, вы можете нанести непоправимый вред своему здоровью.
+         
+    </li>
+<li>
+        Информация, размещенная на сайте MedElement, не может и не должна заменять очную консультацию врача.
+        Обязательно
+        обращайтесь в медицинские учреждения при наличии каких-либо заболеваний или беспокоящих вас симптомов.
+         
+    </li>
+<li>
+        Выбор лекарственных средств и их дозировки, должен быть оговорен со специалистом. Только врач может
+        назначить
+        нужное лекарство и его дозировку с учетом заболевания и состояния организма больного.
+         
+    </li>
+<li>
+        Сайт MedElement является исключительно информационно-справочным ресурсом. Информация, размещенная на данном
+        сайте, не должна использоваться для самовольного изменения предписаний врача.
+         
+    </li>
+<li>
+        Редакция MedElement не несет ответственности за какой-либо ущерб здоровью или материальный ущерб, возникший
+        в
+        результате использования данного сайта.
+    </li>
+</ul>
+<!--/noindex-->
+</div>
+</div>
+</section>
+</main>

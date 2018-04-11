@@ -1,0 +1,323 @@
+<main id="main">
+<section class="page-information disease-information">
+<div class="container">
+<h1 class="page-information__name disease-information__name">
+            Алкогольный гастрит (K29.2)        </h1>
+<div class="disease-information__version-name">
+<p class="lead text-muted">
+                
+                Версия: Справочник заболеваний MedElement                </p>
+</div>
+<div class="disease-information__categories-mkb">
+<label>Категории МКБ: </label>
+                Алкогольный гастрит (K29.2)            </div>
+<div class="disease-information__sections-medicine">
+<label>Разделы медицины: </label>
+                Гастроэнтерология            </div>
+</div>
+</section>
+<section class="page-section" data-index="0">
+<h2 class="page-section__title" id="general_information">
+        Общая информация    </h2>
+<div class="container">
+<div class="page-links-actions">
+<ul>
+<li class="page-links-actions__item page-links-actions__item--print" data-ga-event-action="Клик по ссылке: Версия для печати" data-ga-event-category="Links actions" data-ga-event-label="" data-send-ga-event="">
+<a href="javascript:window.print()">Версия для печати
+                    <svg class="svg-icon svg-icon-printer" height="18" version="1.1" viewbox="0 0 24 24" width="18" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<path d="M18,3H6V7H18M19,12A1,1 0 0,1 18,11A1,1 0 0,1 19,10A1,1 0 0,1 20,11A1,1 0 0,1 19,12M16,19H8V14H16M19,8H5A3,3 0 0,0 2,11V17H6V21H18V17H22V11A3,3 0 0,0 19,8Z"></path>
+</svg>
+</a>
+</li>
+</ul>
+</div>
+<section class="row page-field" data-field-name="SHORTDESCRIPTION">
+<h3 class="page-field__title text-left" id="shortdescription">
+                    Краткое описание                </h3>
+<div class="page-field__data">
+<div style="text-align: justify;">
+	 </div>
+<div style="text-align: justify;">
+<strong>Алкогольный  гастрит </strong>– это воспаление слизистой желудка, связанное со злоупотреблением или систематическим приемом алкоголя. Часто сопровождается образованием <aterm term="1">эрозий<span class="term-description" style="display: none;"><span>Эрозия - поверхностный дефект слизистой оболочки или эпидермиса</span><br/></span></aterm>, которые могут кровоточить.  Алкогольный гастрит может быть острым и хроническим. </div>
+<div style="text-align: justify;">
+<br/>
+<strong>Острый алкогольный гастрит</strong> возникает после приема большого количества алкоголя. Наряду с острым воспалением слизистой желудка, больной получает алкогольное отравление. <br/>
+<br/>
+	Метаболиты спирта, в первую очередь ацетальдегид, приводят к структурным и морфологическим изменениям, которые сначала дают клинику острого гастрита, а затем переходят в <strong>хроническую форму алкогольного гастрита</strong>.<br/>
+<br/>
+<br/>
+<strong>Примечание.</strong> В связи частым обнаружением воспалительных изменений слизистой оболочки желудка у больных алкоголизмом, по предложению ВОЗ, алкогольный гастрит включен в Международную классификацию болезней как нозологическая форма. Алкогольный гастрит также специально выделен, как одна из важных этиологических форм хронического гастрита, причину которой можно и нужно контролировать.  </div>
+</div>
+</section>
+</div>
+</section>
+<section class="page-section" data-section-name="CLASSIFICATION">
+<h2 class="page-section__title" id="classification">
+        Классификация    </h2>
+<div class="container">
+<div class="row page-section__row">
+<div style="text-align: justify;">
+<br/>
+	Классификация алкогольного гастрита отсутствует.</div>
+</div>
+</div>
+</section>
+<section class="page-section" data-section-name="ETIOLOGY">
+<h2 class="page-section__title" id="etiology">
+        Этиология и патогенез    </h2>
+<div class="container">
+<div class="row page-section__row">
+<p style="text-align: justify;">
+<br/>
+	Выраженное повреждающее действие на слизистую оболочку пищевода и желудка оказывают крепкие алкогольные напитки, содержащие 20 объемных процентов алкоголя и более (водка, коньяк, ром, самогон). Такие алкогольные напитки вызывают <aterm term="1">гиперемию<span class="term-description" style="display: none;"><span>Гиперемия - увеличенное кровенаполнение какого-либо участка периферической сосудистой системы.</span><br/></span></aterm> и значительный отек слизистой оболочки желудка. В большой концентрации алкоголь  повреждает защитный барьер, способствует отторжению поверхностного эпителия слизистой оболочки желудка и повышает ее проницаемость; увеличивает обратную диффузию Н+, вызывает потерю белка и микроциркуляторные нарушения, торможение регенерации поверхностного эпителия.</p>
+<p style="text-align: justify;">
+	Секреторная и моторная функции желудка угнетаются под влиянием спирта и продуктов его распада. Это вызывает задержку пищи в желудке, что в свою очередь становится повреждающим фактором, который приводит к дистрофии и дегенерации слизистой оболочки желудка, развитию воспалительных и дистрофических процессов. <br/>
+	Под влиянием провоцирующего фактора происходит усугубление острого алкогольного гастрита. Это приводит к дальнейшему прогрессу заболевания с разнообразным по степени и глубине некрозом слизистой и атрофией железистого аппарата, который обозначается как "алкогольный гастрит". <br/>
+	Типичны нарушения секреторной функции желудка: гиперацидная, гипо- или даже анацидная форма гастрита, преобладающая на поздних этапах алкоголизма.</p>
+</div>
+</div>
+</section>
+<section class="page-section" data-section-name="EPIDEMIOLOGY">
+<h2 class="page-section__title" id="epidemiology">
+        Эпидемиология    </h2>
+<div class="container">
+<div class="row page-section__row">
+<p>Пол: Все</p>
+<p>
+        Возраст: взрослые</p>
+<p>Признак распространенности: Распространено</p>
+<p>Соотношение полов(м/ж): 3</p>
+<br/>
+<div style="text-align: justify;">
+<span style="text-align: justify;">П</span><span style="text-align: justify;">оверхностный гастрит обнаруживается у 2/3 больных алкоголизмом п</span><span style="text-align: justify;">ри морфологическом изучении биоптатов слизистой оболочки желудка </span><span style="text-align: justify;">при биопсии из области антрального отдела и у 1/2 больных при биопсии из области тела желудка. </span></div>
+<div style="text-align: justify;">
+<span style="text-align: justify;">Эпидемиологические исследования выявили корреляции между злоупотреблением алкоголем и частотой пептической язвы, а также представили доказательства отрицательного влияния алкоголя на быстроту заживления язвенного дефекта, течение и прогноз этого заболевания. </span></div>
+</div>
+</div>
+</section>
+<section class="page-section" data-section-name="FACTORSANDRISKGROUPS">
+<h2 class="page-section__title" id="factorsandriskgroups">
+        Факторы и группы риска    </h2>
+<div class="container">
+<div class="row page-section__row">
+<br/>
+Прием алкоголя.
+                    </div>
+</div>
+</section>
+<section class="page-section" data-index="5">
+<h2 class="page-section__title" id="clinical">
+        Клиническая картина    </h2>
+<div class="container">
+<section class="row page-field" data-field-name="THESIS">
+<h3 class="page-field__title text-left" id="thesis">
+                    Клинические критерии диагностики                </h3>
+<div class="page-field__data">
+                    
+                    однократный прием алкоголя, алкоголизм, боль под ложечкой, диспепсия, снижение аппетита, боль в эпигастрии, притупление или исчезновение симптомов после приема алкоголя                </div>
+</section>
+<section class="row page-field" data-field-name="ANTIPRAXIA">
+<h3 class="page-field__title text-left" id="antipraxia">
+                    Cимптомы, течение                </h3>
+<div class="page-field__data">
+<p style="text-align: justify;">
+<br/>
+<strong>Наиболее характерный симптом</strong>: рвота или сильная тошнота натощак (необязательно утром). Рвотные массы имеют скудный объем, жидкие, наполнены слизью, нередко содержат примесь желчи. В течение одного приступа рвоты может быть несколько повторных актов.<br/>
+<br/>
+<strong>Типичные жалобы:</strong> постоянная боль под ложечкой, чувство быстрого насыщения и переполненности желудка, отказ от приема пищи в утренние и предобеденные часы, извращения в еде; часто встречается привычка к сладкому крепкому чаю - он притупляет симптоматику и одновременно создает ощущение сытости.<br/>
+	Алкогольный гастрит всегда сопровождается нарушениями стула и дисбиозом кишечника. Запоры наблюдаются чаще, чем поносы. Но, в случае развития  пищевой токсикоинфекции или других поражений кишечника на фоне алкогольного гастрита, диарея протекает острее, чем у непьющих больных. <br/>
+<br/>
+	Самый характерный признак алкогольного гастрита - сглаживание или полное исчезновение перечисленных выше жалоб после принятия дозы алкоголя.</p>
+</div>
+</section>
+</div>
+</section>
+<section class="page-section" data-section-name="DIAGNOSTICS">
+<h2 class="page-section__title" id="diagnostics">
+        Диагностика    </h2>
+<div class="container">
+<div class="row page-section__row">
+<p style="text-align: justify;">
+<br/>
+<strong>Этапы диагностики алкогольного гастрита</strong> (АГ)<br/>
+<br/>
+	1. <strong>Клиническая диагностика: </strong>анализ жалоб больного, анамнез (в т.ч. алкогольный), данные осмотра пациента.<br/>
+<br/>
+	2. <strong>Эндоскопическая диагностика с обязательной биопсией:</strong> визуально уточняется наличие гастрита, выявляются характер и локализация изменений слизистой оболочки желудка, наличие ее предраковых изменений.<br/>
+	Для биопсии берется не менее чем 5 фрагментов (2 - из антрального отдела, 2 - из тела желудка, 1 - из угла желудка). <br/>
+	При алкоголизме встречается как поверхностный, так и атрофический гастрит.<br/>
+	Морфологическая особенность алкогольного гастрита - накопление в слизистой оболочке филаментов промежуточного типа. Это приводит к нарушению функций и регенерации слизистой оболочки желудка.<br/>
+	Отмечаются также уменьшение толщины слизистой оболочки, ее набухание, слущивание поверхностных клеток, <aterm term="1">гиперемия<span class="term-description" style="display: none;"><span>Гиперемия - увеличенное кровенаполнение какого-либо участка периферической сосудистой системы.</span><br/></span></aterm> и отек.<br/>
+	Часто наблюдаются эрозии и <aterm term="1">геморрагии<span class="term-description" style="display: none;"><span>Геморрагия - кровотечение, кровоизлияние</span><br/></span></aterm> слизистой оболочки желудка, особенно после алкогольного эксцесса; при длительном употреблении алкоголя нередко развиваются язвы желудка. При исследовании биоптатов проводятся инвазивные тесты на хеликобактер.<br/>
+<br/>
+	3.<strong> Ультразвуковое исследование</strong> печени, поджелудочной железы, желчного пузыря - для выявления сопутствующих заболеваний печени, поджелудочной железы.</p>
+<p style="text-align: justify;">
+<br/>
+	4. <strong>Внутрижелудочная рН-метрия</strong> - определение состояния секреции и диагностика функциональных нарушений при кислотозависимых заболеваниях желудочно-кишечного тракта.</p>
+<p style="text-align: justify;">
+<br/>
+	5. <strong>Рентгеноскопия </strong> пищевода, желудка, ДПК — исследование моторно-эвакуаторной функции желудочно-кишечного тракта с целью определения дуоденогастрального <aterm term="1">рефлюкса<span class="term-description" style="display: none;"><span>Рефлюкс -  пассивное перемещение (затекание) содержимого из одного полого органа в другой в направлении, противоположном нормальному.</span><br/></span></aterm>.</p>
+</div>
+</div>
+</section>
+<section class="page-section" data-section-name="LABORATORYDIAGNOSTICS">
+<h2 class="page-section__title" id="laboratorydiagnostics">
+        Лабораторная диагностика    </h2>
+<div class="container">
+<div class="row page-section__row">
+<div style="text-align: justify;">
+<br/>
+	- ОАК;<br/>
+	- биохимический анализ крови с определением максимально возможного количества ферментов желудочно-кишечного тракта (высокий риск сопутствующего поражения печени, поджелудочной железы);  <br/>
+	- клинический анализ мочи;<br/>
+	- клинический анализ кала;<br/>
+	- анализ кала на скрытую кровь;<br/>
+	- выявление инфекции Helicobacter pylori.</div>
+</div>
+</div>
+</section>
+<section class="page-section" data-section-name="DIFFERENTIALDIAGNOSIS">
+<h2 class="page-section__title" id="differentialdiagnosis">
+        Дифференциальный диагноз    </h2>
+<div class="container">
+<div class="row page-section__row">
+<p>
+<br/>
+	- гастриты другой этиологии (острые и хронические);<br/>
+	- острый инфаркт миокарда (может сопровождаться рвотой, болями и напоминать острый гастрит);<br/>
+	- язва желудка;<br/>
+	- острые воспалительные заболевания органов брюшной полости (аппендицит, холецистит, панкреатит) могут дебютировать рвотой, что не исключает острый гастрит;<br/>
+	- опухоль желудка (при хроническом гастрите).<br/>
+	 </p>
+</div>
+</div>
+</section>
+<section class="page-section" data-section-name="SEQUELAE">
+<h2 class="page-section__title" id="sequelae">
+        Осложнения    </h2>
+<div class="container">
+<div class="row page-section__row">
+<div style="text-align: justify;">
+<br/>
+	Кровотечение - при остром алкогольном гастрите.<br/>
+	Клинические наблюдения подтверждают возможность трансформации хронического гастрита в язвенную болезнь желудка (при повышенной секреции) или опухолевый процесс (при пониженной секреции).<br/>
+	 </div>
+</div>
+</div>
+</section>
+<section class="page-section" data-section-name="THERAPY">
+<h2 class="page-section__title" id="therapy">
+        Лечение    </h2>
+<div class="container">
+<div class="row page-section__row">
+<div>
+<br/>
+	1. Отказ от алкоголя.<br/>
+	2. Отказ от курения<br/>
+	3. Диета.<br/>
+	4. Лечение острого алкогольного гастрита проводят по аналогии с другими острыми гастритами (см. <a href="https://diseases.medelement.com/index.php/disease/view/NDYwNw%253D%253D/fDEyfA%253D%253D" target="_blank">Острый геморрагический гастрит</a> - K29.0, <a href="https://diseases.medelement.com/index.php/disease/view/MTIyNjg%253D/fDEyfA%253D%253D" target="_blank">Другие острые гастриты</a> - K29.1).</div><div>
+	5. Лечение хронического алкогольного гастрита выбирается в зависимости от типа секреции и морфологических изменений (см. <a href="https://diseases.medelement.com/index.php/disease/view/NDYxMA%253D%253D/fDEyfA%253D%253D" target="_blank">Хронический поверхностный гастрит</a> - K29.3, <a href="https://diseases.medelement.com/index.php/disease/view/NDYxMQ%253D%253D/fDEyfA%253D%253D" target="_blank">Хронический атрофический гастрит</a> - K29.4).</div><div>
+	6. При необходимости - <aterm term="1">эрадикация Н.pylori</aterm>.</div><br/>
+</div>
+</div>
+</section>
+<section class="page-section" data-section-name="PROGNOSIS">
+<h2 class="page-section__title" id="prognosis">
+        Прогноз    </h2>
+<div class="container">
+<div class="row page-section__row">
+<div style="text-align: justify;">
+<br/>
+	В основном благоприятный. Зависит от наличия сопутствующих алкогольных поражений печени, поджелудочной железы, степени морфологических изменений в желудке. </div>
+</div>
+</div>
+</section>
+<section class="page-section" data-section-name="HOSPITALIZATION">
+<h2 class="page-section__title" id="hospitalization">
+        Госпитализация    </h2>
+<div class="container">
+<div class="row page-section__row">
+<div>
+<br/>
+	Не требуется.</div>
+</div>
+</div>
+</section>
+<section class="page-section" data-section-name="PROPHYLAXIS">
+<h2 class="page-section__title" id="prophylaxis">
+        Профилактика    </h2>
+<div class="container">
+<div class="row page-section__row">
+<br/>
+Отказ от алкоголя.
+                    </div>
+</div>
+</section>
+<section class="page-section" data-index="14">
+<h2 class="page-section__title" id="information">
+        Информация    </h2>
+<div class="container">
+<section class="row page-field" data-field-name="LISTOFREFERENCES">
+<h3 class="page-field__title text-left" id="listofreferences">
+                    Источники и литература                </h3>
+<div class="page-field__data">
+<ol id="AdditionalListSources" type="I">
+<li level="1">
+<span>Ивашкин В.Т., Лапина Т.Л. Гастроэнтерология. Национальное руководство. Научно-практическое издание, 2008   </span>
+<ol type="1">
+</ol>
+</li>
+<li level="1">
+<span>http://www.rusmedserver.ru/med/gastro/</span>
+<ol type="1">
+</ol>
+</li>
+<li level="1">
+<span>http://www.russlav.ru/alkogolizm/alkogol'-i-zheludok.html</span>
+<ol type="1">
+</ol>
+</li>
+</ol> </div>
+</section>
+</div>
+</section>
+<section class="page-section" data-section-name="ATTENTION">
+<h2 class="page-section__title" id="attention">
+        Внимание!    </h2>
+<div class="container">
+<div class="row page-section__row">
+<!--noindex-->
+<label class="attention-self-treatment-list__caption">Если вы не являетесь медицинским специалистом:</label>
+<ul class="attention-self-treatment-list">
+<li>
+        Занимаясь самолечением, вы можете нанести непоправимый вред своему здоровью.
+         
+    </li>
+<li>
+        Информация, размещенная на сайте MedElement, не может и не должна заменять очную консультацию врача.
+        Обязательно
+        обращайтесь в медицинские учреждения при наличии каких-либо заболеваний или беспокоящих вас симптомов.
+         
+    </li>
+<li>
+        Выбор лекарственных средств и их дозировки, должен быть оговорен со специалистом. Только врач может
+        назначить
+        нужное лекарство и его дозировку с учетом заболевания и состояния организма больного.
+         
+    </li>
+<li>
+        Сайт MedElement является исключительно информационно-справочным ресурсом. Информация, размещенная на данном
+        сайте, не должна использоваться для самовольного изменения предписаний врача.
+         
+    </li>
+<li>
+        Редакция MedElement не несет ответственности за какой-либо ущерб здоровью или материальный ущерб, возникший
+        в
+        результате использования данного сайта.
+    </li>
+</ul>
+<!--/noindex-->
+</div>
+</div>
+</section>
+</main>

@@ -1,0 +1,295 @@
+<main id="main">
+<section class="page-information disease-information">
+<div class="container">
+<h1 class="page-information__name disease-information__name">
+            Хронический тиреоидит с преходящим тиреотоксикозом (E06.2)        </h1>
+<div class="disease-information__alternate-name">
+<label>Также: </label>
+                подострый тиреоидит в тиреотоксической стадии, тиреоидит де Кервена в стадии тиреотоксикоза            </div>
+<div class="disease-information__version-name">
+<p class="lead text-muted">
+                
+                Версия: Справочник заболеваний MedElement                </p>
+</div>
+<div class="disease-information__categories-mkb">
+<label>Категории МКБ: </label>
+                Хронический тиреоидит с преходящим тиреотоксикозом (E06.2)            </div>
+<div class="disease-information__sections-medicine">
+<label>Разделы медицины: </label>
+                Эндокринология            </div>
+</div>
+</section>
+<section class="page-section" data-index="0">
+<h2 class="page-section__title" id="general_information">
+        Общая информация    </h2>
+<div class="container">
+<div class="page-links-actions">
+<ul>
+<li class="page-links-actions__item page-links-actions__item--print" data-ga-event-action="Клик по ссылке: Версия для печати" data-ga-event-category="Links actions" data-ga-event-label="" data-send-ga-event="">
+<a href="javascript:window.print()">Версия для печати
+                    <svg class="svg-icon svg-icon-printer" height="18" version="1.1" viewbox="0 0 24 24" width="18" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<path d="M18,3H6V7H18M19,12A1,1 0 0,1 18,11A1,1 0 0,1 19,10A1,1 0 0,1 20,11A1,1 0 0,1 19,12M16,19H8V14H16M19,8H5A3,3 0 0,0 2,11V17H6V21H18V17H22V11A3,3 0 0,0 19,8Z"></path>
+</svg>
+</a>
+</li>
+</ul>
+</div>
+<section class="row page-field" data-field-name="SHORTDESCRIPTION">
+<h3 class="page-field__title text-left" id="shortdescription">
+                    Краткое описание                </h3>
+<div class="page-field__data">
+<div style="text-align: justify;">
+<br/>
+<strong>Хронический тиреоидит с преходящим <aterm term="1">тиреотоксикозом<span class="term-description" style="display: none;"><span>Тиреотоксикоз - патологическое состояние, обусловленное поступлением в организм чрезмерного количества гормонов щитовидной железы и характеризующееся повышением основного обмена, нарушениями функций нервной и сердечно-сосудистой систем.</span><br/></span></aterm>  </strong> или так называемый тиреоидит де Кервена в стадии тиреотоксикоза,  является воспалительным заболеванием щитовидной железы (ЩЖ)   вирусной этиологии.  Заболевание начинается  после выздоровления от предшествующей  вирусной инфекции и возникает через 5-6 недель после перенесенного гриппа, ОРВИ, кори, эпидемического паротита.<br/>
+<br/>
+	Характеризуется острым началом: повышением температуры до 38-39 градусов С, выраженным болевым синдромом (сильная боль на передней поверхности шеи с <aterm term="1">иррадиацией<span class="term-description" style="display: none;"><span>Иррадиация - распространение болевых ощущений за пределы пораженного участка или органа.</span><br/></span></aterm> в ухо, нижнюю челюсть), симптомами тиреотоксикоза (тахикардия, похудание, раздражительность, плаксивость );  длится от 4 до 6 недель. Внедрение вируса в тиреоцит вызывает его разрушение, что приводит к высвобождению большого количества тиреоидных гормонов в кровь,  тем самым обуславливая симптоматику тиреотоксикоза. Поскольку через некоторое время происходит самовосстановление разрушенных фолликулов, тиреотоксикоз сменяется <aterm term="1">эутиреозом<span class="term-description" style="display: none;"><span>Эутиреоз - нормальное функционирование щитовидной железы, отсутствие симптомов гипо- и гипертиреоза</span><br/></span></aterm>.</div>
+</div>
+</section>
+</div>
+</section>
+<section class="page-section" data-section-name="ETIOLOGY">
+<h2 class="page-section__title" id="etiology">
+        Этиология и патогенез    </h2>
+<div class="container">
+<div class="row page-section__row">
+<div style="text-align: justify;">
+<br/>
+	Наиболее вероятной причиной является вирусная инфекция, о которой свидетельствуют следующие факты:<br/>
+	- длительный <aterm term="1">продромальный период<span class="term-description" style="display: none;"><span>Продромальный период - период заболевания, который протекает между инкубационным периодом и собственно болезнью</span><br/></span></aterm>;<br/>
+	- эпидемический характер заболеваемости (повышение случаев заболеваемости тиреоидитом во время вспышек вирусных инфекций);<br/>
+	- сезонное увеличение случаев заболеваемости (зима-осень).<br/>
+<br/>
+	Предполагаемые возбудители: вирус Коксаки, аденовирусы, вирус эпидемического паротита, гриппа, кори, вирус Эпштейна - Барр.<br/>
+	Также существует генетическая предрасположенность у носителей гена HLA-Bw35 (лица восприимчивые к   вирусным инфекциям).  <br/>
+	Воспаление ЩЖ ведет к деструкции  фолликулов (тиреоцитов), вследствие чего в кровь выделяется большое количество тиреоидных гормонов (Т<sub>3</sub> и Т<sub>4</sub>), что обуславливает развитие тиреотоксикоза без гиперфункции ЩЖ. Тканевая реакция на внедрение вируса гистологически представлена  фокальной гранулематозной инфильтрацией  гистиоцитами и гигантскими клетками. Со временем  отмечаются выраженный <aterm term="1">фиброз стромы<span class="term-description" style="display: none;"><span>Фиброз стромы -   разрастание соединительнотканной опорной структуры органа или опухоли, происходящее, например, в исходе воспаления </span><br/></span></aterm>, а также регенераторные процессы: новообразование фолликулов в островках из интерфолликулярного эпителия  и клеток разрушенных фолликулов. </div>
+</div>
+</div>
+</section>
+<section class="page-section" data-section-name="EPIDEMIOLOGY">
+<h2 class="page-section__title" id="epidemiology">
+        Эпидемиология    </h2>
+<div class="container">
+<div class="row page-section__row">
+<br/>
+Распространенность неизвестна. Как правило, развивается в возрасте 30-60 лет, чаще у женщин, у детей - <aterm term="1">казуистика<span class="term-description" style="display: none;"><span>Казуистика - собрание конкретных случаев, выясняющих известную форму болезни</span><br/></span></aterm>.
+                    </div>
+</div>
+</section>
+<section class="page-section" data-section-name="FACTORSANDRISKGROUPS">
+<h2 class="page-section__title" id="factorsandriskgroups">
+        Факторы и группы риска    </h2>
+<div class="container">
+<div class="row page-section__row">
+<br/>
+- женщины в возрасте 30-60 лет, переболевшие вирусной инфекцией;<br/>
+- носители гена HLA-Bw35. 
+                    </div>
+</div>
+</section>
+<section class="page-section" data-index="4">
+<h2 class="page-section__title" id="clinical">
+        Клиническая картина    </h2>
+<div class="container">
+<section class="row page-field" data-field-name="ANTIPRAXIA">
+<h3 class="page-field__title text-left" id="antipraxia">
+                    Cимптомы, течение                </h3>
+<div class="page-field__data">
+<div style="text-align: justify;">
+<br/>
+	Клиническая картина представлена <strong>тремя группами симптомов:</strong><br/>
+	- болевой симптом в области шеи;<br/>
+	- тиреотоксикоз (легкий или умеренный);<br/>
+	- симптоматика острого инфекционного заболевания (интоксикация, потливость, подъем температуры до 38-39<sup>o</sup>С).<br/>
+<br/>
+	Типичным является довольно внезапное появление диффузных болей в области передней поверхности шеи с иррадиацией в ухо, нижнюю челюсть, затылок. Шейные движения, глотание различные раздражения области ЩЖ крайне неприятны и болезненны.<br/>
+<br/>
+	При пальпации ЩЖ увеличена, плотная, болезненная. Болезненность может быть локальной или  диффузной в зависимости от вовлечения той или иной доли  в воспалительный процесс. Регионарные лимфоузлы не увеличены.<br/>
+<br/>
+	Синдром тиреотоксикоза, как правило, легкой или средней степени тяжести, проявляется тахикардией, повышенной потливостью, раздражительностью, плаксивостью. Офтальмопатия, дермопатия и акропатия, часто встречающиеся при диффузном токсическом зобе (ДТЗ), отсутствуют. Глазные симптомы не определяются или выражены незначительно. Такое сравнительно легкое течение тиреотоксикоза обусловлено пассивным высвобождением тиреоглобулина и избытка тиреоидных гормонов из фолликулов ЩЖ, подвергшихся деструкции. Длительность данного периода  от нескольких недель до 1-2 месяцев (в среднем 5-6 недель).</div>
+</div>
+</section>
+</div>
+</section>
+<section class="page-section" data-section-name="DIAGNOSTICS">
+<h2 class="page-section__title" id="diagnostics">
+        Диагностика    </h2>
+<div class="container">
+<div class="row page-section__row">
+<br/>
+<strong>Инструментальные исследования</strong>
+<div style="text-align: justify;">
+<br/>
+	На УЗИ щитовидной железы выявляются нечетко ограниченные  ("облаковидные") гипоэхогенные ареалы в одной или обеих долях.<br/>
+	На <aterm term="1">сцинтиграфии<span class="term-description" style="display: none;"><span>Сцинтиграфия - радиоизотопный метод визуализации распределения радиофармацевтического препарата в организме, органе или ткани.</span><br/></span></aterm> выявляется снижение захвата <sup>99m</sup>Тс.<br/>
+	Важное диагностическое значение имеют результаты лечения преднизолоном (<aterm term="1">диагностика ex juvantibus<span class="term-description" style="display: none;"><span>Диагноз ex juvantibus - диагноз, основанный на оценке результатов проведенного лечения</span><br/></span></aterm>), начальный этап которого известен как тест Крайля. Последний считается положительным, если в первые 12-48 часов после назначения преднизолона в дозе 30 мг/сут. у пациента происходит значительное уменьшение или исчезновение болевого синдрома, улучшение общего самочувствия и снижение СОЭ.</div>
+</div>
+</div>
+</section>
+<section class="page-section" data-section-name="LABORATORYDIAGNOSTICS">
+<h2 class="page-section__title" id="laboratorydiagnostics">
+        Лабораторная диагностика    </h2>
+<div class="container">
+<div class="row page-section__row">
+<div style="text-align: justify;">
+<br/>
+<span style="font-family: Arial, Helvetica, sans-serif; line-height: 16.363636016845703px; "><strong> Лабораторно выявляют:  </strong><br/>
+	- увеличение СОЭ более 50-70 мм/час, наблюдается умеренный лимфоцитоз, содержание лейкоцитов в норме;<br/>
+	- нормохромная нормоцитарная анемия;<br/>
+	- гипергаммаглобулинемия;<br/>
+	- увеличение фибриногена;<br/>
+	- умеренное повышение уровня тиреоидных гормонов (связанных Т</span><sub style="margin: 0px; padding: 0px; font-family: Arial, Helvetica, sans-serif; ">3</sub><span style="font-family: Arial, Helvetica, sans-serif; line-height: 16.363636016845703px; "> и Т</span><sub style="margin: 0px; padding: 0px; font-family: Arial, Helvetica, sans-serif; ">4</sub><span style="font-family: Arial, Helvetica, sans-serif; line-height: 16.363636016845703px; ">), снижение  <aterm term="1">ТТГ<span class="term-description" style="display: none;"><span>ТТГ - тиреотропный гормон (вырабатывается гипофизом и стимулирует образование гормонов щитовидной железы)
+</span><br/></span></aterm>;<br/>
+	- антитела к тиреоглобулину в сыворотке можно обнаружить в течение </span><span style="font-family: Arial, Helvetica, sans-serif; line-height: 16.363636016845703px; ">нескольких недель после появления симптоматики (через несколько месяцев антитела     исчезают). </span></div>
+</div>
+</div>
+</section>
+<section class="page-section" data-section-name="DIFFERENTIALDIAGNOSIS">
+<h2 class="page-section__title" id="differentialdiagnosis">
+        Дифференциальный диагноз    </h2>
+<div class="container">
+<div class="row page-section__row">
+<div>
+<br/><span>Дифференциальную диагностику проводят со следующими заболеваниями:<br/>
+	- острый  тиреоидит;</span><br/><span>- кровоизлияние в кисту ЩЖ;</span><br/><span>- <aterm term="1">ДТЗ</aterm> легкой и средней степени тяжести;</span><br/><span>- аутоиммунный тиреоидит, гипертиреоидная фаза;</span><br/><span>- недифференцированный рак ЩЖ;</span><br/><span>- флегмона шеи;</span><br/><span>- средний отит; </span><br/><span>- острый фарингит;</span><br/><span>- синдром височно-нижнечелюстного сустава;  </span><br/><span>- эзофагит;</span><br/><span>- десневой или парадонтальный абсцесс.</span><br/><br/><span>Большую помощь в дифференциальной диагностике оказывает проба с преднизолоном (тест Крайля) - через 12-48 часов после назначения 30 мг преднизолона болевой синдром купируется , самочувствие значительно улучшается, наблюдается тенденция снижения СОЭ.</span></div>
+</div>
+</div>
+</section>
+<section class="page-section" data-section-name="SEQUELAE">
+<h2 class="page-section__title" id="sequelae">
+        Осложнения    </h2>
+<div class="container">
+<div class="row page-section__row">
+<div style="text-align: justify;">
+<br/>
+<span style="color: rgb(0, 0, 0); font-family: Arial, Helvetica, sans-serif; line-height: 16.363636016845703px; ">Обычно заболевание заканчивается  полным выздоровлением через 1,5- 2 месяца. Однако у ряда больных проявляется склонность к рецидивированию. </span><span style="color: rgb(0, 0, 0); font-family: Arial, Helvetica, sans-serif; line-height: 16.363636016845703px; ">При многолетнем рецидивирующем течении возможен  переход в  <aterm term="1">гипотиреоз<span class="term-description" style="display: none;"><span>Гипотиреоз -  синдром недостаточности щитовидной железы, характеризующийся нервно-психическими расстройствами, отеками лица, конечностей и туловища, брадикардией</span><br/></span></aterm>.</span></div>
+</div>
+</div>
+</section>
+<section class="page-section" data-section-name="THERAPY">
+<h2 class="page-section__title" id="therapy">
+        Лечение    </h2>
+<div class="container">
+<div class="row page-section__row">
+<div>
+<br/><strong>Цели лечения:</strong><br/><span>- купировать болевой синдром;</span><br/><span>- купировать воспалительную реакцию (нормализация температуры тела и показателей ОАК);</span><br/><span>- восстановить функциональное состояние ЩЖ.</span><br/><br/><span>1.</span><strong> <aterm term="1">НПВС</aterm></strong><span> в максимально терапевтических дозах при легких формах. Нежелательно применение ацетилсалициловой кислоты (аспирина), т.к. она, по некоторым   данным, способна вытеснять Т</span><sub>4</sub><span> из связи с белками крови. При исчезновении болевого синдрома, снижении температуры тела, нормализации СОЭ - дозу постепенно снижают вплоть до отмены.</span><br/><br/><span>2. </span><strong>Глюкокортикоиды</strong><span> (ГКС) рекомендовано применять в большинстве случаев: преднизолон 30-40 мг внутрь после еды 1 раз/сут., до ликвидации клинических проявлений (1-3 нед.), с последующим уменьшением дозы на 5 мг в неделю. Общая продолжительность лечения составляет 2-3 мес. При быстром снижении ГКС болевой синдром усиливается.</span><br/><br/><span>3. Для устранения симптомов тиреотоксикоза назначают бета-адреноблокаторы: пропроналол 20-40мг 3-4 р./сут., до ликвидации клинических проявлений.</span><br/><span>В случае развития первичного  гипотиреоза при многократных тяжелых рецидивах назначается заместительная гормонотерапия левотироксином натрия (дозы подбираются индивидуально).</span><br/><span>Антитиреоидные препараты не показаны.</span></div>
+</div>
+</div>
+</section>
+<section class="page-section" data-section-name="PROGNOSIS">
+<h2 class="page-section__title" id="prognosis">
+        Прогноз    </h2>
+<div class="container">
+<div class="row page-section__row">
+<br/>
+<span style="color: rgb(0, 0, 0); font-family: Arial, Helvetica, sans-serif; line-height: 16.363636016845703px; ">В большинстве случаев заканчивается полным выздоровлением через 1,5-2 месяца,  у ряда больных отмечается склонность к рецидивированию.</span>
+</div>
+</div>
+</section>
+<section class="page-section" data-section-name="HOSPITALIZATION">
+<h2 class="page-section__title" id="hospitalization">
+        Госпитализация    </h2>
+<div class="container">
+<div class="row page-section__row">
+<br/>
+Срок  стационарного обследования и лечения - 21 день.
+                    </div>
+</div>
+</section>
+<section class="page-section" data-section-name="PROPHYLAXIS">
+<h2 class="page-section__title" id="prophylaxis">
+        Профилактика    </h2>
+<div class="container">
+<div class="row page-section__row">
+<br/>
+<span style="color: rgb(0, 0, 0); font-family: Arial, Helvetica, sans-serif; line-height: 16.363636016845703px; ">Первичная профилактика отсутствует.</span>
+</div>
+</div>
+</section>
+<section class="page-section" data-index="13">
+<h2 class="page-section__title" id="information">
+        Информация    </h2>
+<div class="container">
+<section class="row page-field" data-field-name="LISTOFREFERENCES">
+<h3 class="page-field__title text-left" id="listofreferences">
+                    Источники и литература                </h3>
+<div class="page-field__data">
+<ol id="AdditionalListSources" type="I">
+<li level="1">
+<span>Braverman L. Diseases of the thyroid. - Humana Press, 2003</span>
+<ol type="1">
+</ol>
+</li>
+<li level="1">
+<span>Балаболкин М.И., Клебанова Е.М., Креминская В.М. Дифференциальная диагностика и лечение эндокринных заболеваний. Руководство, М., 2002</span>
+<ol type="1">
+</ol>
+</li>
+<li level="1">
+<span>Дедов И.И., Мельниченко Г.А., Андреева В.Н. Рациональная фармакотерапия заболеваний эндокринной системы и нарушений обмена веществ. Руководство для практикующих врачей, М., 2006</span>
+<ol type="1">
+</ol>
+</li>
+<li level="1">
+<span>Дедов И.И., Мельниченко Г.А., Пронин В.С. Клиника и диагностика эндокринных нарушений. Учебно-методическое пособие, М., 2005</span>
+<ol type="1">
+</ol>
+</li>
+<li level="1">
+<span>Дедов И.И., Мельниченко Г.А., Фадеев В.В. Эндокринология. Учебник для ВУЗов, М., 2007</span>
+<ol type="1">
+</ol>
+</li>
+<li level="1">
+<span>Ефимов А.С, Боднар П.Н., Зелинский Б.А. Эндокринология, К,1983</span>
+<ol type="1">
+</ol>
+</li>
+<li level="1">
+<span>Старкова Н.Т. Руководство по клинической эндокринологии, СПб, 1996 </span>
+<ol type="1">
+</ol>
+</li>
+</ol> </div>
+</section>
+</div>
+</section>
+<section class="page-section" data-section-name="ATTENTION">
+<h2 class="page-section__title" id="attention">
+        Внимание!    </h2>
+<div class="container">
+<div class="row page-section__row">
+<!--noindex-->
+<label class="attention-self-treatment-list__caption">Если вы не являетесь медицинским специалистом:</label>
+<ul class="attention-self-treatment-list">
+<li>
+        Занимаясь самолечением, вы можете нанести непоправимый вред своему здоровью.
+         
+    </li>
+<li>
+        Информация, размещенная на сайте MedElement, не может и не должна заменять очную консультацию врача.
+        Обязательно
+        обращайтесь в медицинские учреждения при наличии каких-либо заболеваний или беспокоящих вас симптомов.
+         
+    </li>
+<li>
+        Выбор лекарственных средств и их дозировки, должен быть оговорен со специалистом. Только врач может
+        назначить
+        нужное лекарство и его дозировку с учетом заболевания и состояния организма больного.
+         
+    </li>
+<li>
+        Сайт MedElement является исключительно информационно-справочным ресурсом. Информация, размещенная на данном
+        сайте, не должна использоваться для самовольного изменения предписаний врача.
+         
+    </li>
+<li>
+        Редакция MedElement не несет ответственности за какой-либо ущерб здоровью или материальный ущерб, возникший
+        в
+        результате использования данного сайта.
+    </li>
+</ul>
+<!--/noindex-->
+</div>
+</div>
+</section>
+</main>

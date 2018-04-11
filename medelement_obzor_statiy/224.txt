@@ -1,0 +1,306 @@
+<main id="main">
+<section class="page-information disease-information">
+<div class="container">
+<h1 class="page-information__name disease-information__name">
+            Пневмония, вызванная вирусом парагриппа (J12.2)        </h1>
+<div class="disease-information__version-name">
+<p class="lead text-muted">
+                
+                Версия: Справочник заболеваний MedElement                </p>
+</div>
+<div class="disease-information__categories-mkb">
+<label>Категории МКБ: </label>
+                Пневмония, вызванная вирусом парагриппа (J12.2)            </div>
+<div class="disease-information__sections-medicine">
+<label>Разделы медицины: </label>
+                Пульмонология            </div>
+</div>
+</section>
+<section class="page-section" data-index="0">
+<h2 class="page-section__title" id="general_information">
+        Общая информация    </h2>
+<div class="container">
+<div class="page-links-actions">
+<ul>
+<li class="page-links-actions__item page-links-actions__item--print" data-ga-event-action="Клик по ссылке: Версия для печати" data-ga-event-category="Links actions" data-ga-event-label="" data-send-ga-event="">
+<a href="javascript:window.print()">Версия для печати
+                    <svg class="svg-icon svg-icon-printer" height="18" version="1.1" viewbox="0 0 24 24" width="18" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<path d="M18,3H6V7H18M19,12A1,1 0 0,1 18,11A1,1 0 0,1 19,10A1,1 0 0,1 20,11A1,1 0 0,1 19,12M16,19H8V14H16M19,8H5A3,3 0 0,0 2,11V17H6V21H18V17H22V11A3,3 0 0,0 19,8Z"></path>
+</svg>
+</a>
+</li>
+</ul>
+</div>
+<section class="row page-field" data-field-name="SHORTDESCRIPTION">
+<h3 class="page-field__title text-left" id="shortdescription">
+                    Краткое описание                </h3>
+<div class="page-field__data">
+<div style="text-align: justify;">
+<br/>
+<strong>Пневмония</strong> (воспаление легких) - наименование группы различных по этиологии, патогенезу и морфологической характеристике острых локальных инфекционных заболеваний легких с преимущественным поражением респираторных отделов (<aterm term="1">альвеолы<span class="term-description" style="display: none;"><span>Альвеола - это пузырьковидное образование в лёгких, оплетённое сетью капилляров. Через стенки альвеол (в лёгких человека их свыше 700 млн) происходит газообмен</span><br/></span></aterm>, <aterm term="1">бронхиолы<span class="term-description" style="display: none;"><span>Бронхиолы - конечные ветви бронхиального дерева, не содержащие хрящ и переходящие в альвеолярные ходы лёгких</span><br/></span></aterm>) и внутриальвеолярной экссудацией. <br/>
+<br/>
+	Вирусы парагриппа (PIVS) являются парамиксовирусами. Вирусы парагриппа человека (HPIVs) в настоящее время разделены на 5 серотипов: HPIV-1, HPIV-2, HPIV-3, HPIV-4а и 4b  в 2 разных родах: Respirovirus (HPIV-1 и HPIV-3) и Rubulavirus (HPIV-2 и HPIV-4).<br/>
+<br/>
+<strong>Серотипы HPIV-1 и HPIV-3 </strong>являются основной причиной пневмонии и бронхиолита и уступают, как причина вирусных пневмоний, только респираторно-синцитиальному вирусу и аденовирусу. </div>
+</div>
+</section>
+<section class="row page-field" data-field-name="NUMBERDAYSFLOW">
+<h3 class="page-field__title text-left" id="numberdaysflow">
+                    Период протекания                </h3>
+<div class="page-field__data">
+<p><span>Минимальный инкубационный период (дней): </span>
+        2</p>
+<p><span>Максимальный инкубационный период (дней): </span>
+        7</p>
+<br/>
+<br/>
+</div>
+</section>
+</div>
+</section>
+<section class="page-section" data-section-name="ETIOLOGY">
+<h2 class="page-section__title" id="etiology">
+        Этиология и патогенез    </h2>
+<div class="container">
+<div class="row page-section__row">
+<div>
+<br/>
+	Вирус парагриппа человека (HPIV) зависит от таких условий внешней среды, как температура, влажность и рН. Выживание вируса значительно уменьшается при температуре выше 37<sup>о </sup>C, а при температуре  выше 50<sup>о </sup>C вирус инактивируется в течение 15 минут.<br/>
+	При исследовании выживания вируса при комнатной температуре была определена его значительная вариабельность (время уменьшения титра более чем на 50% колебалось от 2 часов до 1 недели). <br/>
+	Вирус имеет наибольшую устойчивость при 4<sup>о </sup>С и сохраняет ее при замораживании (например, при -70<sup>о </sup>C).</div><div>
+<div>
+<br/>
+		Вирусы прикрепляются к клеткам-хозяевам с помощью гемагглютинина, который соединяется с рецепторами нейраминовой кислоты в клетках-хозяевах. В дальнейшем вирусы проникают в клетку через слияние с клеточной мембраной, опосредованное F1 и F2 рецепторами. <br/><font><font>Первое из наблюдаемых морфологических изменений, при заражении клетки </font></font><span>HPIV, </span><font><font>может включать в себя координационное округление и рост цитоплазмы и ядра  в сочетании со снижением митотической активности</font></font><span> клетки-хозяина</span><font>. </font><font>Другие наблюдаемые изменения: одно- или многокамерные цитоплазматические вакуоли, базофильные и эозинофильные включения и формирование многоядерных гигантских клеток </font><span>(слияние клеток)</span><font>. Такие </font><font>гигантские клетки в основном развиваются в конце процесса, при этом каждая гигантская клетка содержит от 2 до 7 ядер. </font><br/><font>Вирусная репликация начинается со слияния </font><span>липидных мембран </span><font>вируса и клетки-хозяина. Затем следует проникновение нуклеокапсида </font><span>HPIV</span><font> в цитоплазму клетки, где и происходит т</font><font>ранскрипция </font><font>при помощи вирус-специфической РНК-зависимой РНК-полимеразы. </font></div>
+<div>
+		 </div>
+<div>
+<strong>Характер воспаления</strong> может быть катаральным, катарально-гнойным, фибринозно-гнойным и язвенно-некротическим.<br/><font>Главная патологическая особенность - тотальное воспаление нижних дыхательных путей с некрозом и отторжением дыхательного эпителия, отеком, гиперсекрецией слизи, и интерстициальной инфильтрацией легких. </font><br/><font><font>HPIV-2 и HPIV-3 инфекции у человека индуцируют экспрессию молекул межклеточной адгезии-1 (ICAM-1) в трахее и других отделах дыхательных путей. </font><font>Эти молекулы служат рецепторами для </font></font>риновирусов<font>, тем самым прокладывая путь для риновирусной суперинфекции. </font><br/><span>В течение 3-16 дней после первичного инфицирования в</span><span>ирус продолжает выделяться из <aterm term="1">экссудата</aterm> дыхательных путей.</span></div>
+</div>
+</div>
+</div>
+</section>
+<section class="page-section" data-section-name="EPIDEMIOLOGY">
+<h2 class="page-section__title" id="epidemiology">
+        Эпидемиология    </h2>
+<div class="container">
+<div class="row page-section__row">
+<div style="text-align: justify;">
+<br/>
+	Источник инфекции парагриппа - больной человек. Он считается заразным уже через 24 часа после инфицирования, при этом в первые 2-3 дня болезни выделение вируса во внешнюю среду наиболее интенсивно.<br/>
+	Вирус передается воздушно-капельным путем и проникает в организм через слизистые оболочки глотки и гортани. Часть вирусов попадает в кровь, вызывая симптомы общей интоксикации.</div>
+<div style="text-align: justify;">
+<br/>
+	Парагриппозная инфекция распространена повсеместно. Спорадические случаи регистрируют в течение всего года, а подъем заболеваемости отмечается в осенне-весенний период. Вспышки HPIV-3-инфекций наблюдаются ежегодно, в основном весной и летом, и длятся дольше, чем вспышки HPIV-1 и HPIV-2. <br/>
+<br/>
+	У больных вырабатывается длительный иммунитет к инфекции HPIV. Тем не менее возможно многократное повторное заражение на протяжении всей жизни с переменными интервалами, даже в присутствии нейтрализующих антител к HPIV  в крови. <br/>
+<br/>
+	Пик заболеваемости отмечается среди детей дошкольного возраста. Младенцы (особенно до 6 месяцев) являются особенно уязвимыми к инфекции HPIV-3.<br/>
+	В отличие от других инфекций парагриппа, 40% случаев инфицирования HPIV-3 отмечается в первый год жизни. Такие пациенты, в случае развития пневмонии, требуют стационарного лечения наиболее часто. <br/>
+	HPIV-1-инфекции вызывают вторичную бактериальную пневмонию у пожилых людей. <br/>
+	HPIV-2 и HPIV-4 могут вызывать пневмонию, однако частота болезней, связанных с этими серотипами, не очень хорошо описана.</div>
+</div>
+</div>
+</section>
+<section class="page-section" data-section-name="FACTORSANDRISKGROUPS">
+<h2 class="page-section__title" id="factorsandriskgroups">
+        Факторы и группы риска    </h2>
+<div class="container">
+<div class="row page-section__row">
+<br/><p>
+Группы риска:<br/>
+- иммунокомпрометированные пациенты (в основном  с недостаточностью Т-клеточного иммунитета);<br/>
+- дети раннего возраста.<br/><br/><span>Факторы риска:<br/>
+- недоедание;</span><br/><span>- скученность;</span><br/><span>- дефицит витамина А;</span><br/><span>- отсутствие грудного вскармливания;</span><br/><font face="arial, sans-serif" size="2">- загрязнение атмосферы.</font></p>
+</div>
+</div>
+</section>
+<section class="page-section" data-index="4">
+<h2 class="page-section__title" id="clinical">
+        Клиническая картина    </h2>
+<div class="container">
+<section class="row page-field" data-field-name="THESIS">
+<h3 class="page-field__title text-left" id="thesis">
+                    Клинические критерии диагностики                </h3>
+<div class="page-field__data">
+                    
+                    постепенное развитие, младенческий или пожилой возраст, ринит, кашель, тахипноэ, лихорадка, фокусные хрипы, характерные для пневмонии.                </div>
+</section>
+<section class="row page-field" data-field-name="ANTIPRAXIA">
+<h3 class="page-field__title text-left" id="antipraxia">
+                    Cимптомы, течение                </h3>
+<div class="page-field__data">
+<div style="text-align: justify;">
+<br/>
+	Многими авторами пневмония расценивается не как проявление парагриппозной инфекции, а как ее тяжелое осложнение. Наиболее часто пневмония, связанная с HPIVs, проявляется в виде внебольничной пневмонии.<br/>
+	Развивается постепенно, с вовлечения в процесс верхних дыхательных путей и бронхов. В связи с этим  клиника включает в себя лихорадку с фебрильной температурой, ринит, кашель, <aterm term="1">тахипноэ<span class="term-description" style="display: none;"><span>Тахипноэ - учащенное дыхание без его углубления</span><br/></span></aterm>, фокусные хрипы. </div>
+</div>
+</section>
+</div>
+</section>
+<section class="page-section" data-section-name="DIAGNOSTICS">
+<h2 class="page-section__title" id="diagnostics">
+        Диагностика    </h2>
+<div class="container">
+<div class="row page-section__row">
+<br/>
+Рентгенологическая диагностика выявляет, как правило,  типичную очаговую пневмонию с очагами консолидации. 
+                    </div>
+</div>
+</section>
+<section class="page-section" data-section-name="LABORATORYDIAGNOSTICS">
+<h2 class="page-section__title" id="laboratorydiagnostics">
+        Лабораторная диагностика    </h2>
+<div class="container">
+<div class="row page-section__row">
+<p style="text-align: justify;">
+<br/>
+<strong>Общий анализ крови</strong> в основной массе случаев в пределах нормы. Количество белых клеток крови (WBC), как правило, нормальное, однако, может быть отмечен небольшой лимфоцитоз. При <aterm term="1">суперинфекции<span class="term-description" style="display: none;"><span>Суперинфекция - повторное заражение новым инфекционным заболеванием в условиях незавершившегося инфекционного заболевания, вызванное другим микроорганизмом, обычно устойчивым к лекарственному веществу, которое применялось для лечения первичной инфекции</span><br/></span></aterm> возрастает лейкоцитоз и увеличивается количество С-реактивного белка.</p>
+<p style="text-align: justify;">
+<br/>
+<strong>Подтверждением диагноза инфекции HPIV выступают:</strong><br/>
+	1. Выделение и идентификация вируса в культуре клеток или прямое обнаружение вируса в дыхательных путей с помощью иммунофлюоресцентного анализа, иммуноферментного анализа (ИФА) или полимеразной цепной реакции (ПЦР).<br/>
+	2. Значительный рост титров специфического иммуноглобулина G (IgG) в парных образцах сывороток (в 4 раза) или обнаружение специфического иммуноглобулина М (IgM) в одном образце сыворотки.</p>
+</div>
+</div>
+</section>
+<section class="page-section" data-section-name="DIFFERENTIALDIAGNOSIS">
+<h2 class="page-section__title" id="differentialdiagnosis">
+        Дифференциальный диагноз    </h2>
+<div class="container">
+<div class="row page-section__row">
+<div>
+<br/>
+	Необходима дифференциация с пневмониями другой этиологии (грипп, аденовирус, респираторно-синцитиальный вирус, микоплазма и пр.) и бронхиолитами.</div>
+</div>
+</div>
+</section>
+<section class="page-section" data-section-name="SEQUELAE">
+<h2 class="page-section__title" id="sequelae">
+        Осложнения    </h2>
+<div class="container">
+<div class="row page-section__row">
+<div style="text-align: justify;">
+<br/>
+	- острый респираторный дистресс-синдром;<br/>
+	- нефротический синдром;<br/>
+	- редкие осложнения, включая <aterm term="1">синдром Гийена-Барре<span class="term-description" style="display: none;"><span>Синдром Гийена-Барре (СГБ, острый полирадикулит) — острая аутоиммунная воспалительная полирадикулоневропатия (множественное поражение периферических нервов), проявляющаяся вялыми парезами, нарушениями чувствительности, вегетативными расстройствами</span><br/></span></aterm> и менингит.<br/>
+<br/>
+	В случае присоединения бактериальной инфекции, она в первую очередь определяет тяжесть и локализацию осложнений.</div>
+</div>
+</div>
+</section>
+<section class="page-section" data-section-name="THERAPY">
+<h2 class="page-section__title" id="therapy">
+        Лечение    </h2>
+<div class="container">
+<div class="row page-section__row">
+<br/>
+1. Постельный режим.<br/>
+2. Оральная или парентеральная регидратация.<br/>
+3. Создание атмосферы тропиков (максимальное увлажнение воздуха).<br/>
+4. Ингаляции рацемического адреналина при сопутствующем выраженном бронхиолите.<br/>
+5. Оксигенотерапия и респираторная поддержка по показаниям (подробнее см. "<a href="https://diseases.medelement.com/index.php/disease/view/NDI1OQ%253D%253D/fDEyfA%253D%253D">Острый бронхиолит</a>").<br/>
+6. Терапия рибаверином оправдана для пациентов с иммунодефицитом.
+                            
+
+
+
+
+
+                       </div>
+</div>
+</section>
+<section class="page-section" data-section-name="PROGNOSIS">
+<h2 class="page-section__title" id="prognosis">
+        Прогноз    </h2>
+<div class="container">
+<div class="row page-section__row">
+<br/>
+Как правило благоприятен.
+                    </div>
+</div>
+</section>
+<section class="page-section" data-section-name="HOSPITALIZATION">
+<h2 class="page-section__title" id="hospitalization">
+        Госпитализация    </h2>
+<div class="container">
+<div class="row page-section__row">
+<br/>
+Показана пациентам из группы риска и пациентам с отягощенным <aterm term="1">преморбидным фоном<span class="term-description" style="display: none;"><span>Преморбидный фон - предшествующее и способствующее развитию болезни состояние организма</span><br/></span></aterm>.
+                    </div>
+</div>
+</section>
+<section class="page-section" data-section-name="PROPHYLAXIS">
+<h2 class="page-section__title" id="prophylaxis">
+        Профилактика    </h2>
+<div class="container">
+<div class="row page-section__row">
+<div style="text-align: justify;">
+<br/>
+	Профилактика сводится к строгому соблюдению санитарии и гигиены (мытью рук и предметов обихода, проветриванию помещения, изоляции пациента в домашних условиях и прочее). Назальная вакцина разрабатывается.</div>
+</div>
+</div>
+</section>
+<section class="page-section" data-index="13">
+<h2 class="page-section__title" id="information">
+        Информация    </h2>
+<div class="container">
+<section class="row page-field" data-field-name="LISTOFREFERENCES">
+<h3 class="page-field__title text-left" id="listofreferences">
+                    Источники и литература                </h3>
+<div class="page-field__data">
+<ol id="AdditionalListSources" type="I">
+<li level="1">
+<span>Респираторная медицина /под ред. Чучалина А.Г., М.: ГЭОТАР-Медиа, 2007</span>
+<ol type="1">
+</ol>
+</li>
+<li level="1">
+<span>http://emedicine.medscape.com</span>
+<ol type="1">
+</ol>
+</li>
+</ol> </div>
+</section>
+</div>
+</section>
+<section class="page-section" data-section-name="ATTENTION">
+<h2 class="page-section__title" id="attention">
+        Внимание!    </h2>
+<div class="container">
+<div class="row page-section__row">
+<!--noindex-->
+<label class="attention-self-treatment-list__caption">Если вы не являетесь медицинским специалистом:</label>
+<ul class="attention-self-treatment-list">
+<li>
+        Занимаясь самолечением, вы можете нанести непоправимый вред своему здоровью.
+         
+    </li>
+<li>
+        Информация, размещенная на сайте MedElement, не может и не должна заменять очную консультацию врача.
+        Обязательно
+        обращайтесь в медицинские учреждения при наличии каких-либо заболеваний или беспокоящих вас симптомов.
+         
+    </li>
+<li>
+        Выбор лекарственных средств и их дозировки, должен быть оговорен со специалистом. Только врач может
+        назначить
+        нужное лекарство и его дозировку с учетом заболевания и состояния организма больного.
+         
+    </li>
+<li>
+        Сайт MedElement является исключительно информационно-справочным ресурсом. Информация, размещенная на данном
+        сайте, не должна использоваться для самовольного изменения предписаний врача.
+         
+    </li>
+<li>
+        Редакция MedElement не несет ответственности за какой-либо ущерб здоровью или материальный ущерб, возникший
+        в
+        результате использования данного сайта.
+    </li>
+</ul>
+<!--/noindex-->
+</div>
+</div>
+</section>
+</main>

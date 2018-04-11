@@ -1,0 +1,473 @@
+<main id="main">
+<section class="page-information disease-information">
+<div class="container">
+<h1 class="page-information__name disease-information__name">
+            Другие виды закрытия просвета кишечника (K56.4)        </h1>
+<div class="disease-information__alternate-name">
+<label>Также: </label>
+                энтеролит, копростаз            </div>
+<div class="disease-information__version-name">
+<p class="lead text-muted">
+                
+                Версия: Справочник заболеваний MedElement                </p>
+</div>
+<div class="disease-information__categories-mkb">
+<label>Категории МКБ: </label>
+                Другие виды закрытия просвета кишечника (K56.4)            </div>
+<div class="disease-information__sections-medicine">
+<label>Разделы медицины: </label>
+                Гастроэнтерология            </div>
+</div>
+</section>
+<section class="page-section" data-index="0">
+<h2 class="page-section__title" id="general_information">
+        Общая информация    </h2>
+<div class="container">
+<div class="page-links-actions">
+<ul>
+<li class="page-links-actions__item page-links-actions__item--print" data-ga-event-action="Клик по ссылке: Версия для печати" data-ga-event-category="Links actions" data-ga-event-label="" data-send-ga-event="">
+<a href="javascript:window.print()">Версия для печати
+                    <svg class="svg-icon svg-icon-printer" height="18" version="1.1" viewbox="0 0 24 24" width="18" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<path d="M18,3H6V7H18M19,12A1,1 0 0,1 18,11A1,1 0 0,1 19,10A1,1 0 0,1 20,11A1,1 0 0,1 19,12M16,19H8V14H16M19,8H5A3,3 0 0,0 2,11V17H6V21H18V17H22V11A3,3 0 0,0 19,8Z"></path>
+</svg>
+</a>
+</li>
+</ul>
+</div>
+<section class="row page-field" data-field-name="SHORTDESCRIPTION">
+<h3 class="page-field__title text-left" id="shortdescription">
+                    Краткое описание                </h3>
+<div class="page-field__data">
+<div style="text-align: justify;">
+<br/>
+<strong>Кишечный камень</strong> (энтеролит) - <aterm term="1">конкремент<span class="term-description" style="display: none;"><span>Конкременты -  камни, плотные образования, встречающиеся в полостных органах и выводных протоках желез человека. </span><br/></span></aterm>, образующийся в кишечнике в результате <aterm term="1">обызвествления<span class="term-description" style="display: none;"><span>Кальциноз (син. кальцификация, обызвествление) - отложение солей кальция в тканях организма</span><br/></span></aterm> сгустившихся пищевых остатков. <br/>
+<br/>
+<strong>Копростаз</strong> - состояние, возникающее в результате хронического запора, характеризующееся<span style="color: rgb(37, 37, 37); font-family: Arial, Tahoma, Geneva, Helvetica, sans-serif; text-align: justify;"> отсутствием дефекации (или незначительной дефекацией - до 100 г стула для взрослых) в течение минимум 48 часов и болезненными попытками ее осуществления, в сочетании с признаками кишечной непроходимости. Копростаз не является самостоятельным заболеванием, а представляет собой лишь клинический признак, сопровождающий некоторые болезни.<br/>
+	Следует отличать копростаз с признаками кишечной непроходимости от запора. </span><br/>
+<br/>
+<br/>
+<strong>Примечание</strong><br/>
+<br/>
+	В данную подрубрику <strong>включены</strong> следующие клинические понятия:<br/>
+	- закрытие просвета кишечника кишечным камнем;<br/>
+	- копростаз.<br/>
+<br/>
+	Из данной подрубрики <strong>исключены</strong>:<br/>
+	- "<a href="https://diseases.medelement.com/disease/view/NDYzNw%253D%253D/fDB8" target="_blank">Аппендикулярные камни</a>" - K38.1</div>
+<div style="text-align: justify;">
+	- "<a href="https://diseases.medelement.com/disease/view/NDcwOQ%253D%253D/fDB8" target="_blank">Илеус, вызванный желчным камнем</a>" - K56.3 </div>
+<div style="text-align: justify;">
+	- "<a href="https://diseases.medelement.com/disease/view/NDcyNw%253D%253D/fDB8" target="_blank">Запор</a>" - K59.0 </div>
+<div style="text-align: justify;">
+	- "Инородное тело в тонком кишечнике (безоар)" - T18.3 </div>
+<div style="text-align: justify;">
+	- "Инородное тело в ободочной кишке" - T18.4 </div>
+</div>
+</section>
+</div>
+</section>
+<section class="page-section" data-section-name="CLASSIFICATION">
+<h2 class="page-section__title" id="classification">
+        Классификация    </h2>
+<div class="container">
+<div class="row page-section__row">
+<div style="text-align: justify;">
+<br/>
+<strong>Энтеролиты. </strong>Условно подразделяются на истинные и ложные (см. раздел "Этиология и патогенез")<br/>
+	 <br/>
+<strong>Копростаз</strong>.  Приемлемая классификация отсутствует. Один из вариантов классификации по этиологическому признаку приводится ниже.</div>
+<div style="text-align: justify;">
+<br/>
+	1. Алиментарный копростаз. </div>
+<div style="text-align: justify;">
+	2. Механический копростаз (органические поражения толстой кишки). <br/>
+	3. Неврогенный копростаз (функциональные и органические заболевания центральной нервной системы). <br/>
+	4. Токсический копростаз (хронические интоксикации, в том числе лекарственными средствами). <br/>
+	5. Копростаз при эндокринной патологии. <br/>
+	6. Рефлекторный копростаз (при различных заболеваниях органов желудочно-кишечного тракта и малого таза).</div>
+<noindex>
+<div id="ggl2">
+	 </div>
+</noindex>
+</div>
+</div>
+</section>
+<section class="page-section" data-section-name="ETIOLOGY">
+<h2 class="page-section__title" id="etiology">
+        Этиология и патогенез    </h2>
+<div class="container">
+<div class="row page-section__row">
+<div style="text-align: justify;">
+<br/>
+<strong>Энтеролиты</strong><br/>
+<br/>
+	1. Истинные энтеролиты. Встречаются очень редко и представляют собой конкременты кала и желчных кислот, которые по мере попадания в дистальный отдел тонкого кишечника импрегнируются осаждаемыми солями кальция. Камни могут состоять почти исключительно из одного карбоната магния; могут содержать 80% карбоната и других солей кальция; "жирно-восковые массы", образующиеся вероятно от чрезмерного употребления очень жирной пищи, содержащей тугоплавкие жиры животного происхождения, или же вследствие недостаточного переваривания жиров. <br/>
+	Истинные энтеролиты формируются в основном в области врожденных аномалий и приобретенных дефектов тонкого кишечника. <br/>
+<br/>
+	2. Ложные энтеролиты формируются вокруг фрагментов непереваренной пищи (косточек, семян, безоаров) в любом отделе кишечника.<br/>
+	Продвигаясь по кишечнику и фиксируясь в тощей кишке или в илеоцекальном отделе кишечника, энтеролиты способны вызвать полную или частичную непроходимость. <br/>
+<br/>
+	Следует отличать энтеролиты от:<br/>
+	- билиарных камней, формировавшихся в желчном пузыре и попавших в кишечник через билиарные дигестивные свищи, которые также могут вызывать обструктивную кишечную непроходимость ("<a href="https://diseases.medelement.com/disease/view/NDcwOQ%253D%253D/fDB8" target="_blank">Илеус, вызванный желчным камнем</a>" - K56.3);</div>
+<div style="text-align: justify;">
+	- мочевых камней из почечных лоханок, попавших в кишечник через лоханочно-кишечные свищи;<br/>
+	- камней аппендикса ( "<a href="https://diseases.medelement.com/disease/view/NDYzNw%253D%253D/fDB8" target="_blank">Аппендикулярные камни</a>" - K38.1)</div>
+<div style="text-align: justify;">
+<br/>
+	К образованию энтеролитов приводят:<br/>
+	- <aterm term="1">дивертикулы<span class="term-description" style="display: none;"><span>Дивертикул -  выпячивание стенки полого органа (кишки, пищевода, мочеточника и др.), сообщающееся с его полостью.</span><br/></span></aterm> тонкого кишечника (врожденные и приобретенные) - главная причина;<br/>
+	- кишечные свищи (тонко-тонкокишечные, тонко-толстокишечные);<br/>
+	- синдром слепой петли (после операции анастомоза);<br/>
+	- врожденные пороки развития кишечника (<aterm term="1">болезнь Гиршпрунга<span class="term-description" style="display: none;"><span>Болезнь Гиршпрунга - врожденный порок развития прямой кишки (иногда и дистального отдела ободочной кишки) вследствие денервации всех элементов кишечной стенки и сосудов. При этом нарушается прохождение кишечного содержимого через пораженные участки, что приводит к его скоплению в вышележащей части ободочной кишки и к ее постепенному растяжению</span><br/></span></aterm>);<br/>
+	- гипотония кишечника любой этиологии;<br/>
+	- длительные погрешности в диете;<br/>
+	- прием больших доз антацидов длительное время;<br/>
+	- множественный стеноз кишечника.<br/>
+<br/>
+<br/>
+<strong>Каловая непроходимость</strong><br/>
+	Копростаз возникает вследствие образования в толстой (чаще всего в прямой или сигмовидной) кишке твердых неподвижных фрагментов кала, перекрывающих просвет кишечника и вызывающих клинику кишечной непроходимости.<br/>
+<br/>
+	Наиболее частые причины:<br/>
+	- заболевания центральной и периферической нервной системы;<br/>
+	- длительный бесконтрольный прием лекарственных препаратов (холинолитики, антипсихотические препараты, наркотики, антидиарейные); <br/>
+	- дегидратация и нарушения питания;<br/>
+	- врожденные аномалии кишечника;<br/>
+	- заболевания кишечника.<br/>
+	(См. также раздел "Классификация"). <br/>
+	 </div>
+</div>
+</div>
+</section>
+<section class="page-section" data-section-name="EPIDEMIOLOGY">
+<h2 class="page-section__title" id="epidemiology">
+        Эпидемиология    </h2>
+<div class="container">
+<div class="row page-section__row">
+<p>Пол: Все</p>
+<p>
+        Возраст: преимущественно пожилой</p>
+<p>Признак распространенности: Редко</p>
+<p>Соотношение полов(м/ж): 0.9</p>
+<br/>
+<div style="text-align: justify;">
+	1.<strong> Истинные энтеролиты</strong>, вызывающие кишечную непроходимость, являются редким явлением. Считается, что заболеванию подвержены пожилые люди со сниженной моторикой желудочно-кишечного тракта и высоким риском дивертикулярной болезни. Тем не менее, случаи кишечной непроходимости, обусловленной каловыми камнями, были описаны и у детей. <br/>
+<br/>
+	2. <strong>Каловая непроходимость</strong> описана в основном у пожилых людей, но встречаются случаи заболевания в детском возрасте. По сравнению с <aterm term="1">обструкцией<span class="term-description" style="display: none;"><span>Обструкция - непроходимость, закупорка </span><br/></span></aterm>, вызванной энтеролитом, каловая непроходимость встречается значительно чаще.</div>
+</div>
+</div>
+</section>
+<section class="page-section" data-section-name="FACTORSANDRISKGROUPS">
+<h2 class="page-section__title" id="factorsandriskgroups">
+        Факторы и группы риска    </h2>
+<div class="container">
+<div class="row page-section__row">
+<br/>
+- пожилой возраст;<br/>
+- наличие <aterm term="1">дивертикулов<span class="term-description" style="display: none;"><span>Дивертикул -  выпячивание стенки полого органа (кишки, пищевода, мочеточника и др.), сообщающееся с его полостью.</span><br/></span></aterm> и грыж;<br/>
+- запор;<br/>
+- ментальные расстройства;<br/>
+- нарушения питания;<br/>
+- использование препаратов, влияющих на моторику кишечника.
+                    </div>
+</div>
+</section>
+<section class="page-section" data-index="5">
+<h2 class="page-section__title" id="clinical">
+        Клиническая картина    </h2>
+<div class="container">
+<section class="row page-field" data-field-name="THESIS">
+<h3 class="page-field__title text-left" id="thesis">
+                    Клинические критерии диагностики                </h3>
+<div class="page-field__data">
+                    
+                    боль в животе; вздутие живота; рвота; тошнота; обезвоживание; тахикардия; олигоурия; пальпируемая опухоль в животе; шум плеска при аускультации; обезвоживание; тахикардия                </div>
+</section>
+<section class="row page-field" data-field-name="ANTIPRAXIA">
+<h3 class="page-field__title text-left" id="antipraxia">
+                    Cимптомы, течение                </h3>
+<div class="page-field__data">
+<div style="text-align: justify;">
+<br/>
+<strong>Непроходимость, вызванная энтеролитом</strong><br/>
+	В анамнезе могут присутствовать клиника <aterm term="1">дивертикулеза<span class="term-description" style="display: none;"><span>Дивертикулез - наличие множественных дивертикулов (выпячивание стенки полого органа, сообщающееся с его полостью); наблюдается чаще в желудочно-кишечном тракте</span><br/></span></aterm> или обострений дивертикулита, признаки <aterm term="1">мальабсорбции<span class="term-description" style="display: none;"><span>Синдром мальабсорбции (мальабсорбция) - сочетание гиповитаминоза, анемии и гипопротеинемии, обусловленное нарушением всасывания в тонкой кишке</span><br/></span></aterm>, операции на желудочно-кишечном тракте, <aterm term="1">холецистит<span class="term-description" style="display: none;"><span>Холецистит - воспаление желчного пузыря</span><br/></span></aterm>.<br/>
+	Клиника может развиваться остро при полной обструкции или подостро при неполной обструкции или миграции энтеролита по кишечнику. Энтеролит, как правило, вызывает обструкцию тощего кишечника.<br/>
+	Проявляется внезапными болями в животе неопределенной локализации или болями около пупка. Боли носят схваткообразный характер.<br/>
+	При подостром течении наблюдается несколько болевых приступов меньшей интенсивности в анамнезе или постепенное нарастание болей в течение нескольких дней.<br/>
+	Рвота - второй самый частый признак. При тонкокишечной непроходимости рвота упорная, многократная, приводящая к обезвоживанию, возможно с примесью желчи.<br/>
+	Вздутие живота, задержка газов и стула - постоянные признаки.</div>
+<div style="text-align: justify;">
+<br/>
+<br/>
+<strong>Копростаз</strong><br/>
+	Развивается постепенно на фоне хронических запоров в анамнезе. Чаще всего имеется клиника толстокишечной (низкой) непроходимости. Частота симптомов может существенно отличаться в зависимости от этиологии копростаза, возраста и ментального статуса пациентов, длительности непроходимости.  </div>
+<div style="text-align: justify;">
+<br/>
+	Основные симптомы:<br/>
+	- задержка стула или его небольшое количество (менее 100 г/сут. для взрослых) на срок не менее 48 часов; наблюдается в 65-100% случаев;</div>
+<div style="text-align: justify;">
+	- боль в животе - 32-99%;</div>
+<div style="text-align: justify;">
+	- рвота - 23-48%;</div>
+<div style="text-align: justify;">
+	- вздутие живота - 48-65%;</div>
+<div style="text-align: justify;">
+	- шум плеска при аускультации - 46-51%;</div>
+<div style="text-align: justify;">
+	- пальпируемая опухоль - 18-65%.</div>
+<div style="text-align: justify;">
+	 </div>
+<div style="text-align: justify;">
+	К другим встречающимся симптомам можно также отнести:</div>
+<div style="text-align: justify;">
+	- обезвоживание;</div>
+<div style="text-align: justify;">
+	- сильное напряжение при попытках дефекации;</div>
+<div style="text-align: justify;">
+	- давление на мочевой пузырь или потеря контроля над функцией мочевого пузыря (частые позывы на мочеиспускание при попытках дефекации);</div>
+<div style="text-align: justify;">
+	- боль в пояснице;</div>
+<div style="text-align: justify;">
+	- <aterm term="1">тахикардия<span class="term-description" style="display: none;"><span>Тахикардия - повышенная частота сердечных сокращений (более 100 в 1 мин.)</span><br/></span></aterm>;</div>
+<div style="text-align: justify;">
+	- эпизод скудной диареи (редко).<br/>
+<br/>
+	При пальпаторном обследовании симптомы раздражения брюшины не выявляются, можно пропальпировать уплотнение в области сигмовидной кишки. <br/>
+<br/>
+	Пальцевое исследование прямой кишки имеет важное диагностическое значение. Довольно часто выявляются расслабление <aterm term="1">сфинктеров<span class="term-description" style="display: none;"><span>Сфинктер (син. жом) -  круговая мышца, сжимающая полый орган или замыкающая какое-либо отверстие</span><br/></span></aterm> и зияние заднего прохода. В ампуле прямой кишки определяют плотные каловые массы, через которые невозможно провести палец; они несмещаемы, давление на них вызывает некоторую болезненность. При расположении калового запора в сигмовидной ободочной кишке или еще проксимальнее прямая кишка свободна от содержимого. <br/>
+	В некоторых случаях при ректальном обследовании определяется небольшое кровотечение. Возможна (на ранних стадиях) однократная диарея и отхождение небольшого количества газов.  </div>
+</div>
+</section>
+</div>
+</section>
+<section class="page-section" data-section-name="DIAGNOSTICS">
+<h2 class="page-section__title" id="diagnostics">
+        Диагностика    </h2>
+<div class="container">
+<div class="row page-section__row">
+<div style="text-align: justify;">
+<br/>
+	Диагностика копростаза с учетом данных ректального исследования не вызывает трудностей. Однако визуализация может быть полезна в дифференциальной диагностике и диагностике осложнений.<br/>
+<br/>
+	1. <strong>Обзорная рентгенография</strong> позволяет выявить классические признаки непроходимости:<br/>
+	1.1 Для энтеролита:<br/>
+	- вздутие тонкого кишечника с запустеванием дистальных отделов;<br/>
+	- тень камня в проекции тощей или слепой кишки;<br/>
+	- уровни жидкости.<br/>
+	1.2 Для копростаза:<br/>
+	- вздутие и уровни жидкости в тонком и толстом кишечнике;<br/>
+	- тень каловых масс, заполняющих весь отдел кишечника (относительно однородное затемнение с контуром, соответствующим контуру участка кишечника, чаще всего - сигмовидной и прямой кишки).<br/>
+<br/>
+	2. <strong><aterm term="1">Ирригоскопия<span class="term-description" style="display: none;"><span>Ирригоскопия - рентгенологическое исследование толстой кишки при ретроградном заполнении ее контрастной взвесью</span><br/></span></aterm></strong> при копростазе не проводится, при энтеролитах предпочтительнее проведение КТ и УЗИ.<br/>
+<br/>
+	3. <strong>Компьютерная томография</strong> является золотым стандартом диагностики, позволяющим выявить также <aterm term="1">дивертикулез<span class="term-description" style="display: none;"><span>Дивертикулез - наличие множественных дивертикулов (выпячивание стенки полого органа, сообщающееся с его полостью); наблюдается чаще в желудочно-кишечном тракте</span><br/></span></aterm> кишечника.<br/>
+<br/>
+	4. <strong>УЗИ</strong> обладает высокой чувствительностью в диагностике энтеролитов, но часто бывает затруднено вследствие вздутия кишечника.</div>
+</div>
+</div>
+</section>
+<section class="page-section" data-section-name="LABORATORYDIAGNOSTICS">
+<h2 class="page-section__title" id="laboratorydiagnostics">
+        Лабораторная диагностика    </h2>
+<div class="container">
+<div class="row page-section__row">
+<div style="text-align: justify;">
+<br/>
+	Нет никаких специфических лабораторных тестов, подтверждающих диагнозы непроходимости, вызванной энтеролитами, или копростаза.<br/>
+<br/>
+	Выявляемые изменения обычно свидетельствуют об обезвоживании вследствие рвоты (гипохлоридемия, гипокалиемия, гемоконцентрация), исходном дефиците питания (гипоальбуминемия), развитии осложнений  (высокие показатели СОЭ  и лейкоцитоза, кровь в кале).<br/>
+	Однако все необходимые тесты для дифференциальной диагностики с заболеваниями поджелудочной железы, <aterm term="1">ЖКБ<span class="term-description" style="display: none;"><span>ЖКБ - желчнокаменная болезнь</span><br/></span></aterm>, инфекционными колитами и прочими должны быть выполнены.<br/>
+	 </div>
+</div>
+</div>
+</section>
+<section class="page-section" data-section-name="DIFFERENTIALDIAGNOSIS">
+<h2 class="page-section__title" id="differentialdiagnosis">
+        Дифференциальный диагноз    </h2>
+<div class="container">
+<div class="row page-section__row">
+<br/>
+- другие виды кишечной непроходимости; <br/>
+- билиарный <aterm term="1">илеус<span class="term-description" style="display: none;"><span>Илеус - нарушение прохождения содержимого по кишечнику; проявляется задержкой стула и газов, острыми болями в животе, рвотой, часто явлениями интоксикации и дегидратации (обезвоживания)</span><br/></span></aterm>;<br/>
+- опухоли кишечника;<br/>
+- <aterm term="1">безоары<span class="term-description" style="display: none;"><span>Безоар - инородное тело в желудке, образованное из проглоченных неперевариваемых частиц пищи; может симулировать опухоль желудка</span><br/></span></aterm> и инородные тела;<br/>
+- хронический запор.<br/>
+<br/>
+Основная роль в дифференциальной диагностике принадлежит методам визуализации.<br/>
+<br/>
+</div>
+</div>
+</section>
+<section class="page-section" data-section-name="SEQUELAE">
+<h2 class="page-section__title" id="sequelae">
+        Осложнения    </h2>
+<div class="container">
+<div class="row page-section__row">
+<div style="text-align: justify;">
+	 </div>
+<div style="text-align: justify;">
+	- <aterm term="1">прободение<span class="term-description" style="display: none;"><span>Прободение - возникновение сквозного дефекта в стенке полого органа.</span><br/></span></aterm> кишечника с развитием перитонита;</div>
+<div style="text-align: justify;">
+	- <aterm term="1">сепсис<span class="term-description" style="display: none;"><span>Сепсис - патологическое состояние, обусловленное непрерывным или периодическим поступлением в кровь микроорганизмов из очага гнойного воспаления, характеризующееся несоответствием тяжелых общих расстройств местным изменениям и часто образованием новых очагов гнойного воспаления в различных органах и тканях.</span><br/></span></aterm>;</div>
+<div style="text-align: justify;">
+	- язва кишечника;</div>
+<div style="text-align: justify;">
+	- обезвоживание;</div>
+<div style="text-align: justify;">
+	- кровотечение.</div>
+<div style="text-align: justify;">
+	 </div>
+<div style="text-align: justify;">
+	В редких случаях при длительном существовании камня и рубцово-воспалительных изменений стенки кишки в месте его прилегания со временем формируется стенозирование кишки.<br/>
+<br/>
+	Осколки энтеролита могут вызвать воспаление аппендикса или <aterm term="1">дивертикулит<span class="term-description" style="display: none;"><span>Дивертикулит -  воспаление дивертикула, вызываемое обычно застоем его содержимого.</span><br/></span></aterm>.<br/>
+	 </div>
+</div>
+</div>
+</section>
+<section class="page-section" data-section-name="THERAPY">
+<h2 class="page-section__title" id="therapy">
+        Лечение    </h2>
+<div class="container">
+<div class="row page-section__row">
+<div>
+<br/><strong>Общий подход:</strong><br/>
+	- декомпрессия с помощью назогастрального зонда;<br/>
+	- прекращение орального приема пищи до ликвидации клинических признаков непроходимости;<br/>
+	- инфузионная терапия солевыми растворами;<br/>
+	- антибактериальная терапия - только при осложнениях или при планируемом оперативном вмешательстве.<br/><br/><strong>Энтеролиты</strong><br/>
+	Лечение аналогично такому при билиарном илеусе (см. "<a href="https://diseases.medelement.com/disease/view/NDcwOQ%253D%253D/fDEyfA%253D%253D" target="_blank">Илеус, вызванный желчным камнем</a>" - K56.3):</div><div>
+	1. Ударно-волновая <aterm term="1">литотрипсия</aterm>.<br/>
+	2. Колоноскопия с литотрипсией и/или экстракцией камня.<br/>
+	3. Оперативное лечение. Во время операции, как правило, удается отличить каловый камень от опухоли. Хирургическая тактика зависит от размеров, плотности и подвижности калового камня. Первоначально делается попытка размять камень пальцами и образовавшуюся массу перевести в прямую кишку. Если камень фиксированный и плотный, то он удаляется при помощи <aterm term="1">колотомии</aterm> или <aterm term="1">резекции</aterm> сегмента толстой кишки<br/><br/><strong>Копростаз</strong><br/>
+	1. Использование клизм с минеральными маслами, фосфатом натрия и/или солевыми растворами.<br/>
+	2. Ручное удаление (возможно с применением общей анестезии).<br/>
+	3. Вопрос о применении осмотических слабительных дискутабелен. Большинство авторов не рекомендуют данный метод к применению.<br/>
+	4. Хирургическое вмешательство требуется крайне редко, в случае развития осложнений (прободение) или неэффективности консервативной терапии. <br/>
+	При проведении операции в дистальных отделах толстой кишки определяют плотные, сминаемые пальцами каловые массы, выше которых ободочная кишка раздута.<br/>
+	Необходимо убедиться, что ниже калового столба отсутствует опухолевое препятствие. Если у пациента присутствует чистый каловый завал, во время операции освобождают толстую кишку от калового содержимого одновременными действиями со стороны брюшной полости и со стороны заднего прохода.<br/>
+	 </div>
+</div>
+</div>
+</section>
+<section class="page-section" data-section-name="PROGNOSIS">
+<h2 class="page-section__title" id="prognosis">
+        Прогноз    </h2>
+<div class="container">
+<div class="row page-section__row">
+<div style="text-align: justify;">
+<br/>
+	Прогноз хороший. Летальность среди оперированных пациентов около 2,5%, среди неоперированных - 0,1%.<br/>
+	Возможны рецидивы копростаза. </div>
+</div>
+</div>
+</section>
+<section class="page-section" data-section-name="HOSPITALIZATION">
+<h2 class="page-section__title" id="hospitalization">
+        Госпитализация    </h2>
+<div class="container">
+<div class="row page-section__row">
+<br/>
+В экстренном порядке в отделение хирургии.
+                    </div>
+</div>
+</section>
+<section class="page-section" data-section-name="PROPHYLAXIS">
+<h2 class="page-section__title" id="prophylaxis">
+        Профилактика    </h2>
+<div class="container">
+<div class="row page-section__row">
+<div style="text-align: justify;">
+<br/>
+	Профилактика сводится к раннему выявлению пациентов группы риска, коррекции диеты, назначению (по показаниям) слабительных препаратов.</div>
+</div>
+</div>
+</section>
+<section class="page-section" data-index="14">
+<h2 class="page-section__title" id="information">
+        Информация    </h2>
+<div class="container">
+<section class="row page-field" data-field-name="LISTOFREFERENCES">
+<h3 class="page-field__title text-left" id="listofreferences">
+                    Источники и литература                </h3>
+<div class="page-field__data">
+<ol id="AdditionalListSources" type="I">
+<li level="1">
+<span>"A case of true enterolith accompanied by multiple stenosis of the small intestine" Kentaro Nonaka, Kazuhiro Iwase, Kinya Sando etc, "Nihon Rinsho Geka Gakkai Zasshi" (Journal of Japan Surgical Association), №9, vol.65, 2004</span>
+<ol type="1">
+</ol>
+</li>
+<li level="1">
+<span>"Enterolith ileus as a complication of jejunal diverticulosis: two case reports and a review of the literature" Steenvoorde P, Schaardenburgh P, Viersma JH, "Digestive surgery" journal, №20(1), 2003</span>
+<ol type="1">
+</ol>
+</li>
+<li level="1">
+<span>"Enterolith ileus" Crane PW, Crocker PR, Levison DA, Gilmore JA,  Journal of the Royal Society of Medicine, Volume 81, 1988</span>
+<ol type="1">
+</ol>
+</li>
+<li level="1">
+<span>"Enterolith ileus: liberated large jejunal diverticulum enterolith causing small bowel obstruction in the setting of jejunal diverticulitis" Garnet DJ, Scalcione LR, Barkan A, Katz DS, "British Journal of Radiology", №84, 2011 </span>
+<ol type="1">
+</ol>
+</li>
+<li level="1">
+<span>"Enterolith with Enterocolic Fistula: The Diagnostic Approach" Reshama S. Salelkar, Rajesh T. Patil, Sanjay G. Sardessai, "Saudi Journal of Gastroenterology", №17(6), 2011 </span>
+<ol type="1">
+</ol>
+</li>
+<li level="1">
+<span>"Jejunal Obstruction Caused by a Calcified Enterolith" Nolan E. Perez, Cherie R. Phillips, John D. Webber, Cristina B. Guzman, Faysal A. Saksouk and Murray N. Ehrinpreis, "Practical gastroenterology" journal, jan 2006</span>
+<ol type="1">
+</ol>
+</li>
+<li level="1">
+<span>"Jejunal diverticular disease complicated by enteroliths: Report of two different presentations" Paul Chugay, John Choi, Xiang Da Dong, "World Journal of Gastrointestinal Surgery", №2(1), 2010 </span>
+<ol type="1">
+</ol>
+</li>
+</ol> </div>
+</section>
+</div>
+</section>
+<section class="page-section" data-section-name="ATTENTION">
+<h2 class="page-section__title" id="attention">
+        Внимание!    </h2>
+<div class="container">
+<div class="row page-section__row">
+<!--noindex-->
+<label class="attention-self-treatment-list__caption">Если вы не являетесь медицинским специалистом:</label>
+<ul class="attention-self-treatment-list">
+<li>
+        Занимаясь самолечением, вы можете нанести непоправимый вред своему здоровью.
+         
+    </li>
+<li>
+        Информация, размещенная на сайте MedElement, не может и не должна заменять очную консультацию врача.
+        Обязательно
+        обращайтесь в медицинские учреждения при наличии каких-либо заболеваний или беспокоящих вас симптомов.
+         
+    </li>
+<li>
+        Выбор лекарственных средств и их дозировки, должен быть оговорен со специалистом. Только врач может
+        назначить
+        нужное лекарство и его дозировку с учетом заболевания и состояния организма больного.
+         
+    </li>
+<li>
+        Сайт MedElement является исключительно информационно-справочным ресурсом. Информация, размещенная на данном
+        сайте, не должна использоваться для самовольного изменения предписаний врача.
+         
+    </li>
+<li>
+        Редакция MedElement не несет ответственности за какой-либо ущерб здоровью или материальный ущерб, возникший
+        в
+        результате использования данного сайта.
+    </li>
+</ul>
+<!--/noindex-->
+</div>
+</div>
+</section>
+</main>

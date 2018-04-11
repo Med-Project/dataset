@@ -1,0 +1,364 @@
+<main id="main">
+<section class="page-information disease-information">
+<div class="container">
+<h1 class="page-information__name disease-information__name">
+            Гиперплазия аппендикса (K38.0)        </h1>
+<div class="disease-information__version-name">
+<p class="lead text-muted">
+                
+                Версия: Справочник заболеваний MedElement                </p>
+</div>
+<div class="disease-information__categories-mkb">
+<label>Категории МКБ: </label>
+                Гиперплазия аппендикса (K38.0)            </div>
+<div class="disease-information__sections-medicine">
+<label>Разделы медицины: </label>
+                Гастроэнтерология            </div>
+</div>
+</section>
+<section class="page-section" data-index="0">
+<h2 class="page-section__title" id="general_information">
+        Общая информация    </h2>
+<div class="container">
+<div class="page-links-actions">
+<ul>
+<li class="page-links-actions__item page-links-actions__item--print" data-ga-event-action="Клик по ссылке: Версия для печати" data-ga-event-category="Links actions" data-ga-event-label="" data-send-ga-event="">
+<a href="javascript:window.print()">Версия для печати
+                    <svg class="svg-icon svg-icon-printer" height="18" version="1.1" viewbox="0 0 24 24" width="18" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<path d="M18,3H6V7H18M19,12A1,1 0 0,1 18,11A1,1 0 0,1 19,10A1,1 0 0,1 20,11A1,1 0 0,1 19,12M16,19H8V14H16M19,8H5A3,3 0 0,0 2,11V17H6V21H18V17H22V11A3,3 0 0,0 19,8Z"></path>
+</svg>
+</a>
+</li>
+</ul>
+</div>
+<section class="row page-field" data-field-name="SHORTDESCRIPTION">
+<h3 class="page-field__title text-left" id="shortdescription">
+                    Краткое описание                </h3>
+<div class="page-field__data">
+<div style="text-align: justify;">
+<br/>
+<strong>Гиперплазия</strong> - это увеличение числа структурных элементов тканей путем их избыточного новообразования.  <br/>
+	Следует отличать гиперплазию от гипертрофии (увеличение объема и массы органа, клеток под влиянием различных факторов).</div>
+<div style="text-align: justify;">
+	Данная патология вынесена в отдельную подрубрику вследствие схожести ее клинических проявлений с острым или хроническим аппендицитом, а также как один из возможных этиологических факторов их развития.</div>
+<div style="text-align: justify;">
+<br/>
+	По отношению к червеобразному отростку гиперплазия может быть применима как:</div>
+<div style="text-align: justify;">
+	- гиперплазия лимфоидной ткани;</div>
+<div style="text-align: justify;">
+	- гиперплазия слизистой оболочки.</div>
+<div style="text-align: justify;">
+<div>
+<br/>
+<br/>
+<strong>Примечание.</strong> Следует иметь в виду, что гиперплазия слизистой наряду с другими вариантами гиперпластических состояний <aterm term="1">мукозной<span class="term-description" style="display: none;"><span>Мукоз (лат. tunica mucosa, часто говорят просто «слизистая») — внутренняя оболочка полых органов, сообщающихся со внешней средой.</span><br/></span></aterm> оболочки червеобразного отростка относится к <aterm term="1">мукоцеле<span class="term-description" style="display: none;"><span>Ретенционная киста околоносовой пазухи или червеобразного отростка, возникшая вследствие нарушения проходимости их отверстий и скопления вязкого, обычно стерильного содержимого.</span><br/></span></aterm> аппендикса (является одним из его вариантов) и кодируется в зависимости от результатов гистологического исследования как:</div>
+<div style="text-align: start;">
+		-  Доброкачественное новообразование червеобразного отростка  (D12.1);<br/>
+		- Новообразование неопределенного или неизвестного характера червеобразного отростка (D37.3). </div>
+</div>
+<br/>
+</div>
+</section>
+</div>
+</section>
+<section class="page-section" data-section-name="CLASSIFICATION">
+<h2 class="page-section__title" id="classification">
+        Классификация    </h2>
+<div class="container">
+<div class="row page-section__row">
+<br/>
+Отсутствует.
+                    </div>
+</div>
+</section>
+<section class="page-section" data-section-name="ETIOLOGY">
+<h2 class="page-section__title" id="etiology">
+        Этиология и патогенез    </h2>
+<div class="container">
+<div class="row page-section__row">
+<div style="text-align: justify;">
+<br/>
+<strong>Лимфоидная гиперплазия</strong> может наблюдаться в любом месте кишечника, однако чаще всего она возникает в терминальном отрезке тонкого кишечника и в аппендиксе.<br/>
+	Этиология лимфоидной гиперплазии червеобразного отростка (и/или слепой кишки) неизвестна. Предполагается, что ее могут вызывать:<br/>
+	- респираторные вирусы;<br/>
+	- вирус кори;<br/>
+	- <aterm term="1">мононуклеоз<span class="term-description" style="display: none;"><span>Мононуклеоз - наличие аномального большого количества моноцитов в циркулирующей крови</span><br/></span></aterm>;<br/>
+	- <aterm term="1">болезнь Крона<span class="term-description" style="display: none;"><span>Болезнь Крона -  заболевание, при котором отдельные участки пищеварительного тракта воспаляются, утолщаются и изъязвляются.</span><br/><a class="tooltip-term__more" href="https://diseases.medelement.com/index.php/disease/view/NDY4Mg/0" target="_blank" title="Подробнее о болезнь Крона">Подробно</a></span></aterm>;<br/>
+	- <aterm term="1">амебиаз<span class="term-description" style="display: none;"><span>Инфекционная протозойная болезнь, вызываемая Entamoeba histolytica, характеризующаяся развитием язвенного колита, склонного к затяжному течению с обострениями и рецидивами; реже встречаются внекишечные формы Амебиаза, связанные с гематогенной диссеминацией возбудителя из кишечника в различные органы и ткани.</span><br/></span></aterm>;<br/>
+	- различные гастроэнтериты.<br/>
+<br/>
+	В процессе гиперплазии лимфоидных подслизистых фолликулов происходит частичная <aterm term="1">обструкция<span class="term-description" style="display: none;"><span>Обструкция - непроходимость, закупорка </span><br/></span></aterm> червеобразного отростка с повышением в нем давления. Данное состояние известно как катаральный аппендицит. <br/>
+	 </div>
+</div>
+</div>
+</section>
+<section class="page-section" data-section-name="EPIDEMIOLOGY">
+<h2 class="page-section__title" id="epidemiology">
+        Эпидемиология    </h2>
+<div class="container">
+<div class="row page-section__row">
+<p>Пол: Все</p>
+<p>
+        Возраст: преимущественно дети</p>
+<p>Признак распространенности: Распространено</p>
+<p>Соотношение полов(м/ж): 1.5</p>
+<br/>
+<div style="text-align: justify;">
+	Встречается преимущественно у детей. При анализе <aterm term="1">биоптатов<span class="term-description" style="display: none;"><span>Материал, полученный путем биопсии.</span><br/></span></aterm> отростка после <aterm term="1">аппендэктомий<span class="term-description" style="display: none;"><span>Аппендэктомия - хирургическая операция удаления червеобразного отростка</span><br/></span></aterm> у детей лимфоидная гиперплазия выявляется с частотой до 60%.</div>
+</div>
+</div>
+</section>
+<section class="page-section" data-section-name="FACTORSANDRISKGROUPS">
+<h2 class="page-section__title" id="factorsandriskgroups">
+        Факторы и группы риска    </h2>
+<div class="container">
+<div class="row page-section__row">
+<div style="text-align: justify;">
+<br/>
+	1. Детский возраст.<br/>
+	2. Респираторные инфекции.<br/>
+	3. Корь.<br/>
+	4. Мононуклеоз.<br/>
+	5. Воспалительные процессы кишечника.<br/>
+	6. Обезвоживание.</div>
+</div>
+</div>
+</section>
+<section class="page-section" data-index="5">
+<h2 class="page-section__title" id="clinical">
+        Клиническая картина    </h2>
+<div class="container">
+<section class="row page-field" data-field-name="THESIS">
+<h3 class="page-field__title text-left" id="thesis">
+                    Клинические критерии диагностики                </h3>
+<div class="page-field__data">
+                    
+                    боль в правой подвздошной области, боль около пупка, острая боль в животе, хроническая боль в животе, боль в животе при кашле, охранительные симптомы в правой подвздошной области                </div>
+</section>
+<section class="row page-field" data-field-name="ANTIPRAXIA">
+<h3 class="page-field__title text-left" id="antipraxia">
+                    Cимптомы, течение                </h3>
+<div class="page-field__data">
+<div>
+<br/><span>Клиническая картина соответствует таковой при остром или хроническом аппендиците в зависимости от степени обструкции отростка (полная или не полная).</span></div><div>
+<br/><strong>Боль:</strong></div><div>
+	- острая или хроническая;</div><div>
+	- локализуется возле пупка, в правой подвздошной области, в других отделах живота (в зависимости от локализации отростка);</div><div>
+	- усиливается при кашле (непостоянный признак).</div><div>
+<br/>
+	Лихорадка практически всегда отсутствует. <aterm term="1">Диспептические</aterm> явления крайне редки. Тошнота, рвота отсутствуют. Вздутие живота - непостоянный симптом.</div><div>
+	 </div><div>
+<strong>Симптомы при обследовании (охранительные симптомы):</strong></div><div>
+	- симптом Бартомье-Михельсона - болезненность при пальпации слепой кишки усиливается в положении больного на левом боку;</div><div>
+	- симптом Ситковского - возникновение или усиление болей в правой подвздошной области в положении больного на левом боку;</div><div>
+	- симптом Ровзинга - появление или усиление болей в правой подвздошной области при сдавлении сигмовидной кишки и толчкообразном давлении на нисходящий отдел ободочной кишки.</div>
+</div>
+</section>
+</div>
+</section>
+<section class="page-section" data-section-name="DIAGNOSTICS">
+<h2 class="page-section__title" id="diagnostics">
+        Диагностика    </h2>
+<div class="container">
+<div class="row page-section__row">
+<div style="text-align: justify;">
+<br/>
+	Чрезвычайно затруднена. Диагноз выставляется в основном после операции <aterm term="1">аппендэктомии<span class="term-description" style="display: none;"><span>Аппендэктомия - хирургическая операция удаления червеобразного отростка</span><br/></span></aterm> на основании морфологического исследования.<br/>
+<br/>
+<strong>1. УЗИ. </strong>Несмотря на заявленную специфичность и чувствительность, крайне сложно отличить лимфоидную гиперплазию от острого или хронического аппендицита. Однако УЗИ может быть полезным при проведении дифференциальной диагностики с другими заболеваниями, характеризующимися острой или хронической абдоминальной болью.<br/>
+<br/>
+<strong>2. КТ с контрастированием </strong>- высокочувствительный метод, мало применяемый в реальной практике вследствие дороговизны и потерь времени. Метод надежен и практически незаменим в дифференциальной диагностике. <br/>
+<br/>
+<strong>3. Рентгеноконтрастное исследование.</strong> Двойное ретроградное контрастирование кишечника с барием проводится с целью определения проходимости аппендикса. В настоящее время  вытеснено УЗИ и КТ.</div>
+</div>
+</div>
+</section>
+<section class="page-section" data-section-name="LABORATORYDIAGNOSTICS">
+<h2 class="page-section__title" id="laboratorydiagnostics">
+        Лабораторная диагностика    </h2>
+<div class="container">
+<div class="row page-section__row">
+<div>
+<br/>
+	Нет никаких лабораторных тестов, подтверждающих диагноз гиперплазии аппендикса. Появление в анализах общевоспалительных изменений свидетельствует о развитии аппендицита.<br/>
+	Однако <span>с целью дифференциальной диагностики </span><span>должны быть выполнены общий анализ крови, общий анализ мочи</span><span>, биохимия и тесты на беременность. Наличие положительных тестов на беременность не опровергает диагноз гиперплазии аппендикса, но изменяет тактику ведения пациентки. </span></div>
+</div>
+</div>
+</section>
+<section class="page-section" data-section-name="DIFFERENTIALDIAGNOSIS">
+<h2 class="page-section__title" id="differentialdiagnosis">
+        Дифференциальный диагноз    </h2>
+<div class="container">
+<div class="row page-section__row">
+<div>
+<br/>
+	Следует проводить со всеми заболеваниями, характеризующимися острыми или хроническими болями, с локализацией в правом нижнем квадранте живота или около пупка.</div><div>
+	В первую очередь проводится с острым или хроническим аппендицитом. Решающее значение в пользу установления диагноза острого аппендицита имеют нарастание симптоматики (общей и локальной), появление и усиление локальных симптомов аппендицита и симптомов раздражения брюшины, нарастание лабораторных признаков воспаления.</div><div>
+	 </div><div>
+	Кроме того, при дифференциальной диагностике следует иметь в виду другие причины боли в правой подвздошной области, например:</div><div>
+	- региональный энтерит;</div><div>
+	- кишечную непроходимость;</div><div>
+	- <aterm term="1">дивертикулит</aterm>;</div><div>
+	- опухоли червеобразного отростка и кишки;</div><div>
+	- кисты яичника;</div><div>
+	- <aterm term="1">везикулит</aterm>;</div><div>
+	- беременность (не исключает наличие гиперплазии аппендикса);</div><div>
+	- нефрит;</div><div>
+	- аневризму брюшной части аорты;</div><div>
+	- камень нижней трети правого мочеточника;</div><div>
+	- гематому брюшной стенки.  <br/>
+	 </div>
+</div>
+</div>
+</section>
+<section class="page-section" data-section-name="SEQUELAE">
+<h2 class="page-section__title" id="sequelae">
+        Осложнения    </h2>
+<div class="container">
+<div class="row page-section__row">
+<div style="text-align: justify;">
+<br/>
+<strong>Полная или значительная обструкция</strong> аппендикса вследствие лимфоидной гиперплазии, ведет к увеличению продукции и задержке в просвете отростка слизи, что приводит к повышению давления внутри отростка. При повышенном давлении и застое возникает избыточный бактериальный рост. Слизь превращается в гной, что вызывает дальнейшее увеличение давления в просвете отростка. Это приводит к вздутию аппендикса и появлению <aterm term="1">висцеральной<span class="term-description" style="display: none;"><span>Висцеральный (Visceralis; лат. viscus, visceris, обычно во множ. числе viscera внутренности) - относящийся к внутренним органам.</span><br/></span></aterm> боли, которая, как правило, локализуется в <aterm term="1">эпигастральной<span class="term-description" style="display: none;"><span>Эпигастрий - область живота, ограниченная сверху диафрагмой, снизу горизонтальной плоскостью, проходящей через прямую, соединяющую наиболее низкие точки десятых ребер.</span><br/></span></aterm> или околопупочной области.<br/>
+	По мере роста  давления усиливается препятствие оттоку лимфы, что приводит к отеку аппендикса. Этот этап известен как острый или очаговый аппендицит. Появляется реакция брюшины, а боль теперь локализуется в правом нижнем квадранте (RLQ - синдром боли в правой подвздошной области). Этот ряд последовательных событий приводит к появлению классических мигрирующих болей в животе, описанных у пациентов с аппендицитом.</div>
+<div style="text-align: justify;">
+	 </div>
+<div style="text-align: justify;">
+<strong>Неполная обструкция</strong> приводит к появлению процессов, характерных для хронического аппендицита.<br/>
+	 </div>
+</div>
+</div>
+</section>
+<section class="page-section" data-section-name="THERAPY">
+<h2 class="page-section__title" id="therapy">
+        Лечение    </h2>
+<div class="container">
+<div class="row page-section__row">
+<div>
+<br/>
+	Показано <strong>хирургическое лечение</strong>. Любое сомнение решается в пользу проведения <aterm term="1">аппендэктомии</aterm>. Интраоперационная диагностика гиперплазии не является противопоказанием к удалению отростка. <br/>
+	При установленном <span>до операции </span><span>диагнозе консервативная терапия спазмолитиками и антибиотиками не страхует от риска бактериального воспаления отростка, хотя может привести к исчезновению болей.</span></div><div>
+<br/>
+	Приведенные ниже медикаменты используются при оперативном лечении или при развитии осложнений. <br/>
+	 </div>
+</div>
+</div>
+</section>
+<section class="page-section" data-section-name="PROGNOSIS">
+<h2 class="page-section__title" id="prognosis">
+        Прогноз    </h2>
+<div class="container">
+<div class="row page-section__row">
+<div style="text-align: justify;">
+<br/>
+	Благоприятный.</div>
+</div>
+</div>
+</section>
+<section class="page-section" data-section-name="HOSPITALIZATION">
+<h2 class="page-section__title" id="hospitalization">
+        Госпитализация    </h2>
+<div class="container">
+<div class="row page-section__row">
+<div>
+<br/>
+	С целью дифференциальной диагностики, при развитии осложнений.</div>
+</div>
+</div>
+</section>
+<section class="page-section" data-section-name="PROPHYLAXIS">
+<h2 class="page-section__title" id="prophylaxis">
+        Профилактика    </h2>
+<div class="container">
+<div class="row page-section__row">
+<div style="text-align: justify;">
+<br/>
+	Не разработана.</div>
+</div>
+</div>
+</section>
+<section class="page-section" data-index="14">
+<h2 class="page-section__title" id="information">
+        Информация    </h2>
+<div class="container">
+<section class="row page-field" data-field-name="LISTOFREFERENCES">
+<h3 class="page-field__title text-left" id="listofreferences">
+                    Источники и литература                </h3>
+<div class="page-field__data">
+<ol id="AdditionalListSources" type="I">
+<li level="1">
+<span>Robert D. Odze , John R. Goldblum "Surgical Pathology of the GI Tract, Liver, Biliary Tract and Pancreas: Expert Consult (Second Edition)", 2009  </span>
+<ol type="1">
+</ol>
+</li>
+<li level="1">
+<span>"Chronic Inflammatory Appendiceal Conditions That Mimic Acute Appendicitis On Helical CT" Jaime L. Checkoff1, Richard J. Wechsler and Levon N. Nazarian, American Journal of Roentgenology, Volume 179, Issue 3, 2002 </span>
+<ol type="1">
+</ol>
+</li>
+<li level="1">
+<span>"Мукоцеле аппендикса: какова оптимальная тактика лечения?" </span>
+<ol type="1">
+<li level="2">www.oncoproct.ru</li>
+</ol>
+</li>
+</ol> </div>
+</section>
+<section class="row page-field" data-field-name="LISTOFREFERENCES_INFO">
+<h3 class="page-field__title text-left" id="listofreferences_info">
+                    Информация                </h3>
+<div class="page-field__data">
+<div class="inner">
+<div class="dropzone ui-corner-all " id="dropzone-Top">
+<div class="widget type-ad-placeholder ui-helper-clearfix" id="widget-1011">
+<div class="view">
+<div class="view-inner">
+					 </div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</section>
+</div>
+</section>
+<section class="page-section" data-section-name="ATTENTION">
+<h2 class="page-section__title" id="attention">
+        Внимание!    </h2>
+<div class="container">
+<div class="row page-section__row">
+<!--noindex-->
+<label class="attention-self-treatment-list__caption">Если вы не являетесь медицинским специалистом:</label>
+<ul class="attention-self-treatment-list">
+<li>
+        Занимаясь самолечением, вы можете нанести непоправимый вред своему здоровью.
+         
+    </li>
+<li>
+        Информация, размещенная на сайте MedElement, не может и не должна заменять очную консультацию врача.
+        Обязательно
+        обращайтесь в медицинские учреждения при наличии каких-либо заболеваний или беспокоящих вас симптомов.
+         
+    </li>
+<li>
+        Выбор лекарственных средств и их дозировки, должен быть оговорен со специалистом. Только врач может
+        назначить
+        нужное лекарство и его дозировку с учетом заболевания и состояния организма больного.
+         
+    </li>
+<li>
+        Сайт MedElement является исключительно информационно-справочным ресурсом. Информация, размещенная на данном
+        сайте, не должна использоваться для самовольного изменения предписаний врача.
+         
+    </li>
+<li>
+        Редакция MedElement не несет ответственности за какой-либо ущерб здоровью или материальный ущерб, возникший
+        в
+        результате использования данного сайта.
+    </li>
+</ul>
+<!--/noindex-->
+</div>
+</div>
+</section>
+</main>

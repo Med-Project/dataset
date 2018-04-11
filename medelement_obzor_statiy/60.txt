@@ -1,0 +1,338 @@
+<main id="main">
+<section class="page-information disease-information">
+<div class="container">
+<h1 class="page-information__name disease-information__name">
+            Географический язык (K14.1)        </h1>
+<div class="disease-information__alternate-name">
+<label>Также: </label>
+                десквамативный глоссит, geographic tongue, glossitis areata exfoliativa            </div>
+<div class="disease-information__version-name">
+<p class="lead text-muted">
+                
+                Версия: Справочник заболеваний MedElement                </p>
+</div>
+<div class="disease-information__categories-mkb">
+<label>Категории МКБ: </label>
+                Географический язык (K14.1)            </div>
+<div class="disease-information__sections-medicine">
+<label>Разделы медицины: </label>
+                Гастроэнтерология, Стоматология            </div>
+</div>
+</section>
+<section class="page-section" data-index="0">
+<h2 class="page-section__title" id="general_information">
+        Общая информация    </h2>
+<div class="container">
+<div class="page-links-actions">
+<ul>
+<li class="page-links-actions__item page-links-actions__item--print" data-ga-event-action="Клик по ссылке: Версия для печати" data-ga-event-category="Links actions" data-ga-event-label="" data-send-ga-event="">
+<a href="javascript:window.print()">Версия для печати
+                    <svg class="svg-icon svg-icon-printer" height="18" version="1.1" viewbox="0 0 24 24" width="18" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<path d="M18,3H6V7H18M19,12A1,1 0 0,1 18,11A1,1 0 0,1 19,10A1,1 0 0,1 20,11A1,1 0 0,1 19,12M16,19H8V14H16M19,8H5A3,3 0 0,0 2,11V17H6V21H18V17H22V11A3,3 0 0,0 19,8Z"></path>
+</svg>
+</a>
+</li>
+</ul>
+</div>
+<section class="row page-field" data-field-name="SHORTDESCRIPTION">
+<h3 class="page-field__title text-left" id="shortdescription">
+                    Краткое описание                </h3>
+<div class="page-field__data">
+<div style="text-align: justify;">
+<br/>
+<strong>Географический язык</strong> (десквамативный глоссит, доброкачественный мигрирующий глоссит, эксфолиативный глоссит)  – это воспалительно-дистрофическое заболевание слизистой оболочки языка, в ходе которого появляются участки <aterm term="1">десквамации<span class="term-description" style="display: none;"><span>Десквамация - чешуйчатое шелушение (отслаивание) эпителия или других тканей с поверхности органа, происходящее либо в норме, либо вследствие различных патологических процессов</span><br/></span></aterm>: чешуйчатого шелушения. В 50% случаев сопровождается так называемым "складчатым языком" (см. "<a href="https://diseases.medelement.com/disease/view/NDU3OQ%253D%253D/fDB8" target="_blank">Складчатый язык</a>" - K14.5).<br/>
+<img alt="Географический язык" height-fact="768" id="preview_image" src="https://diseases.medelement.com/upload/e1cb2bf9e9c51d05e161764726d456fe.jpg" style="width: 350px; height: 263px; border-width: 0px; border-style: solid; margin-left: 0px; margin-top: 0px; float: none;" title="Географический язык" width-fact="1024"/></div>
+</div>
+</section>
+<section class="row page-field" data-field-name="NUMBERDAYSFLOW">
+<h3 class="page-field__title text-left" id="numberdaysflow">
+                    Период протекания                </h3>
+<div class="page-field__data">
+<br/>
+<label>Описание:</label>
+<p></p><div style="text-align: justify;">
+	Заболевание может длиться годами или в течение всей жизни, не вызывая неприятных субъективных ощущений. Заболевание характеризуется периодами обострения и ремиссии, в течение которых повреждения заживают без остаточных рубцов. Эти периоды ремиссии могут длиться в течение нескольких дней, месяцев или лет.</div>
+</div>
+</section>
+</div>
+</section>
+<section class="page-section" data-section-name="CLASSIFICATION">
+<h2 class="page-section__title" id="classification">
+        Классификация    </h2>
+<div class="container">
+<div class="row page-section__row">
+<br/>
+Некоторые авторы выделяют в течении заболевания стадии обострения (острая фаза) и ремиссии. 
+                    </div>
+</div>
+</section>
+<section class="page-section" data-section-name="ETIOLOGY">
+<h2 class="page-section__title" id="etiology">
+        Этиология и патогенез    </h2>
+<div class="container">
+<div class="row page-section__row">
+<div style="text-align: justify;">
+<br/>
+	Этиология и патогенез неясны.<br/>
+	Наиболее распространена теория о том, что географический язык является врожденным, генетически обусловленным состоянием. Заболевание носит семейный характер и сохраняется на протяжении всей жизни.<br/>
+	По данным последних лет, "географический" язык принято считать заболеванием, ассоциированным с главным комплексом гистосовместимости. Был предложен в качестве гипотезы полигенный тип наследования, поскольку заболевание наблюдается в семьях, имеющих определенные типы лейкоцитарного антигена человека, например - HLA-DR5, HLA-DRW6 и HLA-Cw6.</div>
+<div style="text-align: justify;">
+<br/>
+	Также было замечено, что десквамативный глоссит часто  появляется на фоне общих заболеваний, таких как глистные инвазии, болезни желудочно-кишечного тракта, <aterm term="1">коллагенозы<span class="term-description" style="display: none;"><span>Коллагеновые болезни (коллагенозы) - группа заболеваний, характеризующихся диффузным поражением соединительной ткани и сосудов и связанных с повреждением коллагена; некоторые коллагеновые болезни имеют полигенно обусловленную наследственную предрасположенность, в частности, в связи с изменениями структуры комплекса HLA (гены гистосовместимости)</span><br/></span></aterm>, атопический дерматит, псориаз, <aterm term="1">гранулематозы<span class="term-description" style="display: none;"><span>Гранулематоз - общее название болезней или состояний, характеризующихся образованием гранулем (очаг продуктивного воспаления, имеющий вид плотного узелка)</span><br/></span></aterm> и другие. Таким образом, провоцирующими факторами могут служить самые разнообразные патологические процессы.</div>
+<div style="text-align: justify;">
+	 <br/>
+	Наиболее часто поражается язык, однако могут быть затронуты и другие участки слизистой рта и глотки.</div>
+<div style="text-align: justify;">
+	Для гистологической картины характерен слабый отек и воспалительный <aterm term="1">инфильтрат<span class="term-description" style="display: none;"><span>Инфильтрат - участок ткани, характеризующийся скоплением обычно не свойственных ему клеточных элементов, увеличенным объемом и повышенной плотностью.</span><br/></span></aterm> в соединительнотканном слое, истончение эпителия, <aterm term="1">паракератоз<span class="term-description" style="display: none;"><span>Паракератоз - нарушение процесса ороговения клеток эпидермиса, характеризующееся наличием в роговом слое клеток, содержащих ядра, и отсутствием зернистого слоя</span><br/></span></aterm> и <aterm term="1">спонгиоз<span class="term-description" style="display: none;"><span>Спонгиоз - экссудативное воспаление эпидермиса, при котором серозная жидкость скапливается в межклеточных пространствах шиповатого слоя, вследствие чего увеличиваются межклеточные лакуны</span><br/></span></aterm>.<br/>
+	 </div>
+</div>
+</div>
+</section>
+<section class="page-section" data-section-name="EPIDEMIOLOGY">
+<h2 class="page-section__title" id="epidemiology">
+        Эпидемиология    </h2>
+<div class="container">
+<div class="row page-section__row">
+<p>Признак распространенности: Распространено</p>
+<p>Соотношение полов(м/ж): 0.5</p>
+<br/>
+<div style="text-align: justify;">
+	Распространенность в популяции составляет около 3%. Женщины страдают приблизительно в 2 раза чаще. Распространено во всех возрастных группах (чуть чаще встречается у взрослых)  Расовых и иных различий не отмечено. <br/>
+	Болезнь зачастую ассоциирована с <aterm term="1">синдромом Рейтера<span class="term-description" style="display: none;"><span>Синдром Рейтера - аллергическое реактивное состояние в большинстве случаев постинфекционного характера, характеризующееся воспалением уретры и развитием конъюнктивита и артрита. На коже могут появиться ороговевшие участки</span><br/></span></aterm>, <aterm term="1">синдромом Дауна<span class="term-description" style="display: none;"><span>Синдром Дауна - наследственное заболевание человека, обусловленное трисомией по хромосоме 21 нормального хромосомного набора, характеризуется умственной отсталостью и своеобразным внешним обликом. Одно из наиболее распространенных НЗЧ (частота встречаемости 1-2 случая на 1000 родов); вероятность рождения детей с синдромом Дауна увеличивается с повышением возраста матери</span><br/></span></aterm>, <aterm term="1">синдромом Аарскога-Скотта<span class="term-description" style="display: none;"><span>Синдром Аарскога-Скотта -наследственное заболевание человека, характеризующееся комплексом аномалий в строении лица и внешних гениталий; наследуется по доминантному сцепленному с полом типу (мутантный ген FGD1, расположенный на участке q13 X-хромосомы, кодирует фактор обмена гуаниловых нулеотидов, специфически активирующий Rho-GTPазу Cdc42)</span><br/></span></aterm>, <aterm term="1">синдромом Робинсона<span class="term-description" style="display: none;"><span>Синдром Робинсона -  тяжелая скелетная дисплазия с укорочением костей конечностей, дефектами позвоночника и лицевыми дизморфиями</span><br/></span></aterm>, фетальным гедантоиновым синдромом.</div>
+</div>
+</div>
+</section>
+<section class="page-section" data-section-name="FACTORSANDRISKGROUPS">
+<h2 class="page-section__title" id="factorsandriskgroups">
+        Факторы и группы риска    </h2>
+<div class="container">
+<div class="row page-section__row">
+<br/>
+- женский пол;<br/>
+- взрослый и пожилой возраст;<br/>
+- несоблюдение гигиены полости рта;<br/>
+- острые и хронические травмы полости рта;<br/>
+- <aterm term="1">гипосаливация<span class="term-description" style="display: none;"><span>Гипосаливация - пониженная секреция слюны</span><br/></span></aterm>;<br/>
+- наличие хронических заболеваний (особенно системных);<br/>
+- семейный анамнез.
+                    </div>
+</div>
+</section>
+<section class="page-section" data-index="5">
+<h2 class="page-section__title" id="clinical">
+        Клиническая картина    </h2>
+<div class="container">
+<section class="row page-field" data-field-name="THESIS">
+<h3 class="page-field__title text-left" id="thesis">
+                    Клинические критерии диагностики                </h3>
+<div class="page-field__data">
+                    
+                    дискомфорт при приеме горячей или острой пищи; красные пятна различного диаметра на спинке и боковых поверхностях языка; серовато-белые пятна различного диаметра на спинке и боковых поверхностях языка; четкие границы между пятнами на языке; мигрирующий процесс; парестезии языка                  </div>
+</section>
+<section class="row page-field" data-field-name="ANTIPRAXIA">
+<h3 class="page-field__title text-left" id="antipraxia">
+                    Cимптомы, течение                </h3>
+<div class="page-field__data">
+<div style="text-align: justify;">
+<br/>
+	Типичный признак "географического" глоссита - серовато-белые или красноватые пятна на спинке или боковых поверхностях языка. Пятна имеют разный диаметр, четко отграничены друг от друга участками увеличенных нитевидных сосочков.<br/>
+<br/>
+	Начало процесса характеризуется набуханием и помутнением эпителия нитевидных сосочков на ограниченных участках диаметром 2-4 мм. <aterm term="1">Мацерированные<span class="term-description" style="display: none;"><span>Мацерация - размягчение и разрыхление тканей вследствие длительного воздействия на них жидкости</span><br/></span></aterm> клетки поверхностного слоя эпителия, расположенные в центре пятна,  вскоре отторгаются.  Затем обнажается гладкая ярко-красного цвета без нитевидных сосочков слизистая оболочка спинки языка в виде ограниченного пятна. По периферии пятна остается отслоившийся ороговевший эпителий в виде валика и недесквамированный эпителий.</div>
+<div style="text-align: justify;">
+	Пятно быстро растет, сохраняя при этом четкие границы. Со временем интенсивность слущивания клеток эпителия уменьшается и границы участка поражения расплываются в окружающей слизистой оболочке языка. Вскоре в центре пятна начинает восстанавливаться нормальное ороговение нитевидных сосочков.</div>
+<div style="text-align: justify;">
+	Возможно одновременное возникновение нескольких пятен или формирование новых очагов поверх старых - все это создает картину, напоминающую географическую карту.<br/>
+<br/>
+	Поскольку контуры очагов <aterm term="1">десквамации<span class="term-description" style="display: none;"><span>Десквамация - чешуйчатое шелушение (отслаивание) эпителия или других тканей с поверхности органа, происходящее либо в норме, либо вследствие различных патологических процессов</span><br/></span></aterm> могут изменяться в течение 1-2 дней, заболевание расценивается как "мигрирующий <aterm term="1">глоссит<span class="term-description" style="display: none;"><span>Глоссит - воспаление языка.</span><br/></span></aterm>".</div>
+<div style="text-align: justify;">
+	Иногда одновременно с участками <aterm term="1">десквамации<span class="term-description" style="display: none;"><span>Десквамация - чешуйчатое шелушение (отслаивание) эпителия или других тканей с поверхности органа, происходящее либо в норме, либо вследствие различных патологических процессов</span><br/></span></aterm> па языке наблюдают десквамацию на щеках, переходных складках, губах. Нередко десквамативный <aterm term="1">глоссит<span class="term-description" style="display: none;"><span>Глоссит - воспаление языка.</span><br/></span></aterm> сочетается со складчатым языком.<br/>
+<br/>
+<strong>Жалобы</strong><br/>
+	Субъективно около 15-20% пациентов предъявляют жалобы на легкое жжение, дискомфорт, повышенную чувствительность к острой или горячей пище. В случае обострения у жалобам могут добавляться ощущение инородного тела или <aterm term="1">пароксизмальная<span class="term-description" style="display: none;"><span>Пароксизмальный - протекающий в форме пароксизмов (признаки болезни возникают или усиливаются внезапно, на относительно короткий промежуток времени)</span><br/></span></aterm> боль в ушах или подчелюстных лимфатических узлах. <br/>
+<br/>
+	У подавляющего большинства пациентов заболевание протекает без жалоб и выявляется как случайная находка при осмотре.</div>
+</div>
+</section>
+</div>
+</section>
+<section class="page-section" data-section-name="DIAGNOSTICS">
+<h2 class="page-section__title" id="diagnostics">
+        Диагностика    </h2>
+<div class="container">
+<div class="row page-section__row">
+<div style="text-align: justify;">
+<br/>
+	Диагноз ставится на основании осмотра и жалоб (если они имеются). Никаких дополнительных исследований (включая биопсию) обычно не требуется.<br/>
+	Биопсия проводится в сомнительных случаях для дифференциальной диагностики.<br/>
+	Находки соответствуют таковым при <aterm term="1">пустулезном псориазе<span class="term-description" style="display: none;"><span>Псориаз пустулезный - псориаз (поражение кожи), при котором образуются стерильные пустулы (пузырьки, наполненные гноем) на поверхности типичных бляшек и (или) в их окружности</span><br/></span></aterm>.<br/>
+	Воспалительная инфильтрация собственной пластинки представлена нейтрофилами с примесью клеток хронического воспаления.</div>
+</div>
+</div>
+</section>
+<section class="page-section" data-section-name="LABORATORYDIAGNOSTICS">
+<h2 class="page-section__title" id="laboratorydiagnostics">
+        Лабораторная диагностика    </h2>
+<div class="container">
+<div class="row page-section__row">
+<br/>
+Нет никаких специфических лабораторных тестов, подтверждающих или опровергающих диагноз. 
+                    </div>
+</div>
+</section>
+<section class="page-section" data-section-name="DIFFERENTIALDIAGNOSIS">
+<h2 class="page-section__title" id="differentialdiagnosis">
+        Дифференциальный диагноз    </h2>
+<div class="container">
+<div class="row page-section__row">
+<br/>
+- химический ожог языка;<br/>
+- рак слизистой полости рта;<br/>
+- кандидоз;<br/>
+- контактный стоматит;<br/>
+- складчатый язык;<br/>
+- красный плоский лишай;<br/>
+- псориаз;<br/>
+- вторичный рецидивный сифилис;<br/>
+- плоская форма лейкоплакии;<br/>
+- гиповитаминоз  В1, В2, В12;<br/>
+- системная красная волчанка;<br/>
+- герпес;<br/>
+- лекарственные поражения.<br/>
+<br/>
+</div>
+</div>
+</section>
+<section class="page-section" data-section-name="SEQUELAE">
+<h2 class="page-section__title" id="sequelae">
+        Осложнения    </h2>
+<div class="container">
+<div class="row page-section__row">
+<br/>
+Не описано.
+                    </div>
+</div>
+</section>
+<section class="page-section" data-section-name="THERAPY">
+<h2 class="page-section__title" id="therapy">
+        Лечение    </h2>
+<div class="container">
+<div class="row page-section__row">
+<div>
+<br/>
+	В случае отсутствия жалоб и неприятных ощущений лечение географического языка не проводится. Специфическое лечение отсутствует.<br/><br/><strong>Ключевые моменты</strong><br/><br/>
+	1. Диета. Исключение горячей и острой пищи.<br/><br/>
+	2. При появлении чувства жжения или боли рекомендуются санация полости рта, устранение различных раздражителей, рациональная гигиена полости рта. Гигиенические рекомендации особенно важны при сочетании десквамативного глоссита со складчатым языком (благоприятные условия для размножения микрофлоры в складках). <br/><br/>
+	3. При болезненности слизистой оболочки языка эмпирически назначают обезболивающие растворы и мази: бумекаиновая (пиромекаиновая) мазь 5%, раствор бумекаина 1% . Эффективность, а также оптимальная доза и длительность курса не исследованы.</div><div>
+<br/>
+	4. Имеются сообщения об эффективности следующих медикаментов:<br/>
+	- циклоспорин;<br/>
+	- топические и системные антигистаминные препараты;<br/>
+	- топические ретиноиды;<br/>
+	- топические стероиды.<br/>
+	 </div>
+</div>
+</div>
+</section>
+<section class="page-section" data-section-name="PROGNOSIS">
+<h2 class="page-section__title" id="prognosis">
+        Прогноз    </h2>
+<div class="container">
+<div class="row page-section__row">
+<br/>
+Географический язык является доброкачественным состоянием.
+                    </div>
+</div>
+</section>
+<section class="page-section" data-section-name="HOSPITALIZATION">
+<h2 class="page-section__title" id="hospitalization">
+        Госпитализация    </h2>
+<div class="container">
+<div class="row page-section__row">
+<br/>
+Не требуется.
+                    </div>
+</div>
+</section>
+<section class="page-section" data-section-name="PROPHYLAXIS">
+<h2 class="page-section__title" id="prophylaxis">
+        Профилактика    </h2>
+<div class="container">
+<div class="row page-section__row">
+<br/>
+Не разработана.
+                    </div>
+</div>
+</section>
+<section class="page-section" data-index="14">
+<h2 class="page-section__title" id="information">
+        Информация    </h2>
+<div class="container">
+<section class="row page-field" data-field-name="LISTOFREFERENCES">
+<h3 class="page-field__title text-left" id="listofreferences">
+                    Источники и литература                </h3>
+<div class="page-field__data">
+<ol id="AdditionalListSources" type="I">
+<li level="1">
+<span>Brad W. Neville Oral &amp; Maxillofacial Pathology. Secjnd edition, V.B. Saunders Company, 2002</span>
+<ol type="1">
+</ol>
+</li>
+<li level="1">
+<span>Терапевтическая стоматология: национальное руководство /под ред. Дмитриевой Л.А., Масимовского Ю.М., М. : ГЭОТАР-Медиа, 2009</span>
+<ol type="1">
+</ol>
+</li>
+<li level="1">
+<span>"Benign Migratory Glossitis: A Review" Hooda A., Rathee M., Gulia J., Yadav S, "The Internet Journal of Family Practice", Vol.9, №2, 2009</span>
+<ol type="1">
+</ol>
+</li>
+<li level="1">
+<span>"Common Tongue Conditions in Primary Care" Brian V. Reamy, Richard Derby and Christopher W. Bunt, American Family Physician journal, №81(5), mar 2010 </span>
+<ol type="1">
+</ol>
+</li>
+</ol> </div>
+</section>
+</div>
+</section>
+<section class="page-section" data-section-name="ATTENTION">
+<h2 class="page-section__title" id="attention">
+        Внимание!    </h2>
+<div class="container">
+<div class="row page-section__row">
+<!--noindex-->
+<label class="attention-self-treatment-list__caption">Если вы не являетесь медицинским специалистом:</label>
+<ul class="attention-self-treatment-list">
+<li>
+        Занимаясь самолечением, вы можете нанести непоправимый вред своему здоровью.
+         
+    </li>
+<li>
+        Информация, размещенная на сайте MedElement, не может и не должна заменять очную консультацию врача.
+        Обязательно
+        обращайтесь в медицинские учреждения при наличии каких-либо заболеваний или беспокоящих вас симптомов.
+         
+    </li>
+<li>
+        Выбор лекарственных средств и их дозировки, должен быть оговорен со специалистом. Только врач может
+        назначить
+        нужное лекарство и его дозировку с учетом заболевания и состояния организма больного.
+         
+    </li>
+<li>
+        Сайт MedElement является исключительно информационно-справочным ресурсом. Информация, размещенная на данном
+        сайте, не должна использоваться для самовольного изменения предписаний врача.
+         
+    </li>
+<li>
+        Редакция MedElement не несет ответственности за какой-либо ущерб здоровью или материальный ущерб, возникший
+        в
+        результате использования данного сайта.
+    </li>
+</ul>
+<!--/noindex-->
+</div>
+</div>
+</section>
+</main>

@@ -1,0 +1,339 @@
+<main id="main">
+<section class="page-information disease-information">
+<div class="container">
+<h1 class="page-information__name disease-information__name">
+            Агенезия, аплазия и гипоплазия желчного пузыря (Q44.0)        </h1>
+<div class="disease-information__version-name">
+<p class="lead text-muted">
+                
+                Версия: Справочник заболеваний MedElement                </p>
+</div>
+<div class="disease-information__categories-mkb">
+<label>Категории МКБ: </label>
+                Агенезия, аплазия и гипоплазия желчного пузыря (Q44.0)            </div>
+<div class="disease-information__sections-medicine">
+<label>Разделы медицины: </label>
+                Врожденные заболевания, Гастроэнтерология            </div>
+</div>
+</section>
+<section class="page-section" data-index="0">
+<h2 class="page-section__title" id="general_information">
+        Общая информация    </h2>
+<div class="container">
+<div class="page-links-actions">
+<ul>
+<li class="page-links-actions__item page-links-actions__item--print" data-ga-event-action="Клик по ссылке: Версия для печати" data-ga-event-category="Links actions" data-ga-event-label="" data-send-ga-event="">
+<a href="javascript:window.print()">Версия для печати
+                    <svg class="svg-icon svg-icon-printer" height="18" version="1.1" viewbox="0 0 24 24" width="18" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<path d="M18,3H6V7H18M19,12A1,1 0 0,1 18,11A1,1 0 0,1 19,10A1,1 0 0,1 20,11A1,1 0 0,1 19,12M16,19H8V14H16M19,8H5A3,3 0 0,0 2,11V17H6V21H18V17H22V11A3,3 0 0,0 19,8Z"></path>
+</svg>
+</a>
+</li>
+</ul>
+</div>
+<section class="row page-field" data-field-name="SHORTDESCRIPTION">
+<h3 class="page-field__title text-left" id="shortdescription">
+                    Краткое описание                </h3>
+<div class="page-field__data">
+<div style="text-align: justify; ">
+<br/>
+<strong>Агенезия</strong> <strong>желчного пузыря</strong> - редкая врожденная аномалия, представляющая собой отсутствие желчного пузыря. При этом обычно отсутствует пузырный проток и может отмечаться расширение общего желчного протока.<br/>
+<br/>
+	Агенезия желчного пузыря с нормальным желчным протоком встречается крайне редко. По некоторым сообщениям в этом случае на месте желчного пузыря обнаруживаются лишь жировая ткань и артерии желчного пузыря. <br/>
+<br/>
+	Агенезия может сочетаться с <aterm term="1">гемангиомами<span class="term-description" style="display: none;"><span>Гемангиома - доброкачественная опухоль, развивающаяся из кровеносных сосудов.</span><br/></span></aterm> печени; короткой, кольцевидной поджелудочной железой; проками развития ДПК и селезёнки. Описаны случаи сочетания с кистами желчного протока. <br/>
+<br/>
+<strong>Аплазия, гипоплазия</strong> <strong>желчного пузыря</strong> представляют собой недоразвитие желчного пузыря при его правильном положении. <br/>
+<br/>
+	 </div>
+</div>
+</section>
+</div>
+</section>
+<section class="page-section" data-section-name="CLASSIFICATION">
+<h2 class="page-section__title" id="classification">
+        Классификация    </h2>
+<div class="container">
+<div class="row page-section__row">
+<div style="text-align: justify; ">
+<br/>
+	Различают два типа данной аномалии:<br/>
+<br/>
+	- <strong>Аномалии типа I</strong> связаны с нарушением отхож­дения желчного пузыря и пузырного протока из печеночного <aterm term="1">дивертикула<span class="term-description" style="display: none;"><span>Дивертикул -  выпячивание стенки полого органа (кишки, пищевода, мочеточника и др.), сообщающееся с его полостью.</span><br/></span></aterm> передней кишки. Эти аномалии часто сочетаются с другими аномалия­ми желчевыводящей системы.<br/>
+<br/>
+	- <strong>Аномалии типа II </strong>связаны с нарушением фор­мирования просвета в плотном зачатке желчного пузыря. Обычно они сочетаются с <aterm term="1">атрезией<span class="term-description" style="display: none;"><span>Атрезиея - аномалия развития: отсутствие канала, просвета или естественного отверстия в органе; иногда термин применяется для обозначения аналогичных последствий воспалительных процессов.</span><br/></span></aterm> внепе­ченочных желчных протоков. Желчный пузырь имеется, только в рудиментарном состоянии. Эти аномалии выявляются у младенцев с признаками врожденной атрезии желчных путей.</div>
+</div>
+</div>
+</section>
+<section class="page-section" data-section-name="ETIOLOGY">
+<h2 class="page-section__title" id="etiology">
+        Этиология и патогенез    </h2>
+<div class="container">
+<div class="row page-section__row">
+<div style="text-align: justify; ">
+<br/>
+<strong>Агенезия желчного пузыря</strong> возникает в результате отсутствия эмбриональной закладки на 4-й неделе развития. </div>
+<div style="text-align: justify; ">
+<br/>
+<strong>Аплазия и гипоплазия желчного пузыря </strong>обуславливаются нарушением эмбриональной закладки на 4-й неделе развития.<br/>
+	Существуют случаи обнаружения аплазии желчного пузыря, сочетающейся с другими пороками развития, у детей, матери которых во время беременности принимали талидомид (Lenz 1962).<br/>
+	Аплазия желчного пузыря встречается в качестве составной части сочетаных пороков развития при хромосомных анамалиях (трисомия первой, восьмой, одинадцатой хромосомы).<br/>
+<aterm term="1">Гипоплазия<span class="term-description" style="display: none;"><span>Гипоплазия -   остановка развития органа, его части или организма в целом в результате прекращения увеличения числа клеток.</span><br/></span></aterm> желчного пузыря встречается у пациентов с синдромом недифференцированной <aterm term="1">дисплазии<span class="term-description" style="display: none;"><span>Дисплазия - неправильное развитие тканей и органов.</span><br/></span></aterm> соединительной ткани. </div>
+</div>
+</div>
+</section>
+<section class="page-section" data-section-name="EPIDEMIOLOGY">
+<h2 class="page-section__title" id="epidemiology">
+        Эпидемиология    </h2>
+<div class="container">
+<div class="row page-section__row">
+<div style="text-align: justify; ">
+<br/>
+	По данным испанских специалистов до 2012 года, было описано только 400 изолированых случаев истиной агенезии желчного пузыря по всему миру у взрослых, как случайные находки. При аутопсии детей подобная аномалия выявлялась с частотой 1:1600.<br/>
+	Гипоплазия и аплазия встречаются значительно чаще как у детей, так и у взрослых.</div>
+<br/>
+</div>
+</div>
+</section>
+<section class="page-section" data-section-name="FACTORSANDRISKGROUPS">
+<h2 class="page-section__title" id="factorsandriskgroups">
+        Факторы и группы риска    </h2>
+<div class="container">
+<div class="row page-section__row">
+<div style="text-align: justify; ">
+<br/>
+<strong>Основные факторы риска:</strong><br/>
+<br/>
+	1. Наследственные нарушения соединительной ткани - недифференцированная дисплазия соединительной ткани.<br/>
+<br/>
+	2. Синдром удвоения хромосомы 1q (трисомия 1q) - агенезия и аплазия встречаются в сочетании с другими аномалиями. <br/>
+<br/>
+	3. Синдром Варкани (Warkany, Josef -American human geneticist, 1902-1992) - синдром множественных пороков развития, связанный с полной или частичной трисомией хромосомы 8q (наличие дополнительной хромосомы 8 или части ее короткого плеча). Имеются сообщения об около 100 случаях наблюдения агенезии желчного пузыря при данном синдроме, т.е. она встречается непостоянно, при этом сочетаясь с другими аномалиями синдрома 8q.</div>
+<div style="text-align: justify; ">
+<br/>
+	4. Трисомия 11 хромосомы (удвоение 11q) в сочетании сдругими проявлениями.<br/>
+<br/>
+	5. Наличие других пороков развития пищеварительного тракта.<br/>
+<br/>
+	 </div>
+</div>
+</div>
+</section>
+<section class="page-section" data-index="5">
+<h2 class="page-section__title" id="clinical">
+        Клиническая картина    </h2>
+<div class="container">
+<section class="row page-field" data-field-name="ANTIPRAXIA">
+<h3 class="page-field__title text-left" id="antipraxia">
+                    Cимптомы, течение                </h3>
+<div class="page-field__data">
+<div style="text-align: justify; ">
+<br/>
+	Клинически изолированная агенезия, аплазия и гипоплазиия желчного пузыря не проявляются.<br/>
+	В случае изолированных пороков развития, симптомы могут возникнуть в связи с развитием желчекаменной болезни с локализацией камня в желчном протоке или в самом пузыре (при гипоплазии), а также в связи с <aterm term="1">дискинезией<span class="term-description" style="display: none;"><span>Дискинезия - общее название расстройств координированных двигательных актов (в т.ч. внутренних органов), заключающихся в нарушении временной и пространственной координации движений и неадекватной интенсивности отдельных их компонентов.</span><br/></span></aterm> желчевыводящих путей. В данных случаях симптомы не отличаются от симптомов желчекаменной болезни и дискинезии желчевыводящих путей.<br/>
+	Гипоплазия желчного пузыря может наблюдаться при <aterm term="1">муковисцидозе<span class="term-description" style="display: none;"><span>Муковисцидоз -   наследственная болезнь, характеризующаяся кистозным перерождением поджелудочной железы, желез кишечника и дыхательных путей из-за закупорки их выводных протоков вязким секретом.</span><br/></span></aterm> и <aterm term="1">атрезии<span class="term-description" style="display: none;"><span>Атрезиея - аномалия развития: отсутствие канала, просвета или естественного отверстия в органе; иногда термин применяется для обозначения аналогичных последствий воспалительных процессов.</span><br/></span></aterm> желчных путей, и иметь клинику, соответствующую основному заболеванию.</div>
+<br/>
+</div>
+</section>
+</div>
+</section>
+<section class="page-section" data-section-name="DIAGNOSTICS">
+<h2 class="page-section__title" id="diagnostics">
+        Диагностика    </h2>
+<div class="container">
+<div class="row page-section__row">
+<div style="text-align: justify; ">
+<br/>
+<strong>Диагностика агенезии и аплазии</strong></div>
+<div style="text-align: justify; ">
+<br/>
+	При проведении <aterm term="1">холеграфии<span class="term-description" style="display: none;"><span>Холеграфия -   последовательная рентгенография желчных путей после введения в организм контрастных веществ, которые улавливаются из крови печенью и выделяются с желчью.</span><br/></span></aterm> тень желчного пузыря и пузырного протока отсутствует, сохраняется обычный диаметр печеночного и общего желчного протоков. Тень желчного пузыря также отсутствует на<strong> </strong>томограммах.<br/>
+	При УЗИ полость желчного пузыря не выявляется и это нередко ошибочно принимается за сморщенный желчный пузырь. <br/>
+	При радиохолецистографии и динамической сцинтиграфии не происходит накопления желчи в желчном пузыре. </div>
+<div style="text-align: justify; ">
+<br/>
+<strong>Диагностика гипоплазии</strong><br/>
+<br/>
+	Холецисто- и холеграфия показывают, что тень желчного пузыря отсутствует либо резко уменьшена при сохраненной функции желчного пузыря.<br/>
+	УЗИ и радиохолецистография с динамической сцинтиграфией позволяют обнаружить уменьшение полости желчного пузыря, а иногда и ее отсутствие.<br/>
+<br/>
+	Обнаружение агенезии или аплазии желчного пузыря в большинстве случаев происходило случайно при лапароскопических вмешательствах, перед которыми выполнялось только УЗИ. Практика показывает, что при нечеткой визуализации желчного пузыря на УЗИ, пациентов следует подвергать  КТ и МРТ.  </div>
+</div>
+</div>
+</section>
+<section class="page-section" data-section-name="LABORATORYDIAGNOSTICS">
+<h2 class="page-section__title" id="laboratorydiagnostics">
+        Лабораторная диагностика    </h2>
+<div class="container">
+<div class="row page-section__row">
+<br/>
+<span style="text-align: justify; ">Лабораторные исследования не информативны. </span>
+</div>
+</div>
+</section>
+<section class="page-section" data-section-name="DIFFERENTIALDIAGNOSIS">
+<h2 class="page-section__title" id="differentialdiagnosis">
+        Дифференциальный диагноз    </h2>
+<div class="container">
+<div class="row page-section__row">
+<p>
+<br/>
+	Дискинезия желчевыводящих путей. Острый и хронический холецистит. </p>
+</div>
+</div>
+</section>
+<section class="page-section" data-section-name="SEQUELAE">
+<h2 class="page-section__title" id="sequelae">
+        Осложнения    </h2>
+<div class="container">
+<div class="row page-section__row">
+<br/>
+Желчекаменная болезнь (при гипоплазии).
+                    </div>
+</div>
+</section>
+<section class="page-section" data-section-name="THERAPY">
+<h2 class="page-section__title" id="therapy">
+        Лечение    </h2>
+<div class="container">
+<div class="row page-section__row">
+<div>
+<br/>
+	Лечение определяется степенью нарушения пассажа желчи и его последствиями: в крайних случаях оперативное вмешательство.</div>
+</div>
+</div>
+</section>
+<section class="page-section" data-section-name="PROGNOSIS">
+<h2 class="page-section__title" id="prognosis">
+        Прогноз    </h2>
+<div class="container">
+<div class="row page-section__row">
+<br/>
+При изолированных пороках благоприятный.
+                    </div>
+</div>
+</section>
+<section class="page-section" data-index="12">
+<h2 class="page-section__title" id="information">
+        Информация    </h2>
+<div class="container">
+<section class="row page-field" data-field-name="LISTOFREFERENCES">
+<h3 class="page-field__title text-left" id="listofreferences">
+                    Источники и литература                </h3>
+<div class="page-field__data">
+<ol id="AdditionalListSources" type="I">
+<li level="1">
+<span>Детская гастроэнтерология: руководство для врачей /под ред. проф. Шабалова Н.П., 2011</span>
+<ol type="1">
+<li level="2">стр.348-349</li>
+</ol>
+</li>
+<li level="1">
+<span>Исаков Ю.Ф., Степанов Э.А., Красовская Т.В. Абдоминальная хирургия у детей, руководство, Медицина, 1988</span>
+<ol type="1">
+</ol>
+</li>
+<li level="1">
+<span>Шерлок Ш., Дули Дж. Заболевания печени и желчных путей, М.:Гэотар, 1999
+
+</span>
+<ol type="1">
+</ol>
+</li>
+<li level="1">
+<span>"Рекомендации ВНОК по лечению наследственных нарушений (дисплазий) структуры и функции соединительной ткани (2008)", "Научные ведомости Белгородского государственного университета" /Серия: Медицина. Фармация, №7, т.59, 2009</span>
+<ol type="1">
+<li level="2">стр. 72-96</li>
+</ol>
+</li>
+<li level="1">
+<span>Ageneses of the gallbladder: revision of the literature and a case reported /article in Spanish/, Flores-Valencia JG, Vital-Miranda SN, Mondragón-Romano SP, de la Garza-Salinas LH, Rev Med Inst Mex Seguro Soc., 2012 Jan-Feb; 50(1):63-6</span>
+<ol type="1">
+</ol>
+</li>
+<li level="1">
+<span>Aplasia of the gallbladder with common duct stones,
+Wählby L.,Acta Chir Scand.</span>
+<ol type="1">
+<li level="2">1977, 143(4):241-3.</li>
+</ol>
+</li>
+<li level="1">
+<span>Gallbladder agenesis with midgut malrotation, Calder N, Carneiro HA, Khwaja HA, Thompson JN, BMJ Case Rep., 2012 Sep 14
+</span>
+<ol type="1">
+</ol>
+</li>
+<li level="1">
+<span>http://www.nlm.nih.gov/archive/20061212/mesh/jablonski/cgi/jablonski/syndrome_cgiaa9b.htm</span>
+<ol type="1">
+</ol>
+</li>
+<li level="1">
+<span>http://www.nlm.nih.gov/archive/20061212/mesh/jablonski/cgi/jablonski/syndrome_cgif610.html </span>
+<ol type="1">
+</ol>
+</li>
+<li level="1">
+<span>Врожденные пороки развития у детей как критерий экологического неблагополучия региона (на примере врожденных пороков желудочно-кишечного тракта, почек и мочевыводящей системы), "Астраханский медицинский журнал", №3, т.6, 2011 </span>
+<ol type="1">
+<li level="2">Дементьева Д.М., Михайлова Ю.Н., Безроднова С.М., Минаев С.В., стр. 259-260</li>
+</ol>
+</li>
+<li level="1">
+<span>Клинико-анамнестическая характеристика детей с желчнокаменной болезнью,
+Шеина П., Чередниченко А.М., "Уральский медицинский журнал", №5, 2007 </span>
+<ol type="1">
+<li level="2">стр. 15-19</li>
+</ol>
+</li>
+<li level="1">
+<span>Результаты оперативного лечения хронического холецистита у детей, Лукоянова Г.М., Шеляхин В.Е., Цирдава Г.Ю., Потехин П.П., журнал "Медицинский альманах", №1, 2008</span>
+<ol type="1">
+<li level="2">стр. 55-57</li>
+</ol>
+</li>
+</ol> </div>
+</section>
+</div>
+</section>
+<section class="page-section" data-section-name="ATTENTION">
+<h2 class="page-section__title" id="attention">
+        Внимание!    </h2>
+<div class="container">
+<div class="row page-section__row">
+<!--noindex-->
+<label class="attention-self-treatment-list__caption">Если вы не являетесь медицинским специалистом:</label>
+<ul class="attention-self-treatment-list">
+<li>
+        Занимаясь самолечением, вы можете нанести непоправимый вред своему здоровью.
+         
+    </li>
+<li>
+        Информация, размещенная на сайте MedElement, не может и не должна заменять очную консультацию врача.
+        Обязательно
+        обращайтесь в медицинские учреждения при наличии каких-либо заболеваний или беспокоящих вас симптомов.
+         
+    </li>
+<li>
+        Выбор лекарственных средств и их дозировки, должен быть оговорен со специалистом. Только врач может
+        назначить
+        нужное лекарство и его дозировку с учетом заболевания и состояния организма больного.
+         
+    </li>
+<li>
+        Сайт MedElement является исключительно информационно-справочным ресурсом. Информация, размещенная на данном
+        сайте, не должна использоваться для самовольного изменения предписаний врача.
+         
+    </li>
+<li>
+        Редакция MedElement не несет ответственности за какой-либо ущерб здоровью или материальный ущерб, возникший
+        в
+        результате использования данного сайта.
+    </li>
+</ul>
+<!--/noindex-->
+</div>
+</div>
+</section>
+</main>

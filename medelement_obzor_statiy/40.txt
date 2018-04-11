@@ -1,0 +1,270 @@
+<main id="main">
+<section class="page-information disease-information">
+<div class="container">
+<h1 class="page-information__name disease-information__name">
+            Врожденная халазия кардии (Q39.8)        </h1>
+<div class="disease-information__alternate-name">
+<label>Также: </label>
+                Недостаточность кардии, зияние кардии            </div>
+<div class="disease-information__version-name">
+<p class="lead text-muted">
+                
+                Версия: Справочник заболеваний MedElement                </p>
+</div>
+<div class="disease-information__categories-mkb">
+<label>Категории МКБ: </label>
+                Другие врожденные аномалии пищевода (Q39.8)            </div>
+<div class="disease-information__sections-medicine">
+<label>Разделы медицины: </label>
+                Врожденные заболевания, Гастроэнтерология            </div>
+</div>
+</section>
+<section class="page-section" data-index="0">
+<h2 class="page-section__title" id="general_information">
+        Общая информация    </h2>
+<div class="container">
+<div class="page-links-actions">
+<ul>
+<li class="page-links-actions__item page-links-actions__item--print" data-ga-event-action="Клик по ссылке: Версия для печати" data-ga-event-category="Links actions" data-ga-event-label="" data-send-ga-event="">
+<a href="javascript:window.print()">Версия для печати
+                    <svg class="svg-icon svg-icon-printer" height="18" version="1.1" viewbox="0 0 24 24" width="18" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<path d="M18,3H6V7H18M19,12A1,1 0 0,1 18,11A1,1 0 0,1 19,10A1,1 0 0,1 20,11A1,1 0 0,1 19,12M16,19H8V14H16M19,8H5A3,3 0 0,0 2,11V17H6V21H18V17H22V11A3,3 0 0,0 19,8Z"></path>
+</svg>
+</a>
+</li>
+</ul>
+</div>
+<section class="row page-field" data-field-name="SHORTDESCRIPTION">
+<h3 class="page-field__title text-left" id="shortdescription">
+                    Краткое описание                </h3>
+<div class="page-field__data">
+<div style="text-align: justify; ">
+<br/>
+	Халазия кардии представляет собой расширение <aterm term="1">кардиального отдела пищевода<span class="term-description" style="display: none;"><span>Кардиальный отдел пищевода (кардия) - сфинктер (круговая мышца), разделяющий пищевод и желудок.</span><br/></span></aterm> вследствие недоразвития нервно-мышечного аппарата эзофагокардиального сфинктера или выпрямления эзофагофундального угла (<aterm term="1">угла Гиса<span class="term-description" style="display: none;"><span>Угол Гиса - угол между стенками пищевода и желудка; величина угла Гиса отражается на скорости перехода пищи из пищевода в желудок.</span><br/></span></aterm>).<br/>
+	Халазия кардии характеризуется неспособностью проглатывать плотную по консистенции пищу при отсутствии препятствий в пищеводе.</div>
+</div>
+</section>
+<section class="row page-field" data-field-name="NUMBERDAYSFLOW">
+<h3 class="page-field__title text-left" id="numberdaysflow">
+                    Период протекания                </h3>
+<div class="page-field__data">
+<br/>
+<label>Описание:</label>
+<p>нет информации</p>
+</div>
+</section>
+</div>
+</section>
+<section class="page-section" data-section-name="CLASSIFICATION">
+<h2 class="page-section__title" id="classification">
+        Классификация    </h2>
+<div class="container">
+<div class="row page-section__row">
+<br/>
+Общепринятой классификации халазии кардии не существует.  
+                    </div>
+</div>
+</section>
+<section class="page-section" data-section-name="ETIOLOGY">
+<h2 class="page-section__title" id="etiology">
+        Этиология и патогенез    </h2>
+<div class="container">
+<div class="row page-section__row">
+<br/>
+Халазия кардии является врожденным заболеванием. <br/>
+Выраженные клинически формы заболевания в приблизительно 50%  случаев сочетаются с различными <aterm term="1">грыжами диафрагмы<span class="term-description" style="display: none;"><span>Грыжа диафрагмальная - грыжа живота с выходом органов брюшной полости в грудную полость через расширенные щели или дефекты диафрагмы</span><br/></span></aterm> или другими пороками развития.
+                    </div>
+</div>
+</section>
+<section class="page-section" data-section-name="EPIDEMIOLOGY">
+<h2 class="page-section__title" id="epidemiology">
+        Эпидемиология    </h2>
+<div class="container">
+<div class="row page-section__row">
+<br/>
+У детей грудного возраста халазия кардии встречается с частотой 1:300 - 1000.
+                    </div>
+</div>
+</section>
+<section class="page-section" data-section-name="FACTORSANDRISKGROUPS">
+<h2 class="page-section__title" id="factorsandriskgroups">
+        Факторы и группы риска    </h2>
+<div class="container">
+<div class="row page-section__row">
+<br/>
+Достоверно неизвестны.
+                    </div>
+</div>
+</section>
+<section class="page-section" data-index="5">
+<h2 class="page-section__title" id="clinical">
+        Клиническая картина    </h2>
+<div class="container">
+<section class="row page-field" data-field-name="ANTIPRAXIA">
+<h3 class="page-field__title text-left" id="antipraxia">
+                    Cимптомы, течение                </h3>
+<div class="page-field__data">
+<div style="text-align: justify; ">
+<br/>
+	Снижение <aterm term="1">пропульсивной способности<span class="term-description" style="display: none;"><span>Пропульсивная способность - продвижение (проталкивание) вперед, поступательное движение.</span><br/></span></aterm> пищевода и общей перистальтической активности приводит к застою пищевых масс в нижнем отделе пищевода. Это проявляется обильным срыгиванием и рвотой после кормления ребенка, а в некоторых случаях и вне приема пищи. Вследствие данного процесса<span style="color: rgb(0, 0, 0); font-family: Arial, Helvetica, sans-serif; "> ребенок остается голодным и охотно сосет вновь. И</span>нтенсивность приведенных симптомов уменьшается в вертикальном положении.<br/>
+	Сохранение симптоматики приводит к возникновению <aterm term="1">гипотрофии<span class="term-description" style="display: none;"><span>Гипотрофия -  расстройство питания, характеризующееся различной степенью дефицита массы тела</span><br/></span></aterm>, обезвоживания, анемии, бронхитов, аспирационной пневмонии. Частым осложнением халазии кардии выступает <aterm term="1">эзофагит<span class="term-description" style="display: none;"><span>Эзофагит - воспаление слизистой оболочки пищевода.</span><br/><a class="tooltip-term__more" href="https://diseases.medelement.com/index.php/disease/view/NDU4NA%3D%3D/0" target="_blank" title="Подробнее о эзофагит">Подробно</a></span></aterm>.</div>
+<div style="text-align: justify; ">
+	Следует иметь в виду, что у детей первых дней жизни тонус кардии снижен и эпизоды срыгивания могут носить физиологический характер. У новорожденных сложно провести четкую границу между физиологической недостаточностью кардии и халазией. По существующим данным (J. Boixx ect.1976) недостаточность кардии является физиологичной до 5-7 недельного возраста ребенка. </div>
+</div>
+</section>
+</div>
+</section>
+<section class="page-section" data-section-name="DIAGNOSTICS">
+<h2 class="page-section__title" id="diagnostics">
+        Диагностика    </h2>
+<div class="container">
+<div class="row page-section__row">
+<div style="text-align: justify; ">
+<br/>
+	Диагностика проводится с учетом наличия пищеводных и внепищеводных симптомов.</div>
+<br/>
+<strong>Инструментальная диагностика</strong>
+<div style="text-align: justify; ">
+<br/>
+<strong>Обязательные исследования</strong>. Диагноз устанавливается на основе результатов рентгеноконтрастного исследования пищевода в <aterm term="1">положении Тренделенбурга<span class="term-description" style="display: none;"><span>Положение Тренделенбурга - положение лежа на спине под углом 45' с приподнятым по отношению к голове тазом.</span><br/></span></aterm>, при этом исключается укорочение пищевода и грыжа пищеводного отверстия диафрагмы.<br/>
+	С помощью фиброэзофагоскопии возможно диагностировать халазию кардии, выявить эзофагит, пептические язвы пищевода.<br/>
+<br/>
+<strong>Дополнительные исследования</strong>. Пищеводная манометрия позволяет регистрировать снижение давления в кардиальном отделе пищевода. Пищеводная рН-метрия выявляет кислотные и щелочные <aterm term="1">ГЭР<span class="term-description" style="display: none;"><span>ГЭР - гастроэзофагеальный рефлюкс</span><br/><img class="tooltip-term__img" data-link="https://diseases.medelement.com/upload/21441763743e4c828947bee3dc064df4.jpg" src="/images/tooltip/image.svg" title="Открыть изображение"/><a class="tooltip-term__more" href="https://diseases.medelement.com/index.php/disease/view/NDU4Nw%3D%3D/0" target="_blank" title="Подробнее о ГЭР">Подробно</a></span></aterm>. Внутрипищеводная импедансометрия диагностирует халазию кардии, <aterm term="1">ГЭР<span class="term-description" style="display: none;"><span>ГЭР - гастроэзофагеальный рефлюкс</span><br/><img class="tooltip-term__img" data-link="https://diseases.medelement.com/upload/21441763743e4c828947bee3dc064df4.jpg" src="/images/tooltip/image.svg" title="Открыть изображение"/><a class="tooltip-term__more" href="https://diseases.medelement.com/index.php/disease/view/NDU4Nw%3D%3D/0" target="_blank" title="Подробнее о ГЭР">Подробно</a></span></aterm>, <aterm term="1">гипотонию<span class="term-description" style="display: none;"><span>Гипотония - сниженный тонус мышцы или мышечного слоя стенки полого органа.</span><br/></span></aterm> нижнего отдела пищевода.</div>
+<br/>
+</div>
+</div>
+</section>
+<section class="page-section" data-section-name="LABORATORYDIAGNOSTICS">
+<h2 class="page-section__title" id="laboratorydiagnostics">
+        Лабораторная диагностика    </h2>
+<div class="container">
+<div class="row page-section__row">
+<div style="text-align: justify; ">
+<br/>
+<aterm term="1">Патогномоничных<span class="term-description" style="display: none;"><span>Патогномоничный - характерный для данной болезни (о признаке).</span><br/></span></aterm> лабораторных признаков халазии кардии нет.</div>
+<div style="text-align: justify; ">
+<br/>
+<strong>Обязательные исследования</strong>: общий анализ крови, <aterm term="1">гематокрит<span class="term-description" style="display: none;"><span>Гематокрит - определение гематокритного числа (отношение объема форменных элементов крови к объему плазмы).</span><br/></span></aterm>, <aterm term="1">копрограмма<span class="term-description" style="display: none;"><span>Копрограмма - запись результатов исследования кала.</span><br/></span></aterm>.</div>
+<div style="text-align: justify; ">
+<strong>Дополнительные исследования</strong>: биохимический анализ крови (кислотно-основное состояние, общий белок, глюкоза, АлАТ, АсАТ, креатинин, мочевина).</div>
+</div>
+</div>
+</section>
+<section class="page-section" data-section-name="DIFFERENTIALDIAGNOSIS">
+<h2 class="page-section__title" id="differentialdiagnosis">
+        Дифференциальный диагноз    </h2>
+<div class="container">
+<div class="row page-section__row">
+<div>
+<br/>
+	При дифференциальной диагностике исключают <aterm term="1">пилороспазм</aterm>, <aterm term="1">эзофагоспазм</aterm>, врожденный короткий пищевод, грыжу пищеводного отверстия диафрагмы и другие аномалии.</div>
+</div>
+</div>
+</section>
+<section class="page-section" data-section-name="SEQUELAE">
+<h2 class="page-section__title" id="sequelae">
+        Осложнения    </h2>
+<div class="container">
+<div class="row page-section__row">
+<br/>
+При выраженных клинически формах осложнения в основном возникают вследствие нарушений питания и водно-солевого обмена.<br/>
+Возможны <aterm term="1">регургитация<span class="term-description" style="display: none;"><span>Регургитация - перемещение содержимого полого органа в направлении, противоположном физиологическому в результате сокращения его мышц.</span><br/></span></aterm> или <aterm term="1">аспирация<span class="term-description" style="display: none;"><span>Аспирация (лат. aspiratio) — эффект «засасывания», возникающий из-за создания пониженного давления</span><br/></span></aterm> содержимого ЖКТ в дыхательные пути с развитием аспирационной пневмонии, <aterm term="1">стридора<span class="term-description" style="display: none;"><span>Стридор - свистящий шум, возникающий главным образом во время вдоха, обусловленный резким сужением просвета гортани, трахеи или бронхов.</span><br/></span></aterm> и прочего.  <br/>
+Как правило развивается эзофагит.
+                    </div>
+</div>
+</section>
+<section class="page-section" data-section-name="THERAPY">
+<h2 class="page-section__title" id="therapy">
+        Лечение    </h2>
+<div class="container">
+<div class="row page-section__row">
+<br/><strong>Немедикаментозное лечение.</strong><div>
+	Необходимо систематически проводить <aterm term="1">постуральную терапию</aterm> и коррекцию диеты. Диетотерапия включает увеличение частоты кормлений и уменьшение разового объема принимаемой пищи. Рекомендуется использование антирефлюксных смесей, которые назначают в полном или частичном объеме.</div><p>
+Также важно осуществлять <span>психологическую поддержку родителей больных детей.</span><br/><br/><strong>Медикаментозное лечение.</strong>
+</p><div>
+	Применяются медикаментозные препараты прокинетического действия (домперидон внутрь, метоклопрамид парентерально) курсами 7-14 дней. Используют антациды (Фосфалюгель) курсами до 2 недель. При наличии эзофагита требуется назначение антисекреторных препаратов курсами 2-3 недели (ингибиторы Н<sup>+</sup>, К<sup>+</sup>-АТФазы или блокаторы Н<sub>2</sub>-гистаминовых рецепторов).</div><br/><strong>Хирургическое лечение.</strong><div>
+	Показания к антирефлюксным оперативным вмешательствам по поводу халазии кардии соответствуют таковым при <aterm term="1">ГЭРБ</aterm>.</div>
+</div>
+</div>
+</section>
+<section class="page-section" data-section-name="PROGNOSIS">
+<h2 class="page-section__title" id="prognosis">
+        Прогноз    </h2>
+<div class="container">
+<div class="row page-section__row">
+<div style="text-align: justify; ">
+<br/>
+	Отдаленные результаты лечения, в том числе антирефлюксных операций, преимущественно хорошие.</div>
+</div>
+</div>
+</section>
+<section class="page-section" data-section-name="HOSPITALIZATION">
+<h2 class="page-section__title" id="hospitalization">
+        Госпитализация    </h2>
+<div class="container">
+<div class="row page-section__row">
+<div>
+<br/>
+	Лечение больных с осложненными формами халазии кардии осуществляется в стационарных условиях.</div>
+</div>
+</div>
+</section>
+<section class="page-section" data-index="13">
+<h2 class="page-section__title" id="information">
+        Информация    </h2>
+<div class="container">
+<section class="row page-field" data-field-name="LISTOFREFERENCES">
+<h3 class="page-field__title text-left" id="listofreferences">
+                    Источники и литература                </h3>
+<div class="page-field__data">
+<ol id="AdditionalListSources" type="I">
+<li level="1">
+<span>Детская гастроэнтерология: руководство для врачей /под ред. проф. Шабалова Н.П., 2011</span>
+<ol type="1">
+<li level="2">стр.257-259</li>
+</ol>
+</li>
+</ol> </div>
+</section>
+</div>
+</section>
+<section class="page-section" data-section-name="ATTENTION">
+<h2 class="page-section__title" id="attention">
+        Внимание!    </h2>
+<div class="container">
+<div class="row page-section__row">
+<!--noindex-->
+<label class="attention-self-treatment-list__caption">Если вы не являетесь медицинским специалистом:</label>
+<ul class="attention-self-treatment-list">
+<li>
+        Занимаясь самолечением, вы можете нанести непоправимый вред своему здоровью.
+         
+    </li>
+<li>
+        Информация, размещенная на сайте MedElement, не может и не должна заменять очную консультацию врача.
+        Обязательно
+        обращайтесь в медицинские учреждения при наличии каких-либо заболеваний или беспокоящих вас симптомов.
+         
+    </li>
+<li>
+        Выбор лекарственных средств и их дозировки, должен быть оговорен со специалистом. Только врач может
+        назначить
+        нужное лекарство и его дозировку с учетом заболевания и состояния организма больного.
+         
+    </li>
+<li>
+        Сайт MedElement является исключительно информационно-справочным ресурсом. Информация, размещенная на данном
+        сайте, не должна использоваться для самовольного изменения предписаний врача.
+         
+    </li>
+<li>
+        Редакция MedElement не несет ответственности за какой-либо ущерб здоровью или материальный ущерб, возникший
+        в
+        результате использования данного сайта.
+    </li>
+</ul>
+<!--/noindex-->
+</div>
+</div>
+</section>
+</main>

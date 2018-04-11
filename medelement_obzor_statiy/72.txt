@@ -1,0 +1,244 @@
+<main id="main">
+<section class="page-information disease-information">
+<div class="container">
+<h1 class="page-information__name disease-information__name">
+            Двойной (добавочный) желчный пузырь (Q44.1)        </h1>
+<div class="disease-information__version-name">
+<p class="lead text-muted">
+                
+                Версия: Справочник заболеваний MedElement                </p>
+</div>
+<div class="disease-information__categories-mkb">
+<label>Категории МКБ: </label>
+                Другие врожденные аномалии желчного пузыря (Q44.1)            </div>
+<div class="disease-information__sections-medicine">
+<label>Разделы медицины: </label>
+                Врожденные заболевания, Гастроэнтерология            </div>
+</div>
+</section>
+<section class="page-section" data-index="0">
+<h2 class="page-section__title" id="general_information">
+        Общая информация    </h2>
+<div class="container">
+<div class="page-links-actions">
+<ul>
+<li class="page-links-actions__item page-links-actions__item--print" data-ga-event-action="Клик по ссылке: Версия для печати" data-ga-event-category="Links actions" data-ga-event-label="" data-send-ga-event="">
+<a href="javascript:window.print()">Версия для печати
+                    <svg class="svg-icon svg-icon-printer" height="18" version="1.1" viewbox="0 0 24 24" width="18" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<path d="M18,3H6V7H18M19,12A1,1 0 0,1 18,11A1,1 0 0,1 19,10A1,1 0 0,1 20,11A1,1 0 0,1 19,12M16,19H8V14H16M19,8H5A3,3 0 0,0 2,11V17H6V21H18V17H22V11A3,3 0 0,0 19,8Z"></path>
+</svg>
+</a>
+</li>
+</ul>
+</div>
+<section class="row page-field" data-field-name="SHORTDESCRIPTION">
+<h3 class="page-field__title text-left" id="shortdescription">
+                    Краткое описание                </h3>
+<div class="page-field__data">
+<div style="text-align: justify; ">
+<br/>
+<strong>Двойной (добавочный) желчный пузырь </strong>- аномалия формы желчного пузыря.</div>
+</div>
+</section>
+</div>
+</section>
+<section class="page-section" data-section-name="ETIOLOGY">
+<h2 class="page-section__title" id="etiology">
+        Этиология и патогенез    </h2>
+<div class="container">
+<div class="row page-section__row">
+<div style="text-align: justify; ">
+<br/>
+<strong>Различают 2 варианта:</strong><br/>
+<br/>
+	1. Разделенный продольно перегородкой на две камеры с одним общим пузырным протоком желчный пузырь (вариант <aterm term="1">дивертикула<span class="term-description" style="display: none;"><span>Дивертикул -  выпячивание стенки полого органа (кишки, пищевода, мочеточника и др.), сообщающееся с его полостью.</span><br/></span></aterm>).<br/>
+<br/>
+	2. Собственно двойной пузырь - два полностью сформированных органа (истиное удвоение). Пузыри могут быть различаться по форме и размеру, при этом  меньший по размеру считается добавочным.<br/>
+	Внутрипузырные перегородки состоят из фиброзно-мышечной ткани; они препятствуют оттоку желчи из пузыря и его опорожнению. Внутрипузырные перегородки могут быть: продольными, множественными, а также могут быть представлены в виде циркуляторных мембран. </div>
+</div>
+</div>
+</section>
+<section class="page-section" data-section-name="EPIDEMIOLOGY">
+<h2 class="page-section__title" id="epidemiology">
+        Эпидемиология    </h2>
+<div class="container">
+<div class="row page-section__row">
+<br/>
+Встречается с частотой 1:3000-1:4000. 
+                    </div>
+</div>
+</section>
+<section class="page-section" data-section-name="FACTORSANDRISKGROUPS">
+<h2 class="page-section__title" id="factorsandriskgroups">
+        Факторы и группы риска    </h2>
+<div class="container">
+<div class="row page-section__row">
+<br/>
+Наличие иных пороков развития пищеварительного тракта.
+                    </div>
+</div>
+</section>
+<section class="page-section" data-index="4">
+<h2 class="page-section__title" id="clinical">
+        Клиническая картина    </h2>
+<div class="container">
+<section class="row page-field" data-field-name="ANTIPRAXIA">
+<h3 class="page-field__title text-left" id="antipraxia">
+                    Cимптомы, течение                </h3>
+<div class="page-field__data">
+<div style="text-align: justify; ">
+<br/>
+	Как правило, клиника отсутствует.<br/>
+	Вследствие неравномерного давления в обоих желчных пузырях по типу <aterm term="1">дискинезии<span class="term-description" style="display: none;"><span>Дискинезия - общее название расстройств координированных двигательных актов (в т.ч. внутренних органов), заключающихся в нарушении временной и пространственной координации движений и неадекватной интенсивности отдельных их компонентов.</span><br/></span></aterm> возможно возникновение боли в правом подреберье. Один из пузырей может быть гипопластичным, что способствует застою в нем желчи.</div>
+</div>
+</section>
+</div>
+</section>
+<section class="page-section" data-section-name="DIAGNOSTICS">
+<h2 class="page-section__title" id="diagnostics">
+        Диагностика    </h2>
+<div class="container">
+<div class="row page-section__row">
+<div style="text-align: justify; ">
+<br/>
+	Диагностируется случайно при инструментальных исследованиях или оперативном вмешательстве.<br/>
+<br/>
+	С помощью <strong>УЗИ </strong>и  <strong>динамической гепатобилисцинтиграфии</strong> с использованием радиофармпрепаратов на основе 99mТе возможно обнаружить наличие двух желчных пузырей с самостоятельными пузырными протоками или удвоение желчного пузыря за счет продольной перегородки в его просвете.<br/>
+<br/>
+<strong>Холеграфия </strong>позволяет<strong> </strong>обнаружить тень двух желчных пузырей с самостоятельными пузырными протоками, которые сливаются вместе. Разделенный желчный пузырь контрастируется в виде двух соединяющихся теней. <br/>
+	Описаны случаи внутриутробной УЗИ диагностики у плода, начиная с 24-ой недели. С целью исключения сосудистого генеза образования (пупочная вена) рекомендуется проводить цветовое допплеровское картирование, при котором оценивается наличие потока крови через него. </div>
+</div>
+</div>
+</section>
+<section class="page-section" data-section-name="DIFFERENTIALDIAGNOSIS">
+<h2 class="page-section__title" id="differentialdiagnosis">
+        Дифференциальный диагноз    </h2>
+<div class="container">
+<div class="row page-section__row">
+<br/>
+Другие деформации желчного пузыря. 
+                    </div>
+</div>
+</section>
+<section class="page-section" data-section-name="SEQUELAE">
+<h2 class="page-section__title" id="sequelae">
+        Осложнения    </h2>
+<div class="container">
+<div class="row page-section__row">
+<br/>
+Желчекаменная болезнь, холецистит, дискинезия желчевыводящих путей.
+                    </div>
+</div>
+</section>
+<section class="page-section" data-section-name="THERAPY">
+<h2 class="page-section__title" id="therapy">
+        Лечение    </h2>
+<div class="container">
+<div class="row page-section__row">
+<br/>
+Лечение, как правило, хирургическое. Обусловлено степенью нарушения пассажа желчи; степенью воспалительных изменений желчного пузыря; наличием в нем <aterm term="1">конкрементов<span class="term-description" style="display: none;"><span>Конкременты -  камни, плотные образования, встречающиеся в полостных органах и выводных протоках желез человека. </span><br/></span></aterm>. 
+                            
+
+
+
+
+
+                       </div>
+</div>
+</section>
+<section class="page-section" data-section-name="PROGNOSIS">
+<h2 class="page-section__title" id="prognosis">
+        Прогноз    </h2>
+<div class="container">
+<div class="row page-section__row">
+<br/>
+При изолированном, неосложненном пороке прогноз благоприятный.
+                    </div>
+</div>
+</section>
+<section class="page-section" data-section-name="HOSPITALIZATION">
+<h2 class="page-section__title" id="hospitalization">
+        Госпитализация    </h2>
+<div class="container">
+<div class="row page-section__row">
+<br/>
+Только в случае развития осложнений.
+                    </div>
+</div>
+</section>
+<section class="page-section" data-index="11">
+<h2 class="page-section__title" id="information">
+        Информация    </h2>
+<div class="container">
+<section class="row page-field" data-field-name="LISTOFREFERENCES">
+<h3 class="page-field__title text-left" id="listofreferences">
+                    Источники и литература                </h3>
+<div class="page-field__data">
+<ol id="AdditionalListSources" type="I">
+<li level="1">
+<span>Детская гастроэнтерология: руководство для врачей /под ред. проф. Шабалова Н.П., 2011</span>
+<ol type="1">
+<li level="2">стр.350</li>
+</ol>
+</li>
+<li level="1">
+<span>Исаков Ю.Ф., Степанов Э.А., Красовская Т.В. Абдоминальная хирургия у детей, руководство, Медицина, 1988</span>
+<ol type="1">
+</ol>
+</li>
+<li level="1">
+<span>МакНелли Питер Р. Секреты гастроэнтерологии/ перевод с англ. под редакцией проф. Апросиной З.Г., Бином, 2005</span>
+<ol type="1">
+</ol>
+</li>
+<li level="1">
+<span>Шерлок Ш., Дули Дж. Заболевания печени и желчных путей, М.:Гэотар, 1999
+
+</span>
+<ol type="1">
+</ol>
+</li>
+</ol> </div>
+</section>
+</div>
+</section>
+<section class="page-section" data-section-name="ATTENTION">
+<h2 class="page-section__title" id="attention">
+        Внимание!    </h2>
+<div class="container">
+<div class="row page-section__row">
+<!--noindex-->
+<label class="attention-self-treatment-list__caption">Если вы не являетесь медицинским специалистом:</label>
+<ul class="attention-self-treatment-list">
+<li>
+        Занимаясь самолечением, вы можете нанести непоправимый вред своему здоровью.
+         
+    </li>
+<li>
+        Информация, размещенная на сайте MedElement, не может и не должна заменять очную консультацию врача.
+        Обязательно
+        обращайтесь в медицинские учреждения при наличии каких-либо заболеваний или беспокоящих вас симптомов.
+         
+    </li>
+<li>
+        Выбор лекарственных средств и их дозировки, должен быть оговорен со специалистом. Только врач может
+        назначить
+        нужное лекарство и его дозировку с учетом заболевания и состояния организма больного.
+         
+    </li>
+<li>
+        Сайт MedElement является исключительно информационно-справочным ресурсом. Информация, размещенная на данном
+        сайте, не должна использоваться для самовольного изменения предписаний врача.
+         
+    </li>
+<li>
+        Редакция MedElement не несет ответственности за какой-либо ущерб здоровью или материальный ущерб, возникший
+        в
+        результате использования данного сайта.
+    </li>
+</ul>
+<!--/noindex-->
+</div>
+</div>
+</section>
+</main>

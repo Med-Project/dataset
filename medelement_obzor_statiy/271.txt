@@ -1,0 +1,338 @@
+<main id="main">
+<section class="page-information disease-information">
+<div class="container">
+<h1 class="page-information__name disease-information__name">
+            Стриктура в виде песочных часов и стеноз желудка (K31.2)        </h1>
+<div class="disease-information__alternate-name">
+<label>Также: </label>
+                Двухполостной желудок, hourglass contraction of stomach            </div>
+<div class="disease-information__version-name">
+<p class="lead text-muted">
+                
+                Версия: Справочник заболеваний MedElement                </p>
+</div>
+<div class="disease-information__categories-mkb">
+<label>Категории МКБ: </label>
+                Стриктура в виде песочных часов и стеноз желудка (K31.2)            </div>
+<div class="disease-information__sections-medicine">
+<label>Разделы медицины: </label>
+                Гастроэнтерология            </div>
+</div>
+</section>
+<section class="page-section" data-index="0">
+<h2 class="page-section__title" id="general_information">
+        Общая информация    </h2>
+<div class="container">
+<div class="page-links-actions">
+<ul>
+<li class="page-links-actions__item page-links-actions__item--print" data-ga-event-action="Клик по ссылке: Версия для печати" data-ga-event-category="Links actions" data-ga-event-label="" data-send-ga-event="">
+<a href="javascript:window.print()">Версия для печати
+                    <svg class="svg-icon svg-icon-printer" height="18" version="1.1" viewbox="0 0 24 24" width="18" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<path d="M18,3H6V7H18M19,12A1,1 0 0,1 18,11A1,1 0 0,1 19,10A1,1 0 0,1 20,11A1,1 0 0,1 19,12M16,19H8V14H16M19,8H5A3,3 0 0,0 2,11V17H6V21H18V17H22V11A3,3 0 0,0 19,8Z"></path>
+</svg>
+</a>
+</li>
+</ul>
+</div>
+<section class="row page-field" data-field-name="SHORTDESCRIPTION">
+<h3 class="page-field__title text-left" id="shortdescription">
+                    Краткое описание                </h3>
+<div class="page-field__data">
+<div style="text-align: justify;">
+<br/>
+<strong>Стриктура желудка в виде песочных часов</strong> - желудок, имеющий сужение посередине. Обычно такое сужение вызвано сокращением ткани в результате рубца, оставшегося после язвы.<br/>
+<br/>
+<img alt="Стриктура желудка в форме песочных часов" height-fact="768" id="preview_image" src="https://diseases.medelement.com/upload/24b5d4b99c808d3ef124bcd2db593578.jpg" style="width: 350px; height: 263px; border-width: 0px; border-style: solid; margin-left: 0px; margin-top: 0px; float: none;" title="Стриктура желудка в форме песочных часов" width-fact="1024"/><br/>
+<br/>
+<strong>Примечание.</strong> Из данной подрубрики исключены: <br/>
+	- Желудок в виде песочных часов врожденный (Q40.2);<br/>
+	- Сужение желудка в виде песочных часов (K31.8).</div>
+</div>
+</section>
+</div>
+</section>
+<section class="page-section" data-section-name="ETIOLOGY">
+<h2 class="page-section__title" id="etiology">
+        Этиология и патогенез    </h2>
+<div class="container">
+<div class="row page-section__row">
+<div style="text-align: justify;">
+<br/>
+	Стриктура желудка в виде песочных часов является осложнением язвенной болезни желудка. Рубцевание язвы, локализующейся на середине малой (иногда - большой) кривизны (медиогастральная язва), может привести к рубцовому <aterm term="1">стенозу<span class="term-description" style="display: none;"><span>Стеноз - сужение трубчатого органа или его наружного отверстия.</span><br/></span></aterm> - перехвату на протяжении канала тела желудка. При этом формируется двуполостной желудок, имеющий вид песочных часов. Верхний мешок более объемный, поскольку <aterm term="1">фундальный<span class="term-description" style="display: none;"><span>Фундальный - относящийся к дну какого-либо органа (чаще желудка).</span><br/></span></aterm> отдел желудка и его свод в норме склонны нести резервуарную функцию. <br/>
+	В выраженной форме двуполостной желудок имеет вид большого кардиального мешка, который посредством узкого канала сообщается с малым пилорическим мешком. <br/>
+	К образованию желудка в виде песочных часов может привести <aterm term="1">перивисцерит<span class="term-description" style="display: none;"><span>Перивисцерит - воспаление ткани, окружающей внутренний орган.</span><br/></span></aterm>, то есть переход воспаления с серозной оболочки желудка при язвенной болезни на соседние органы с возникновением спаек.<br/>
+<br/>
+	Некоторые авторы в качестве разновидности желудка в виде песочных часов описывают так называемый "каскадный желудок". При этой форме желудка рубцовое стяжение исходит из задней стенки желудка, вследствие чего возникает перегиб нисходящей части желудка кзади. При наполнении такого желудка вначале заполняется кардиальная часть и только при определенном уровне ее заполнения контрастная смесь переливается широким потоком, как бы каскадом, в нижнюю часть желудка. <br/>
+	 </div>
+</div>
+</div>
+</section>
+<section class="page-section" data-section-name="EPIDEMIOLOGY">
+<h2 class="page-section__title" id="epidemiology">
+        Эпидемиология    </h2>
+<div class="container">
+<div class="row page-section__row">
+<p>Пол: Все</p>
+<p>
+        Возраст: преимущественно зрелый и пожилой</p>
+<p>Признак распространенности: Крайне редко</p>
+<p>Соотношение полов(м/ж): 0.5</p>
+<br/>
+<div style="text-align: justify;">
+	Стриктура желудка в виде песочных часов - встречается редко (по некоторым данным, преимущественно у женщин).</div>
+<div style="text-align: justify;">
+	По некоторым данным, до 3% всех пациентов, обследованных радиологически, имели деформацию желудка в виде песочных часов до начала применения эрадикационных схем терапии. С развитием противоязвенной терапии случаи выявления становятся единичными.</div>
+</div>
+</div>
+</section>
+<section class="page-section" data-section-name="FACTORSANDRISKGROUPS">
+<h2 class="page-section__title" id="factorsandriskgroups">
+        Факторы и группы риска    </h2>
+<div class="container">
+<div class="row page-section__row">
+<br/>
+- пожилые пациенты;<br/>
+- хроническое, рецидивирующее течение язвенной болезни желудка;<br/>
+- большие и/или множественные язвы в области тела желудка.
+                    </div>
+</div>
+</section>
+<section class="page-section" data-index="4">
+<h2 class="page-section__title" id="clinical">
+        Клиническая картина    </h2>
+<div class="container">
+<section class="row page-field" data-field-name="THESIS">
+<h3 class="page-field__title text-left" id="thesis">
+                    Клинические критерии диагностики                </h3>
+<div class="page-field__data">
+                    
+                    диспепсия, отрыжка, рвота, регургитация, боли в эпигастрии, связанные с приемом пищи.                </div>
+</section>
+<section class="row page-field" data-field-name="ANTIPRAXIA">
+<h3 class="page-field__title text-left" id="antipraxia">
+                    Cимптомы, течение                </h3>
+<div class="page-field__data">
+<div>
+<br/>
+	При стриктуре желудка в виде песочных часов симптоматика напоминает таковую при гипертрофическом пилоростенозе (см. <a href="https://diseases.medelement.com/index.php/disease/view/NDYyMA%253D%253D/fDd8MTl8" target="_blank">Гипертрофический пилоростеноз у взрослых</a> - K31.1), но с более выраженным "язвенным" компонентом.</div><div>
+<br/><strong>Характерные проявления:</strong><br/>
+	- чувство переполнения желудка;<br/>
+	- боли в <aterm term="1">эпигастрии</aterm>, связанные с приемом пищи;<br/>
+	- <aterm term="1">диспепсия</aterm>;<br/>
+	- рвота;<br/>
+	- отрыжка;<br/>
+	- <aterm term="1">регургитация</aterm>. <br/>
+	Наряду с перечисленными проявлениями отмечаются истощение, обезвоживание и признаки потери электролитов.<br/><br/>
+	Симптоматика варьирует в зависимости от степени (выраженности) рубцового сужения, остроты язвенного процесса, нарушений моторики желудка, развивающихся процессов брожения и гниения в желудке. <br/><br/>
+	В некоторых случаях на поверхности живота в проекции желудка наблюдается и/или одновременно пальпируется отчетливое округлое образование, возникающее после приема пищи.<br/>
+	Аускультативно определяется шум плеска.<br/>
+	При перкуссии<span> над различными участками желудка отмечается </span>качественно различный звук; данное проявление имеет <span>постоянный характер. </span></div>
+</div>
+</section>
+</div>
+</section>
+<section class="page-section" data-section-name="DIAGNOSTICS">
+<h2 class="page-section__title" id="diagnostics">
+        Диагностика    </h2>
+<div class="container">
+<div class="row page-section__row">
+<div style="text-align: justify;">
+<br/>
+	1.<strong> Рентгенологическое исследование</strong> с контрастированием: картина желудка в виде песочных часов сочетается с отчетливо видимой язвенной нишей. Контуры желудка принимают очертания буквы В. Признаки язвы <span style="font-family: Arial, Helvetica, sans-serif;">лучше выявляются при исследовании больных в вертикальном положении в косых и боковой проекциях.<br/>
+	В</span> области рубцового поражения желудок имеет неровные, волнистые контуры. Продольные складки, как правило, не прослеживаются. В отличие от раковой деформации, отсутствуют признаки обрыва складок, а глубина рубцового втяжения превышает его протяженность по контуру желудка. <br/>
+	Опорожнение замедляется.<br/>
+	 </div>
+<div style="text-align: justify;">
+	2.<strong> <aterm term="1">ФГДС<span class="term-description" style="display: none;"><span>ФГДС - фиброгастродуоденоскопия (инструментальное исследование пищевода, желудка и двенадцатиперстной кишки с помощью волокнооптического эндоскопа)</span><br/></span></aterm> -  </strong>определяются язвенно-рубцовые поражения наряду с деформацией тела желудка, при отсутствии признаков <aterm term="1">пилоростеноза<span class="term-description" style="display: none;"><span>Пилоростеноз - сужение привратника желудка, затрудняющее его опорожнение</span><br/></span></aterm>.<br/>
+<br/>
+	3. <strong>УЗИ - </strong>позволяет визуализировать форму желудка, остаточную жидкость, оценить перистальтику, однако не способно визуализировать язвенные дефекты.</div>
+</div>
+</div>
+</section>
+<section class="page-section" data-section-name="LABORATORYDIAGNOSTICS">
+<h2 class="page-section__title" id="laboratorydiagnostics">
+        Лабораторная диагностика    </h2>
+<div class="container">
+<div class="row page-section__row">
+<div style="text-align: justify;">
+<br/>
+	Специальных тестов, свидетельствующих о наличии или отсутствии стриктуры желудка в виде песочных часов, не существует.</div>
+<div style="text-align: justify;">
+<br/>
+	Лабораторная диагностика может проводиться для:<br/>
+	- выявления этиологии процесса (язвенная болезнь желудка);<br/>
+	- проведения дифференциальной диагностики (серологические исследования на сифилис, онкомаркеры, биопсия слизистой);<br/>
+	- определения наличия и выраженности изменений <aterm term="1">гомеостаза<span class="term-description" style="display: none;"><span>Гомеостаз - относительное динамическое постоянство внутренней среды (крови, лимфы, тканевой жидкости) и устойчивость основных физиологических функций (кровообращения, дыхания, терморегуляции, обмена веществ и т.д.) организма.</span><br/></span></aterm> (анемия, дегидратация, гипокалиемия, гипохлоремия, <aterm term="1">алкалоз<span class="term-description" style="display: none;"><span>Алкалоз - форма нарушения кислотно-щелочного равновесия в организме, характеризующаяся сдвигом соотношения между анионами кислот и катионами оснований крови в сторону увеличения катионов</span><br/></span></aterm>, гипопротеинемия). </div>
+</div>
+</div>
+</section>
+<section class="page-section" data-section-name="DIFFERENTIALDIAGNOSIS">
+<h2 class="page-section__title" id="differentialdiagnosis">
+        Дифференциальный диагноз    </h2>
+<div class="container">
+<div class="row page-section__row">
+<div>
+<br/>
+	Осуществляется дифференциальная диагностика стриктуры желудка в виде песочных часов со <strong>следующими заболеваниями и состояниями:</strong><br/><br/>
+	- сифилитическая деформация желудка;<br/>
+	- опухоль желудка;<br/>
+	- заворот (перекрут) желудка;<br/>
+	- врожденная деформация желудка;<br/>
+	- перистальтика желудка в виде песочных часов;<br/>
+	- состояние после операции бандажирования желудка;<br/>
+	- пострезекционные изменения желудка;<br/>
+	- пилоростеноз;<br/>
+	- сегментарная гипертоническая перетяжка;<br/>
+	- гипотонически удлиненный желудок;<br/>
+	- каскадный желудок;<br/>
+	- фиксированная кардиофундальная грыжа пищеводного отверстия диафрагмы;<br/>
+	- перивисцерит с образованием спаек.<br/>
+	 </div>
+</div>
+</div>
+</section>
+<section class="page-section" data-section-name="SEQUELAE">
+<h2 class="page-section__title" id="sequelae">
+        Осложнения    </h2>
+<div class="container">
+<div class="row page-section__row">
+<br/>
+- <aterm term="1">перфорация<span class="term-description" style="display: none;"><span>Перфорация - возникновение сквозного дефекта в стенке полого органа.</span><br/></span></aterm>;<br/>
+- <aterm term="1">пенетрация<span class="term-description" style="display: none;"><span>Пенетрация - осложнение язвенной болезни в виде распространения инфильтративно-деструктивного процесса (проникновение с разрушением) из желудка или двенадцатиперстной кишки в толщу соседнего органа - печени, поджелудочной железы, сальника</span><br/></span></aterm>;<br/>
+- <aterm term="1">малигнизация<span class="term-description" style="display: none;"><span>Малигнизация - приобретение клетками нормальной или патологически измененной ткани (например, доброкачественной опухоли) свойств клеток злокачественной опухоли.</span><br/></span></aterm>;<br/>
+- кровотечение;<br/>
+- <aterm term="1">гипотрофия<span class="term-description" style="display: none;"><span>Гипотрофия -  расстройство питания, характеризующееся различной степенью дефицита массы тела</span><br/></span></aterm>;<br/>
+- анемия;<br/>
+- дегидратация;<br/>
+- нарушение водно-электролитного состава и кислотно-щелочного состояния.<br/>
+<br/>
+</div>
+</div>
+</section>
+<section class="page-section" data-section-name="THERAPY">
+<h2 class="page-section__title" id="therapy">
+        Лечение    </h2>
+<div class="container">
+<div class="row page-section__row">
+<div>
+<br/>
+	Лечение при стриктуре желудка в виде песочных часов, если снято подозрение о раке желудка, в ряде случаев может оставаться консервативным.<br/>
+	Направления терапии:<br/>
+	- лечение язвенной болезни (эрадикация возбудителя, ингибирование секреции, применение гастропротекторов);<br/>
+	- устранение спазма и отека;<br/>
+	- улучшение моторики;<br/>
+	- коррекция <aterm term="1">ОЦК</aterm>, устранение элекртолитного дисбаланса, коррекция <aterm term="1">КЩС</aterm>;<br/>
+	- коррекция дефицита питания (зондовое питание, дополнительное парентеральное питание);<br/>
+	- коррекция анемии.<br/>
+	 <br/>
+	При наличии грубого рубцевания и ухудшении состояние больного, показано <strong>оперативное лечение. </strong><br/><br/>
+	Варианты операций:<br/>
+	- наложение гастро-гастроанастомоза;<br/>
+	- во избежание возможности развития рака в язвенных рубцах - субтотальная <aterm term="1">резекция</aterm> желудка с анастомозом верхнего желудочного мешка (в пределах неизмененной его стенки) с тощей кишкой и закрытием наглухо дуоденальной культи по Billroth II.</div>
+</div>
+</div>
+</section>
+<section class="page-section" data-section-name="PROGNOSIS">
+<h2 class="page-section__title" id="prognosis">
+        Прогноз    </h2>
+<div class="container">
+<div class="row page-section__row">
+<div style="text-align: justify;">
+<br/>
+	Прогноз при стриктуре желудка в виде песочных часов зависит от множества факторов, включая возраст пациента, наличие осложняющих оперативное лечение хронических заболеваний, степень нарушения питания и гомеостаза, патанатомические характеристики процесса и прочие.   </div>
+</div>
+</div>
+</section>
+<section class="page-section" data-section-name="HOSPITALIZATION">
+<h2 class="page-section__title" id="hospitalization">
+        Госпитализация    </h2>
+<div class="container">
+<div class="row page-section__row">
+<br/>
+В плановом порядке в отделение хирургии.
+                    </div>
+</div>
+</section>
+<section class="page-section" data-section-name="PROPHYLAXIS">
+<h2 class="page-section__title" id="prophylaxis">
+        Профилактика    </h2>
+<div class="container">
+<div class="row page-section__row">
+<br/>
+Адекватная терапия язвенной болезни желудка.
+                    </div>
+</div>
+</section>
+<section class="page-section" data-index="13">
+<h2 class="page-section__title" id="information">
+        Информация    </h2>
+<div class="container">
+<section class="row page-field" data-field-name="LISTOFREFERENCES">
+<h3 class="page-field__title text-left" id="listofreferences">
+                    Источники и литература                </h3>
+<div class="page-field__data">
+<ol id="AdditionalListSources" type="I">
+<li level="1">
+<span>http://anatomeda.ru</span>
+<ol type="1">
+</ol>
+</li>
+<li level="1">
+<span>http://medical-dictionary.thefreedictionary.com</span>
+<ol type="1">
+</ol>
+</li>
+<li level="1">
+<span>http://meduniver.com</span>
+<ol type="1">
+</ol>
+</li>
+<li level="1">
+<span>http://www.medical-enc.ru</span>
+<ol type="1">
+</ol>
+</li>
+</ol> </div>
+</section>
+</div>
+</section>
+<section class="page-section" data-section-name="ATTENTION">
+<h2 class="page-section__title" id="attention">
+        Внимание!    </h2>
+<div class="container">
+<div class="row page-section__row">
+<!--noindex-->
+<label class="attention-self-treatment-list__caption">Если вы не являетесь медицинским специалистом:</label>
+<ul class="attention-self-treatment-list">
+<li>
+        Занимаясь самолечением, вы можете нанести непоправимый вред своему здоровью.
+         
+    </li>
+<li>
+        Информация, размещенная на сайте MedElement, не может и не должна заменять очную консультацию врача.
+        Обязательно
+        обращайтесь в медицинские учреждения при наличии каких-либо заболеваний или беспокоящих вас симптомов.
+         
+    </li>
+<li>
+        Выбор лекарственных средств и их дозировки, должен быть оговорен со специалистом. Только врач может
+        назначить
+        нужное лекарство и его дозировку с учетом заболевания и состояния организма больного.
+         
+    </li>
+<li>
+        Сайт MedElement является исключительно информационно-справочным ресурсом. Информация, размещенная на данном
+        сайте, не должна использоваться для самовольного изменения предписаний врача.
+         
+    </li>
+<li>
+        Редакция MedElement не несет ответственности за какой-либо ущерб здоровью или материальный ущерб, возникший
+        в
+        результате использования данного сайта.
+    </li>
+</ul>
+<!--/noindex-->
+</div>
+</div>
+</section>
+</main>

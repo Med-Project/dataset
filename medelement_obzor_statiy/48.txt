@@ -1,0 +1,343 @@
+<main id="main">
+<section class="page-information disease-information">
+<div class="container">
+<h1 class="page-information__name disease-information__name">
+            Вторичный билиарный цирроз (K74.4)        </h1>
+<div class="disease-information__version-name">
+<p class="lead text-muted">
+                
+                Версия: Справочник заболеваний MedElement                </p>
+</div>
+<div class="disease-information__categories-mkb">
+<label>Категории МКБ: </label>
+                Вторичный билиарный цирроз (K74.4)            </div>
+<div class="disease-information__sections-medicine">
+<label>Разделы медицины: </label>
+                Гастроэнтерология            </div>
+</div>
+</section>
+<section class="page-section" data-index="0">
+<h2 class="page-section__title" id="general_information">
+        Общая информация    </h2>
+<div class="container">
+<div class="page-links-actions">
+<ul>
+<li class="page-links-actions__item page-links-actions__item--print" data-ga-event-action="Клик по ссылке: Версия для печати" data-ga-event-category="Links actions" data-ga-event-label="" data-send-ga-event="">
+<a href="javascript:window.print()">Версия для печати
+                    <svg class="svg-icon svg-icon-printer" height="18" version="1.1" viewbox="0 0 24 24" width="18" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<path d="M18,3H6V7H18M19,12A1,1 0 0,1 18,11A1,1 0 0,1 19,10A1,1 0 0,1 20,11A1,1 0 0,1 19,12M16,19H8V14H16M19,8H5A3,3 0 0,0 2,11V17H6V21H18V17H22V11A3,3 0 0,0 19,8Z"></path>
+</svg>
+</a>
+</li>
+</ul>
+</div>
+<section class="row page-field" data-field-name="SHORTDESCRIPTION">
+<h3 class="page-field__title text-left" id="shortdescription">
+                    Краткое описание                </h3>
+<div class="page-field__data">
+<div style="text-align: justify; ">
+<br/>
+<strong>Вторичный билиарный цирроз печени</strong> (ВБЦ) - цирроз печени, сформировавшийся вследствие длительной частичной или полной <aterm term="1">обструкции<span class="term-description" style="display: none;"><span>Обструкция - непроходимость, закупорка </span><br/></span></aterm> общего желчного протока или основных его ветвей.<br/>
+<div>
+<br/>
+<br/>
+<strong>Примечание</strong></div>
+<div>
+		Из данной подрубрики исключены:</div>
+<div>
+		- алкогольный фиброз печени (<a href="https://diseases.medelement.com/disease/view/NDc4Ng%253D%253D/fDF8Mnw%253D" target="_blank">K70.2</a>);</div>
+<div>
+		- сердечный склероз печени (<a href="https://diseases.medelement.com/disease/view/NDgyOA%253D%253D/fDF8Mnw%253D" target="_blank">K76.1</a>);</div>
+<div>
+		- цирроз печени:</div>
+<div>
+		    - алкогольный (<a href="https://diseases.medelement.com/disease/view/NDc4Nw%253D%253D/fDF8Mnw%253D" target="_blank">K70.3</a>);</div>
+<div>
+		    - врожденный (P78.8);</div>
+<div>
+		    - с токсическим заболеванием печени (K71.7).</div>
+</div>
+<br/>
+</div>
+</section>
+</div>
+</section>
+<section class="page-section" data-section-name="CLASSIFICATION">
+<h2 class="page-section__title" id="classification">
+        Классификация    </h2>
+<div class="container">
+<div class="row page-section__row">
+<br/>
+Соответствует общепринятым классификациям цирроза. См. "<a href="https://diseases.medelement.com/disease/view/MTIyOTU%253D/fDN8" target="_blank">Другой и неуточненный цирроз печени</a>" (K74.6).
+                    </div>
+</div>
+</section>
+<section class="page-section" data-section-name="ETIOLOGY">
+<h2 class="page-section__title" id="etiology">
+        Этиология и патогенез    </h2>
+<div class="container">
+<div class="row page-section__row">
+<div style="text-align: justify; ">
+<br/>
+<strong>Вторичный билиарный цирроз печени</strong> - результат длительного внепеченочного <aterm term="1">холестаза<span class="term-description" style="display: none;"><span>Холестаз - нарушение продвижения желчи в виде застоя в желчных протоках и (или) проточках.</span><br/></span></aterm>, чаще обусловленного желчнокаменной болезнью или формированием <aterm term="1">стриктур<span class="term-description" style="display: none;"><span>Стриктура -  резкое сужение просвета какого-либо трубчатого органа вследствие патологических изменений его стенок</span><br/></span></aterm> (обычно послеоперационных, иногда возникают при панкреатите).<br/>
+	Скорость развития вторичного билиарного цирроза печени зависит от выраженности обструкции. Обычно он формируется в течение года. Врожденные дефекты внепеченочных желчных путей (<aterm term="1">атрезия<span class="term-description" style="display: none;"><span>Атрезия — врождённое отсутствие или приобретенное заращение естественных отверстий и каналов в организме</span><br/></span></aterm>, <aterm term="1">гипоплазия<span class="term-description" style="display: none;"><span>Гипоплазия -   остановка развития органа, его части или организма в целом в результате прекращения увеличения числа клеток.</span><br/></span></aterm>, <aterm term="1">муковисцидоз<span class="term-description" style="display: none;"><span>Муковисцидоз -   наследственная болезнь, характеризующаяся кистозным перерождением поджелудочной железы, желез кишечника и дыхательных путей из-за закупорки их выводных протоков вязким секретом.</span><br/></span></aterm>) - наиболее частые причины вторичного билиарного цирроза печени у детей младшего возраста. Среди редких причин вторичного билиарного цирроза печени можно отметить кисту общего желчного протока.</div>
+<div style="text-align: justify; ">
+	В случае рака поджелудочной железы или рака желчных протоков, больные обычно не доживают до цирроза печени.<br/>
+	На фоне химического поражения гепатоцитов развиваются внутридольковый некроз и фиброз. Фиброзные тяжи и воспалительные инфильтраты распространяются внутри долек вдоль <aterm term="1">холангиол<span class="term-description" style="display: none;"><span>Холангиола - узкая межклеточная щель в печеночной балке, переходящая в желчный капилляр</span><br/></span></aterm> (желчных капилляров). <br/>
+<br/>
+<strong>Альтернативная точка зрения</strong><br/>
+	По мнению ряда авторов, вторичный билиарный цирроз является синоним первичного склерозирующего холангита. Однако в "Национальном руководстве по гастроэнтерологии РФ" первичный склерозирующий холангит классифицирован как К83.0 - холангит. По общему мнению ВБЦ является скорее осложнением (последним этапом развития ПСХ).<br/>
+	 </div>
+</div>
+</div>
+</section>
+<section class="page-section" data-section-name="EPIDEMIOLOGY">
+<h2 class="page-section__title" id="epidemiology">
+        Эпидемиология    </h2>
+<div class="container">
+<div class="row page-section__row">
+<p>Признак распространенности: Редко</p>
+<br/>
+            
+            
+            
+            Неизвестна.
+                    </div>
+</div>
+</section>
+<section class="page-section" data-section-name="FACTORSANDRISKGROUPS">
+<h2 class="page-section__title" id="factorsandriskgroups">
+        Факторы и группы риска    </h2>
+<div class="container">
+<div class="row page-section__row">
+<div style="text-align: justify; ">
+<br/>
+	В группе риска развития вторичного билиарного цирроза находятся больные, которые перенесли операции на желчных путях. Наиболее часто - <aterm term="1">холецистэктомию<span class="term-description" style="display: none;"><span>Холецистэктомия — хирургическая операция по удалению желчного пузыря</span><br/></span></aterm> по поводу желчнокаменной болезни с пигментными или смешанными камнями в пузыре, содержащими билирубинат кальция.</div>
+</div>
+</div>
+</section>
+<section class="page-section" data-index="5">
+<h2 class="page-section__title" id="clinical">
+        Клиническая картина    </h2>
+<div class="container">
+<section class="row page-field" data-field-name="THESIS">
+<h3 class="page-field__title text-left" id="thesis">
+                    Клинические критерии диагностики                </h3>
+<div class="page-field__data">
+                    
+                    желтуха; кожный зуд; дискомфорт в правом верхнем отделе живота; боль в верхних отделах живота; лихорадка; слабость                </div>
+</section>
+<section class="row page-field" data-field-name="ANTIPRAXIA">
+<h3 class="page-field__title text-left" id="antipraxia">
+                    Cимптомы, течение                </h3>
+<div class="page-field__data">
+<div style="text-align: justify;">
+<br/>
+	Клиническая картина определяется наличием характерного <aterm term="1">холестаза<span class="term-description" style="display: none;"><span>Холестаз - нарушение продвижения желчи в виде застоя в желчных протоках и (или) проточках.</span><br/></span></aterm>: доминируют желтуха и кожный зуд.<br/>
+<br/>
+	Развитие <aterm term="1">холангита<span class="term-description" style="display: none;"><span>Холангит - воспаление желчных протоков.</span><br/></span></aterm> проявляется болями в правом верхнем квадранте живота и лихорадкой.<br/>
+	Болевой синдром может быть обусловлен желчной коликой.<br/>
+	При прогрессировании развиваются признаки <aterm term="1">портальной гипертензии<span class="term-description" style="display: none;"><span>Портальная гипертензия -  венозная гипертензия (повышенное гидростатическое давление в венах) в системе воротной вены.</span><br/><a class="tooltip-term__more" href="https://diseases.medelement.com/disease/view/NDgzMw/fDB8" target="_blank" title="Подробнее о портальной гипертензии">Подробно</a></span></aterm> и печеночно-клеточной недостаточности.<br/>
+<br/>
+	Несмотря на разные этиологию и патогенез первичного и вторичного билиарного циррозов печени, их клиническая картина во многом похожа (см. "<a href="https://diseases.medelement.com/disease/view/NDgxNQ%253D%253D/fDd8MTl8">Первичный билиарный цирроз</a>" - K74.3 и  "<a href="https://diseases.medelement.com/disease/view/MTIyOTU%253D/fDd8MTl8" target="_blank">Другой и неуточненный цирроз печени</a>" - K74.6).</div>
+</div>
+</section>
+</div>
+</section>
+<section class="page-section" data-section-name="DIAGNOSTICS">
+<h2 class="page-section__title" id="diagnostics">
+        Диагностика    </h2>
+<div class="container">
+<div class="row page-section__row">
+<div style="text-align: justify; ">
+<br/>
+	Анамнестические указания на желчнокаменную болезнь, холангит, оперативные вмешательства на гепатобилиарной системе.<br/>
+<br/>
+<strong>Инструментальные методы: </strong><br/>
+	1. УЗИ - диагностическая точность составляет около 85% (наименьшую значимость ультразвуковые данные имеют на ранних стадиях заболевания).<br/>
+	2. ЭРХПГ - позволяет выявить причину обструкции желчных протоков. МРТ в этих случаях менее информативна.</div>
+<div style="text-align: justify; ">
+	3. Гистологическое исследование биоптата печени позволяет установить стадию цирроза.</div>
+</div>
+</div>
+</section>
+<section class="page-section" data-section-name="LABORATORYDIAGNOSTICS">
+<h2 class="page-section__title" id="laboratorydiagnostics">
+        Лабораторная диагностика    </h2>
+<div class="container">
+<div class="row page-section__row">
+<br/>
+<div>
+<div style="text-align: justify; ">
+		1. Повышение активности щелочной фосфатазы, ГГТП, уровня прямого билирубина (почти у всех больных) - главный лабораторный признак холестаза. </div>
+<div style="text-align: justify; ">
+<br/>
+		2. Умеренно повышенная активность аминотрансфераз (как правило в 1,5-5). Нарастание активности аминотрансфераз (более чем в 5 раз) и лейкоцитоз являются проявлениями холангита. <br/>
+<br/>
+		3. Изменения липидного спектра, в том числе возникновение аномального липопротеида X, типичны для первичного и вторичного билиарного циррозов печени. <br/>
+<br/>
+		4. Нарушение всасывания жиров характеризуется <aterm term="1">стеатореей<span class="term-description" style="display: none;"><span>Стеаторея - повышенное содержание в кале нейтрального жира, жирных кислот или мыл.</span><br/></span></aterm>, снижением концентрации каротина и витамина A в сыворотке.  Антител к митохондриям (АМА) обычно не бывает.<br/>
+<br/>
+		5. Снижение количества альбумина, повышение холестерина и удлинение протромбинового времени характеризует снижение синтетической функции печени. В тяжелых стадиях возможна <aterm term="1">тромбоцитопения<span class="term-description" style="display: none;"><span>Тромбоцитопения - пониженное содержание тромбоцитов в периферической крови</span><br/></span></aterm>.</div>
+</div>
+<br/>
+</div>
+</div>
+</section>
+<section class="page-section" data-section-name="DIFFERENTIALDIAGNOSIS">
+<h2 class="page-section__title" id="differentialdiagnosis">
+        Дифференциальный диагноз    </h2>
+<div class="container">
+<div class="row page-section__row">
+<div>
+<br/>
+	Дифференциальную диагностику проводят с <strong>циррозами печени другой этиологии</strong>, выявляя этиологические причины лабораторными тестами (инфекция, алкоголь, токсические вещества, первичный билиарный цирроз, аутоиммунный гепатит; нарушение обмена меди, железа; дефицит альфа-1-антирипсина и прочее). См. также "<a href="https://diseases.medelement.com/disease/view/MTIyOTU%253D/fDEwfA%253D%253D" target="_blank">Другой и неуточненный цирроз печени</a>" - K74.6.</div><div>
+<br/>
+	Дифференциальная диагностика с <strong>фиброзом печени и холангитами</strong> проводится в основном на основании биопсии.<br/><br/>
+	Дифференциальная диагностика с <strong>холестазом другой этиологии без цирроза</strong> проводится на основании комплекса инструментальных и лабораторных исследований.<br/><br/>
+	Следует также дифференцировать вторичный билиарный цирроз с<strong> портальным циррозом</strong> путем изучения биоптата и динамики нарастания маркеров холестаза и цитолиза (ЩФ/АЛТ).<br/><br/>
+	Эпизоды гемолиза требуют исключения<strong> гемолитических анемий</strong>.</div><div>
+<span> </span></div>
+</div>
+</div>
+</section>
+<section class="page-section" data-section-name="SEQUELAE">
+<h2 class="page-section__title" id="sequelae">
+        Осложнения    </h2>
+<div class="container">
+<div class="row page-section__row">
+<div style="text-align: justify;">
+<br/>
+	При далеко зашедшем циррозе печени могут развиваться серьезные осложнения, которые не зависят от этиологии повреждения печени.<br/>
+<br/>
+<strong>Возможные осложнения:</strong><br/>
+	- <aterm term="1">портальная гипертензия<span class="term-description" style="display: none;"><span>Портальная гипертензия -  венозная гипертензия (повышенное гидростатическое давление в венах) в системе воротной вены.</span><br/><a class="tooltip-term__more" href="https://diseases.medelement.com/disease/view/NDgzMw/fDB8" target="_blank" title="Подробнее о портальная гипертензия">Подробно</a></span></aterm> и ее последствия (варикозное расширение вен пищевода и желудка, <aterm term="1">асцит<span class="term-description" style="display: none;"><span>Асцит - скопление транссудата в брюшной полости</span><br/></span></aterm>, <aterm term="1">спленомегалия<span class="term-description" style="display: none;"><span>Спленомегалия - стойкое увеличение селезенки</span><br/></span></aterm>, спонтанный бактериальный перитонит, печеночная энцефалопатия, печеночно-почечный синдром);<br/>
+	- <aterm term="1">коагулопатия<span class="term-description" style="display: none;"><span>Коагулопатия - нарушение функции свертывающей системы крови</span><br/></span></aterm>;<br/>
+	- гепатоцеллюлярная карцинома.</div>
+<br/>
+</div>
+</div>
+</section>
+<section class="page-section" data-section-name="THERAPY">
+<h2 class="page-section__title" id="therapy">
+        Лечение    </h2>
+<div class="container">
+<div class="row page-section__row">
+<div>
+<br/>
+	1. Диета, изменение образа жизни.</div><div>
+<br/>
+	2. Восстановление пассажа желчи в результате эндоскопического или лапаротомического хирургического вмешательства. В некоторых случаях считается этиотропной терапией. <aterm term="1">Декомпрессия</aterm> желчных путей даже при сформированном циррозе увеличивает продолжительность жизни больных.</div><div>
+<br/>
+	3. Консервативная терапия может быть патогенетической (при некоторых формах вторичного билиарного цирроза у детей) и симптоматической. Направлена в основном на предупреждение и лечение бактериального холангита.<br/>
+	Симптоматическое лечение - см. "<a href="https://diseases.medelement.com/disease/view/NDgxNQ%253D%253D/fDEyfA%253D%253D" target="_blank">Первичный билиарный цирроз</a>" (K74.3). <br/>
+	В тяжелых случаях выраженного цирроза - см. "<a href="https://diseases.medelement.com/disease/view/MTIyOTU%253D/fDEyfA%253D%253D" target="_blank">Другой и неуточненный цирроз печени</a>" (K74.6) и "<a href="https://diseases.medelement.com/disease/view/NDgwMg%253D%253D/fDEyfA%253D%253D" target="_blank">Острая и подострая печеночная недостаточность</a>" (K72.0).<br/>
+	В случае холангита - см. "<a href="https://diseases.medelement.com/disease/view/NDg2Mw%253D%253D/fDEyfA%253D%253D" target="_blank">Холангит</a>" (K83.0).</div><div>
+	 </div>
+</div>
+</div>
+</section>
+<section class="page-section" data-section-name="PROGNOSIS">
+<h2 class="page-section__title" id="prognosis">
+        Прогноз    </h2>
+<div class="container">
+<div class="row page-section__row">
+<div style="text-align: justify; ">
+<br/>
+	Прогноз при сохранении обструкции желчных путей плохой: в среднем, продолжительность жизни больных составляет 4 года. Оперативное вмешательство, устраняющее холестаз, способно улучшить прогноз.</div>
+</div>
+</div>
+</section>
+<section class="page-section" data-section-name="HOSPITALIZATION">
+<h2 class="page-section__title" id="hospitalization">
+        Госпитализация    </h2>
+<div class="container">
+<div class="row page-section__row">
+<br/>
+Необходима для диагностических процедур и оперативного лечения.
+                    </div>
+</div>
+</section>
+<section class="page-section" data-section-name="PROPHYLAXIS">
+<h2 class="page-section__title" id="prophylaxis">
+        Профилактика    </h2>
+<div class="container">
+<div class="row page-section__row">
+<br/>
+Ранее выявление и лечение синдрома <aterm term="1">холестаза<span class="term-description" style="display: none;"><span>Холестаз - нарушение продвижения желчи в виде застоя в желчных протоках и (или) проточках.</span><br/></span></aterm>.
+                    </div>
+</div>
+</section>
+<section class="page-section" data-index="14">
+<h2 class="page-section__title" id="information">
+        Информация    </h2>
+<div class="container">
+<section class="row page-field" data-field-name="LISTOFREFERENCES">
+<h3 class="page-field__title text-left" id="listofreferences">
+                    Источники и литература                </h3>
+<div class="page-field__data">
+<ol id="AdditionalListSources" type="I">
+<li level="1">
+<span>Ивашкин В.Т., Лапина Т.Л. Гастроэнтерология. Национальное руководство. Научно-практическое издание, 2008   </span>
+<ol type="1">
+</ol>
+</li>
+<li level="1">
+<span>http://medbiol.ru/medbiol/har3/000d4e36.htm</span>
+<ol type="1">
+</ol>
+</li>
+<li level="1">
+<span>http://old.smed.ru/guides/43940/doctor#article</span>
+<ol type="1">
+</ol>
+</li>
+<li level="1">
+<span>http://www.eurolab.ua/encyclopedia/Gastroenterology.patient/1840/</span>
+<ol type="1">
+</ol>
+</li>
+</ol> </div>
+</section>
+</div>
+</section>
+<section class="page-section" data-section-name="ATTENTION">
+<h2 class="page-section__title" id="attention">
+        Внимание!    </h2>
+<div class="container">
+<div class="row page-section__row">
+<!--noindex-->
+<label class="attention-self-treatment-list__caption">Если вы не являетесь медицинским специалистом:</label>
+<ul class="attention-self-treatment-list">
+<li>
+        Занимаясь самолечением, вы можете нанести непоправимый вред своему здоровью.
+         
+    </li>
+<li>
+        Информация, размещенная на сайте MedElement, не может и не должна заменять очную консультацию врача.
+        Обязательно
+        обращайтесь в медицинские учреждения при наличии каких-либо заболеваний или беспокоящих вас симптомов.
+         
+    </li>
+<li>
+        Выбор лекарственных средств и их дозировки, должен быть оговорен со специалистом. Только врач может
+        назначить
+        нужное лекарство и его дозировку с учетом заболевания и состояния организма больного.
+         
+    </li>
+<li>
+        Сайт MedElement является исключительно информационно-справочным ресурсом. Информация, размещенная на данном
+        сайте, не должна использоваться для самовольного изменения предписаний врача.
+         
+    </li>
+<li>
+        Редакция MedElement не несет ответственности за какой-либо ущерб здоровью или материальный ущерб, возникший
+        в
+        результате использования данного сайта.
+    </li>
+</ul>
+<!--/noindex-->
+</div>
+</div>
+</section>
+</main>
